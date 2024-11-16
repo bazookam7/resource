@@ -1,0 +1,11 @@
+[
+    {
+        "key_theme": "Debt Details",
+        "sub_themes": [
+            "Current Debt Outstanding",
+            "Remaning payment for settlement",
+            "Debt Reduction Timeline",
+            "Lender Challenges"
+        ]
+    }
+]

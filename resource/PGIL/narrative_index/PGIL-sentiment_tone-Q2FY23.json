@@ -1,0 +1,72 @@
+{
+    "Operational Efficiency and Financial Performance": {
+        "Cost Management Strategies": {
+            "sentiment": 0.875,
+            "tone": 1.0
+        },
+        "Revenue Growth and Profit Margins": {
+            "sentiment": 0.8,
+            "tone": 0.65
+        },
+        "Working Capital and Cash Flow Management": {
+            "sentiment": 1.5,
+            "tone": 0.5
+        }
+    },
+    "Market Expansion and Strategic Partnerships": {
+        "Geographic Diversification and New Markets": {
+            "sentiment": 1.0,
+            "tone": 1.0
+        },
+        "Customer Acquisition and Retention": {
+            "sentiment": 1.0,
+            "tone": 1.25
+        },
+        "International Market Strategies": {
+            "sentiment": 0,
+            "tone": 0
+        }
+    },
+    "Sustainability Initiatives and Innovation": {
+        "Eco-friendly Practices and Resource Optimization": {
+            "sentiment": 1.0,
+            "tone": 1.0
+        },
+        "Product Development and Technological Integration": {
+            "sentiment": 0,
+            "tone": 0
+        },
+        "Corporate Social Responsibility and Environmental Impact": {
+            "sentiment": 1.0,
+            "tone": 1.0
+        }
+    },
+    "Corporate Governance and Compliance": {
+        "Statutory Auditor and Governance Practices": {
+            "sentiment": 1.0,
+            "tone": 1.0
+        },
+        "Regulatory and Risk Management": {
+            "sentiment": 0,
+            "tone": 0
+        },
+        "Legal Disclaimers and Forward-Looking Statements": {
+            "sentiment": 0,
+            "tone": 0
+        }
+    },
+    "Geopolitical and Economic Challenges": {
+        "Global Market Dynamics and Trade Shifts": {
+            "sentiment": 0.125,
+            "tone": 0.25
+        },
+        "Inflation and Currency Impact": {
+            "sentiment": -0.42857142857142855,
+            "tone": -0.5714285714285714
+        },
+        "Government Initiatives and Policy Influence": {
+            "sentiment": 0,
+            "tone": 0
+        }
+    }
+}

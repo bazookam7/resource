@@ -1,0 +1,67 @@
+[
+    {
+        "key_theme": "Financial Performance",
+        "sub_themes": [
+            "Revenue Growth",
+            "Profit Margins",
+            "Cash Flow Stability",
+            "Customer Acquisition Cost"
+        ]
+    },
+    {
+        "key_theme": "Market Position",
+        "sub_themes": [
+            "Market Share",
+            "Brand Strength",
+            "Customer Base Expansion"
+        ]
+    },
+    {
+        "key_theme": "Technological Innovation",
+        "sub_themes": [
+            "R&D Investment",
+            "Product Development Cycle",
+            "Technology Adoption Rate"
+        ]
+    },
+    {
+        "key_theme": "Regulatory Environment",
+        "sub_themes": [
+            "Compliance Standards",
+            "Licensing Requirements",
+            "Data Privacy Measures"
+        ]
+    },
+    {
+        "key_theme": "Strategic Partnerships",
+        "sub_themes": [
+            "Alliance Formation",
+            "Supplier Relationships",
+            "Distribution Channels"
+        ]
+    },
+    {
+        "key_theme": "Customer Satisfaction",
+        "sub_themes": [
+            "Net Promoter Score",
+            "Retention Rate",
+            "Customer Feedback"
+        ]
+    },
+    {
+        "key_theme": "Operational Efficiency",
+        "sub_themes": [
+            "Cost Management",
+            "Process Optimization",
+            "Scalability Potential"
+        ]
+    },
+    {
+        "key_theme": "Competitive Landscape",
+        "sub_themes": [
+            "Competitor Analysis",
+            "Pricing Strategy",
+            "Market Entry Barriers"
+        ]
+    }
+]

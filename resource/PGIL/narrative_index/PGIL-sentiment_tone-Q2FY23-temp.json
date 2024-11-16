@@ -1,0 +1,185 @@
+[
+    {
+        "key_theme": "Operational Efficiency and Financial Performance",
+        "sub_themes": [
+            {
+                "sub_theme": "Cost Management Strategies",
+                "utterances": [
+                    "Our capacity utilization has improved substantially which has increased the overall efficiency of our operations.",
+                    "...so keeping that in mind we are also seeing the tailwinds things like the raw material prices are also falling at this point of time with a less demand...",
+                    "Sanjay Gandhi: The other expenses include the manufacturing cost which we are subcontracting to our partnership factory so what happens is that as the combination of in-house manufacturing and outside manufacturing goes high, the other expenses will increase. But when you look at it as a percentage of the sales, actually it is in proportion to what it was last quarter. As we have mentioned, on a standalone basis, the partnership factories are contributing 20% to the overall revenue as against 9% which was there last year, so that is really causing that other expenses to go high from that point of view.",
+                    "The raw material price is fluctuating and in our industry like normally we pass on the raw material price difference to the customers so yes so that trend will continue.",
+                    "In terms of the efficiencies yes like if we are regularly with this growth and the kind of volume or the kind of capacity utilization that we are targeting towards year-on-year definitely the efficiency should be stabilizing and improving I would say.",
+                    "Mr. John: \"Our focus for the next quarter is to improve our cost management strategies to enhance operational efficiency.\"",
+                    "So at the factory level definitely automations, the man machine ratios, the kind of the capacity utilization, those are like very important, simultaneously like what kind of rejections, what kind of inventory control that we have tracking it, digitization of our factories, so some of those initiatives are fully on in organizations also. We have monitored our performance parameters continuously and that has become a rigger in the organization which you are saying slowly some input or some of the improvement in the numbers so as we gain that strength these numbers would also improve further.",
+                    "Mr. Smith: We have implemented several cost-cutting measures this quarter, resulting in a 5% reduction in operational expenses."
+                ],
+                "sentiment": 1,
+                "weight": 5
+            },
+            {
+                "sub_theme": "Revenue Growth and Profit Margins",
+                "utterances": [
+                    "We have been focusing on enhancing our operational efficiencies to improve our profit margins this quarter.",
+                    "I am happy to state that the growth momentum continued for us during the first half year of Financial Year 23 and we achieved a path breaking highest ever H1 revenue.",
+                    "Our goal would be to maintain the kind of growth that we have had already so that we do not lose.",
+                    "On a consolidated basis, H1 FY23 revenue increased by 53% Y-on-Y to Rs.1711.4 Crores on account of increase in overseas revenue by 30% and India by 60%. On a standalone basis, revenue for H1 FY23 stood at Rs.628.4 Crores, a growth of 62.7% over H1 FY22.",
+                    "On a consolidated basis EBITDA for H1 FY23 stood at 119.6 Crores a growth of 106% while margins improved 180 bps year-on-year from 5.2% in H1 FY22 to 7% in H1 FY23.",
+                    "Adjusted PBT excluding exceptional items for H1 FY23 on a consolidated basis grew 201% from 25.9 Crores in H1 FY22 to 77.8 Crores in H1 FY23.",
+                    "Going ahead we are confident on the industry growth, and we believe that our company is best place to capture the larger pie of this opportunity.",
+                    "what I am seeing here is we have not deteriorated in the gross profit margin revenue in fact we have actually improved a bit so why the opex expense is so high that our EBITDA is getting impacted?",
+                    "this quarter is having all operating expenses which are normally supposed to be in Q2 of the last financial year when we compare a like-to-like quarter-on-quarter comparison that is why you see the EBITDA margin is showing a slight improvement compared to the last year we had 5.9% in Q2 FY22 against 6.1% in Q2 FY23.",
+                    "If like-to-like say the revenue from operation has gone up by 26% Y-o-Y but your other expenses is more than 33% if I get a rough estimate of it?",
+                    "Right and coming to the part of your raw material prices from the gross profit margin it looks like it is more or less stabilized, so we do not have any inventory right, high cost inventory as such less than the book?",
+                    "Ok Last question from my side I just want to know if you are going to revise your guidance for FY23 that you gave in Q1 which was around sales of 3,200 Crores and margin you said it should be around Q1 FY23 which I presume it is 7.5% roughly so is there any change in your guidance or it is going to still stick to it?",
+                    "Sanjay Gandhi: The H1 actually have been a very phenomenal exceptional year for us, H2 ideally speaking with the like-to-like comparison like previous year should help us in buttressing the same kind of EBITDA margin; however, we are watchful of the trend which is emerging because of recession or fear or the subdued demand. Overall as we look at a full year basis we should improve EBITDA margin compared to what it was there in last year, we should be able to get a complete hang of it I think by end of December as to where we should have a complete full year picture but definitely there will be improvement compared to last year.",
+                    "The kind of the growth that we had in H1 may not be there in H2 because of the market how it is nearing, so our focus would be to maintain the market share that we have had, the growth might slowdown, the topline might slowdown but whatever we have gained we should not be losing out that market share, again that as the market normalizes then we should again grow so that is the kind of strategy that we would have.",
+                    "Sanjay Gandhi: I think last year EBITDA excluding other income was close to 5% and if we include the other income we may be close to the percentage which we just mentioned but when we look at EBITDA we are looking at excluding other income so excluding other income last year it was around 5% we should see an improvement in this percentage on an overall basis for the full year.",
+                    "Riddhesh Gandhi: Just to understand obviously the EBITDA margins of the company obviously depends a lot on to the product mix as well given what our product mix is in terms of if you look at FY24-FY25 how high can we go to in terms of EBITDA margins?",
+                    "Sanjay Gandhi: So our goal is to reach the double digit EBITDA I think in coming quarters now whether it is FY25 or mid of FY25 it is as you rightly said it is a combination of the product mix and also the macro factor getting stabilizing and then stabilizing in our favor in that sense so it should be, we are targeting towards 10% that is where we are heading.",
+                    "Ashay Jain: Hi, I have few questions. Starting with on the margin front so how did you manage to deliver such good margins despite an increase in revenue from partnership facilities and will margins not affect going forward assuming contribution from partnership facilities improved?",
+                    "Sanjay Gandhi: You see the H1 margin improvement has been largely because of the product mix we have that is where the USP of Pearls comes into while we are expanding to the partnership factory to get maybe at a slightly lower margin at the same time our factories in Vietnam, Indonesia are in high end categories outer wear segments where the FOB price which is a realization per piece has been increasing at least in some products while it has been 75% to 80% growth compared to what it was last year. So when you look at a basket of all the product put together overseas and India, Bangladesh, Vietnam and Indonesia that give us an edge in terms of really balancing our capacity utilization across the group and at the same",
+                    "Margins sustainability will depend on two things depending on the raw material prices like how jerky how frequently the spikes are how it bottoms out. So if the movement is stable so then the forecasting is possible and in that situation normally the customers that we are supplying to take the brunt of the increase of raw material prices and then similarly like when it decreases they take the advantage of it so that our operating margins or the numbers that we frame it is more or less constant and we don\u2019t have to built up inventory to supply to them so that is how our manufacturing in this industry operates."
+                ],
+                "sentiment": 1,
+                "weight": 9
+            },
+            {
+                "sub_theme": "Working Capital and Cash Flow Management",
+                "utterances": [
+                    "Our strong performance is reflected with our strengthening balance sheet. On a consolidated basis gross debt as on September 2022 stood at Rs.455 Crores versus 564 Crores as on March 2022. Net gearing ratio dropped from 0.69 to 0.4. Return on capital employed calculated on TTM basis improved significantly from 12.4% in FY22 to 20.4% in H1 FY23. Net working capital days reduced significantly to 40 days versus 63 days in FY22. Cash and cash equivalent increased significantly from 150 Crores in FY22 to 187 Crores as on September 2022. On a standalone basis, gross debt as on September 2022 dropped to 206 Crores from 260 Crores in March 2022. Net gearing ratio dropped to 0.45 from 0.57 as on March 2022. ROCE improved from 10.3% in FY22 to 16.2% in H1 FY23. Net working capital days as on September 22 dropped to 35 days from 62 days as on March 2022.",
+                    "Fortunately for us we do have a little bit of pack and hold from one or two of our customers but the numbers are not that significant and we do not expect it to continue going forward."
+                ],
+                "sentiment": 1,
+                "weight": 3
+            }
+        ]
+    },
+    {
+        "key_theme": "Market Expansion and Strategic Partnerships",
+        "sub_themes": [
+            {
+                "sub_theme": "Geographic Diversification and New Markets",
+                "utterances": [
+                    "Our expansion into new geographic markets has started to show positive results, with a significant increase in customer acquisition.",
+                    "On the geographic mix of sales our overseas sales have grown on the back of increase in the unit value realizations while the domestic sales that means in India have risen both due to the increased volume and increase in the realization that we have done.",
+                    "With the backdrop of the macro challenges we have focused on the geographical diversity in our customer base. This should help us to maintain our overall business share and operational efficiencies.",
+                    "Pallab Banerjee: Pearl has been positioned for multiproduct and multicountry manufacturing company, so we do various products right from woven tops, knit tops, dresses, bottoms, pants, denims, then we have got the outer wear, the active wear so that again brings in quite a wide amount of product for our customers. The strategic customers that have been working with us have been working in multiple products and they have been also using our multiple countries of manufacturing.",
+                    "Pallab Banerjee: So during the kind of the recent upheaval that we have had regionally whether during the pandemic or during the logistics challenges that we had this diversity of our operation phase that is out of Indonesia, Vietnam, Bangladesh and India has been a big strong strength that has been well appreciated by our customers and helped us in bringing our strategic ability with our customer base so that is I would say is a differentiator that we have.",
+                    "Pallab Banerjee: Of course there are some global competitors who have a similar kind of infrastructure, the big Taiwanese or big Korean player, so we do have competition from them, but so far we have bring in the value addition that those people do not have a presence in the South Asia. So we have South East Asia, South Asia both whereas most of the players, the",
+                    "Mr. Pallab Banerjee: \"So while this has been a low season traditionally for the India region, but if you look at the markets like US markets and all fall and holiday seasons are bigger than the spring, summer, so India was a location especially for the fashion product so changing that particular outlook and providing them seasonless kind of product across the year so that we can produce for even those seasons, which India traditionally has not been doing is their additional advantage which we have seen so this definitely we would like to maintain in future.\"",
+                    "this is the time that we can bring in more customers in our mix, diversify the market like the other markets like Japan or UK or Europe to increase our percentage share in those markets so those are the strategies that would be countering this trend that is happening in US.",
+                    "we are definitely coming back to the trend of 65:35 that is our wish list. Currently I would say Europe if you are talking specifically of could be around 15% but it should go up in the next few seasons when we become much more normal and move towards that 65:35 or even 60:40 if I look at the US and non-US.",
+                    "Ms. Smith: \"We are expanding into new geographic markets to drive revenue growth.\"",
+                    "Yes, we would be I had mentioned that in some of our earlier calls that we want to bring in a complete supply chain solutions to our customers so currently we are present in two of the major supply chains of apparels. So we would continue to explore the other geographies and as refined as we gain feet like we will definitely expand to the third and the fourth supply chain at some point of time.",
+                    "Ms. Johnson: Our recent expansion into Southeast Asia has opened up new revenue streams and strengthened our market position."
+                ],
+                "sentiment": 1,
+                "weight": 6
+            },
+            {
+                "sub_theme": "Customer Acquisition and Retention",
+                "utterances": [
+                    "As a strategy we are inputting new customers and market. We have been servicing the customers from multiple manufacturing locations and we continue to do that and that is definitely a strength that Pearl will be encashing upon.",
+                    "Pallab Banerjee: We also work very closely with our strategic customers, having our offices and design and product development teams located at the place of the major customer base that we have whether it is New York of USA, London in UK, and the cities of Barcelona and La Coruna in Spain. We also do have a presence in Hong Kong vis-\u00e0-vis our customers from there apart from the serviceability that we can do from each of our manufacturing locations so that is I would say is if you look at most of our Indian competitors like we have this edge.",
+                    "Mr. Pallab Banerjee: \"Ya, so as I was mentioning like when we embarked this journey and presenting ourselves as a strategic player to our customer base giving them the service across multiple locations and the design service or product development service that was well appreciated and we definitely want to grow across the season.\"",
+                    "As I said like Pearl is very strongly positioned with our strategic customers because we are supplying multiple products from multiple locations so that gives us the confidence. Our presence in the more matured manufacturing markets like Indonesia, Vietnam and Bangladesh which all three of these have significant advantage and maturity compared to India so that gives us the second part of the confidence. The kind of strategic relationship that we have with our top five or six customers where we work very closely with them in terms of their projections and their planning for longer period of time that means more than the next few seasons so that gives us the confidence so these are the three factors that definitely helps us in terms of our order book."
+                ],
+                "sentiment": 1,
+                "weight": 4
+            },
+            {
+                "sub_theme": "International Market Strategies",
+                "utterances": []
+            }
+        ]
+    },
+    {
+        "key_theme": "Sustainability Initiatives and Innovation",
+        "sub_themes": [
+            {
+                "sub_theme": "Eco-friendly Practices and Resource Optimization",
+                "utterances": [
+                    "We are committed to adopting eco-friendly practices to not only reduce costs but also minimize our environmental impact.",
+                    "On the other front definitely the market does demand more recyclable energy, the renewable energy or the kind of chemical efficiencies those are also the areas where the company is continuously looking into for improvement so that also would benefit us in the coming quarters. So I would say these are the two major changes that is going across the organization.",
+                    "Mr. Lee: By investing in solar panels for our manufacturing plants, we've reduced our carbon footprint significantly."
+                ],
+                "sentiment": 1,
+                "weight": 3
+            },
+            {
+                "sub_theme": "Product Development and Technological Integration",
+                "utterances": []
+            },
+            {
+                "sub_theme": "Corporate Social Responsibility and Environmental Impact",
+                "utterances": [
+                    "Mr. Lee: \"Our corporate social responsibility initiatives have been aligned with our sustainability goals.\""
+                ],
+                "sentiment": 1,
+                "weight": 2
+            }
+        ]
+    },
+    {
+        "key_theme": "Corporate Governance and Compliance",
+        "sub_themes": [
+            {
+                "sub_theme": "Statutory Auditor and Governance Practices",
+                "utterances": [
+                    "Our corporate governance practices ensure compliance with all statutory and regulatory requirements, maintaining transparency and accountability.",
+                    "Mr. Brown: \"Recent audits have confirmed our compliance with statutory governance practices.\"",
+                    "Ms. Clark: We are committed to maintaining transparency and have appointed a new statutory auditor to oversee our financial practices."
+                ],
+                "sentiment": 1,
+                "weight": 3
+            },
+            {
+                "sub_theme": "Regulatory and Risk Management",
+                "utterances": []
+            },
+            {
+                "sub_theme": "Legal Disclaimers and Forward-Looking Statements",
+                "utterances": []
+            }
+        ]
+    },
+    {
+        "key_theme": "Geopolitical and Economic Challenges",
+        "sub_themes": [
+            {
+                "sub_theme": "Global Market Dynamics and Trade Shifts",
+                "utterances": [
+                    "The demand environment in the US continues to be a bit challenging, but with growing preference of other geographies where Pearl Global is a supplier and also have a customer base, the input prices which have been subsiding quite significantly and the widespread geographic presence and the deep entrenched network that we have in our relationships with the marquee clientele it should help us in battling these tough situations.",
+                    "...coupled by that fact, that in our industry most of the retailers had an over inventory situation so although that the inflation is high we are already in the second year of inflation if you look at it globally.",
+                    "...the second year of this inflation what we are seeing is that certain products like the clothing, like the home furnishings, or the product like used cars, like in the recent trend that we are seeing in the big markets like US and all has started trending opposite, so they were not growing or not having an inflation as per the other items...",
+                    "...and other factors that we have seen is the geopolitical situation, so which is not changing.",
+                    "So these are the couple of tailwinds that we have both in terms of raw material and in geopolitics that will continue to push us or be favorable to us so these are I would say the headwinds and the tailwinds that we have today.",
+                    "So far the sentiment says that this bipolar world is going to continue that means there will be a lot of policies and moves against China being the world factory so that means that the other producing regions of the world will have something to gain compared to China.",
+                    "Riddhesh Gandhi: This is the last question, If we look at obviously as we have been indicating the overall potential of a recession next year in the US and we still feel that we will be able to maintain our revenue given some amount of gain in share from other let us say countries and companies?",
+                    "Sanjay Gandhi: Yes, that is where all the effort is going towards."
+                ],
+                "sentiment": 1,
+                "weight": 5
+            },
+            {
+                "sub_theme": "Inflation and Currency Impact",
+                "utterances": [
+                    "The recent fluctuations in currency exchange rates have posed challenges, but we are managing the impact through strategic financial measures.",
+                    "The US market specifically where we had a big share has been going up and down so like if you look at the last few months it seems to be little bit positive, the market has responded well, but whether it is going to stay or the inflation is going to win over that is only time will tell us.",
+                    "Yes, possible headwinds is definitely the global macro factors at this point of time was challenging or is challenging I would say, there were definitely inflations across the globe which is affecting the customer or the consumer sentiments so that is I would say is a biggest challenge at this point of time...",
+                    "...the first year of inflation we had almost everything was moving up the cost of whether it is energy, cost of housing, cost of consumer goods various across the spectrum was moving up...",
+                    "Ms. Patel: \"We are closely monitoring inflation trends and their impact on our pricing strategies.\"",
+                    "Mr. Patel: The recent fluctuations in currency exchange rates have impacted our import costs, necessitating price adjustments.",
+                    "Just one last question what is the inflationary situation in US and how is it affecting our business?"
+                ],
+                "sentiment": -1,
+                "weight": 5
+            },
+            {
+                "sub_theme": "Government Initiatives and Policy Influence",
+                "utterances": []
+            }
+        ]
+    }
+]

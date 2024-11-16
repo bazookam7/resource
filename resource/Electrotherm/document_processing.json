@@ -1,0 +1,22 @@
+{
+    "[{\"name\": \"Electrotherm\"}, {\"DocumentType\": \"annual_report\"}, {\"TimePeriod\": \"FY24\"}]": {
+        "chunking_status": true,
+        "debt_details": true
+    },
+    "[{\"name\": \"Electrotherm\"}, {\"DocumentType\": \"annual_report\"}, {\"TimePeriod\": \"FY22\"}]": {
+        "chunking_status": true,
+        "debt_details": true
+    },
+    "[{\"name\": \"Electrotherm\"}, {\"DocumentType\": \"annual_report\"}, {\"TimePeriod\": \"FY23\"}]": {
+        "chunking_status": true,
+        "debt_details": true
+    },
+    "[{\"name\": \"Electrotherm\"}, {\"DocumentType\": \"annual_report\"}, {\"TimePeriod\": \"FY21\"}]": {
+        "chunking_status": true,
+        "debt_details": true
+    },
+    "[{\"name\": \"Electrotherm\"}, {\"DocumentType\": \"annual_report\"}, {\"TimePeriod\": \"FY20\"}]": {
+        "chunking_status": true,
+        "debt_details": true
+    }
+}

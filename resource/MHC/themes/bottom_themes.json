@@ -1,0 +1,88 @@
+[
+    {
+        "key_theme": "Financial Performance",
+        "sub_themes": [
+            "Revenue Growth Rate",
+            "Operating Margin",
+            "Earnings Before Interest, Taxes, Depreciation, and Amortization (EBITDA) Margin",
+            "Return on Equity (ROE)",
+            "Free Cash Flow Yield"
+        ]
+    },
+    {
+        "key_theme": "Market Position and Competition",
+        "sub_themes": [
+            "Market Share Percentage",
+            "Competitor Revenue Comparisons",
+            "Pricing Strategy and Changes",
+            "Customer Acquisition Cost"
+        ]
+    },
+    {
+        "key_theme": "Regulatory Environment",
+        "sub_themes": [
+            "Compliance with FDA Regulations",
+            "Impact of Healthcare Legislation",
+            "Patent Expiry Dates",
+            "Approval Status of New Products"
+        ]
+    },
+    {
+        "key_theme": "Research and Development",
+        "sub_themes": [
+            "Percentage of Revenue Invested in R&D",
+            "Number of New Patents Filed",
+            "Pipeline of New Products",
+            "Time to Market for New Innovations"
+        ]
+    },
+    {
+        "key_theme": "Operational Efficiency",
+        "sub_themes": [
+            "Inventory Turnover Ratio",
+            "Average Length of Hospital Stay (for healthcare providers)",
+            "Cost per Procedure/Service",
+            "Utilization Rate of Medical Equipment"
+        ]
+    },
+    {
+        "key_theme": "Technological Advancements",
+        "sub_themes": [
+            "Adoption Rate of Electronic Health Records (EHR)",
+            "Investment in Telemedicine Solutions",
+            "Implementation of AI in Diagnostics"
+        ]
+    },
+    {
+        "key_theme": "Supply Chain Management",
+        "sub_themes": [
+            "Supplier Diversification Index",
+            "Lead Time for Critical Supplies",
+            "Cost of Goods Sold (COGS) Variability"
+        ]
+    },
+    {
+        "key_theme": "Patient and Customer Satisfaction",
+        "sub_themes": [
+            "Net Promoter Score (NPS)",
+            "Readmission Rates (for healthcare providers)",
+            "Patient Wait Time Metrics"
+        ]
+    },
+    {
+        "key_theme": "Human Resources and Staffing",
+        "sub_themes": [
+            "Staff Turnover Rate",
+            "Average Staff Tenure",
+            "Ratio of Patients to Healthcare Providers"
+        ]
+    },
+    {
+        "key_theme": "Sustainability and Corporate Social Responsibility",
+        "sub_themes": [
+            "Carbon Footprint Measurement",
+            "Waste Reduction Programs",
+            "Community Health Initiatives"
+        ]
+    }
+]

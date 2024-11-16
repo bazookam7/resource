@@ -1,0 +1,42 @@
+[
+        {
+            "key_theme": "Operational Efficiency and Financial Performance",
+            "sub_themes": [
+                "Cost Management Strategies",
+                "Revenue Growth and Profit Margins",
+                "Working Capital and Cash Flow Management"
+            ]
+        },
+        {
+            "key_theme": "Market Expansion and Strategic Partnerships",
+            "sub_themes": [
+                "Geographic Diversification and New Markets",
+                "Customer Acquisition and Retention",
+                "International Market Strategies"
+            ]
+        },
+        {
+            "key_theme": "Sustainability Initiatives and Innovation",
+            "sub_themes": [
+                "Eco-friendly Practices and Resource Optimization",
+                "Product Development and Technological Integration",
+                "Corporate Social Responsibility and Environmental Impact"
+            ]
+        },
+        {
+            "key_theme": "Corporate Governance and Compliance",
+            "sub_themes": [
+                "Statutory Auditor and Governance Practices",
+                "Regulatory and Risk Management",
+                "Legal Disclaimers and Forward-Looking Statements"
+            ]
+        },
+        {
+            "key_theme": "Geopolitical and Economic Challenges",
+            "sub_themes": [
+                "Global Market Dynamics and Trade Shifts",
+                "Inflation and Currency Impact",
+                "Government Initiatives and Policy Influence"
+            ]
+        }
+    ]

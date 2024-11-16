@@ -1,0 +1,818 @@
+[
+    {
+        "type": "CompositeElement",
+        "element_id": "be457b42dc35130bcc7510fc67658ff0",
+        "text": "This presentation is for general information purposes only, without regard to any specific objectives, financial situations or informational needs of any particular person. This presentation does not constitute an offer or invitation to purchase or subscribe for any securities in any jurisdiction, including the United States. No part of it should form the basis of or be relied upon in connection with any investment decision or any contract or commitment to purchase or subscribe for any securities. None of our securities may be offered or sold in the United States, without registration under the U.S. Securities Act of 1933, as amended, or pursuant to an exemption from registration there from.\n\nThis presentation is confidential and may not be copied or disseminated, in whole or in part, and in any manner.\n\nValorem Advisors Disclaimer:\n\nValorem Advisors is an Independent Investor Relations Management Service company. This Presentation has been prepared by Valorem Advisors based on information and data which the Company considers reliable, but Valorem Advisors and the Company makes no representation or warranty, express or implied, whatsoever, and no reliance shall be placed on, the truth, accuracy, completeness, fairness and reasonableness of the contents of this Presentation. This Presentation may not be all inclusive and may not contain all of the information that you may consider material. Any liability in respect of the contents of, or any omission from, this Presentation is expressly excluded. Valorem Advisors also hereby certifies that the directors or employees of Valorem Advisors do not own any stock in personal or company capacity of the Company under review.\n\nFor further information please contact our Investor Relations Representative:\n\nMr. Anuj Sonpal Valorem Advisors Tel: +91-22-4903-9500 Email: shemaroo@valoremadvisors.com Investor Kit Link: www.valoremadvisors.com/shemaroo\n\nLA REM\n\n15\n\nTHANK YOU\n\n-",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 15,
+            "orig_elements": "eJy1WFtv3DYW/ivEvO5IK0rUzU9r7LZo0CYN4rTAIigMijz0MNENJMfOoOh/7zmUBh3H08Xa8OQlwyOe23eu9KffN9DDAGO4tXpzxTYtbySA6BIjjUmE6YqklSJLTNuCKDjUIMRmyzYDBKllkMjz+0ZNk9N2lAF8PPfyMO3D7Q7s3S4ghZdZhjwr+cHqsENqXlU1UufJjoH4Pn1qyjTfsrKq0vq3LVuPVdOkGR3zss1TcYawMCBl4w8+wEB+vLdfob+ZpYLNH/hBQwAV7DTeql56fzu7qcNrWdryouJ4wdgewmGGyPv+7SaaO97t5V306dMGxrsNqZiRcjvuhw5c9IykB/hKbm4+7qxnswOPeErSxvBsJsfuYAQne2ZHPA3Lp3nv5smDZ9PYH7bswYYdosMc3EmnWZiYHA/Mz6CssYpN3Wdy4B78lhmEelQW5Xkb9lEaSnGn0vHbCKCRbKKcWbpg1b6Xjs3g/DSm7KmxekJrxikwhQIDig6AzCjCgFvk39v1KpqH9qud9EBf/L7zytkOorfRcFB7Z4NFiXaMlM949trGKGyRqPo95swdCztgv4w2gGY3gVIoZe+maDAZbwPziEuvSfIQL3fS2+gYqkKNDnqLvPuZ4B7J9nEJdYQ0qkbDwQfKcqYRT08fVzvxenBSBTqraRjscu0Z/pG5I0R79u7U70EeyL4IHxpIYib0A2184vKj8FuPFkUH9qNG5OPt9CZlN3/JvlYRHd4WxZZJzyRarUFvSQsa7vdycQLDB19hmKM446bhsQIU7SDSU8r4YwG8k44u3MNHSmzM8G+7RMZN0fFWJmWdZYkQqk7aUkDSCVW1JgdTAly4S9Q8O+0SteBpQUdeFGVanyNEhpd1iYY3vL1ol8A8NFYjhcpajjpmD9UiZpCaZrskkLbewxAx1FRD7GE39bDUZiyZbeRdK26QWArueZGFtjGm7lRSmUonQpeQNLroks4UUhnelVqqS0e2KpfIrce2WQIt8irG8dtzvP6yuFZ1nb9WWH+V/eRgYNf63vrJefYf61GdHcBdnYbgow09nIO+VkXdcW2STjYIfSuapNV5lShlMgGNrDmXF4O+ilg2vF6gX46tyNZJW2Uizc4QFoaXjl78dzH0saaw+b3BrjhTa8R2+CZOAayVD9CvQ/OtHFFm7Pg34O6tomIbZiyedT6+Py1TnAZYjjBS8WKxYUl2B/ZEMY4nKtbx0bCnqqSYYcFatYst/d+LojhssfKRkyaZ7HrYsg4nwRPBJOOUcZBf4rxGvkfdBD18oDIfA64V8JW+LevBMNOkxFmzk8FPcA9uaRdRBKoe0X2/k31PTWfuMYDkxzYqDW4fdnhd4QiSCgUTThg3XGw8rSTSOvoV5TmQuGGQJ5GEc4ok0KRFG9fzN9ieg/ukA5JNcWPw2LoetUeSKqnf4Y1V0SnuAV1lmPrx/hFpPARw2GhTdo04Eui2t4H2BLSdVq5wxujtcWWYBuzCx3m6feoLpd4Ke3/AX7TogE7PBLT3E6MJjGmkABc0Q6M9mky6tXVoCV1ExTjD++kAEOF7IklPEYzpYWn8mOXqSxwJcdfDibJsN0u+SSxN8nZ18ZhOy7Lh4N7Cw/NmRpkVSpZGJwbHQyJyXSVNg40rV/hmMJkSpmwvPDM4z/PTdYDzcp0S+Atb1HlK5HlZ8yqrunmt3vU9RsfsHS1jj18IPdD+GVOcUhLXyzM97MNJ9d/D1bMi1xRVXpRcJGCUSESV0wrHi0Rib9adgDrLzcUiV2QZjRDOj++5I6HAZ122REq0KT9LWZheFjshirJ4reC9ddRF9p/ZzTTOWGlPavMj9FfsHy1P8hyHeobvacSHfTdIi3S/g0G6afrX/cImV64Uq/WvYP+Ir6Cf7Pjlij08PKRnrv7zKOdZ0c9xqxVQqaSRGHihBf4qC0gqAVA2nTZlXV4s+hhBWjHwv3bd01dC0ayVXBR/Q1hYXhb7mrflq23yP12zD9+9PcX8zYDXz2FtOo5IqzyRumsSwVWJv1qdQNtlrSwa1eXVxbDOy6qJlSV4dfzTyZFyXLbzKhd/R4lcL+yTGb5RXwtvXp5i/QNInFhn2xpkkFU8S6qubhOh2ixpDWZ3VXUyLwS08oJgt01FHQofxmlLMK7nJi/SPOZ5WTdnCQvH/4T5pShWj96fP1y/+5H99+df/q9XCc9MrnlRJ6qELhFZJnG4ZyZROCDq3ORCy/pyTSITgkZ12xxn90rgeVWslAqneHaOsjBdHs/kTAP47U9HrMXj",
+            "filename": "tmps73mm491"
+        },
+        "guidances": [],
+        "actuals": []
+    },
+    {
+        "type": "CompositeElement",
+        "element_id": "e9df85a14e0766550e7e4105ff9b4b6e",
+        "text": "N\n\n&\n\nNy\n\nN\n\nN\n\nQ\n\nN &\n\nR\n\nQ\n\nNP\n\nOy\n\nBN &\n\no\n\nQ\n\n)\n\n8\n\nA\n\n\\\\)\n\nAS\n\nQ\n\nO\n\nQ\n\nO &\n\nS Q\n\n(22 Q\n\nA\n\nQ\n\n2\n\nAN\n\n%,\n\nQ\n\nQ\n\n.L\"\u2018w >\n\nAN S\n\n&\n\n6\n\nShemarooMe\n\n\u2022 ShemarooMe Gujarati:\n\nENTERTAINING YEARS OF o INDIA\n\n\u2022 Released 11 new Gujarati titles during the quarter with content across movies, web series and plays\n\n\u2022 Digital world premiere of blockbuster movies \u2018Shubh Yatra', 'Kutch Express' and release of original web series 'What the\n\nFafda'\n\ngy AP Pl oy, \u2018jllll\"h\u2018 VI 0 ................. S \u00a5 WATCH NOW \u2019JJ =\n\n\\medabadTim ok ok ok o 4 m ShemarooMe Exclusive Film L= D) C @ 7 9 i) EXPRES = '. 7 e \\\\\u2019TI ALSO AVAILABLE IN a = HINDI(DUBBED) s -\n\na shemarooMe Oiginal Series HASS AN q VAECKPOT ., FAFDD CRAZY \u00abtefl EXTRA CRAZY 8! T (\u2018/\u2018 = ~ S . /FIRST EPISODE F| 7\n\n7\n\nShemaroo Broadcasting\n\nLaunched original programs across three channels; 'Laddu Gopal' on Shemaroo TV, 'Gauna' on Shemaroo Umang and 'Jogeshwaricha Pati Bhairavnath' on Shemaroo MarathiBana\n\nShemaroo GEC channels have a combined viewership share of over 7.4% in the overall Hindi GEC genre\n\n\u00b0\n\nTv\n\n- AN \u2014 =N N N7y\n\n3 g L 4 b} } y \u00a3\\ A ] \u00a5 ai'\n\nTV, ]d%\n\nN r s \u2014 Ty i 21 PREURH I - afF 3w 8:30 arsrar\n\n8\n\nConsolidated Quarterly Financial Performance\n\nYEARS OF ENTERTAINING co INDIA",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 6,
+            "orig_elements": "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",
+            "filename": "tmps73mm491"
+        },
+        "guidances": [],
+        "actuals": [
+            {
+                "data": "Shemaroo GEC channels have a combined viewership share of over 7.4% in the overall Hindi GEC genre.",
+                "theme": "Market Dynamics and Competition",
+                "subtheme": "Market Overview and Competition",
+                "evidence": [
+                    "Shemaroo GEC channels have a combined viewership share of over 7.4% in the overall Hindi GEC genre."
+                ]
+            }
+        ]
+    },
+    {
+        "type": "CompositeElement",
+        "element_id": "20e609fcf4edf2300ac5c8995c1d8932",
+        "text": "4\n\nQ2/H1-FY24 Key Operational Highlights\n\nENTI YEARS OF co INDI bEARTAINING\n\nDuring Q2 FY24, the Company achieved robust revenue growth and maintained a positive margin, largely due to strong performance of its traditional businesses\n\n\u2022 Overall advertising demand remained subdued due to sluggish consumer sentiment and a persistent slowdown in funding for new- age advertisers\n\no In addition to the above, the Company's digital business was also impacted due to a higher base effect in the same quarter last year\n\nThe festive season is expected to bring a slight upswing in advertising spends; however, prominence of major cricket events during the quarter is likely to absorb significant portion of advertising budgets\n\n\u2022 This, along with continuous investments in B2C initiatives, is expected to keep the Company\u2019s margins under pressure ShemarooMe\n\n\u2022 ShemarooMe\n\no Released 11 new Gujarati titles during the quarter with content across movies, web series and plays\n\no Digital world premiere of blockbuster movies \u2018Shubh Yatra', 'Kutch Express' and release of original web series 'What the Fafda'\n\no Launched with XL in Indonesia\n\nYouTube: With 66 mn subscribers, Shemaroo FilmiGaane is the 23rd most subscribed channel in the world\n\n\u2022 Broadcasting:\n\no Launched original programs across three channels; 'Laddu Gopal' on Shemaroo TV, 'Gauna' on Shemaroo Umang and 'Jogeshwaricha Pati Bhairavnath' on Shemaroo MarathiBana\n\no Shemaroo GEC channels have a viewership share of around 7.4% in the overall Hindi GEC genre\n\n\u2022 DTH: Launched a new DTH service 'Bollywood Masala' with 90s Bollywood movies on Tata Play in September 2023\n\n\u2022 Web 3.0: Launched ShemarooVerse, the first official metaverse platform on JioDive VR Headset\n\n\u2022 GST Update: The matter is sub judice. Meanwhile, the Company has paid INR 1,200 lakhs under protest to GST department\n\n\u20ac\n\nShemaroo YouTube Monthly Views\n\nYouTube Views (Jun\u201916 to Sep\u201923):\n\nYEARS OF ENTERTAINING co INDIA\n\nYoutube Monthly Views (in Bn)\n\n0\n\n1.0\n\nW\n\nNS\n\nNS Q",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 4,
+            "orig_elements": "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",
+            "filename": "tmps73mm491"
+        },
+        "guidances": [],
+        "actuals": [
+            {
+                "data": "Shemaroo FilmiGaane is the 23rd most subscribed channel in the world with 66 million subscribers.",
+                "theme": "Distribution and Platform Strategy",
+                "subtheme": "Platform Performance and Monetization",
+                "evidence": [
+                    "YouTube: With 66 mn subscribers, Shemaroo FilmiGaane is the 23rd most subscribed channel in the world."
+                ]
+            },
+            {
+                "data": "Shemaroo GEC channels have a viewership share of around 7.4% in the overall Hindi GEC genre.",
+                "theme": "Audience Reach and Engagement",
+                "subtheme": "Audience Reach and Engagement",
+                "evidence": [
+                    "Shemaroo GEC channels have a viewership share of around 7.4% in the overall Hindi GEC genre."
+                ]
+            },
+            {
+                "data": "The Company has paid INR 1,200 lakhs under protest to the GST department.",
+                "theme": "Financial Performance",
+                "subtheme": "Financial Health and Leverage",
+                "evidence": [
+                    "Meanwhile, the Company has paid INR 1,200 lakhs under protest to GST department."
+                ]
+            }
+        ]
+    },
+    {
+        "type": "Table",
+        "element_id": "06e6339bdb81399d232c076e3c6bacbf",
+        "text": "Particulars (INR Mn) Q2-FY24 Q1-FY24 Q-o-Q Q2-FY23 Y-o-Y Revenue from Operations 1,989 1,535 29.6% 1,466 35.7% Total Expenses 1,817 1,457 24.7% 1,337 35.9% EBITDA 172 78 121.3% 128 34.1% EBITDA Margin (%) 8.65% 5.06% 358 Bps 8.75% (10) Bps Other Income 11 8 40.7% 6 79.9% Depreciation 14 13 13.3% 13 8.3% Finance Cost 94 88 6.9% 73 29.0% PBT 75 (15) NA 48 54.8% Tax 20 (5) NA 14 46.1% PAT 55 (10) NA 34 58.2% Minority Interest & Share of profit/ (loss) in associate company (6) (3) NA (1) NA PAT after adjustments 49 (13) NA 34 44.2% PAT Margin (%) 2.45% (0.86%) 331 Bps 2.31% 14 Bps Comprehensive Income (3) (3) NA (1) NA Total Profit including Comprehensive Income( Net of tax) 46 (16) NA 33 39.7% EPS (INR)(not annualised) 1.80 (0.49) NA 1.25 44.2%",
+        "metadata": {
+            "text_as_html": "<table><tr><td>Particulars (INR Mn)</td><td>Q2-FY24</td><td>Q1-FY24</td><td>Q-o-Q</td><td>Q2-FY23</td><td>Y-o-Y</td></tr><tr><td>Revenue from Operations</td><td>1,989</td><td>1,535</td><td>29.6%</td><td>1,466</td><td>35.7%</td></tr><tr><td>Total Expenses</td><td>1,817</td><td>1,457</td><td>24.7%</td><td>1,337</td><td>35.9%</td></tr><tr><td>EBITDA</td><td>172</td><td>78</td><td>121.3%</td><td>128</td><td>34.1%</td></tr><tr><td>EBITDA Margin (%)</td><td>8.65%</td><td>5.06%</td><td>358 Bps</td><td>8.75%</td><td>(10) Bps</td></tr><tr><td>Other Income</td><td>11</td><td>8</td><td>40.7%</td><td>6</td><td>79.9%</td></tr><tr><td>Depreciation</td><td>14</td><td>13</td><td>13.3%</td><td>13</td><td>8.3%</td></tr><tr><td>Finance Cost</td><td>94</td><td>88</td><td>6.9%</td><td>73</td><td>29.0%</td></tr><tr><td>PBT</td><td>75</td><td>(15)</td><td>NA</td><td>48</td><td>54.8%</td></tr><tr><td>Tax</td><td>20</td><td>(5)</td><td>NA</td><td>14</td><td>46.1%</td></tr><tr><td>PAT</td><td>55</td><td>(10)</td><td>NA</td><td>34</td><td>58.2%</td></tr><tr><td>Minority Interest &amp; Share of profit/ (loss) in associate company</td><td>(6)</td><td>(3)</td><td>NA</td><td>(1)</td><td>NA</td></tr><tr><td>PAT after adjustments</td><td>49</td><td>(13)</td><td>NA</td><td>34</td><td>44.2%</td></tr><tr><td>PAT Margin (%)</td><td>2.45%</td><td>(0.86%)</td><td>331 Bps</td><td>2.31%</td><td>14 Bps</td></tr><tr><td>Comprehensive Income</td><td>(3)</td><td>(3)</td><td>NA</td><td>(1)</td><td>NA</td></tr><tr><td>Total Profit including Comprehensive Income( Net of tax)</td><td>46</td><td>(16)</td><td>NA</td><td>33</td><td>39.7%</td></tr><tr><td>EPS (INR)(not annualised)</td><td>1.80</td><td>(0.49)</td><td>NA</td><td>1.25</td><td>44.2%</td></tr></table>",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 9,
+            "orig_elements": "eJydVk1v2zgQ/SsPArpwgFiWROqrGwRI2hTIIanb5BIEhcFItK2FLAkS3doo+t+XpBWTSZlDexI5Q84Mh3zv6fGnx2u+4Y1YVKX3Hl6SBk/LMg2nUbnMp5TF2TTjJJ2GIcsppREvosI7hbfhgpVMMLnnp1e0bV9WDRN80POa7dutWKx5tVoLaQnjIJB7RvOPqhRraY2SJJXWrq0aofY9PoYh9aUpIsQn307xPA9JHvipMkRxmrkthz3S4g37QfCNOsu82vH6rmMF935JR8kFL0TVNouiZsOw6Pr2SS4L/JwkkapkWdVc7Duu985vPF1ys9qylT7Xo8ebladSdNKyaLabJ95Ley4tgu/Egg2LtdjUavuZYE81Pz8Ta85K+enV8HzOelEV25r1AybXt19x05yczaRDOb9E008PETXz8NV82k6/vFpNjvMH6X04zGYq2+w581Nb7scCyvOv/DtvthzLvt3gc8d7pvoxyNWl9oeneZZbs5jEx1mU+8k7y0eT5DgjsZ+OPp19THffClbjatfxZuB2lixM7UixmUX0GEn7CEntLLkjy9Xl9f3HC7MnjY7jNDPmKPSJFTkyLkL98M24uGH9qmoweXdy3JD5SWxCxX5gNYbEGS67wVqbWmsnYXBi3Ha2z/LCelw3RbvhpsrQxDmOaGC3yFxCmjvb85F3PS8qfdMmMDVDYg1ftIhYhyCOyJ8k5JuC40M7iOPS3ETOTM3JsTRVqAksH1XgiDy/vDerY6t7sbmEW3Pl1CSKqZ+5XiLbmZyBCeiOZ3WHJs63Mb8wBcZ2gYEzIDEB48yPHAFvqqbtK7GXL0Dwng8C/7BN9y/u1qznaJeQbLWsxAyTuh2GE8gXKTmsVffKId9Mx5q9KSMxVUyIs6JJ+Lv51QHBlrIUsPK/7SCURJhHTXMrkDuBdWRKnUdWKRzginxqAybws8TyEhK+gFfkk9B6stQNrg+yQT1fSxqqvvPXILM79JfdOhDdXF+RvJqi3ko5XMGVdoJbLtSFCrYzQWli5UrcDTWoIbmTbq/md1pWTiZNK8CaZsvqauClCRf6WWC3lubu9+9H8Zu3NxslZXaQOC2tSv60ajoEDqOwYRQ0aCEbrQRauPCGMEELErQQQQsQtPBACw5e6gu0rkDrCbSOQOsHtG5gpHMpD0gzHORAfjJo+sdvbA/N8tDsjpHVodkczywOm7QRhsigyRkJNBnD5l7IxxkSaI5VA8WpsCkUOUWWQVElUgJNjZBMiDSGYj7cXoBm0AwHSWiIAkwOZhlaExUUpuL4UKC0EwrNN3DQyx9RCySlQIJDBZVgUB8nQ4DmUIwwJtdvBy+BDg1wjMDGCGhoIOMAYCdwdPqXJfwt7GSzoGCmqyTQcMKb6IFCDQ5o0c2W6DicTP0hPv8w3is0eL++/Q+hhEwB",
+            "filename": "tmps73mm491"
+        },
+        "guidances": [],
+        "actuals": [
+            {
+                "data": "Revenue from Operations achieved was INR 1,989 Mn in Q2-FY24.",
+                "theme": "Financial Performance",
+                "subtheme": "Revenue Growth and Trends",
+                "evidence": [
+                    "Document states Revenue from Operations as 1,989 Mn for Q2-FY24."
+                ]
+            },
+            {
+                "data": "Total Expenses were INR 1,817 Mn in Q2-FY24.",
+                "theme": "Financial Performance",
+                "subtheme": "Financial Health and Leverage",
+                "evidence": [
+                    "Document states Total Expenses as 1,817 Mn for Q2-FY24."
+                ]
+            },
+            {
+                "data": "EBITDA was INR 172 Mn in Q2-FY24.",
+                "theme": "Financial Performance",
+                "subtheme": "Profitability and Margins",
+                "evidence": [
+                    "Document states EBITDA as 172 Mn for Q2-FY24."
+                ]
+            },
+            {
+                "data": "EBITDA Margin was 8.65% in Q2-FY24.",
+                "theme": "Financial Performance",
+                "subtheme": "Profitability and Margins",
+                "evidence": [
+                    "Document states EBITDA Margin as 8.65% for Q2-FY24."
+                ]
+            },
+            {
+                "data": "Other Income was INR 11 Mn in Q2-FY24.",
+                "theme": "Financial Performance",
+                "subtheme": "Profitability and Margins",
+                "evidence": [
+                    "Document states Other Income as 11 Mn for Q2-FY24."
+                ]
+            },
+            {
+                "data": "Depreciation was INR 14 Mn in Q2-FY24.",
+                "theme": "Financial Performance",
+                "subtheme": "Financial Health and Leverage",
+                "evidence": [
+                    "Document states Depreciation as 14 Mn for Q2-FY24."
+                ]
+            },
+            {
+                "data": "Finance Cost was INR 94 Mn in Q2-FY24.",
+                "theme": "Financial Performance",
+                "subtheme": "Financial Health and Leverage",
+                "evidence": [
+                    "Document states Finance Cost as 94 Mn for Q2-FY24."
+                ]
+            },
+            {
+                "data": "PBT was INR 75 Mn in Q2-FY24.",
+                "theme": "Financial Performance",
+                "subtheme": "Profitability and Margins",
+                "evidence": [
+                    "Document states PBT as 75 Mn for Q2-FY24."
+                ]
+            },
+            {
+                "data": "Tax was INR 20 Mn in Q2-FY24.",
+                "theme": "Financial Performance",
+                "subtheme": "Financial Health and Leverage",
+                "evidence": [
+                    "Document states Tax as 20 Mn for Q2-FY24."
+                ]
+            },
+            {
+                "data": "PAT was INR 55 Mn in Q2-FY24.",
+                "theme": "Financial Performance",
+                "subtheme": "Profitability and Margins",
+                "evidence": [
+                    "Document states PAT as 55 Mn for Q2-FY24."
+                ]
+            },
+            {
+                "data": "PAT Margin was 2.45% in Q2-FY24.",
+                "theme": "Financial Performance",
+                "subtheme": "Profitability and Margins",
+                "evidence": [
+                    "Document states PAT Margin as 2.45% for Q2-FY24."
+                ]
+            },
+            {
+                "data": "Total Profit including Comprehensive Income was INR 46 Mn in Q2-FY24.",
+                "theme": "Financial Performance",
+                "subtheme": "Profitability and Margins",
+                "evidence": [
+                    "Document states Total Profit including Comprehensive Income as 46 Mn for Q2-FY24."
+                ]
+            },
+            {
+                "data": "EPS was INR 1.80 in Q2-FY24.",
+                "theme": "Financial Performance",
+                "subtheme": "Returns and Efficiency",
+                "evidence": [
+                    "Document states EPS as 1.80 for Q2-FY24."
+                ]
+            }
+        ]
+    },
+    {
+        "type": "CompositeElement",
+        "element_id": "537c757d2c656cb68326566ee95786a0",
+        "text": "11\n\nHistorical Consolidated Balance Sheet",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 11,
+            "orig_elements": "eJy1kVFrgzAUhf+K5LmK0cTYPW4w9jIodG9SJCZXDagRvWUtZf99V7tBGX3a2Fvy5ZybnJPiwqCDHgYsnWUPAdsaW+da1KEQUoRiq2xYyW0aZhDHVW5UmtiKbQLWA2qrUZPnwoz3k3WDRpjXfafP/ohlC65pkQiXcUyeL/zuLLZEkyxTREfvBlx8RZFIFUfEuEh4lB42wQ3JRBSvJEtodZ+sLkJsPs8I/ZJn507Q7UdtgH3QgQUEg84Ppen0PJfj5CuS0R1cCUmC2nWA5xFW7+6Vrc8emqNu1mwFg6FhyxUjkXI49hVMS0K+TEc4LXEZ54vve8yz90giEvwsO62kqUW9DWWaU9mJMKFWtQjrSglKnmSWx/9WdpYtxebyWuJ1x6W49s65VFF6B6z6X1acK/6XipPbil/cjH5yRnfBkx9m3zkqCGzwqGmWgWDfAuDtL7w57OiBh09Btdxz",
+            "filename": "tmps73mm491"
+        },
+        "guidances": [],
+        "actuals": []
+    },
+    {
+        "type": "Table",
+        "element_id": "c0f63ba000bb77c4c53e0465a5a7e1a5",
+        "text": "Q2-FY24 performance (Consolidated) H1-FY24 performance (Consolidated) INR 3,524 Mn INR 250 Mn 7.08% INR 1,989 Mn INR 172 Mn 8.65% EBITDA Margin Revenue from Operations EBITDA EBITDA Margin Revenue from Operations EBITDA INR 1.31/share INR 36 Mn 1.01% INR 1.80/share INR 49 Mn 2.45% Net Profit Net Profit Margin EPS Net Profit Net Profit Margin EPS",
+        "metadata": {
+            "text_as_html": "<table><tr><td>Q2-FY24 performance (Consolidated)</td><td>H1-FY24 performance (Consolidated)</td></tr><tr><td>INR 1,989 Mn Revenue from Operations</td><td>INR 172 Mn EBITDA</td><td>8.65% EBITDA Margin</td><td>INR 3,524 Mn Revenue from Operations</td><td>INR 250 Mn EBITDA</td><td>7.08% EBITDA Margin</td></tr><tr><td>INR 49 Mn Net Profit</td><td>2.45% Net Profit Margin</td><td>INR 1.80/share EPS</td><td>INR 36 Mn Net Profit</td><td>1.01% Net Profit Margin</td><td>INR 1.31/share EPS</td></tr></table>",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 4,
+            "orig_elements": "eJyVU11r2zAU/StCMNggcSx/yPbICvvoWB/SZW1fRlqMYt3EAlsytrI1lP73SXLSNGlKuidb555zr+65V7MHDBXUIHUuOP6IcMFSmiZxNGRRwYdRtEiGjGZkCDzJEkpjGmcpHiBcg2acaWY0D7hQquVCMg2dO1dsrVY6L0EsS20QEvu+0Wzgv4Lr0qABpYlBGyWktrrZjFDihQMUBIGX3A3Q9pz4mRfacxBlvpccAXqFQXC37jTUtpOpuIfqumEF4EcT4KCh0ELJvKhY1+VNq+aG5ntRGFJiCAtRgV434LTTCXYXlssVW7quZhjkEtsSjUFyuarn0Bo8MoiGe52zLi91XVn5WLN5BWdjXQLj5tPaX1SoqmuY/HSLw1t89isYfv8dRKiBdqHamskC0PuvSnaqEsZY4B/GI10eEf4gbxOOXFlX+uzi8gqRQZZmaCLRFfwBuQK0aFWNfpo0zNrSbcv15CSw1PMvFzffPj9FUo/G7zYgmrB2KeSeKhzE5mJvLBHE/pESieenR0u4dkZbR+eKrzfdcZctcq1dgkbTVi2ENlTugoEXmTvvAruk/ElMvNQfdSVrAZ1Pr/dCIX0lL/F8cjpvSA7zbvroGxj1i+IW1C6RXZ7Ti4FOrwDaG8czu3t/9/bh2byPDPi1WW5Z/0U+MGVncO/mwSx2c30xxBe+W4NPEuyb3j7xG+s8frz7B2dRhjY=",
+            "filename": "tmps73mm491"
+        },
+        "guidances": [],
+        "actuals": [
+            {
+                "data": "The company achieved a consolidated revenue from operations of INR 3,524 Mn.",
+                "theme": "Financial Performance",
+                "subtheme": "Revenue Growth and Trends",
+                "evidence": [
+                    "Board Member: Our consolidated revenue from operations reached INR 3,524 Mn in Q2-FY24."
+                ]
+            },
+            {
+                "data": "EBITDA was INR 250 Mn for Q2-FY24.",
+                "theme": "Financial Performance",
+                "subtheme": "Profitability and Margins",
+                "evidence": [
+                    "Board Member: We recorded an EBITDA of INR 250 Mn this quarter."
+                ]
+            },
+            {
+                "data": "EBITDA Margin was 7.08% for Q2-FY24.",
+                "theme": "Financial Performance",
+                "subtheme": "Profitability and Margins",
+                "evidence": [
+                    "Board Member: The EBITDA Margin achieved was 7.08% in Q2-FY24."
+                ]
+            },
+            {
+                "data": "Revenue from Operations was INR 1,989 Mn in H1-FY24.",
+                "theme": "Financial Performance",
+                "subtheme": "Revenue Growth and Trends",
+                "evidence": [
+                    "Board Member: Our revenue from operations for the first half of FY24 was INR 1,989 Mn."
+                ]
+            },
+            {
+                "data": "EBITDA was INR 172 Mn in H1-FY24.",
+                "theme": "Financial Performance",
+                "subtheme": "Profitability and Margins",
+                "evidence": [
+                    "Board Member: We achieved an EBITDA of INR 172 Mn in the first half of the year."
+                ]
+            },
+            {
+                "data": "EBITDA Margin was 8.65% in H1-FY24.",
+                "theme": "Financial Performance",
+                "subtheme": "Profitability and Margins",
+                "evidence": [
+                    "Board Member: The EBITDA Margin for H1-FY24 stood at 8.65%."
+                ]
+            },
+            {
+                "data": "Net Profit was INR 36 Mn with a Net Profit Margin of 1.01% in Q2-FY24.",
+                "theme": "Financial Performance",
+                "subtheme": "Profitability and Margins",
+                "evidence": [
+                    "Board Member: Our net profit for Q2-FY24 was INR 36 Mn, reflecting a net profit margin of 1.01%."
+                ]
+            },
+            {
+                "data": "EPS was INR 1.31/share in Q2-FY24.",
+                "theme": "Financial Performance",
+                "subtheme": "Returns and Efficiency",
+                "evidence": [
+                    "Board Member: The earnings per share in Q2-FY24 were INR 1.31."
+                ]
+            },
+            {
+                "data": "Net Profit was INR 49 Mn with a Net Profit Margin of 2.45% in H1-FY24.",
+                "theme": "Financial Performance",
+                "subtheme": "Profitability and Margins",
+                "evidence": [
+                    "Board Member: We recorded a net profit of INR 49 Mn in H1-FY24 with a net profit margin of 2.45%."
+                ]
+            },
+            {
+                "data": "EPS was INR 1.80/share in H1-FY24.",
+                "theme": "Financial Performance",
+                "subtheme": "Returns and Efficiency",
+                "evidence": [
+                    "Board Member: The earnings per share for the first half of FY24 were INR 1.80."
+                ]
+            }
+        ]
+    },
+    {
+        "type": "CompositeElement",
+        "element_id": "eaf4319c0246f160e5e07481695ce211",
+        "text": "9\n\nConsolidated Half Yearly Financial Performance\n\nYEARS OF ENTERTAINING o INDIA",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 9,
+            "orig_elements": "eJy1k0Fv4jAQhf+K5XMd2UnsOHtDXdjlsCxquVSoQo49AUshRonRFlX733cSqIQqTt32OJ/nOZ73JutXCg3soY0b7+g3QkUKTmhtmZFCsjx1BSutq5guOKRgjdHW0DtC9xCNM9Gg5pXaEDrnWxOhH+vGnMIxbnbgt7uIREjOUXPBf7yLO6SpUgXSQ/BtHHTrdSqLPEEm8pQn/PmOXBGVX4hKRZLdJqMKEe1PfYT9MM/Sv0DzeDAW6F88cBDBRh/ajW1M328OXaiwjScyU4XAhto3EE8HGLXLX3R8drs9mu0425pCu6XDJw5INu1xX0GHvBwuj/AyTEvLQfV2ySyEiC14/t7qUpZOcMtZVnHB8ipTzIAtmMgzbXLllKnqL7NapYOtWp4tPFdCotdDiS/IE3kDjP0fM1hznf2HwYJfO3wf2j40Hl0BR36apiZPYLrmRGZoTWu9acgSujp0e6zgOo6Vjw3cSkMoKZTNLQNdYxq8yJg2MmVl5ZSzAmxt7NctPtd8WGFVJtm40pca/8QLUPwc0XswKj6WSJ6VxWcF8jSdPDyS3zMyXaymD6vJfDFf/CCBzBff55Mb/j//Az4sTwk=",
+            "filename": "tmps73mm491"
+        },
+        "guidances": [],
+        "actuals": []
+    },
+    {
+        "type": "CompositeElement",
+        "element_id": "4de960f9a45dc0ca352824a9182073b8",
+        "text": "YEARS OF ENTERTAINING co INDIA",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 12,
+            "orig_elements": "eJxtj01vgzAMhv9KlHOpwldKd0MamziMVS2XCVUoBQciQUDFaEXV/vsS1O3Uox/7sV8Xdwod9KCxVDV9ITQI3CCKZOBEVSScQNbc2Vc+d0BcvB1IVwa+pBtCe0BRCxTGudNqGK610gJhWutOLMOMZQuqadEQN2TMOA/8rWpsDfU43xk6Dkqj9YrC88Noayb34ZadN+S/djl7AM7YU7AaBtBpmRB6+8lB3aA7jaIC+mMaUnWAywhr6/BB1zy6mUWzhi4o6IbaDaMhpZ77C1xtdM/KCDf7B/1K4uOJfL6RJMuTYx6nWZq9k2ogafaaxnbn34lcYWcOn38BbKdk8A==",
+            "filename": "tmps73mm491"
+        },
+        "guidances": [],
+        "actuals": []
+    },
+    {
+        "type": "CompositeElement",
+        "element_id": "077ff336ef8eb85d5907622c243b1d43",
+        "text": "Shemaroo Entertainment Limited\n\nNo representation or warranty, express or implied, is made as to, and no reliance should be placed on, the fairness, accuracy, completeness or correctness of the information or opinions contained in this presentation. Such information and opinions are in all events not current after the date of this presentation. Certain statements made in this presentation may not be based on historical information or facts and may be \"forward looking statements\" based on the currently held beliefs and assumptions of the management of Shemaroo Entertainment Limited (\u201cCompany\u201d or \u201cShemaroo\u201d), which are expressed in good faith and in their opinion reasonable, including those relating to the Company\u2019s general business plans and strategy, its future financial condition and growth prospects and future developments in its industry and its competitive and regulatory environment.\n\nForward-looking statements involve known and unknown risks, uncertainties and other factors, which may cause the actual results, financial condition, performance or achievements of the Company or industry results to differ materially from the results, financial condition, performance or achievements expressed or implied by such forward-looking statements, including future changes or developments in the Company\u2019s business, its competitive environment and political, economic, legal and social conditions. Further, past performance is not necessarily indicative of future results. Given these risks, uncertainties and other factors, viewers of this presentation are cautioned not to place undue reliance on these forward-looking statements. The Company disclaims any obligation to update these forward-looking statements to reflect future events or developments.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 15,
+            "orig_elements": "eJy1VU1v2zgQ/SuETruAJdiybMt7LbZ72S0KJLekCChyJBGRSIGk4hjF/vd9pOTESdx2EbQnmyPO15v3hjdfE+qoJ+3vlEz+YElVbqpS7stUVMsyLVaVTEtBm3RLebHZFtuyWPJkwZKePJfcc/h8TYQxVirNPbl47vjRjP6uJdW0HpbVZrmEz2w+KOlbWPPtdgfrYJT2we/mptxk+YLl+T5bf1mw03FbZMtwLHbbbHnhHK/DkLij89SHLj6rR+quBi4o+RcfJHkSXhl9Jzru3N1gTYVry2y3zvMtLtSqI38cKPp+/ieJxepm5E3s6CYh3SQhxQDLnR77imzsK0T39BiaTK5a6rk1hv2pPVnPlQ64sr9VrzzJEPOU4lr5Llb2Gv3tasNXayHSXSWXabGpdmlVUpGuqnpXrmpO+6r6Zejv1tkacJZ5tgvwTsdiOaOdb/ZltrtgmBzeh/8+h/fPwv+TYZYGSw548pCNGcsO3Fqu/XHB6DF8c8Go+qFTJBdMOdZzSYw75s2CcS2ZDlE6xbUg5lozdpJVxIYOvUhm9IL5lljNldUIBhchRssF4guDqGhUz0mEsRZdT8c6uildG9s/1WYGpfHX4aoOdEECpXERVZ23kbGrUbQvnEOhT97chsiMdx2jBzg59OAZyrKBfrwGGWN2EIamSt4k+DDxlTkYIh9nXC6Vgy/HmAGwVNxFVBgueWOV4N3rJmsuEC0UHPzgc5vgO8YiWWfMvdLNWdbb5DlkKHluojuyluIgMLZ6igYejf3gIwIzvD3XoEcUHSzflyP77XbMlyvxAVPj+hgPMtQ7mU/Ok/33BTu0CjMIUM88mobVGCMDG3wbi4p4kXoaLajEndG86ghk06IbZWjYt8ZRoBlQCkcTyz8vZe9YAyZZ4FmNTkUSgYN66t15C8QakE4B23r0I+qqsQK0UPAAnaR64kljzQHlQXNuoNMsZh8JwnRmmCaO4lX8kSMSHKeGvIvEJo+ADxRtlpoRlRtcIf2grInAZucL7lNQXXC4Dtq8sOjkrlqvd8U6LfNNlRYFnhlerfdpXW0KLrY51fvi1z0zeVxk+XZadNNxU8xH7LVVtr9gmBzeu+jK9c/acx8n+aRv5YPZPZgOY7rX5jBNf9TTf6vcPdbViLUWteAVTUwwoN6kUmPdiedBqoKPIGkgJr6NoBVYP3Yedy4wbcEGslH3YW9CRly0CuSaypr1ORM8buATyeagQQNS1TVKweogi+AQfW1NHz3fn/pZrc97n1VH5sJKrb+J5LlaZ62IFpOiuNpfy+aCek+qXbyR0Jlm4gAG0+EDNieeKDRleiUWrKMGPUatm5ftuox9HG0YGhrnzr/oXk27X5NAam4VMATSCB4zYwxzLzOeGfsL9lh/2Ef/kyIPig5k3cWnJG5IMCf8JxmLwWTj64nAcqTnx9Wc8n57Chm7PqONVA6qUn0oCiSqOtVMOZFhHOLr9qOA4aqluoNIT1DMT+arqX5vm335D39m1is=",
+            "filename": "tmps73mm491"
+        },
+        "guidances": [],
+        "actuals": []
+    },
+    {
+        "type": "CompositeElement",
+        "element_id": "9f1893aa1fd1eb4c028ac786ab6415fa",
+        "text": "12\n\nHistorical Consolidated Financial Charts\n\nOperational Revenue (INR Mn)\n\nTIT\n\nFY20\n\nFY21\n\nFY22\n\nFY23\n\nH1 FY24\n\nNet Worth (INR Mn) and ROCE (%)\n\n6000\n\n5,970\n\n5,763\n\n5,818\n\n5,919\n\n11.59%\n\n7.04%\n\n4.94%\n\n0.87%\n\n4250\n\nFY20\n\nFY21\n\nFY22\n\nFY23\n\n15.00%\n\n12.00%\n\n9.00%\n\n6.00%\n\n3.00%\n\n0.00%\n\n600\n\n300\n\n0\n\n300\n\n1,200\n\n800\n\n400\n\nYEARS OF ENTERTAINING S hemarcd CU:\n\nEBITDA (INR Mn) and EBITDA Margin (%)\n\n14.97%\n\n16.0%\n\n% \\ \\\n\n14.0%\n\n12.0%\n\n768\n\n9.40%\n\n8.49%\n\n~ Se-wal 3\u00ab)4% i\n\n10.0%\n\n8.0%\n\n6.0%\n\n4.0%\n\n2.0%\n\n0.0%\n\nFY20\n\nFY21\n\nFY22\n\nFY23\n\nH1 FY24\n\nPAT (INR Mn) and EPS (INR)\n\n30\n\n25\n\n20\n\n301\n\n15\n\n11.09\n\n(215)\n\n:\n\n53\n\nIIIII I'l!l\ufb01_--l\ufb01 )r_-d\u2014- \"\u2018*-- 1.31\n\n3.45\n\n10\n\n5\n\n0\n\n5\n\n(7.90)\n\n10\n\nFY20\n\nFY21\n\nFY22\n\nFY23\n\nH1 FY24\n\n13\n\nCapital Market Data\n\n40%\n\n30%\n\n20%\n\n10%\n\n0%\n\n10%\n\n20%\n\n30%\n\n40%\n\nOct-22\n\nNov-22\n\nDec-22\n\nPrice Data (As of 30th September, 2023)\n\nFace Value\n\nMarket Price\n\n52 Week H/L\n\nMarket Cap (INR Mn)\n\nEquity Shares Outstanding (Mn)\n\n1 Year Avg. Trading Volume ('000)\n\nYEARS OF ENTERTAINING 27 INDIA\n\n1 Year Stock Market Performance (as on 30th September, 2023)\n\nJan-23\n\nFeb-23\n\nMar-23\n\nApr-23\n\nMay-23\n\nJun-23\n\nJul-23\n\nAug-23\n\nSep-23\n\nShemaroo\n\nSensex\n\n====Sensex\n\nINR\n\nShareholding Pattern (As on 30th September, 2023)\n\n10.00\n\n132.55\n\n205.95/101.00\n\nPublic-Others\n\n34.03%\n\n3,603.01\n\nPromoters\n\n27.18\n\n65.88%\n\nFPI\n\n81.37\n\n0.09%\n\n14\n\nDisclaimer\n\nYEARS OF ENTERTAINING .. INDIA",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 12,
+            "orig_elements": "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",
+            "filename": "tmps73mm491"
+        },
+        "guidances": [],
+        "actuals": [
+            {
+                "data": "Operational Revenue from FY20 to H1 FY24 shows changes in revenue in INR Mn.",
+                "theme": "Financial Performance",
+                "subtheme": "Revenue Growth and Trends",
+                "evidence": [
+                    "FY20: 6000",
+                    "FY21: 5,970",
+                    "FY22: 5,763",
+                    "FY23: 5,818",
+                    "H1 FY24: 5,919"
+                ]
+            },
+            {
+                "data": "Net Worth (INR Mn) and ROCE (%) for FY20 to FY23.",
+                "theme": "Financial Performance",
+                "subtheme": "Financial Health and Leverage",
+                "evidence": [
+                    "FY20: Net Worth 4250, ROCE 11.59%",
+                    "FY21: Net Worth 5,970, ROCE 7.04%",
+                    "FY22: Net Worth 5,763, ROCE 4.94%",
+                    "FY23: Net Worth 5,818, ROCE 0.87%"
+                ]
+            },
+            {
+                "data": "EBITDA (INR Mn) and EBITDA Margin (%) for FY20 to H1 FY24.",
+                "theme": "Financial Performance",
+                "subtheme": "Profitability and Margins",
+                "evidence": [
+                    "FY20: EBITDA 768, Margin 14.97%",
+                    "FY21: EBITDA Margin 16.0%",
+                    "FY22: EBITDA Margin 14.0%",
+                    "FY23: EBITDA Margin 12.0%"
+                ]
+            },
+            {
+                "data": "PAT (INR Mn) and EPS (INR) from FY20 to H1 FY24.",
+                "theme": "Financial Performance",
+                "subtheme": "Profitability and Margins",
+                "evidence": [
+                    "FY20: PAT 30, EPS 11.09",
+                    "FY21: PAT (215), EPS 1.31",
+                    "FY22: PAT 53, EPS 3.45",
+                    "FY23: PAT (7.90), EPS 10"
+                ]
+            },
+            {
+                "data": "Shareholding Pattern as on 30th September, 2023.",
+                "theme": "Management and Corporate Governance",
+                "subtheme": "Management and Governance",
+                "evidence": [
+                    "Promoters hold 65.88%",
+                    "Public-Others hold 34.03%",
+                    "FPI holds 0.09%"
+                ]
+            }
+        ]
+    },
+    {
+        "type": "CompositeElement",
+        "element_id": "e54450a8bf4afb489c9be421290e0cb7",
+        "text": "10\n\nHistorical Consolidated Income Statement\n\nYEARS OF ENTERTAINING co INDIA",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 10,
+            "orig_elements": "eJy1klFv2jAUhf9K5Oc6sh3n2uwNbXTjYawqvFSoQo59A5aSGBGjFVX773MClVDFU7c+3s/n2LnnZP1KsMEWu7jxjnzJiC2VMU4x6kAglUUhqcaJoMJWogIO1qqS3GWkxWiciSZ5XokN4eB8ZyL249yYUzjGzQ79dhcT4SVjyXPBv72Lu0QFgEp0H3wXB996LUol8qTkUrCcPd9lVwRErkYCosyL22R0JUT6Ux+xHfZ58C/YLPfGIvmTDhxGtNGHbmMb0/eb/SFUScZyxWGik6D2DcbTHkfvw08yfna3PZrtuNuaYLclwxP7RDbdsa3wMGzIhtsjvgzrEs4G39s19yHEJEqC92FLA8oxpWgJlaZSKk4nIDi1yjAGtdJg6k8LG/QQrC7PQZ8nXsq8GEYuNOTqBhj1H4xYq1L8Q8T8OuIfvo/h4K1psq+h60PjU0DosnlnQ4vZMqZpSPq6iJWPDd7qAdSkLoR11HJbU+m0plrJinKQCqoanBCf14PgTF6aGJN+m7lSFwDs/H+/B6PjY10UBfy3Kp5m08dl9us+my1Ws8fVdL6YL75nNmTzxbf59EYBz38B27BMVQ==",
+            "filename": "tmps73mm491"
+        },
+        "guidances": [],
+        "actuals": []
+    },
+    {
+        "type": "Table",
+        "element_id": "661c4a35c3a5f1416a751e0305fc78d2",
+        "text": "INR Mn Q2-FY24 Q2-FY23 Y-o-Y Growth H1-FY24 H1-FY23 Y-o-Y Growth Digital Media 639 (2.1%) 1,200 7.2% 625 1,120 Traditional Media 827 65.0% 2,324 77.9% 1,364 1,306 Income from Operations 1,466 35.7% 3,524 45.3% 1,989 2,426",
+        "metadata": {
+            "text_as_html": "<table><tr><td>INR Mn</td><td>Q2-FY24</td><td>Q2-FY23</td><td>Y-o-Y Growth</td><td>H1-FY24</td><td>H1-FY23</td><td>Y-o-Y Growth</td></tr><tr><td>Digital Media</td><td>625</td><td>639</td><td>(2.1%)</td><td>1,200</td><td>1,120</td><td>7.2%</td></tr><tr><td>Traditional Media</td><td>1,364</td><td>827</td><td>65.0%</td><td>2,324</td><td>1,306</td><td>77.9%</td></tr><tr><td>Income from Operations</td><td>1,989</td><td>1,466</td><td>35.7%</td><td>3,524</td><td>2,426</td><td>45.3%</td></tr></table>",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 4,
+            "orig_elements": "eJx9U11r2zAU/SsXQWED27Hl7xHyNLb1IVu39SWEYmTrJhb4I9gKbSj975Nk13bbsCfpHOvqXJ1zvX8mWGGNjcwEJ1+AJMkhTjGnNmV5bAeI3E7YwbfTBBnzaOEGbkIsIDVKxplkquaZFG3bcdEwib3BFbu0Z5mVKI6lVIwXuq6qGelHwWWpWBpFsWJPrWikrtvv08RRTEpdx32wYISen7pOrDENw+A6M5QohvSXXmKtX3InnrD6e2IFkhf1gaPEQoq2yYqK9X126tpcHXOdJAxDTx04iArl5YSm9m5LTMPN8cyO5lV7gs2RaImTYrLmXOfYKT5QjMQnmbE+K2Vd6fK1ZHmFm7UskXG1dHq7uf35B7bNeqW2Gv6m9rcdDd5hf8I7u7V38L1rH2U5kT+8t0UD/l/RSquvXjvJW34ZG+Kbr+IoJKtgi1wwdYYbNqLhvPfTaf+JOt7N5wl6FnXdBfLojGKH3gzAqI9y9x3jQifwQdKz/CiYUELjuYHQcW8mRC2fBssqN5o1Yye9InrbFG2NcOjaGn6dsGO6gX5xR5qkCxRE841+6MSztm+FC21qBXQ+GYSOv9RejT6vhjkw86dnRM/GMAUwpj+uPiyDgzHlcX338U1qoBKCIRkwiYD2HlSGYCKBD6aDsheMrWDsBGMcmAjAWArXPQPjDhhXwLgB5t1gPATjiP5pXv+he/128vLwD2aBRMo=",
+            "filename": "tmps73mm491"
+        },
+        "guidances": [],
+        "actuals": [
+            {
+                "data": "Digital Media achieved INR 639 Mn in Q2-FY24, which is a (2.1%) decline compared to Q2-FY23.",
+                "theme": "Financial Performance",
+                "subtheme": "Revenue Growth and Trends",
+                "evidence": [
+                    "Board Member: Digital Media achieved INR 639 Mn in Q2-FY24, which is a (2.1%) decline compared to Q2-FY23."
+                ]
+            },
+            {
+                "data": "Traditional Media achieved INR 827 Mn in Q2-FY24, reflecting a 65.0% growth compared to Q2-FY23.",
+                "theme": "Financial Performance",
+                "subtheme": "Revenue Growth and Trends",
+                "evidence": [
+                    "Board Member: Traditional Media achieved INR 827 Mn in Q2-FY24, reflecting a 65.0% growth compared to Q2-FY23."
+                ]
+            },
+            {
+                "data": "Income from Operations was INR 1,466 Mn in Q2-FY24, showing a 35.7% increase compared to Q2-FY23.",
+                "theme": "Financial Performance",
+                "subtheme": "Revenue Growth and Trends",
+                "evidence": [
+                    "Board Member: Income from Operations was INR 1,466 Mn in Q2-FY24, showing a 35.7% increase compared to Q2-FY23."
+                ]
+            }
+        ]
+    },
+    {
+        "type": "Table",
+        "element_id": "c389233d340cb0a98cbdc87886c65a1e",
+        "text": "Equity and Liabilities (INR Mn) FY22 FY23 H1-FY24 Shareholders Fund Share Capital 272 272 272 Other Equity 5,546 5,647 5,692 Total Equity 5,818 5,919 5,964 Non-controlling interest (47) (45) (39) Non-Current Liabilities Long Term borrowings 116 126 83 Lease Liability 1 1 6 Deferred tax liabilities (Net) 4 - - Contract Liabilities - 23 39 Long tem provisions 8 20 45 Total Non-Current Liabilities 128 169 172 Current Liabilities Short Term Borrowings 2,362 3,002 3,155 Trades payables 493 939 1,179 Other Financial Liabilities 73 94 99 Lease Liability 1 1 21 Other Current Liabilities 48 288 200 Short Term Provisions 13 16 39 Total Current Liabilities 2,989 4,341 4,694 Total 8,888 10,385 10,791",
+        "metadata": {
+            "text_as_html": "<table><tr><td>Equity and Liabilities (INR Mn)</td><td>FY22</td><td>FY23</td><td>H1-FY24</td></tr><tr><td>Shareholders Fund</td></tr><tr><td>Share Capital</td><td>272</td><td>272</td><td>272</td></tr><tr><td>Other Equity</td><td>5,546</td><td>5,647</td><td>5,692</td></tr><tr><td>Total Equity</td><td>5,818</td><td>5,919</td><td>5,964</td></tr><tr><td>Non-controlling interest</td><td>(47)</td><td>(45)</td><td>(39)</td></tr><tr><td>Non-Current Liabilities</td></tr><tr><td>Long Term borrowings</td><td>116</td><td>126</td><td>83</td></tr><tr><td>Lease Liability</td><td>1</td><td>1</td><td>6</td></tr><tr><td>Deferred tax liabilities (Net)</td><td>4</td><td>-</td><td>-</td></tr><tr><td>Contract Liabilities</td><td>-</td><td>23</td><td>39</td></tr><tr><td>Long tem provisions</td><td>8</td><td>20</td><td>45</td></tr><tr><td>Total Non-Current Liabilities</td><td>128</td><td>169</td><td>172</td></tr><tr><td>Current Liabilities</td></tr><tr><td>Short Term Borrowings</td><td>2,362</td><td>3,002</td><td>3,155</td></tr><tr><td>Trades payables</td><td>493</td><td>939</td><td>1,179</td></tr><tr><td>Other Financial Liabilities</td><td>73</td><td>94</td><td>99</td></tr><tr><td>Lease Liability</td><td>1</td><td>1</td><td>21</td></tr><tr><td>Other Current Liabilities</td><td>48</td><td>288</td><td>200</td></tr><tr><td>Short Term Provisions</td><td>13</td><td>16</td><td>39</td></tr><tr><td>Total Current Liabilities</td><td>2,989</td><td>4,341</td><td>4,694</td></tr><tr><td>Total</td><td>8,888</td><td>10,385</td><td>10,791</td></tr></table>",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 12,
+            "orig_elements": "eJyVVttu2zgQ/ZWBnhpAtsWLLiyyedjsBi3QpsEmL4u0MGiJsQXIkivRbYyg/94h5VisTau7EGxzxpzh3M6hHl8CVam1qvW8LIK3EBCesrx4iidUZmrC8zSbLGQUTRTNaSpS9RRLGYQQrJWWhdQSbV6CvGnaoqylVp2VK7lrtnq+UuVypVFD4ihCm736e1noFWppkqSo3TRlrY3d42MmpiwEIrJp+iWEV5GzdMqMTGiWTSOvxpqgJuh2nVZrk8ld+ayq+43MVfAD/yiUVrkum3qeV7Lr5pu2WeC2aCoYesENT2Wl9G6jrO3dx8AGXC+3cmmzegxUvQzMERvUzOvteqFakxtFlVbPei67+UqvK2N/qeWiUleXeqVkgT+tWV79/XVb6h3IuoAPpVyUValL1cGb97f/wMf64nKGe8y+m38pdQV2EN6RCcq8l2fG7ez1iEVT7PYnFZA3VbeR9R+fA/45uLpfyVatmqpQbQc327pAq2Jv3xv0W+Babkotq/5v/NCUjq9dF58wkhb6HA874zDmiSMlPHUl4fHz0GAIp34ykjmSIMKVEn7q57apJ3lT67apqrJeAk6ZalWnD3ZveHrhCLEjMHFx4vCoqMb99bZtETpuN0/j+NDg4Q+qXcOiadvmO8bSHU4iZKgOocM6Yx5HSnbqcNZQG+JZJafmf6knheEWoOUzVO783So95M4Pq8nxyvV2bSorc0/uv1hSdlgycaY2iFdANH4rO0Tn4GRoN42G6OJzAzPaD1vdwSFJhukhnlk+avV/avP9qml13+c/T/tMQ5YM+GFhFLkSiX1ptbLA7mzkznDJ4IqLoaaCOYmEJPWUuIflDbJznZdYJ19tUsfj0H/ha9j/mEFKzkUz1ifu9D1zZyAarfnd6QAR5jR8dAz7CRqLioYiG0rNQ8aJIyXCwz/W6TDNYeZkQ6KQZbErpsKt1mxP57P+HrEXmLljzN3ym1sEzO1hvhjsbws44X/4he4B6fzwcVkcLHuDZW2wbA0uOYMlZbBkDJaE4RznguFaMBwLhlvPgRV8XAnIkXjLJpAxOBo/IPgkMM5swGGCj4+wUI1lYgI8PAQZ0Ah4DKP0goFlgHQCSCO+AQIvLYClA7A0ABb+cIR2QJQDohssqmEExJDiRg5CeItDCZyFHHBMMTNpRuBFEhCGuZn6nAUIWGCABQRYIOz32nmHfs6hn2/zRvX6gvVgsgx+fPkJNEhLHA==",
+            "filename": "tmps73mm491"
+        },
+        "guidances": [],
+        "actuals": []
+    },
+    {
+        "type": "CompositeElement",
+        "element_id": "bcff1dd3aca86ea47f94df1b535d7c86",
+        "text": "Q2-FY24 Profit and Loss includes expenses on new initiatives (net of revenue) - INR 301 Mn\n\nH1-FY24 Profit and Loss includes expenses on new initiatives (net of revenue) - INR 426 Mn\n\nDivisional Breakup (Consolidated):",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 4,
+            "orig_elements": "eJy1k9Fu2yAUhl8FcdVKwQIMNvRym6ZNWqts600VVRExhwTNAcsmaaJq7z7sdNW09WZVemWfD37OwZ+8eMTQwhZCWnqLrxDWTrlKNY400GgiGNXEcGaIZVY6JbiupcEzhLeQjDXJ5MwjbmLsrQ8mwTDVrTnGXVpuwK83KRMmKc2ZJ/zgbdpkyquqzrSLPqQxt1jwsizKGaplftzP0HOteFGPNeOKFvQlMCUywcNxSLAdbzL3B2i/d6YB/DMvWEjQJB/DsmnNMCy7Pq7yNlpIVbHcBDvfQjp2MGXn13gaOKx3Zj3daoEhrPHYostkGXbbFfSZi/HwBIfxnvgrJx/vuEDzPjqfkAkWfYnDgHxo2p2FAcGhgzDklxhQgIe84JM3ye8zugiQUHSohz2EHVwigj7ffEMlZeg6jOP8nu7G9P2UuR3b5v5/S3SUUkYFJ45XjghbNWQlOSNag2NaVitRyjeTyERdnyzWJ4vPQFUna1zSutAvgSnyOo2CCVGfSeMndn6Nglf/q7FqjJKOKVJKlf/F0nKiTbbKTUO5LK2opXgzjYoVcoaUUIUcFT2VWp2M1UqPSv+pp+2vE1iLSqszCfzg937IPUyL3vVgfuw6dPE+hiG2Pn8osJdXf4q49anNw93/Ao4Ugng=",
+            "filename": "tmps73mm491"
+        },
+        "guidances": [],
+        "actuals": [
+            {
+                "data": "Expenses on new initiatives in Q2-FY24 amounted to INR 301 Mn.",
+                "theme": "Financial Performance",
+                "subtheme": "Financial Health and Leverage",
+                "evidence": [
+                    "Moderator: Q2-FY24 Profit and Loss includes expenses on new initiatives (net of revenue) - INR 301 Mn"
+                ]
+            },
+            {
+                "data": "Expenses on new initiatives in H1-FY24 amounted to INR 426 Mn.",
+                "theme": "Financial Performance",
+                "subtheme": "Financial Health and Leverage",
+                "evidence": [
+                    "Moderator: H1-FY24 Profit and Loss includes expenses on new initiatives (net of revenue) - INR 426 Mn"
+                ]
+            }
+        ]
+    },
+    {
+        "type": "Table",
+        "element_id": "b84d3c6695ae8619b1dd8af9126db883",
+        "text": "Particulars (INR Mn) H1-FY24 H1-FY23 Y-o-Y Revenue from Operations 3,524 2,426 45.3% Total Expenses 3,274 2,216 47.8% EBITDA 250 210 19.1% EBITDA Margin (%) 7.08% 8.64% (156) Bps Other Income 18 23 (18.6%) Depreciation 27 27 2.8% Finance Cost 181 141 28.4% PBT 59 64 (7.8%) Tax 15 26 (40.9%) PAT 44 39 14.2% Minority Interest & Share of profit/ (loss) in associate company (9) (2) NA PAT after adjustments 36 36 (2.0%) PAT Margin (%) 1.01% 1.50% (49) Bps Comprehensive Income (6) (2) NA Total Profit including Comprehensive Income( Net of tax) 30 34 (12.6%) EPS (INR)(not annualised) 1.31 1.34 (2.0%)",
+        "metadata": {
+            "text_as_html": "<table><tr><td>Particulars (INR Mn)</td><td>H1-FY24</td><td>H1-FY23</td><td>Y-o-Y</td></tr><tr><td>Revenue from Operations</td><td>3,524</td><td>2,426</td><td>45.3%</td></tr><tr><td>Total Expenses</td><td>3,274</td><td>2,216</td><td>47.8%</td></tr><tr><td>EBITDA</td><td>250</td><td>210</td><td>19.1%</td></tr><tr><td>EBITDA Margin (%)</td><td>7.08%</td><td>8.64%</td><td>(156) Bps</td></tr><tr><td>Other Income</td><td>18</td><td>23</td><td>(18.6%)</td></tr><tr><td>Depreciation</td><td>27</td><td>27</td><td>2.8%</td></tr><tr><td>Finance Cost</td><td>181</td><td>141</td><td>28.4%</td></tr><tr><td>PBT</td><td>59</td><td>64</td><td>(7.8%)</td></tr><tr><td>Tax</td><td>15</td><td>26</td><td>(40.9%)</td></tr><tr><td>PAT</td><td>44</td><td>39</td><td>14.2%</td></tr><tr><td>Minority Interest &amp; Share of profit/ (loss) in associate company</td><td>(9)</td><td>(2)</td><td>NA</td></tr><tr><td>PAT after adjustments</td><td>36</td><td>36</td><td>(2.0%)</td></tr><tr><td>PAT Margin (%)</td><td>1.01%</td><td>1.50%</td><td>(49) Bps</td></tr><tr><td>Comprehensive Income</td><td>(6)</td><td>(2)</td><td>NA</td></tr><tr><td>Total Profit including Comprehensive Income( Net of tax)</td><td>30</td><td>34</td><td>(12.6%)</td></tr><tr><td>EPS (INR)(not annualised)</td><td>131</td><td>1.34</td><td>(2.0%)</td></tr></table>",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 10,
+            "orig_elements": "eJydVW1vozgQ/isjpJ6I1BCwgYS7qlK729X1Q7vRNl+qahU5MCSciEHg7CVa7X+/sUNitkuku5NI8NjMi8fP8/jtu4MlblGqZZE5v4OzEkmKLMQxz1fTcThL8rHgbDbGnPk8DkXGVrlzDc4WlciEEuTz3UmrqskKKRS2xi7Fodqp5QaL9UbRTBD5Pvl0038XmdrQLIvjKc3WVSGV9nt7C4LYow8ZZ57/9RpOdsAT7nE9waJZ4PGhmaMPzTjtoVW41XuZF3ssX2qRovODFjJUmKqiksu0FG27rJtqRZ/5XsJjRut5UaI61Ghc50+OqViud2JttvXmoFw7OkNNM0u5266w0ZvTW1O4V0vRLjdqW2r/GyVWJd7eqA2KjF6NHt7ORaOKdFeKpgX38fkLPMnRzYQW9OKfwfjTKwvf2fxsv46r8evRmuh4k1PsVZUduhTZ7Rf8hnKHkDfVFj7X2Ai945a+zsw6v45MjqPFrkMWn60w8vjV0TIZupCLSokSHvY1yhb7kdi0H4kFvUhTbzYQ6eH+cfHxzvpEvh0HdhwkXnDRG55Esy4kuFejs8PU80/p6Dfz4tBabhDFI7iv218DfqYONvAo02qLNvnM1sR7USjqKWM/xkesG0wL02XrOB0cDvbkE/FGpggfqlb1igjsOLRjNvPCgRjz+8X5kyg5D2N7PK4+kIHyF2JvE0U2jz1KNySCDLnO72zS0GbiSa9yjw1U+1TIqinUgTqvsMFWwW9iW/8BLxvRIFQ5EDHzQk3ALau2HQEdNtG10k1GoLOqhTzY8hILA5fZ8fPdYMUgcsoJIvtr1yotez08x0NDl2Tlwu6HkBh4fnDVsyK/h8QwuQDED7SpBjfEr+IbvgekG//7HR6pOjf9o76l5Y5keQ1D8V14RqW7rcTeBuWWhbyHnoANo/9h/mKEbOTKSoGQcifKosWs1xDeQ7LXj/m+sZNOyCZH6TSSrWXVyPGAcEInmN2bgxFIuCCAYIQPjOCBETr4WdfA6BkYHQOjX9AJDskUkDyBkSX4RYXAqA8Y1YGz2kBfXCCY0QUFnYhAXzOATc2j8/WlgFwCIOqDoTwQwyFKIA7hyGQg4tK1SncodAQFjcgwBJ6A4R0M0Ow/UQyIWkCAg+c7GGQO8Fg/x4OEnwkBhghgCAAn4A/iEAjfpzT/F77AfeDUmiNM4SIqqR4e6L+wq1rf8acrf6Fh5/z4+g8EjLQM",
+            "filename": "tmps73mm491"
+        },
+        "guidances": [],
+        "actuals": [
+            {
+                "data": "Revenue from Operations increased by 45.3% from H1-FY23 to H1-FY24.",
+                "theme": "Financial Performance",
+                "subtheme": "Revenue Growth and Trends",
+                "evidence": [
+                    "Document data: Revenue from Operations 3,524 2,426 45.3%"
+                ]
+            },
+            {
+                "data": "Total Expenses increased by 47.8% from H1-FY23 to H1-FY24.",
+                "theme": "Financial Performance",
+                "subtheme": "Financial Health and Leverage",
+                "evidence": [
+                    "Document data: Total Expenses 3,274 2,216 47.8%"
+                ]
+            },
+            {
+                "data": "EBITDA increased by 19.1% from H1-FY23 to H1-FY24.",
+                "theme": "Financial Performance",
+                "subtheme": "Profitability and Margins",
+                "evidence": [
+                    "Document data: EBITDA 250 210 19.1%"
+                ]
+            },
+            {
+                "data": "EBITDA Margin decreased by 156 Bps from H1-FY23 to H1-FY24.",
+                "theme": "Financial Performance",
+                "subtheme": "Profitability and Margins",
+                "evidence": [
+                    "Document data: EBITDA Margin (%) 7.08% 8.64% (156) Bps"
+                ]
+            },
+            {
+                "data": "Other Income decreased by 18.6% from H1-FY23 to H1-FY24.",
+                "theme": "Financial Performance",
+                "subtheme": "Financial Health and Leverage",
+                "evidence": [
+                    "Document data: Other Income 18 23 (18.6%)"
+                ]
+            },
+            {
+                "data": "Finance Cost increased by 28.4% from H1-FY23 to H1-FY24.",
+                "theme": "Financial Performance",
+                "subtheme": "Financial Health and Leverage",
+                "evidence": [
+                    "Document data: Finance Cost 181 141 28.4%"
+                ]
+            },
+            {
+                "data": "PBT decreased by 7.8% from H1-FY23 to H1-FY24.",
+                "theme": "Financial Performance",
+                "subtheme": "Profitability and Margins",
+                "evidence": [
+                    "Document data: PBT 59 64 (7.8%)"
+                ]
+            },
+            {
+                "data": "Tax decreased by 40.9% from H1-FY23 to H1-FY24.",
+                "theme": "Financial Performance",
+                "subtheme": "Financial Health and Leverage",
+                "evidence": [
+                    "Document data: Tax 15 26 (40.9%)"
+                ]
+            },
+            {
+                "data": "PAT increased by 14.2% from H1-FY23 to H1-FY24.",
+                "theme": "Financial Performance",
+                "subtheme": "Profitability and Margins",
+                "evidence": [
+                    "Document data: PAT 44 39 14.2%"
+                ]
+            },
+            {
+                "data": "PAT Margin decreased by 49 Bps from H1-FY23 to H1-FY24.",
+                "theme": "Financial Performance",
+                "subtheme": "Profitability and Margins",
+                "evidence": [
+                    "Document data: PAT Margin (%) 1.01% 1.50% (49) Bps"
+                ]
+            },
+            {
+                "data": "Total Profit including Comprehensive Income decreased by 12.6% from H1-FY23 to H1-FY24.",
+                "theme": "Financial Performance",
+                "subtheme": "Profitability and Margins",
+                "evidence": [
+                    "Document data: Total Profit including Comprehensive Income( Net of tax) 30 34 (12.6%)"
+                ]
+            },
+            {
+                "data": "EPS decreased by 2.0% from H1-FY23 to H1-FY24.",
+                "theme": "Financial Performance",
+                "subtheme": "Profitability and Margins",
+                "evidence": [
+                    "Document data: EPS (INR)(not annualised) 1.31 1.34 (2.0%)"
+                ]
+            }
+        ]
+    },
+    {
+        "type": "Table",
+        "element_id": "a4f5c73e07cbdbbcd2de7420a1be7e6d",
+        "text": "Assets (INR Mn) FY22 FY23 H1-FY24 Non-Current Assets Fixed Assets Property, Plant & Equipment 215 350 401 Capital WIP - 11 - Intangible assets 7 6 5 Investment Property 1 1 1 Right of use assets 1 2 26 Investments 25 25 25 Long Term Loan and Advances 1 1 1 Other Financial Assets 8 8 34 Other Non-Current Assets 11 11 8 - 28 34 Deferred tax assets (net) 270 444 536 Total Non-Current Assets Current Assets Inventories 7,149 7,346 7,383 Trade Receivables 566 1,268 1,323 Cash and Cash Equivalents 16 9 15 Other Bank Balances 67 12 2 Short Term loan and advances 1 120 126 Other Financial Assets 5 146 186 Current Tax Assets (Net) 419 472 530 Other Current Assets 394 567 691 Total Current Assets 8,617 9,941 10,255 Total 8,888 10,385 10,791",
+        "metadata": {
+            "text_as_html": "<table><tr><td>Assets (INR Mn)</td><td>FY22</td><td>FY23</td><td>H1-FY24</td></tr><tr><td>Non-Current Assets</td></tr><tr><td>Fixed Assets</td></tr><tr><td>Property, Plant &amp; Equipment</td><td>215</td><td>350</td><td>401</td></tr><tr><td>Capital WIP</td><td>'</td><td>11</td><td>-</td></tr><tr><td>Intangible assets</td><td>7</td><td>6</td><td>5</td></tr><tr><td>Investment Property</td><td>1</td><td>1</td><td>1</td></tr><tr><td>Right of use assets</td><td>e</td><td>2</td><td>26</td></tr><tr><td>Investments</td><td>25</td><td>25</td><td>25</td></tr><tr><td>Long Term Loan and Advances</td><td>[EEN</td><td>1</td><td>1</td></tr><tr><td>Other Financial Assets</td><td>8</td><td>8</td><td>34</td></tr><tr><td>Other Non-Current Assets</td><td>11</td><td>11</td><td>8</td></tr><tr><td>Deferred tax assets (net)</td><td>-</td><td>28</td><td>34</td></tr><tr><td>Total Non-Current Assets</td><td>270</td><td>444</td><td>536</td></tr><tr><td>Current Assets</td></tr><tr><td>Inventories</td><td>7,149</td><td>7,346</td><td>7,383</td></tr><tr><td>Trade Receivables</td><td>566</td><td>1,268</td><td>1,323</td></tr><tr><td>Cash and Cash Equivalents</td><td>16</td><td>9</td><td>15</td></tr><tr><td>Other Bank Balances</td><td>67</td><td>12</td><td>2</td></tr><tr><td>Short Term loan and advances</td><td>1</td><td>120</td><td>126</td></tr><tr><td>Other Financial Assets</td><td>5</td><td>146</td><td>186</td></tr><tr><td>Current Tax Assets (Net)</td><td>419</td><td>472</td><td>530</td></tr><tr><td>Other Current Assets</td><td>394</td><td>567</td><td>691</td></tr><tr><td>Total Current Assets</td><td>8,617</td><td>9,941</td><td>10,255</td></tr><tr><td>Total</td><td>8,888</td><td>10,385</td><td>10,791</td></tr></table>",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 12,
+            "orig_elements": "eJyNVm1v2zYQ/isHfVhbwI5FSqKlNQ3QZgkWoM2MNEAxuIVBS4wtTKY0ic5iFP3vO1KyRVuSW1gvxzPvdDw+zx3n3x2RiY2QapEmzu/g0IAsPZHE49gl3thfMjGOnjgbkyig1Kee5yaxMwJnIxRPuOJo892J87xMUsmVqMw447t8qxZrka7WCjUkcF20adT/pYlao5YyNkVtkadSabv5nHiMXqCOhPj6NoJW4fuNhgYBu3B7NcYINU61q5TY6NXM0heRfS54LJwf+EcilIhVmstFnPGqWhRlvsRp7kUYhdMAJzylmVC7Qhjb2SfHBC1XW74yK5s7Qq4c/YkCNQu53SxFqddHUaXEi1rwarFWm0zbXyq+zMTVpVoLnuCr1OLV+6oSqoLXd/cP8Em+uZygTutv/6bUHniHwZ9kjGO/Hk+0m8ne5TJPdo3nBOI8qwou3311/K/O1X0ux9fbssSdhfqbaJY0DnotbjFXydDcq1mZF6JUuxHMMCMKfuOb4i3c/LtNC42e2gBvSoKD7AXuQfZd0nV6zYtU8Qy+3M0OE18dJEIO4rhreycV7kyKKQZuxYz39CCxgxT0OXgWldLBw35x7aeHJdvFg8Y35E+wrTpRiDYlrcTOhdHa0uCcaFt/zOUKHkW5gY85l8Al7mDyzGUsWm/zm5v7X1vPXwisEm6RyTJOcV/eHy8p7JE8f8jNEAKPd9YSw66nP8STQA8JKP7SJBheS6HenCJDp+d8UI+5RtqZoOjUQqvvt9Dxurt2Qp2fEM3ssVR5mVq7Mh0RP7JGns/sUej1LKHkiYAHEYv0WdeW1lnAWmMyoiy0Rh7tcXXNq7VBixE0jZ95doRB0npswyQ9EKx3+wOX/+AjO4Yea7lILBp0nXxe56WqgZztgcxPgWyhhrqW3MOqnyC5JRWx0k7CHk/7vX1EBO6L972NQJ+0+fGn7SoDzx2KawCBXmShzkodi3q4WuN5wFM4YqS1j0aRb+XOHWHLHHBoeQjD0LbxwsAeTo9imjStaFL3PNNsdT/UffCk44HudPrhQdPZekgJdjOCTu9p+w5gvwHsM4D9Bax2AmMgBB+dLgFTYBBAT/EHYn49NR21FE8rllEFNGiuMxW48diPRQjx5/kwVCx1/HiFuAhqJg7WQsDKBVixACsVDJW5E6SAVZLAlCIwJQhM6YFOpQGsMGAqC5iKAoMFBAiDCE980FMXgE3xrITJPEd3nTPq4s2GMhfg6Q+jCRkMkROQlIBkxJS40Mc5QK7hmhAMEYE+KoGhEBjqQE2ZZp5hBtSMgJoJ+py4PzY+6nw5P779D3hGi+o=",
+            "filename": "tmps73mm491"
+        },
+        "guidances": [],
+        "actuals": [
+            {
+                "data": "Total Non-Current Assets increased from INR 8,888 Mn in FY22 to INR 10,385 Mn in FY23.",
+                "theme": "Financial Performance",
+                "subtheme": "Financial Health and Leverage",
+                "evidence": [
+                    "Total Non-Current Assets increased from INR 8,888 Mn in FY22 to INR 10,385 Mn in FY23."
+                ]
+            },
+            {
+                "data": "Total Current Assets rose from INR 9,941 Mn in FY23 to INR 10,255 Mn in H1-FY24.",
+                "theme": "Financial Performance",
+                "subtheme": "Financial Health and Leverage",
+                "evidence": [
+                    "Total Current Assets rose from INR 9,941 Mn in FY23 to INR 10,255 Mn in H1-FY24."
+                ]
+            }
+        ]
+    },
+    {
+        "type": "Table",
+        "element_id": "c4e08f8de7f2ca1ce115a1c8f2ef77d7",
+        "text": "Particulars (INR Mn) FY21 FY22 FY23 H1-FY24 3,111 Revenue from Operations 3,814 5,566 2,986 Total Expenses 3,455 5,093 126 EBITDA 358 473 4.04% EBITDA Margin (%) 9.40% 8.49% 10 Other Income 19 34 73 Depreciation 66 52 284 Finance Cost 259 307 (221) 52 148 (2) 1 53 (219) 51 96 4 Minority Interest & Share of profit/ (loss) in associate company 2 (2) (215) PAT after adjustments 53 94 (6.91%) PAT Margin (%) 1.38% 1.68% 9 Comprehensive Income (3) (9) (205) Total Profit including Comprehensive Income (Net of tax) 50 85 (7.90) EPS (INR) (not annualised) 1.94 3.45",
+        "metadata": {
+            "text_as_html": "<table><tr><td>Particulars (INR Mn)</td><td>FY21</td><td>FY22</td><td>FY23</td><td>H1-FY24</td></tr><tr><td>Revenue from Operations</td><td>3,111</td><td>3,814</td><td>5,566</td><td>3,524</td></tr><tr><td>Total Expenses</td><td>2,986</td><td>3,455</td><td>5,093</td><td>3,274</td></tr><tr><td>EBITDA</td><td>126</td><td>358</td><td>473</td><td>250</td></tr><tr><td>EBITDA Margin (%)</td><td>4.04%</td><td>9.40%</td><td>8.49%</td><td>7.08%</td></tr><tr><td>Other Income</td><td>10</td><td>19</td><td>34</td><td>18</td></tr><tr><td>Depreciation</td><td>73</td><td>66</td><td>52</td><td>27</td></tr><tr><td>Finance Cost</td><td>284</td><td>259</td><td>307</td><td>181</td></tr><tr><td>PBT</td><td>(221)</td><td>52</td><td>148</td><td>59</td></tr><tr><td>Tax</td><td>(2)</td><td>1</td><td>53</td><td>15</td></tr><tr><td>PAT</td><td>(219)</td><td>51</td><td>96</td><td>44</td></tr><tr><td>Minority Interest &amp; Share of profit/ (loss) in associate company</td><td>4</td><td>2</td><td>(2)</td><td>(9)</td></tr><tr><td>PAT after adjustments</td><td>(215)</td><td>53</td><td>94</td><td>36</td></tr><tr><td>PAT Margin (%)</td><td>(6.91%)</td><td>1.38%</td><td>1.68%</td><td>1.01%</td></tr><tr><td>Comprehensive Income</td><td>9</td><td>(3)</td><td>(9)</td><td>(6)</td></tr><tr><td>Total Profit including Comprehensive Income (Net of tax)</td><td>(205)</td><td>50</td><td>85</td><td>30</td></tr><tr><td>EPS (INR) (not annualised)</td><td>(7.90)</td><td>1.94</td><td>3.45</td><td>131</td></tr></table>",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 11,
+            "orig_elements": "eJydVltv2zoM/iuEgR4kQOJYluVYW1FgV5w+dAvWvhwUQ6DGTOIDxzZsZUsw7L+PUi5SF/dhe0lMivx4EfnZjz8CLHGDlZ4XefAKgjRPl0Iu+TiJFI4TkfCxzJCPIyZTJqQQLOfBCIINapUrrcjnR7Co6zYvKqWxs3Kp9vVWz9dYrNaaNExEEfkc1d+LXK9JG6fplLRNXVTa+D0+MpaGZBhHMuRfR3CSGc+OilhM437NwYc0QbfvNG5MLbNih+V9oxYY/KSDHDUudFFX80Wpum7etPUTmUWh5EJkZLAsStT7Bq3v7C6wKVerrVrZuh4DrFaBCdGQZl5tN0/YmuoYqTTu9Fx187XelMb/WqunEm+u9RpVTn+tebyZqVYXi22p2g4Gt5++wF01vJ7QgTn8+F/MfCH2BX4W/mVjkpODPDHAk1OQpzrfH2PlN1/wG1ZbhGVbb+Bzg60ytXdkndtzPmKMeVLGkrMkRiJNvTMRH89svGOAh1qrEj7sGqw6dLjxSGa+byKEhxtJ7p3F0x7cD29vH96/OVux2EMT2fk5mTqkWEQv4cCdaldFBYOroXMNo+TqLMkwiZyUhYl00jSMsqtL6M/U8RZuq0W9QZdo5B6lS9l1lWWXSO+xaXFR2LtxUV1l3jWI2NU7vUT6SAtYLRDe1Z12hlniNcnLKpp6abFLtNnbh7PBII7ZsC8NlrjrOIE/mxC180AchBs74SploieLN34WTHpZOAzpWpT0jNNdUdVtofd0XRpb7DT8ozbNa7hfqxahXgLxwLLQExiUddcNgWaF2KE2d4JAF9yoau8CuG72VjY4pfhbFaCWFBxU/v+204ZuO78uMexriHTBeNqP2jPbgzSUzJNZyLMrT0qfSRHrme53VHSLa1rr4hv+PuVuhga8p26bQU8PDmQxs62mFi/KLb0wVtAXCgafUJuL0WrnocaR3ya3a5mjF97HArN7S7VDGFS1BlVVW1UWHeYe9DSUkd8xv/Nh4vAZ9zdlcuTbyYHq7TvGvAbs66OH6MEQvPmJzQ+HI5GDJWJ4ga7BEjNYQgZLrfCcd8EyLFhmBeJKONIeUSUQRYLlOrjgQrCsB5btgEXgMxowCTwBcvbZCSgBEQMxCvhUA0QrQHQCliWMBbECCUNgIDjYrQXBQKaQQM8u/tEeQmyR7cpA71qZmDKB4xbA8yUBuwxglwDkC8PHCV+aGDRv8LdjCyKCTMBhsuDlGQQzbGCGzHxtnD4+HsxABT+//gJYn93u",
+            "filename": "tmps73mm491"
+        },
+        "guidances": [],
+        "actuals": [
+            {
+                "data": "Revenue from Operations achieved was 3,111 Mn in FY21, 3,814 Mn in FY22, and 5,566 Mn in FY23.",
+                "theme": "Financial Performance",
+                "subtheme": "Revenue Growth and Trends",
+                "evidence": [
+                    "Revenue from Operations achieved was 3,111 Mn in FY21, 3,814 Mn in FY22, and 5,566 Mn in FY23."
+                ]
+            },
+            {
+                "data": "Total Expenses were 3,455 Mn in FY21, 5,093 Mn in FY22.",
+                "theme": "Financial Performance",
+                "subtheme": "Financial Health and Leverage",
+                "evidence": [
+                    "Total Expenses were 3,455 Mn in FY21, 5,093 Mn in FY22."
+                ]
+            },
+            {
+                "data": "EBITDA was 126 Mn in FY21, 358 Mn in FY22, and 473 Mn in FY23.",
+                "theme": "Financial Performance",
+                "subtheme": "Profitability and Margins",
+                "evidence": [
+                    "EBITDA was 126 Mn in FY21, 358 Mn in FY22, and 473 Mn in FY23."
+                ]
+            },
+            {
+                "data": "EBITDA Margin was 4.04% in FY21, 9.40% in FY22, and 8.49% in FY23.",
+                "theme": "Financial Performance",
+                "subtheme": "Profitability and Margins",
+                "evidence": [
+                    "EBITDA Margin was 4.04% in FY21, 9.40% in FY22, and 8.49% in FY23."
+                ]
+            },
+            {
+                "data": "Other Income was 10 Mn in FY21, 19 Mn in FY22, and 34 Mn in FY23.",
+                "theme": "Financial Performance",
+                "subtheme": "Profitability and Margins",
+                "evidence": [
+                    "Other Income was 10 Mn in FY21, 19 Mn in FY22, and 34 Mn in FY23."
+                ]
+            },
+            {
+                "data": "Depreciation was 73 Mn in FY21, 66 Mn in FY22, and 52 Mn in FY23.",
+                "theme": "Financial Performance",
+                "subtheme": "Financial Health and Leverage",
+                "evidence": [
+                    "Depreciation was 73 Mn in FY21, 66 Mn in FY22, and 52 Mn in FY23."
+                ]
+            },
+            {
+                "data": "Finance Cost was 284 Mn in FY21, 259 Mn in FY22, and 307 Mn in FY23.",
+                "theme": "Financial Performance",
+                "subtheme": "Financial Health and Leverage",
+                "evidence": [
+                    "Finance Cost was 284 Mn in FY21, 259 Mn in FY22, and 307 Mn in FY23."
+                ]
+            },
+            {
+                "data": "PAT after adjustments was (221) Mn in FY21, 53 Mn in FY22, and 94 Mn in FY23.",
+                "theme": "Financial Performance",
+                "subtheme": "Profitability and Margins",
+                "evidence": [
+                    "PAT after adjustments was (221) Mn in FY21, 53 Mn in FY22, and 94 Mn in FY23."
+                ]
+            },
+            {
+                "data": "PAT Margin was (6.91%) in FY21, 1.38% in FY22, and 1.68% in FY23.",
+                "theme": "Financial Performance",
+                "subtheme": "Profitability and Margins",
+                "evidence": [
+                    "PAT Margin was (6.91%) in FY21, 1.38% in FY22, and 1.68% in FY23."
+                ]
+            },
+            {
+                "data": "Total Profit including Comprehensive Income was (205) Mn in FY21, 50 Mn in FY22, and 85 Mn in FY23.",
+                "theme": "Financial Performance",
+                "subtheme": "Profitability and Margins",
+                "evidence": [
+                    "Total Profit including Comprehensive Income was (205) Mn in FY21, 50 Mn in FY22, and 85 Mn in FY23."
+                ]
+            },
+            {
+                "data": "EPS (INR) was (7.90) in FY21, 1.94 in FY22, and 3.45 in FY23.",
+                "theme": "Financial Performance",
+                "subtheme": "Returns and Efficiency",
+                "evidence": [
+                    "EPS (INR) was (7.90) in FY21, 1.94 in FY22, and 3.45 in FY23."
+                ]
+            }
+        ]
+    },
+    {
+        "type": "CompositeElement",
+        "element_id": "5a515f39b4f979ae2012765c78494058",
+        "text": "-\n\nA N [ \u00a3 P o N \u2014 P e =) AR ) \u00a3l L \u2014 z = ) = >/ o Il | | 2 //%,* = L = vf \u00bb ZZ W 17 77\u2014\\ = O > 7, 1 1 =7 i [l \\.\u2018) l I(I_)) o A oS /& s 7E A \u2014\u2014 I Lo \\ ) = \\} s\n\nShemaroo Entertainment Limited\n\nL\n\nEARNINGS PRESENTATION \u2013 Q2/H1-FY24\n\nShemaroo: At a Glance\n\nShemaroo (Pre 2018)\n\ne (r\u00bb \u00a2\n\nDIGITAL\n\nSYNDICATION\n\nB2B2C\n\nI\n\nDIGITAL\n\nYOUTUBE\n\n20%\n\n\u2014e\u2014\n\ne\n\n=\n\no\n\no\n\n=\n\no\n\n=\n\nTRADITIONAL\n\nB2B2C\n\nO T\n\nDTH\n\n80%\n\nRIS,\n\nB2B\n\npAETNEREL\n\ns \u00a5\n\nTV SYNDICATION\n\nIN-FLIGHT\n\n6\u20180 ENTERTANING\n\nShemaroo Today (FY23)\n\nB2B\n\n1 (\u00ab *\n\nDIGITAL\n\n)\n\nSYNDICATION\n\nB2B2C\n\nDIGITAL\n\niieaaaaiand * AT\n\net\n\nYOUTUBE AND\n\nFACEBOOK\n\n40%\n\n\u00bb L/ e . 0..\n\nME\n\nQ.\n\n\u2014\n\nel\n\ne\n\ne\n\ne\n\ne\n\ne\n\no\n\ne\n\no\n\no\n\no\n\no\n\no\n\n=\n\n=\n\nTRADITIONAL\n\n60%\n\ne\n\ns= e + B - 3 \u20180.. _\u2018.'\n\nB2B2C\n\nTt\n\nDTH\n\nB2B\n\nT\n\nTV SYNDICATION\n\nIN-FLIGHT\n\n2\n\no= | 60 INI ENTERTAINI\n\n-l\n\nFinancials  Q2/H1-FY24 \n\nFinancials\n\nQ2/H1-FY24\n\n-l\n\n-l\n\n3\n\nQ2/ H1-FY24 Key Financial Highlights\n\n6\u20180 ENTERTANING",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 1,
+            "orig_elements": "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",
+            "filename": "tmps73mm491"
+        },
+        "guidances": [],
+        "actuals": []
+    }
+]

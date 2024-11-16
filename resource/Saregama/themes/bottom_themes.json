@@ -1,0 +1,52 @@
+[
+    {
+        "key_theme": "Financial Performance",
+        "sub_themes": [
+            "Revenue Growth and Trends",
+            "Profitability and Margins",
+            "Financial Health and Leverage",
+            "Returns and Efficiency"
+        ]
+    },
+    {
+        "key_theme": "Content Strategy and Production",
+        "sub_themes": [
+            "Content Ownership and Licensing",
+            "Audience Reach and Engagement",
+            "Content Production and Quality"
+        ]
+    },
+    {
+        "key_theme": "Distribution and Platform Strategy",
+        "sub_themes": [
+            "Platform Performance and Monetization",
+            "Distribution Channels and Reach",
+            "Technology and Innovation",
+            "Subscription Model and Monetization"
+        ]
+    },
+    {
+        "key_theme": "Market Dynamics and Competition",
+        "sub_themes": [
+            "Market Overview and Competition",
+            "Regulatory and Legal Landscape",
+            "Advertising and Marketing",
+            "Market Consolidation and Competition"
+        ]
+    },
+    {
+        "key_theme": "Management and Corporate Governance",
+        "sub_themes": [
+            "Management and Governance"
+        ]
+    },
+    {
+        "key_theme": "Emerging Trends and Opportunities",
+        "sub_themes": [
+            "AI and Data-Driven Strategies",
+            "Live Events and Artist Management",
+            "Short-Form Video and Digital Content",
+            "Emerging Technologies and Content Innovation"
+        ]
+    }
+]
