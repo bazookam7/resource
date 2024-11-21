@@ -1,18 +1,101 @@
 [
     {
-        "key_theme": "Management and Corporate Governance",
+        "key_theme": "capture the key themes and forward-looking statements shared by the CEO or Chairperson",
         "sub_themes": [
-            "Management Team",
-            "Key Executives",
-            "Board of Directors",
-            "Corporate Governance Practices",
-            "Corporate Social Responsibility (CSR)",
-            "Sustainability Initiatives",
-            "Environmental, Social, and Governance (ESG) Factors",
-            "Management Quality",
-            "Governance Structure",
-            "ESG Performance",
-            "CSR Initiatives"
+            "Overview of the company's achievements, challenges, and priorities.",
+            "Strategic themes discussed, such as growth, operational efficiencies, or market positioning.",
+            "Any specific guidance or outlook provided"
+        ]
+    },
+    {
+        "key_theme": "capture management's analysis of the company's financial performance and strategic direction.",
+        "sub_themes": [
+            "Breakdown of revenue, including product lines, geographic regions, or key business segments.",
+            "Cost structure analysis, including major cost drivers",
+            "Profitability metrics and trend analysis",
+            "Cash flow details, including operating, investing, and financing cash flows.",
+            "Any insights on future strategies or plans provided by management."
+        ]
+    },
+    {
+        "key_theme": "capture the company's core business model, including its main products, services, and market position.",
+        "sub_themes": [
+            "Description of primary business segments and product lines.",
+            "Contribution of each segment to revenue, profit, or growth.",
+            "High-level market analysis, including key trends and competitors."
+        ]
+    },
+    {
+        "key_theme": "extract all relevant financial metrics from the Income Statement, Balance Sheet, and Cash Flow Statement.",
+        "sub_themes": [
+            "Income Statement: Revenue, gross profit, operating profit, net profit, EPS.",
+            "Balance Sheet: Assets, liabilities, and shareholders' equity details.",
+            "Cash Flow Statement: Cash flows by operational, investing, and financing activities.",
+            "Key financial ratios"
+        ]
+    },
+    {
+        "key_theme": "capture detailed financial information that supplements the core financial statements.",
+        "sub_themes": [
+            "Accounting policies and changes.",
+            "Breakdown of revenue, costs, and expenses by line item.",
+            "Explanations of one-time items, adjustments, or significant changes"
+        ]
+    },
+    {
+        "key_theme": "capture key information on the company’s governance practices, board composition, and shareholder structure.",
+        "sub_themes": [
+            "Board composition, including the roles and independence of board members",
+            "Executive compensation details, especially for key leaders.",
+            "Shareholder rights, major shareholders, and voting structure."
+        ]
+    },
+    {
+        "key_theme": "identify and categorize the main risks disclosed by management, along with any mitigation strategies.",
+        "sub_themes": [
+            "Description of specific risk factors (e.g., operational, market, regulatory).",
+            "Mitigation strategies outlined by management.",
+            "Any direct financial impact or exposure tied to each risk."
+        ]
+    },
+    {
+        "key_theme": "capture any ESG-related goals, achievements, or initiatives mentioned in the report.",
+        "sub_themes": [
+            "Environmental: Metrics on emissions, resource usage, sustainability goals.",
+            "Social: Employee diversity, community involvement, or CSR activities.",
+            "Governance: Policies on ethical standards, anti-bribery, or board diversity."
+        ]
+    },
+    {
+        "key_theme": "evaluate the company’s effectiveness in utilizing resources and managing operational efficiency.",
+        "sub_themes": [
+            "Sector specific operational efficiency metrics",
+            "Capital allocation insights",
+            "Key sector specific performance indicators"
+        ]
+    },
+    {
+        "key_theme": "Capture insights related to the company’s market share, geographic presence, and competitor landscape.",
+        "sub_themes": [
+            "Revenue and growth trends by region or market.",
+            "Market position and estimated share.",
+            "Key competitive insights, including emerging threats or market trends"
+        ]
+    },
+    {
+        "key_theme": "Gather details relevant to shareholders, including dividends, stock performance, and meeting information.",
+        "sub_themes": [
+            "Dividend policy and recent payments.",
+            "Stock performance, any buyback announcements.",
+            "Shareholder rights, annual meeting information, and voting policies"
+        ]
+    },
+    {
+        "key_theme": "Capture long-term trends in key financial metrics over a five-year period.",
+        "sub_themes": [
+            "Revenue and profit growth trends",
+            "Changes in major financial ratios over time",
+            "Summary of historical trends for key financial items"
         ]
     }
 ]
