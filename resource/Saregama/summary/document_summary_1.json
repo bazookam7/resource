@@ -1,0 +1,2591 @@
+{
+    "_id": "Saregama_guidance_actuals_report_3",
+    "company_name": "Saregama",
+    "created_at": {
+      "$date": "2024-11-18T10:46:56.948Z"
+    },
+    "guidance_actuals": {
+      "['Q4', '2024']": {
+        "themes": [
+          {
+            "theme": "Financial Performance",
+            "narrative": "Management extensively discussed revenue growth projections, profitability targets, and investment plans.  There's a strong focus on the future performance of the company, excluding the Carvaan business.  Specific targets and expectations are given for revenue growth, adjusted EBITDA margins, and PBT.",
+            "management_guidance": {
+              "answer": "Revenue growth excluding Carvaan is projected to be upwards of 30% in FY25. A 3-5 year CAGR of 25-26% revenue growth (excluding Carvaan) is anticipated, with PBT expected to double in 3-3.5 years. Adjusted EBITDA margin guidance remains at 32-33%. Carvaan revenues are expected to decline in FY25, but the business should achieve mid-single-digit profitability. Pocket Aces is expected to reach breakeven or a small profit in FY25. The music vertical (licensing and artist management) is projected to double its revenue. The catalogue music segment is expected to continue growing at a minimum of 12% per annum. Revenue from paid subscribers (excluding YouTube) in India grew by over 40% in FY24.",
+              "citations": [
+                "c6b889fa437cce6593770b72a42927a7",
+                "5f906e9ad09dccae8505001672ddfd30",
+                "5710a7d6fc017dfcbc3154ef8a5699fd",
+                "fb8cd1578fcb145f370b9fc0e58fb13a",
+                "76b3dfc9a6ccddb8ba876d14e84ef83c",
+                "1815a6895c025cd73b88362368787a5d",
+                "937e12f617ede0f65e21d5b528d96a22",
+                "6dfd202a5971fddccce208dac658d7ea",
+                "51194a6b7e5d634c94b0762e46cf2c67",
+                "1d5a1eec9b41aa4f75195e69f18a76f1"
+              ]
+            },
+            "actual_results": {
+              "['Q4', '2024']": {
+                "answer": "Saregama reported an operating revenue of INR 263 crores and a PBT of INR 76 crores in Q4 2024. This represents a year-on-year growth of 29% in revenue and 30% in PBT. Revenue growth excluding Carvaan was upwards of 30% on a trailing month basis. Carvaan achieved breakeven for the year. Revenue from paid subscribers (excluding YouTube) in India grew by over 40% in FY24. The music vertical (licensing and artist management) made INR 544 crores in FY24.",
+                "citations": [
+                  "782a6ef0c2c992983dfbfa056e7506c8",
+                  "d61bb1d90038cecbeb3027ceb6165aa9",
+                  "08bae46f90afc0628801307c61619764",
+                  "1815a6895c025cd73b88362368787a5d",
+                  "51194a6b7e5d634c94b0762e46cf2c67",
+                  "5710a7d6fc017dfcbc3154ef8a5699fd",
+                  "cd9cb70e54ac1ba1bded1a6890a3bbcd",
+                  "c3d09ac5654dd911a241a6ddcdfb9280",
+                  "1d5a1eec9b41aa4f75195e69f18a76f1"
+                ]
+              },
+              "['Q1', '2025']": {
+                "answer": "In Q1 FY25, Saregama reported revenue from operations of INR 1,544 Mn. Operational revenue reached INR 6,000 Mn. Digital Media revenue achieved 575 INR Mn with a Y-o-Y growth of 19.6%, while Traditional Media revenue declined by 10.8% year-on-year to 960 INR Mn. Income from Operations was 1,535 INR Mn with a Y-o-Y growth of 0.6%. Carvaan revenue was INR 24.7 crores, a significant drop from Q1 FY24. The music business (licensing and artist management) grew at 26% year-on-year. Overall revenue increased by 26% year-on-year, aligning with the 30% guidance for FY25. EBITDA was (134) INR Mn and PBT was (228) INR Mn, while EBITDA margin was 9.40%. There was also a substantial reduction in revenue from platforms that transitioned from free to paid streaming.",
+                "citations": [
+                  "3a62d7f0ee1a57d4d0e0ba2b7a51a5d3",
+                  "466b88dccb0489374fd81017d64a2efd",
+                  "df41c7b929cc73cdf22cbb4d60977c2e",
+                  "a9272bbac94fb4e8df9a5a5e2813ff96",
+                  "75b17cfb8b890731ff0625c73157018a",
+                  "c544e0e1e0d0c77d9ed003b8de5ee5db",
+                  "5dc39bc91af52b6b2f466e3c17a11c75",
+                  "03e8f6a17c9b50abf4dd83ae54750c85"
+                ]
+              }
+            },
+            "evaluation": {
+              "evaluation": "Expectations Met",
+              "evaluation_reason": "While the full-year FY25 projections are not yet available, Q4 2024 results show revenue and PBT growth aligning with or exceeding the short-term guidance provided for revenue growth excluding Carvaan and achieving the target of Carvaan breakeven."
+            }
+          },
+          {
+            "theme": "Content Strategy and Production",
+            "narrative": "A significant portion of future financial guidance is tied to content investment and production.  The company has a clear plan for content acquisition and development.",
+            "management_guidance": {
+              "answer": "INR 1,000 crore investment in music content is planned over the next three years.",
+              "citations": [
+                "5710a7d6fc017dfcbc3154ef8a5699fd",
+                "f07db382f8fa1ec833a429a79e89088d",
+                "fb8cd1578fcb145f370b9fc0e58fb13a"
+              ]
+            },
+            "actual_results": {
+              "['Q4', '2024']": {
+                "answer": "Management reported investing close to INR 200 crores in new content (including marketing) in FY24.",
+                "citations": [
+                  "d61bb1d90038cecbeb3027ceb6165aa9"
+                ]
+              },
+              "['Q1', '2025']": {
+                "answer": "In Q1 FY25, INR 27 crores were spent on content acquisition, with guidance of INR 300+ crores for the full year. INR 47 crores of content was acquired during the quarter.",
+                "citations": [
+                  "322ab802fd65ecc6fa8051317d005e15",
+                  "d003d884b1030a576e8a9d63cac11b9f"
+                ]
+              }
+            },
+            "evaluation": {
+              "evaluation": "Expectations Met",
+              "evaluation_reason": "The INR 200 crore investment in FY24 represents a significant portion of the planned INR 1000 crore investment over three years, demonstrating progress towards the stated goal."
+            }
+          },
+          {
+            "theme": "Market Dynamics and Competition",
+            "narrative": "Management acknowledges the overall market growth and its impact on Saregama's strategy.  There's a discussion about market share gains and the influence of GDP growth on the advertising business.",
+            "management_guidance": {
+              "answer": "A 5% increase in market share is targeted by the end of 2024. Continued GDP growth above 6% is expected, positively impacting the advertising business.",
+              "citations": [
+                "08bae46f90afc0628801307c61619764",
+                "7abb4b9ce2a160ce3fdc03fb8a017566"
+              ]
+            },
+            "actual_results": {
+              "['Q4', '2024']": {
+                "answer": "No specific actual results related to market share or advertising revenue growth were provided in the given data for Q4 2024.",
+                "citations": []
+              },
+              "['Q1', '2025']": {
+                "answer": "No specific data on market share gains or the impact of GDP growth on advertising revenue is available from the provided data for Q1 FY25.",
+                "citations": []
+              }
+            },
+            "evaluation": {
+              "evaluation": "Insufficient Info",
+              "evaluation_reason": "The provided data lacks information on market share gains or advertising revenue growth for Q4 2024, preventing an assessment against management's guidance."
+            }
+          },
+          {
+            "theme": "Emerging Trends and Opportunities",
+            "narrative": "Management addresses the challenges and opportunities associated with the live events business.",
+            "management_guidance": {
+              "answer": "A one-year timeframe is given to assess the live events model's success; otherwise, tough decisions will be made.",
+              "citations": [
+                "0bb8f55e1c51053d708d881478495b52"
+              ]
+            },
+            "actual_results": {
+              "['Q4', '2024']": {
+                "answer": "No specific actual results related to the live events business were provided in the given data for Q4 2024.",
+                "citations": []
+              },
+              "['Q1', '2025']": {
+                "answer": "In Q1 FY25, the Diljit Dosanjh tour had a record-breaking turnout of over 50,000 fans, with 11 concerts held in Canada and the U.S.A. Artist management revenue generated INR 16 crores in Q1.",
+                "citations": [
+                  "88fb72c5ff3e940018184f7e63167bed",
+                  "f8447823058d56a3d1429901a12dedba"
+                ]
+              }
+            },
+            "evaluation": {
+              "evaluation": "Insufficient Info",
+              "evaluation_reason": "Insufficient data on the live events business performance in Q4 2024 prevents an evaluation against management's one-year assessment timeframe."
+            }
+          }
+        ]
+      },
+      "['Q3', '2024']": {
+        "themes": [
+          {
+            "theme": "Revenue Growth and Future Projections",
+            "narrative": "Management expresses confidence in achieving substantial revenue growth, particularly post-Q4 2024, after accounting for the impact of certain factors (implied to be related to OTT platform transitions).  A significant increase in content investment is planned, expected to yield substantial returns within 18 months.  Long-term projections of 25-26% CAGR (excluding Carvaan) are reiterated, with a goal of doubling profits within 3-4 years.  Specific targets for FY2024 total revenue are also mentioned.",
+            "management_guidance": {
+              "answer": "The company aims for 25-26% revenue growth at the corporate level (excluding Carvaan) over the next 3-5 years. A 14-16% growth in catalog revenue is anticipated once OTT platforms move behind paywalls. The company projects INR 930-940 crore revenue for 2024. Significant revenue growth is expected in the music licensing business (doubling in 3-3.5 years). Post Q4 2024, the company expects to be \"back on track\" to achieve its 25-26% revenue growth targets.",
+              "citations": [
+                "5e006c9766cc354548443cda9ce08457",
+                "19712e24d61b2daa1ccd36d494eb7ffd",
+                "bc15157683513dfa6f09a738e8519ad7",
+                "a3b1b00344ad8b092030483acc6dbe08",
+                "1094771d0ef652464664d8fbc377f36f",
+                "49f595ff89f9348e2afaf7790647a373",
+                "85e0c8ff73d77ee291d656fc37bf8d5b",
+                "af119f79f78aeb12e6ad3c218b9086d0",
+                "6c0a2591f9614ed88d3b22e6e8bd4102"
+              ]
+            },
+            "actual_results": {
+              "['Q3', '2024']": {
+                "answer": "Revenue from operations for Q3 FY24 was INR 1,559 million. Revenue from operations for 9M FY24 was INR 5,083 million, a 29.6% increase compared to 9M FY23. Management's FY24 revenue guidance was INR 930-940 crore.",
+                "citations": [
+                  "863161cd57e45c4dd4f13b41414f8529",
+                  "ecd3fd4f809e03c4f3864d8178e4218d",
+                  "af119f79f78aeb12e6ad3c218b9086d0"
+                ]
+              },
+              "['Q4', '2024']": {
+                "answer": "In Q4 2024, Saregama reported an operating revenue of INR 263 crores, representing a year-on-year growth of 29%. Excluding Carvaan, consolidated revenue growth exceeded 30% on a trailing month basis. Revenue for FY24 from music licensing and artist management reached INR 544 crores.",
+                "citations": [
+                  "782a6ef0c2c992983dfbfa056e7506c8",
+                  "d61bb1d90038cecbeb3027ceb6165aa9",
+                  "5710a7d6fc017dfcbc3154ef8a5699fd",
+                  "c3d09ac5654dd911a241a6ddcdfb9280"
+                ]
+              },
+              "['Q1', '2025']": {
+                "answer": "In Q1 2025, Saregama reported conflicting revenue figures: INR 1,544 Mn (Source A) and INR 6,000 Mn (Source B).  A 15% increase due to strategic initiatives and a 26% year-on-year increase in the music business were also reported. However, these figures need reconciliation with the FY2024 guidance of INR 930-940 crore and the impact of OTT transitions isn't clearly reflected.",
+                "citations": [
+                  "3a62d7f0ee1a57d4d0e0ba2b7a51a5d3",
+                  "466b88dccb0489374fd81017d64a2efd",
+                  "02c3a070c0220e427ab33387c81f5efe",
+                  "7fea847641ed7892d36ff71ea58cfd92",
+                  "75b17cfb8b890731ff0625c73157018a",
+                  "c544e0e1e0d0c77d9ed003b8de5ee5db"
+                ]
+              }
+            },
+            "evaluation": {
+              "evaluation": "Expectations Not Met",
+              "evaluation_reason": "While 9M FY24 showed strong growth,  Q3 2024 results alone, and the overall 9-month performance, do not provide sufficient evidence to definitively assess whether the full-year revenue target of INR 930-940 crore will be met.  Further data is needed to complete the evaluation."
+            }
+          },
+          {
+            "theme": "Profitability and Investment Strategy",
+            "narrative": "Management acknowledges significant upfront investment in new content, impacting short-term profitability. However, they emphasize sustained profitability and a significant increase in profitability after 18 months, with a substantial jump from year 3 onwards.  The target is to double overall profitability (PBT) within 3-4 years.  A 15% margin is projected for a specific business vertical within 5 years, with a corresponding 21% IRR.",
+            "management_guidance": {
+              "answer": "The company will maintain absolute profitability in the next 12-18 months, followed by a steep increase. Overall profitability (PBT) is expected to double in the next 3-4 years. A 15% margin will result in a 21% IRR for a particular business.",
+              "citations": [
+                "a3b1b00344ad8b092030483acc6dbe08",
+                "c6a90d7e91c114e7f5731498c9ad61db",
+                "767d2fd555c38a451f88c4e3d6580fa7"
+              ]
+            },
+            "actual_results": {
+              "['Q3', '2024']": {
+                "answer": "Q3 FY24 PBT was INR (264) million. EBITDA for Q3 FY24 was INR (177) million.",
+                "citations": [
+                  "863161cd57e45c4dd4f13b41414f8529"
+                ]
+              },
+              "['Q4', '2024']": {
+                "answer": "In Q4 2024, Saregama achieved a PBT of INR 76 crores, showing a year-on-year growth of 30%. The company's overall guidance was 32-33% on an adjusted EBITDA basis.",
+                "citations": [
+                  "782a6ef0c2c992983dfbfa056e7506c8",
+                  "76b3dfc9a6ccddb8ba876d14e84ef83c"
+                ]
+              },
+              "['Q1', '2025']": {
+                "answer": "Q1 2025 results show a PBT of (228) INR Mn and a PAT of (171) INR Mn, indicating a loss contradicting the guidance of maintaining profitability within 12-18 months.  While an EBITDA margin of 9.40% and a 5% improvement in net profit margin were mentioned, these lack context and don't address long-term profitability goals.",
+                "citations": [
+                  "3a62d7f0ee1a57d4d0e0ba2b7a51a5d3",
+                  "466b88dccb0489374fd81017d64a2efd",
+                  "14b3a96815ddaf47f1963240865d80f3"
+                ]
+              }
+            },
+            "evaluation": {
+              "evaluation": "Expectations Not Met",
+              "evaluation_reason": "Q3 2024 results show a significant loss (negative PBT and EBITDA), directly contradicting the guidance of maintaining absolute profitability within 12-18 months."
+            }
+          },
+          {
+            "theme": "Content Acquisition and Payback Period",
+            "narrative": "The company maintains a strict 5-year payback period for content acquisitions, a policy consistently followed for several years.  This strategy guides their investment decisions.",
+            "management_guidance": {
+              "answer": "The company will maintain a 5-year payback period for content investments.",
+              "citations": [
+                "85e0c8ff73d77ee291d656fc37bf8d5b",
+                "5082102de3cc9814a84b6b42a2779829",
+                "05a9780e7234864783913246f7beaf52"
+              ]
+            },
+            "actual_results": {
+              "['Q3', '2024']": {
+                "answer": "No specific actual results related to payback period are provided in the data.",
+                "citations": []
+              },
+              "['Q4', '2024']": {
+                "answer": "Based on the 4-year performance, the company reported that they were performing better than their 5-year payback target.",
+                "citations": [
+                  "b210b972e8f899b0902f86c18edc33aa"
+                ]
+              },
+              "['Q1', '2025']": {
+                "answer": "No data is available to assess whether the 5-year payback period for content investments was met in Q1 2025.",
+                "citations": []
+              }
+            },
+            "evaluation": {
+              "evaluation": "Insufficient Info",
+              "evaluation_reason": "Insufficient data is available in Q3 2024 to assess whether the 5-year payback period was met."
+            }
+          },
+          {
+            "theme": "OTT Platform Transition and Market Dynamics",
+            "narrative": "Management anticipates a significant increase (2-3x) in revenue from audio OTT platforms once they transition behind paywalls, expecting this transition within the next 12-18 months.",
+            "management_guidance": {
+              "answer": "Revenue from audio OTT platforms should increase 2-3x after they move behind paywalls, expected within 12-18 months.",
+              "citations": [
+                "5e006c9766cc354548443cda9ce08457"
+              ]
+            },
+            "actual_results": {
+              "['Q3', '2024']": {
+                "answer": "The provided data doesn't offer specific figures to measure the impact of the OTT platform transition on revenue in Q3 2024. However, the reduction in revenue from platforms like Resso, which transitioned to a paid model, was acknowledged and factored into the financial results.",
+                "citations": [
+                  "49f595ff89f9348e2afaf7790647a373"
+                ]
+              },
+              "['Q4', '2024']": {
+                "answer": "In FY24, revenue from paid subscribers (non-YouTube) in India grew by over 40%.",
+                "citations": [
+                  "cd9cb70e54ac1ba1bded1a6890a3bbcd",
+                  "1d5a1eec9b41aa4f75195e69f18a76f1"
+                ]
+              },
+              "['Q1', '2025']": {
+                "answer": "The data mentions the impact of OTT paywall transitions on revenue in Q1 2025, but no specific figures are provided to assess the projected 2-3x increase.",
+                "citations": [
+                  "45e5390ca0a3699196f4e006db66ff01"
+                ]
+              }
+            },
+            "evaluation": {
+              "evaluation": "Insufficient Info",
+              "evaluation_reason": "Q3 2024 data does not provide the necessary quantitative information to assess the impact of the OTT platform transition on revenue."
+            }
+          },
+          {
+            "theme": "New Product Launch and Marketing Strategy",
+            "narrative": "A new app launch is planned for March/April.  A 10% increase in the marketing budget is planned for the next quarter to support new product launches.",
+            "management_guidance": {
+              "answer": "A new app is expected to launch in March or April. A 10% increase in the marketing budget is planned for the next quarter.",
+              "citations": [
+                "f96a29cf0c10398d17310d6162b6542f",
+                "24fba4327efe0d2d4d9b4f7ce964be33"
+              ]
+            },
+            "actual_results": {
+              "['Q3', '2024']": {
+                "answer": "The provided data doesn't contain information confirming the app launch or the marketing budget increase in Q3 2024.",
+                "citations": []
+              },
+              "['Q4', '2024']": {
+                "answer": "No actual results for this theme are available in the provided data.",
+                "citations": []
+              },
+              "['Q1', '2025']": {
+                "answer": "No information is available on the launch of a new app or the actual increase in the marketing budget in Q1 2025.",
+                "citations": []
+              }
+            },
+            "evaluation": {
+              "evaluation": "Insufficient Info",
+              "evaluation_reason": "The Q3 2024 data lacks information to assess whether the app launch or marketing budget increase occurred."
+            }
+          }
+        ]
+      },
+      "['Q1', '2025']": {
+        "themes": [
+          {
+            "theme": "Revenue Growth and Targets",
+            "narrative": "Management consistently emphasizes revenue growth targets across various segments.  Specific growth percentages are cited for different verticals, indicating a focused approach to expansion.  There's a strong emphasis on the music vertical (licensing and artist management), with targets exceeding 25% growth.  Pocket Aces, another segment, is expected to reach breakeven by year-end. There's also discussion about overall revenue growth targets, with projections exceeding 26% year-on-year growth for the music business and a 30% year-on-year increase projected for the year.  The company highlights that this is an unprecedented growth rate for them.",
+            "management_guidance": {
+              "answer": "Management provided guidance including a 15% increase in sales revenue by year-end, 26% YoY growth in the music business, 25-30% music licensing growth, Pocket Aces aiming for 25% CAGR and breakeven by year-end, overall revenue (excluding Carvaan) to grow at a 30% CAGR over 3 years, and a 30% YoY growth for the year.",
+              "citations": [
+                "05691ce5e73ec86d37a02bc6474b0a0c",
+                "2ca28f600550be5e27f62a36ddad40dd",
+                "784b1a77e68a6f05a5065425876e2c96",
+                "45e5390ca0a3699196f4e006db66ff01",
+                "d4e95b1e2487a54dbda43b6df503bdb4",
+                "70e36e371480c003cd7821a38aa73224",
+                "75b17cfb8b890731ff0625c73157018a",
+                "c544e0e1e0d0c77d9ed003b8de5ee5db",
+                "322ab802fd65ecc6fa8051317d005e15",
+                "03e8f6a17c9b50abf4dd83ae54750c85",
+                "d48bfabd1f69e842542de662ff14c5a3",
+                "97ef122560f4b8d7792b1089dc0005d7",
+                "87d3f93eaec89918c62cc180dd010a1c"
+              ]
+            },
+            "actual_results": {
+              "['Q1', '2025']": {
+                "answer": "Multiple sources report conflicting revenue figures. One source indicates INR 1,544 Mn in Q1 FY25 operational revenue, while another states INR 6,000 Mn. A 15% increase in sales revenue is mentioned in several statements, but the specific timeframe isn't always clear. Growth in Digital Media revenue was 19.6% YoY, while Traditional Media revenue declined by 10.8% YoY. Income from Operations showed a minor 0.6% YoY growth. An 8% revenue increase is also reported. The music business showed a 26% year-on-year increase, aligning with management's guidance. Carvaan revenue significantly dropped compared to Q1 FY24.",
+                "citations": [
+                  "3a62d7f0ee1a57d4d0e0ba2b7a51a5d3",
+                  "466b88dccb0489374fd81017d64a2efd",
+                  "02c3a070c0220e427ab33387c81f5efe",
+                  "7fea847641ed7892d36ff71ea58cfd92",
+                  "2ca28f600550be5e27f62a36ddad40dd",
+                  "14b3a96815ddaf47f1963240865d80f3",
+                  "df41c7b929cc73cdf22cbb4d60977c2e",
+                  "05691ce5e73ec86d37a02bc6474b0a0c",
+                  "75b17cfb8b890731ff0625c73157018a",
+                  "c544e0e1e0d0c77d9ed003b8de5ee5db",
+                  "a9272bbac94fb4e8df9a5a5e2813ff96"
+                ]
+              }
+            },
+            "evaluation": {
+              "evaluation": "Expectations Not Met",
+              "evaluation_reason": "While the music business met expectations with 26% YoY growth, overall revenue figures are conflicting and don't provide a clear picture of whether the overall targets were met.  The significant drop in Carvaan revenue also negatively impacts the overall assessment."
+            }
+          },
+          {
+            "theme": "Profitability and EBITDA Margin Targets",
+            "narrative": "Management provides guidance on adjusted EBITDA, aiming for 32-33% of revenue.  They link this to strong IP ownership, long-term strategy, adequate capital, and a growing digital footprint. There's also a longer-term projection of doubling PBT (Profit Before Tax) within 3-3.5 years.  There's acknowledgment that profit growth might lag revenue growth in the initial 12-18 months, but it's expected to catch up and eventually surpass revenue growth.  Cost reduction initiatives are also mentioned, aiming for a 10% decrease in operational costs within six months.",
+            "management_guidance": {
+              "answer": "Management aims for 32-33% adjusted EBITDA, doubling PBT in 3-3.5 years, and a 10% reduction in operational costs within six months.",
+              "citations": [
+                "97ef122560f4b8d7792b1089dc0005d7",
+                "0c178b4159d9b2de7027b1d2b2bd2923",
+                "63290d9e91bc3d7ae089fb5b46443e1c",
+                "05691ce5e73ec86d37a02bc6474b0a0c",
+                "5e902eab598189946affd5c48dfd1e06"
+              ]
+            },
+            "actual_results": {
+              "['Q1', '2025']": {
+                "answer": "EBITDA was -134 INR Mn in Q1 FY25, resulting in a negative EBITDA margin. PBT was -228 INR Mn. A statement mentions a 9% increase in EBITDA, reaching 33% of revenue, but this seems inconsistent with the negative EBITDA figure. A 5% reduction in operational costs is reported, and a 10% reduction in Q1 FY25 is also mentioned, but this is below the management's guided 10% reduction within six months.",
+                "citations": [
+                  "3a62d7f0ee1a57d4d0e0ba2b7a51a5d3",
+                  "5dc39bc91af52b6b2f466e3c17a11c75",
+                  "7fea847641ed7892d36ff71ea58cfd92",
+                  "14b3a96815ddaf47f1963240865d80f3"
+                ]
+              }
+            },
+            "evaluation": {
+              "evaluation": "Expectations Not Met",
+              "evaluation_reason": "The company significantly missed its EBITDA and PBT targets in Q1 2025, reporting negative figures instead of the guided 32-33% adjusted EBITDA.  Cost reduction also fell short of the target."
+            }
+          },
+          {
+            "theme": "Content Acquisition Strategy",
+            "narrative": "A significant investment in content acquisition is planned, with a target of INR 300 crore+ for the year.  Management mentions a broader three-year plan for content investment of around INR 1000 crore.  They emphasize a focus on smart acquisitions to ensure a high ROI.  There is also discussion of a 5-year payback period for content investment.",
+            "management_guidance": {
+              "answer": "INR 300 crore+ content acquisition target for the year, INR 1000 crore content investment over the next 3 years, and a 5-year payback period for content investment.",
+              "citations": [
+                "d003d884b1030a576e8a9d63cac11b9f",
+                "322ab802fd65ecc6fa8051317d005e15",
+                "d003d884b1030a576e8a9d63cac11b9f",
+                "45e5390ca0a3699196f4e006db66ff01"
+              ]
+            },
+            "actual_results": {
+              "['Q1', '2025']": {
+                "answer": "INR 27 crore was spent on content acquisition in Q1 FY25, and another source mentions INR 47 crore. This is significantly lower than the annual target.",
+                "citations": [
+                  "322ab802fd65ecc6fa8051317d005e15",
+                  "d003d884b1030a576e8a9d63cac11b9f"
+                ]
+              }
+            },
+            "evaluation": {
+              "evaluation": "Expectations Not Met",
+              "evaluation_reason": "Q1 2025 content acquisition spending was far below the annual target, indicating a significant shortfall in meeting the planned investment."
+            }
+          },
+          {
+            "theme": "Distribution Strategy Shift",
+            "narrative": "Saregama is dramatically reducing its retail network, aiming to transition primarily to e-commerce and modern trade channels within the next two quarters.",
+            "management_guidance": {
+              "answer": "Significant reduction in retail network over the next 2 quarters, becoming primarily e-commerce and modern trade focused by year-end.",
+              "citations": [
+                "2e10724c11b8c9b4c5dd0045d7b128c6"
+              ]
+            },
+            "actual_results": {
+              "['Q1', '2025']": {
+                "answer": "No specific data on actual retail network reduction is available in the provided data.",
+                "citations": []
+              }
+            },
+            "evaluation": {
+              "evaluation": "Insufficient Info",
+              "evaluation_reason": "Insufficient data is available to assess the progress of the retail network reduction."
+            }
+          },
+          {
+            "theme": "Market Share Expansion",
+            "narrative": "Management expresses intentions to expand market share, with targets ranging from 10% to 15% within the next six months or by the end of the fiscal year.",
+            "management_guidance": {
+              "answer": "Market share expansion of 10% in the next six months and 15% by year-end.",
+              "citations": [
+                "2ca28f600550be5e27f62a36ddad40dd",
+                "5e902eab598189946affd5c48dfd1e06"
+              ]
+            },
+            "actual_results": {
+              "['Q1', '2025']": {
+                "answer": "No data on market share expansion is available in the provided data.",
+                "citations": []
+              }
+            },
+            "evaluation": {
+              "evaluation": "Insufficient Info",
+              "evaluation_reason": "No data is provided to assess market share expansion in Q1 2025."
+            }
+          },
+          {
+            "theme": "Subscription Model Growth",
+            "narrative": "Management anticipates significant growth in paid subscriptions, projecting at least 50 million subscribers within the first 12-18 months.",
+            "management_guidance": {
+              "answer": "At least 50 million paid subscribers within the first 12-18 months.",
+              "citations": [
+                "215068f298c4276cbb7d0fd7caa910c7"
+              ]
+            },
+            "actual_results": {
+              "['Q1', '2025']": {
+                "answer": "No data on the number of paid subscribers is provided.",
+                "citations": []
+              }
+            },
+            "evaluation": {
+              "evaluation": "Insufficient Info",
+              "evaluation_reason": "No data is available to assess the growth in paid subscriptions in Q1 2025."
+            }
+          }
+        ]
+      },
+      "['Q1', '2024']": {
+        "themes": [
+          {
+            "theme": "Financial Performance",
+            "narrative": "Saregama's management provided forward-looking statements regarding revenue growth across different segments.  They expressed confidence in achieving specific growth targets despite acknowledging potential subscription pressures.  Significant growth was reported on a quarter-on-quarter basis in unit sales.  Management reiterated its confidence in achieving  projected annual revenue growth and margins for films and movie segments.",
+            "management_guidance": {
+              "answer": "Revenue Growth: A 15% overall revenue increase is targeted for the next fiscal year (304066704e99715f008a2ddc943fb50b). Music licensing revenue is projected to grow around 22-23% (f056c59775775944854f4995f49abf01). The films and movie segment is expected to achieve 25% revenue growth with a 15% margin (55e6f22f2a8ff25ea9404b2770df0a58, 88b193c6b8b505fac5858b93192ca136). A 25% growth in revenue is projected for the next fiscal year (f0651515f3356058820199fb8c5a1710). The music licensing side is projected to show 23% growth overall (8c30e276f0aa494b5f0dbd1ec6957824).\n\nProfitability and Margins: The adjusted EBITDA margin is expected to remain above 32-33% at the company level (8c30e276f0aa494b5f0dbd1ec6957824, 3b18f8f1231e30642368c430a70c0fda). A minimum 15% margin is targeted for the films business (aefe298fb7fd400f75a7dac01f7da575).\n\nCapital Allocation: Total capital deployed in films and series and live events will not exceed 18% of total capital deployed (0b73b28cb1aea48051d68b5785556c31).\n\nReturn on Investment: An internal benchmark of recovering investments within 60 months is mentioned (3565ad5f27ec66f22139704dffbef317).",
+              "citations": [
+                "304066704e99715f008a2ddc943fb50b",
+                "f056c59775775944854f4995f49abf01",
+                "55e6f22f2a8ff25ea9404b2770df0a58",
+                "88b193c6b8b505fac5858b93192ca136",
+                "f0651515f3356058820199fb8c5a1710",
+                "8c30e276f0aa494b5f0dbd1ec6957824",
+                "3b18f8f1231e30642368c430a70c0fda",
+                "aefe298fb7fd400f75a7dac01f7da575",
+                "0b73b28cb1aea48051d68b5785556c31",
+                "3565ad5f27ec66f22139704dffbef317"
+              ]
+            },
+            "actual_results": {
+              "['Q3', '2024']": {
+                "answer": "In Q3 FY24, Saregama reported INR 1,559 million in revenue from operations (a 4.3% year-on-year increase), INR 22 million in other income (a 140.4% year-on-year increase), and a significantly lower than anticipated EBITDA of INR (177) million.  PBT and PAT were significantly negative, at INR (264) million and INR (304) million respectively.  While the nine-month period showed revenue growth, Q3 results fell short of expectations.",
+                "citations": [
+                  "863161cd57e45c4dd4f13b41414f8529"
+                ]
+              },
+              "['Q4', '2024']": {
+                "answer": "In Q4 FY24, Saregama reported an operating revenue of INR 263 crores and a PBT of INR 76 crores, representing a year-on-year growth of 29% in revenue and 30% in PBT. Management also indicated a trailing month revenue growth (excluding Carvaan) exceeding 30%, and a 15% increase in overall Q4 FY24 revenue compared to the previous year. Music (Licensing and Artist Management) revenue reached INR 544 crores in FY24. The Carvaan business generated approximately INR 130 crores, the video business INR 116 crores, and events INR 13 crores. Revenue from paid subscribers (excluding YouTube) in India grew by over 40% in FY24 compared to FY23. The company's overall adjusted EBITDA margin was 32-33%.",
+                "citations": [
+                  "782a6ef0c2c992983dfbfa056e7506c8",
+                  "d61bb1d90038cecbeb3027ceb6165aa9",
+                  "08bae46f90afc0628801307c61619764",
+                  "c3d09ac5654dd911a241a6ddcdfb9280",
+                  "1d5a1eec9b41aa4f75195e69f18a76f1",
+                  "76b3dfc9a6ccddb8ba876d14e84ef83c"
+                ]
+              },
+              "['Q1', '2024']": {
+                "answer": "Saregama achieved a 60% year-on-year revenue growth in Q1 FY24, driven by enhanced B2C monetization. Music business showed a 17% growth. Carvaan unit sales grew by over 50%. Q1 operating revenue was INR 163 crores, and PBT was INR 59 crores. EBITDA margin was 4.04%.",
+                "citations": [
+                  "201499b86e6e11e6b266169c4374046c",
+                  "f75c9d5868877e08e071abbf580b9b74",
+                  "de325985903a5a3a7382a81c08ee39d6",
+                  "f75c9d5868877e08e071abbf580b9b74",
+                  "4258385c9577ddfc6e2630b09c92eb3a"
+                ]
+              },
+              "['Q2', '2024']": {
+                "answer": "In Q2 2024, Saregama reported INR 3,524 Mn in consolidated revenue from operations, INR 250 Mn in EBITDA, and INR 36 Mn in net profit. The EBITDA margin was 7.08% and the net profit margin was 1.01%. Another source reported operating revenues of Rs. 172 crore and PBT of Rs. 65.6 crore. A 15% increase in revenue compared to the same period last year was also reported. Music licensing revenue showed growth at 22-23%.",
+                "citations": [
+                  "c0f63ba000bb77c4c53e0465a5a7e1a5",
+                  "08b6d751a054c3d368e2448496f48fc4",
+                  "c0fd80403ce4ef50d860af5122945b2f",
+                  "2834f462abb4dff4ad14639e8528db34",
+                  "fbaa183e2724021d7475b5858c84d483"
+                ]
+              }
+            },
+            "evaluation": {
+              "evaluation": "Expectations Exceeded",
+              "evaluation_reason": "Saregama's Q1 2024 revenue growth significantly surpassed the projected 15%, exceeding expectations across most segments, while the EBITDA margin fell short of the projected range. However, the overall strong revenue growth outweighs the margin shortfall."
+            }
+          },
+          {
+            "theme": "Content Strategy and Production",
+            "narrative": "Saregama aims to acquire 30% of all new content.  There is mention of increased original programming on Shemaroo Umang.",
+            "management_guidance": {
+              "answer": "The company's goal is to acquire 30% of all new content.",
+              "citations": [
+                "4004495ec5a681be9576f7e9e15ad022"
+              ]
+            },
+            "actual_results": {
+              "['Q3', '2024']": {
+                "answer": "No specific quantifiable results regarding content acquisition were reported for Q3 FY24 in the provided data.",
+                "citations": []
+              },
+              "['Q4', '2024']": {
+                "answer": "No specific quantifiable actual results related to content acquisition are provided in the Q4 FY24 data.",
+                "citations": []
+              },
+              "['Q1', '2024']": {
+                "answer": "In the past six months, 300 new songs were released across various platforms. Saregama achieved market leadership in the Hindi music segment at an all-India level for Q1. Shemaroo FilmiGaane YouTube channel has 65 million subscribers, and Saregama typically has 7-10 songs in all-India YouTube trending lists. Shemaroo GEC channels hold approximately 7% viewership share in the Hindi GEC genre.",
+                "citations": [
+                  "f0651515f3356058820199fb8c5a1710",
+                  "b6db3413484006702d35e8157c744450",
+                  "201499b86e6e11e6b266169c4374046c",
+                  "f056c59775775944854f4995f49abf01",
+                  "caa171c0d4c51265d63399bd30bbbbf8",
+                  "201499b86e6e11e6b266169c4374046c"
+                ]
+              },
+              "['Q2', '2024']": {
+                "answer": "No specific quantifiable results regarding content acquisition were provided in the Q2 2024 data. However, management noted the release of 100 new songs and collaboration with major production houses.",
+                "citations": [
+                  "c0fd80403ce4ef50d860af5122945b2f",
+                  "606336e3fdc9e91c6a3b82e0853c8593"
+                ]
+              }
+            },
+            "evaluation": {
+              "evaluation": "Insufficient Info",
+              "evaluation_reason": "While Q1 results show significant content output (300 new songs), there's no data provided to assess whether the 30% new content acquisition goal was met."
+            }
+          },
+          {
+            "theme": "Market Dynamics and Competition",
+            "narrative": "The company highlights its aim for a leading position in Hindi listenership share at an all-India level.",
+            "management_guidance": {
+              "answer": "No specific forward-looking statements regarding market share or competitive positioning were found beyond the general statement about aiming for a leading position in Hindi listenership. There's a mention of an expected listing in late August 2023, which is not directly a market dynamic statement, but offers a timeline for a corporate action.",
+              "citations": [
+                "b6db3413484006702d35e8157c744450",
+                "f75c9d5868877e08e071abbf580b9b74"
+              ]
+            },
+            "actual_results": {
+              "['Q3', '2024']": {
+                "answer": "No specific data on market share in Hindi listenership was reported for Q3 FY24. However, Shemaroo GEC channels held a 7.6% viewership share in the overall Hindi GEC genre.",
+                "citations": [
+                  "74790f3f6face5b74c2e7c8089d580aa",
+                  "84d38230633e8a97aa60b34f556c72e4"
+                ]
+              },
+              "['Q4', '2024']": {
+                "answer": "The Q4 FY24 data mentions that OTT audio and video streaming globally grew by 34% in 2023, with India showing the highest volume growth. An EY report indicated approximately 70 lakh paying music subscribers in India in 2023, excluding YouTube Premium.  These are market trends, not Saregama's specific market share results.",
+                "citations": [
+                  "c6b889fa437cce6593770b72a42927a7",
+                  "a1c7fbafd12824194af3fea91db826fb"
+                ]
+              },
+              "['Q1', '2024']": {
+                "answer": "Saregama achieved market leadership in the Hindi music segment at an all-India level in Q1. Shemaroo GEC channels maintain a 7% viewership share in the Hindi GEC genre.",
+                "citations": [
+                  "b6db3413484006702d35e8157c744450",
+                  "caa171c0d4c51265d63399bd30bbbbf8"
+                ]
+              },
+              "['Q2', '2024']": {
+                "answer": "In Q2 2024, Shemaroo GEC channels held a combined viewership share of over 7.4% in the Hindi GEC genre. Saregama's YouTube channels had close to 100 million subscribers. The total size of the content sold industry was estimated at 1000 crore.",
+                "citations": [
+                  "e9df85a14e0766550e7e4105ff9b4b6e",
+                  "5c898189c89f5d8f9f04abe19905c5e4",
+                  "c5c16405661f8c79fe1f430cf7d4bc94"
+                ]
+              }
+            },
+            "evaluation": {
+              "evaluation": "Expectations Exceeded",
+              "evaluation_reason": "Saregama achieved its goal of market leadership in the Hindi music segment, exceeding the stated aim of a leading position."
+            }
+          }
+        ]
+      },
+      "['Q4', '2023']": {
+        "themes": [
+          {
+            "theme": "Revenue Growth and Market Leadership",
+            "narrative": "Management expressed confidence in strong revenue growth across various business segments.  Specific targets were given for music licensing and Carvaan sales.  The company aims to solidify its market leadership position, particularly in regional languages and expand into Hindi and Tamil.  A strategy of acquiring minority stakes in regional music companies with the intent of later gaining majority control was also outlined.",
+            "management_guidance": {
+              "answer": "Music licensing revenue is projected to grow by 22% to 25%; Carvaan sales are expected to increase by 25% in the upcoming fiscal year; The Films, Series, and Events business is projected to grow by approximately 25% annually; Saregama plans to achieve leadership positions in Hindi and Tamil markets; Acquisitions of minority stakes in regional music companies, with a plan to transition to majority ownership within 3-5 years, are anticipated.",
+              "citations": [
+                "11dfff5a12a6b8db4baacb821b3a2a3c",
+                "16c969879f902b7081423b3af0ab3759",
+                "4e1e589b7a31ea7f822f78d79edb5143",
+                "16c969879f902b7081423b3af0ab3759",
+                "cfd788788c0086ed371ed03baccba1d6",
+                "3edbf468fe6f431d1215228133e673ef",
+                "dce83b2ed91cebc91fc71781988d0954"
+              ]
+            },
+            "actual_results": {
+              "['Q3', '2024']": {
+                "answer": "Overall revenue from operations for Q3 FY24 was INR 1,559 million, showing a 4.3% year-on-year increase. 9M FY24 revenue from operations was INR 5,083 million, representing a 29.6% increase compared to the same period in FY23. This overall growth doesn't isolate the performance of music licensing and Carvaan, but shows positive movement against the targets. Information on market share gains in Hindi and Tamil or the success of acquisitions is not present in the provided data.",
+                "citations": [
+                  "863161cd57e45c4dd4f13b41414f8529",
+                  "ecd3fd4f809e03c4f3864d8178e4218d"
+                ]
+              },
+              "['Q4', '2023']": {
+                "answer": "Revenue from Operations was INR 1,645 Mn in Q4 FY23, a 10.0% increase from Q3 FY23 and a 75.8% increase from Q4 FY22. Overall FY23 revenue grew by 45.9% to INR 5,566 Mn from INR 3,814 Mn in FY22. Licensing revenue grew by more than 20% for the fifth consecutive year. Carvaan unit sales grew by approximately 40% to 5.6 lakhs. The Film, Series and Events vertical reached its highest-ever revenue, exceeding Rs. 150 crores in FY23.",
+                "citations": [
+                  "bccdcd802e331b01049183bcc26c4a4a",
+                  "e8aa73df2ffb5b18b1f23da4bd5388f8",
+                  "77735b85fbf333bf8dfa07b973563105",
+                  "5948b590c0bb760f30515e340357640c",
+                  "947c5ac489b80117fae660c52c6e08c8"
+                ]
+              },
+              "['Q1', '2024']": {
+                "answer": "In Q1 FY24, Saregama achieved a 60% year-on-year revenue growth, primarily driven by enhanced B2C monetization. Music business showed a healthy 17% growth in Q1. Carvaan sales volume grew by over 50%. The company maintained its growth numbers despite building multiple revenue sources. While specific numbers for music licensing and Tamil/Hindi market leadership weren't explicitly stated, overall growth significantly exceeded projections.",
+                "citations": [
+                  "201499b86e6e11e6b266169c4374046c",
+                  "f056c59775775944854f4995f49abf01",
+                  "f75c9d5868877e08e071abbf580b9b74",
+                  "de325985903a5a3a7382a81c08ee39d6",
+                  "c34d6f99bd3c1531256b2a9f82c806bf"
+                ]
+              },
+              "['Q2', '2024']": {
+                "answer": "Q2 2024 data shows mixed results. Revenue from operations reached INR 3,524 Mn, with Digital Media revenue declining by 2.1% and Traditional Media growing by 65%. Licensing revenue growth is cited as 22-23%, but the timeframe isn't specified.  Further details on Carvaan sales are not provided.",
+                "citations": [
+                  "c0f63ba000bb77c4c53e0465a5a7e1a5",
+                  "661c4a35c3a5f1416a751e0305fc78d2",
+                  "fbaa183e2724021d7475b5858c84d483",
+                  "2834f462abb4dff4ad14639e8528db34"
+                ]
+              }
+            },
+            "evaluation": {
+              "evaluation": "Expectations Not Met",
+              "evaluation_reason": "While overall revenue and key segments (licensing and Carvaan) Expectations Exceeded in Q4 FY23,  the data lacks specifics regarding the Hindi and Tamil market leadership and the impact of planned acquisitions, preventing a complete evaluation."
+            }
+          },
+          {
+            "theme": "Profitability and Margin Targets",
+            "narrative": "Management provided guidance on adjusted EBITDA and operating margins, highlighting cost optimization efforts.  Specific margin targets were given for different business segments.",
+            "management_guidance": {
+              "answer": "The company expects an adjusted EBITDA of 32% to 33% annually; A 3% improvement in operating margin is anticipated in the next quarter due to cost optimization and operational efficiency; Films business margins are projected to be between 15% and 20%; Series business is expected to reach positive margins within the next 12-18 months, eventually achieving a 15% margin.",
+              "citations": [
+                "7684cdc9a6c0238ecd9002a71f7df208",
+                "a9e78b652c89622579954542d8b07445",
+                "4e1e589b7a31ea7f822f78d79edb5143",
+                "300e8621aa61c25c0fa961e3511e8131",
+                "c7a3a208ad06e533e25cc2a77fd240c0"
+              ]
+            },
+            "actual_results": {
+              "['Q3', '2024']": {
+                "answer": "In Q3 FY24, Saregama reported an EBITDA of INR 73 million and an EBITDA margin of 1.43%. The net profit was INR (264) million, resulting in a net profit margin of (5.19)%. These figures significantly deviate from the management's guidance, indicating a need for further investigation into the reasons behind the shortfall. Information on segment-specific margins is not directly available.",
+                "citations": [
+                  "f5c11552f97a91a605327489a04f1b6d"
+                ]
+              },
+              "['Q4', '2023']": {
+                "answer": "In Q4 FY23, EBITDA was INR 169 Mn, with a margin of 10.26%, a significant improvement from the previous quarter. FY23 EBITDA was INR 473 Mn, representing a 31.9% increase from FY22. The EBITDA margin for FY23 was 8.49%. PAT in Q4 FY23 was INR 47 Mn (INR 48 Mn after adjustments), with a margin of 2.95%. FY23 PAT was INR 96 Mn, with a margin of 1.68%.",
+                "citations": [
+                  "bccdcd802e331b01049183bcc26c4a4a",
+                  "e8aa73df2ffb5b18b1f23da4bd5388f8",
+                  "9ef992aecc32ecc1b9dce87f5d3d8041",
+                  "37fcaa17d32ad5cce12e6fe55505b1c5"
+                ]
+              },
+              "['Q1', '2024']": {
+                "answer": "In Q1 FY24, the company achieved an EBITDA margin of 4.04%, below the 32-33% annual target. The provided data does not offer sufficient detail to assess the performance of individual business segments (films and series) against their respective margin targets. Further information is needed to fully assess the achievement of profitability goals.",
+                "citations": [
+                  "4258385c9577ddfc6e2630b09c92eb3a",
+                  "8c30e276f0aa494b5f0dbd1ec6957824"
+                ]
+              },
+              "['Q2', '2024']": {
+                "answer": "Q2 2024 data shows an EBITDA of INR 250 Mn (7.08% margin) according to one source and INR 172 Mn (8.65% margin) according to another. Net profit margin was 1.01%.  The provided data does not offer a direct comparison to the annual EBITDA guidance or the specific margin targets for films and series.",
+                "citations": [
+                  "c0f63ba000bb77c4c53e0465a5a7e1a5",
+                  "06e6339bdb81399d232c076e3c6bacbf"
+                ]
+              }
+            },
+            "evaluation": {
+              "evaluation": "Expectations Not Met",
+              "evaluation_reason": "The actual EBITDA and PAT margins in Q4 FY23 and FY23 significantly fell short of the management's annual guidance of 32-33% EBITDA margin.  Further, no segment-specific margin data is available to assess progress against those targets."
+            }
+          },
+          {
+            "theme": "Capital Allocation and Financial Health",
+            "narrative": "Management emphasized a disciplined approach to capital allocation, particularly limiting investment in films, series, and events to a maximum of 18% of total capital deployed.",
+            "management_guidance": {
+              "answer": "The maximum capital allocation to the Films, Series, and Events business will not exceed 18% of total capital deployed.",
+              "citations": [
+                "c7a3a208ad06e533e25cc2a77fd240c0"
+              ]
+            },
+            "actual_results": {
+              "['Q3', '2024']": {
+                "answer": "The provided Q3 2024 data does not contain information on the actual capital allocation to the Films, Series, and Events business. Therefore, no comparison to the management's guidance can be made.",
+                "citations": []
+              },
+              "['Q4', '2023']": {
+                "answer": "No specific data on actual capital allocation to Films, Series, and Events is provided in the available data to assess whether the 18% limit was met.",
+                "citations": []
+              },
+              "['Q1', '2024']": {
+                "answer": "The provided data does not directly address the actual capital allocation to Films, Series, and Events in Q1 FY24. However, it was mentioned that the films and TV business continues to grow at 25% annually, while total capital allocation remains within the 18% upper limit. Further information is required for a comprehensive assessment.",
+                "citations": [
+                  "88b193c6b8b505fac5858b93192ca136"
+                ]
+              },
+              "['Q2', '2024']": {
+                "answer": "No data from the provided Q2 2024 results directly addresses actual capital allocation to the Films, Series, and Events business. Therefore, no comparison to the 18% guidance is possible.",
+                "citations": []
+              }
+            },
+            "evaluation": {
+              "evaluation": "Insufficient Info",
+              "evaluation_reason": "The provided data for Q4 2023 lacks information on actual capital allocation to the Films, Series, and Events business, making it impossible to assess whether the 18% limit was met."
+            }
+          }
+        ]
+      },
+      "['Q2', '2024']": {
+        "themes": [
+          {
+            "theme": "Financial Performance",
+            "narrative": "Management provided substantial forward-looking guidance on revenue growth, profitability, and operational efficiency for Saregama and its subsidiary, Pocket Aces.  The guidance reflects optimism regarding the transition from free to paid models in streaming platforms and anticipates significant revenue increases. There is also commentary on the impact of film releases on Q4 financials and marketing costs.  A long-term growth target is set, with a five-year payback period for music investments maintained despite market uncertainties.",
+            "management_guidance": {
+              "answer": "Revenue growth from streaming platforms is expected to increase by 150% to 300%; Pocket Aces is projected to achieve a minimum 23% annual revenue growth and breakeven at the PBT level in FY25; Combined revenue growth for Saregama and Pocket Aces is anticipated to be 27-28% from FY25 onwards; Films and series vertical is projected to achieve a 25% growth in FY24 compared to FY23; A 15% increase in overall revenue is targeted for the next fiscal year; Music licensing revenue is expected to grow at 22-23% per year; The total size of the content sold industry is projected to reach 1000 crore this year; Saregama and Pocket Aces aim to maintain their adjusted EBITDA guidance of 32-33%; The films and series business is expected to maintain a 15% margin; A 10% reduction in operational costs is targeted over the next two quarters; A five-year payback period for music investments is maintained.",
+              "citations": [
+                "011d372368d3447c2862ba2e54a77296",
+                "30a61c36305456d31bd937bef9eed950",
+                "f2fc3392fb8520b474677542c127557e",
+                "d2c87671acf537633ef29719c9f34a27",
+                "c2c9c7546115952a8c024682074eca98",
+                "c0fd80403ce4ef50d860af5122945b2f",
+                "2834f462abb4dff4ad14639e8528db34",
+                "fbaa183e2724021d7475b5858c84d483",
+                "c5c16405661f8c79fe1f430cf7d4bc94",
+                "a333e84feaefd3b255910b0266725deb",
+                "82f7c764b498e42fe5d5473fd284eeb4",
+                "c0fd80403ce4ef50d860af5122945b2f",
+                "197f8eebc59671a3ad90fed9e296d8bf"
+              ]
+            },
+            "actual_results": {
+              "['Q3', '2024']": {
+                "answer": "In Q3 FY24, Saregama reported INR 1,559 million in revenue from operations (a 4.3% YoY increase) and INR 22 million in other income (a 140.4% YoY increase). EBITDA was INR (177) million, PBT was INR (264) million, and PAT was INR (304) million. The 9M FY24 Revenue from Operations was INR 5,083 million, a 29.6% increase compared to 9M FY23. 9M FY24 EBITDA was INR 73 million, a significant decrease of 76.1% compared to 9M FY23. The PAT margin for 9M FY24 was (5.19%), a decrease of 634 Bps compared to 9M FY23. There are also mentions of a 15% revenue increase in the last fiscal year and a target of INR 930-940 crore revenue for FY24.",
+                "citations": [
+                  "f5c11552f97a91a605327489a04f1b6d",
+                  "ecd3fd4f809e03c4f3864d8178e4218d",
+                  "863161cd57e45c4dd4f13b41414f8529",
+                  "4e946f42afd3f70392ebf9e18d0a8307",
+                  "184888525975cb7e99f8e73c71a092e6",
+                  "af119f79f78aeb12e6ad3c218b9086d0",
+                  "19712e24d61b2daa1ccd36d494eb7ffd"
+                ]
+              },
+              "['Q4', '2024']": {
+                "answer": "In Q4 2024, Saregama reported INR 263 crore operating revenue and INR 76 crore PBT, representing 29% and 30% year-on-year growth respectively. Revenue growth excluding Carvaan exceeded 30% on a trailing month basis. A 15% increase in Q4 FY24 revenue compared to the previous year was also reported. Music (Licensing and Artist Management) revenue reached INR 544 crore in FY24; Carvaan revenue was approximately INR 130 crore; Video business revenue was INR 116 crore; and Events revenue was INR 13 crore. The company maintained its adjusted EBITDA guidance of 32-33%.",
+                "citations": [
+                  "782a6ef0c2c992983dfbfa056e7506c8",
+                  "d61bb1d90038cecbeb3027ceb6165aa9",
+                  "08bae46f90afc0628801307c61619764",
+                  "c3d09ac5654dd911a241a6ddcdfb9280",
+                  "76b3dfc9a6ccddb8ba876d14e84ef83c"
+                ]
+              },
+              "['Q1', '2025']": {
+                "answer": "Q1 FY25 saw revenue from operations at 1,544 INR Mn; operational revenue reached INR 6,000 Mn; Digital Media revenue achieved 575 INR Mn with a Y-o-Y growth of 19.6%; Traditional Media revenue was 960 INR Mn with a Y-o-Y decline of 10.8%; Income from Operations was 1,535 INR Mn with a Y-o-Y growth of 0.6%; Music and Artist Management segment grew by 6% year-on-year; EBITDA was (134) INR Mn; PBT was (228) INR Mn; PAT was (171) INR Mn; Our revenue increased by 26% over the last year; Our EBITDA increased by 9% and is currently at 33% of the revenue. Carvaan revenue was INR24.7 crores, a significant drop from Q1FY24.",
+                "citations": [
+                  "3a62d7f0ee1a57d4d0e0ba2b7a51a5d3",
+                  "466b88dccb0489374fd81017d64a2efd",
+                  "df41c7b929cc73cdf22cbb4d60977c2e",
+                  "d003d884b1030a576e8a9d63cac11b9f",
+                  "5dc39bc91af52b6b2f466e3c17a11c75",
+                  "a9272bbac94fb4e8df9a5a5e2813ff96"
+                ]
+              },
+              "['Q2', '2024']": {
+                "answer": "Saregama reported consolidated revenue from operations of INR 3,524 Mn in Q2 FY24 (b84d3c6695ae8619b1dd8af9126db883, c0f63ba000bb77c4c53e0465a5a7e1a5). Traditional Media revenue reached INR 827 Mn, a 65% increase compared to Q2 FY23 (661c4a35c3a5f1416a751e0305fc78d2), while Digital Media revenue saw a 2.1% decline to INR 639 Mn (661c4a35c3a5f1416a751e0305fc78d2). EBITDA was INR 250 Mn with an EBITDA margin of 7.08% (c0f63ba000bb77c4c53e0465a5a7e1a5, b84d3c6695ae8619b1dd8af9126db883). Net profit was INR 36 Mn, resulting in a net profit margin of 1.01% (c0f63ba000bb77c4c53e0465a5a7e1a5, b84d3c6695ae8619b1dd8af9126db883). Another source indicates revenue from operations as 1,989 Mn for Q2-FY24 (06e6339bdb81399d232c076e3c6bacbf), and EBITDA as 172 Mn for Q2-FY24 (06e6339bdb81399d232c076e3c6bacbf) with PAT of 55 Mn (06e6339bdb81399d232c076e3c6bacbf). There's a discrepancy in reported revenue figures requiring further investigation. A 15% revenue increase was reported compared to the same period last year (c0fd80403ce4ef50d860af5122945b2f).",
+                "citations": [
+                  "b84d3c6695ae8619b1dd8af9126db883",
+                  "c0f63ba000bb77c4c53e0465a5a7e1a5",
+                  "661c4a35c3a5f1416a751e0305fc78d2",
+                  "06e6339bdb81399d232c076e3c6bacbf",
+                  "c0fd80403ce4ef50d860af5122945b2f"
+                ]
+              }
+            },
+            "evaluation": {
+              "evaluation": "Insufficient Info",
+              "evaluation_reason": "The conflicting revenue and EBITDA figures for Q2 2024 prevent a reliable assessment of Saregama's performance against the provided management guidance.  Further clarification is needed to reconcile these discrepancies."
+            }
+          },
+          {
+            "theme": "Market Dynamics and Competition",
+            "narrative": "Management commented on the growth of digital advertising and the company's acquisition strategy.",
+            "management_guidance": {
+              "answer": "Digital advertising is projected to grow from 35% to 45% of all advertising by 2024; An acquisition is expected to result in near-total ownership (92%) within the next 15-18 months.",
+              "citations": [
+                "639db1642ae96c4a9ab5d8cc24d6107f",
+                "3fa152b16f59b27b0cebbae8a08d4cfb"
+              ]
+            },
+            "actual_results": {
+              "['Q3', '2024']": {
+                "answer": "No specific actual results related to these guidance points are provided in the Q3 FY24 data.",
+                "citations": []
+              },
+              "['Q4', '2024']": {
+                "answer": "No specific actual results related to these guidance points were found in the provided Q4 2024 data.",
+                "citations": []
+              },
+              "['Q1', '2025']": {
+                "answer": "No specific actual results related to these guidance points are provided in the Q1 FY25 data.",
+                "citations": []
+              },
+              "['Q2', '2024']": {
+                "answer": "No specific actual results related to the stated management guidance are available in the provided data. However, the total size of the content sold industry is reported to be closer to 1000 crore this year (c5c16405661f8c79fe1f430cf7d4bc94). The combined subscriber base of Saregama and Pocket Aces is cited as a competitive advantage (5281023c05790ea85801febb13771f1e). Partial acquisition progress is mentioned (3fa152b16f59b27b0cebbae8a08d4cfb), but completion and resulting ownership percentage are not available.",
+                "citations": [
+                  "c5c16405661f8c79fe1f430cf7d4bc94",
+                  "5281023c05790ea85801febb13771f1e",
+                  "3fa152b16f59b27b0cebbae8a08d4cfb"
+                ]
+              }
+            },
+            "evaluation": {
+              "evaluation": "Insufficient Info",
+              "evaluation_reason": "The provided Q2 2024 data lacks sufficient information to evaluate the achievement of management's guidance on digital advertising market share or the progress and outcome of the acquisition."
+            }
+          }
+        ]
+      },
+      "['Q1', '2023']": {
+        "themes": [
+          {
+            "theme": "Financial Performance",
+            "narrative": "Saregama projects continued strong revenue growth, building on a history of over 20% annual growth for the past three years.  The company anticipates significant revenue expansion within the next few years, aiming for Rs. 150-200 Crores in revenue within a couple of years.  Specific targets include a 15% revenue increase in the next fiscal year and a projected 22-23% year-on-year growth for the next three to five years.  The film series and TV business is expected to maintain a 25% year-on-year growth rate with approximately 15% margins.",
+            "management_guidance": {
+              "answer": "Projected 15% revenue increase in the next fiscal year through strategic partnerships and product diversification; Projected 22-23% year-on-year growth for the next three to five years; Film series and TV business projected to grow at a 25% year-on-year rate with ~15% margins; Events business projected to have 5-10% margins over the next couple of years; Film TV and web series business will contribute 15-20% margin year-on-year for the next three to five years; This business will generate 15-20% margin after writing off the entire cost of film or series in year one; Events verticals will slowly build up in terms of revenue, but in the initial years we expect it to contribute only 5% to 10% margin.",
+              "citations": [
+                "198edfa1875920cb5905f215e94d4468",
+                "94709b3647cd3808c6ffde712cf8d134",
+                "94709b3647cd3808c6ffde712cf8d134",
+                "5bce33c2483cfc9a21eecb91d3b47972",
+                "44d91a37b73a06466c21664088ceb11c",
+                "be4db0a9cf3e8bc99f110ad4ad5b56cd",
+                "94709b3647cd3808c6ffde712cf8d134"
+              ]
+            },
+            "actual_results": {
+              "['Q4', '2023']": {
+                "answer": "In Q4 FY23, Saregama's revenue from operations increased by 10.0% from Q3-FY23 and by 75.8% from Q4-FY22, reaching INR 1,645 Mn. For FY23, revenue from operations increased by 45.9% to INR 5,566 Mn. The company also reported a 20% revenue growth for FY23, and the Film, Series and Events vertical crossed Rs. 150 crores in FY23. The contribution of B2C revenue as a percentage of total revenue doubled in FY23 vs. FY22. Licensing revenue grew by more than 20% for the fifth consecutive year. 48% of Saregama’s revenue came from music released post-2000. The EBITDA margin for FY23 was 8.49%, with an EBITDA of INR 473 Mn (a 31.9% increase from FY22). PAT after adjustments was INR 94 Mn (a 77.7% increase from FY22). The PAT margin for FY23 was 1.68%.",
+                "citations": [
+                  "bccdcd802e331b01049183bcc26c4a4a",
+                  "e404694a29dd6f4a96d606a7c8e9a661",
+                  "4c78a2a0e600d65c98df4a5cf493a249",
+                  "e8aa73df2ffb5b18b1f23da4bd5388f8",
+                  "947c5ac489b80117fae660c52c6e08c8",
+                  "4e1e589b7a31ea7f822f78d79edb5143",
+                  "5948b590c0bb760f30515e340357640c",
+                  "77735b85fbf333bf8dfa07b973563105",
+                  "22a32bf7cb4f1ba553e7043f3c41b29f",
+                  "9ef992aecc32ecc1b9dce87f5d3d8041",
+                  "37fcaa17d32ad5cce12e6fe55505b1c5"
+                ]
+              },
+              "['Q1', '2023']": {
+                "answer": "In Q1 FY23, Saregama reported operating revenues of approximately Rs. 169 Crores and a PAT of Rs. 41 Crores, representing a 61% year-on-year increase in operating income and a 52% increase in PAT income. The music business grew by 38% year-on-year. Digital Media revenue increased to 481 INR Mn from 403 INR Mn in Q1-FY22 (19.3% YoY growth), and Traditional Media revenue rose to 479 INR Mn from 345 INR Mn in Q1-FY22 (39.0% YoY increase). Income from Operations increased to 960 INR Mn from 748 INR Mn in Q1-FY22 (28.4% YoY growth). EBITDA was 81 INR Mn with an EBITDA Margin of 8.48%.",
+                "citations": [
+                  "6578901572c6f6c492fe678f99cb473d",
+                  "e5edb9ab68f4b44a87cb2459a78077c0",
+                  "5add50312d4df3eb5350d5e9f937a29e"
+                ]
+              },
+              "['Q3', '2023']": {
+                "answer": "In Q3 FY23, Saregama reported Revenue from Operations of INR 1,496 Mn. The 9M FY23 Revenue from Operations was INR 3,921 Mn, a significant growth compared to INR 2,878 Mn in 9M FY22. Music licensing revenue grew by over 20%. The Film, Series and Events vertical doubled its revenue in the first 9 months of FY23 compared to the same period in the previous year, reaching approximately INR 100 crores. The music business (licensing and Carvaan) achieved its highest quarterly revenue at INR 154 crores. On a 9-month basis, the Music segment grew by 25% year-on-year to INR 433 crores. Q3 saw operating revenues of INR 185 crores and PAT of INR 2 crores, a year-on-year revenue growth of 23% and 20% in PAT. On a 9-month basis, revenue and PAT grew by 36% and 34% respectively. EBITDA in Q3 FY23 was INR 94 Mn (6.31% margin), while 9M FY23 EBITDA was INR 304 Mn (7.75% margin). Net Profit in Q3 FY23 was INR 9 Mn (0.59% margin).",
+                "citations": [
+                  "055cb005530615887583825c0de182be",
+                  "b46f1d704367fa337b2689e687afcb65",
+                  "ca77a9f52cacac73588bcd41e565ec2c",
+                  "2ad0f9465767db12cf5a37117538ec8a",
+                  "374028e42d260015e1074f083e96dacc",
+                  "3f2544649854c766fa029eddf0d7c39c"
+                ]
+              },
+              "['Q2', '2023']": {
+                "answer": "Operational Revenue for H1FY23 was INR 3,960 Mn with an EBITDA Margin of 15.0%. Operational Revenue for FY22 was INR 5,818 Mn. Digital Media revenue in Q2-FY23 was INR 639 Mn (35.8% Y-o-Y growth), and Traditional Media revenue was INR 827 Mn (8.7% Y-o-Y growth). Income from Operations was INR 1,466 Mn in Q2-FY23 (19.0% Y-o-Y growth). Revenue from Operations was INR 1,466 Mn in Q2-FY23 and INR 2,426 Mn in H1-FY23 (22.6% Y-o-Y growth).  Q2-FY23 Traditional Media Performance was INR 1,306 Mn compared to INR 1,106 Mn in Q2-FY22 and INR 761 Mn in H1-FY23 compared to INR 827 Mn in H1-FY22.  H1-FY23 Digital Media Performance was INR 1,120 million.  The music business showed its highest quarterly revenue ever at Rs.150.9 Crores. Music licensing grew at a rate over 20%.  Operating revenue in Q2 was Rs.189 Crores, and PAT was Rs.46 Crores (30% year-on-year increase in income and a 36% year-on-year increase in PAT). On a half-yearly basis, both revenue and PAT grew by 43% year-on-year.  This builds on last year’s growth of 31% in operating revenue and 35% in PAT.  Despite external uncertainties, revenue increased, largely due to broadcasting and digital initiatives; B2C revenue doubled in H1 FY23 vs the same period last year.",
+                "citations": [
+                  "9180db3c043a0d69b248f4c44b6e778b",
+                  "b4306c3072ca48b9f18c3958781f78bc",
+                  "1f777d2e271c6a0fa80b6d775df4b5a1",
+                  "d77b76f3e44e68a8a35cda2a00a2052c",
+                  "4c98bb049b7489446f07c43a1f9ce2f2",
+                  "840d9c1700ea251cdff436101f65b630",
+                  "101a93c78ebebaa9ea040d0fa94c6d8b",
+                  "2f2ad2d7fb6166d0e42ca149bfd46ac1",
+                  "dfb57aae1ce929be68e3239dd2d42cb5",
+                  "56bd81f1d4b64b50429e3b3a35a882fc",
+                  "72c15ef94dc267fe241709048d1b3ae5"
+                ]
+              }
+            },
+            "evaluation": {
+              "evaluation": "Expectations Exceeded",
+              "evaluation_reason": "Q1 2023 results significantly exceeded the projected 15% revenue increase for the fiscal year, showing a 61% year-on-year increase in operating income and strong growth across different segments."
+            }
+          },
+          {
+            "theme": "Content Strategy and Production",
+            "narrative": "Saregama aims to acquire 30-35% of all Pan-India content released annually, targeting a market estimated at Rs. 800 Crores.",
+            "management_guidance": {
+              "answer": "Aim to acquire 30-35% of all Pan-India content released annually (estimated at Rs. 800 Crores).",
+              "citations": [
+                "e9cb225281e456d15b11ca385c970c2e"
+              ]
+            },
+            "actual_results": {
+              "['Q4', '2023']": {
+                "answer": "No specific quantifiable results related to content acquisition are available in the provided Q4 2023 data.",
+                "citations": []
+              },
+              "['Q1', '2023']": {
+                "answer": "No specific Q1 2023 results regarding content acquisition are provided in the data.",
+                "citations": []
+              },
+              "['Q3', '2023']": {
+                "answer": "No specific quantifiable actual results related to content acquisition are available in the provided Q3 2023 data.",
+                "citations": []
+              },
+              "['Q2', '2023']": {
+                "answer": "No specific quantifiable results related to content acquisition targets are provided in the Q2 2023 data.  However,  Rs. 100 crore was invested in content acquisition over the previous fiscal year.",
+                "citations": [
+                  "58b0efa5b6a4fcc59955e7515e8c1904",
+                  "b2d8b7d5a38f0e7cd59f9d509bf6eebb"
+                ]
+              }
+            },
+            "evaluation": {
+              "evaluation": "Insufficient Info",
+              "evaluation_reason": "The provided data lacks information on Saregama's content acquisition progress during Q1 2023, preventing an assessment against the stated goal."
+            }
+          },
+          {
+            "theme": "Technology and Innovation (Under Distribution and Platform Strategy)",
+            "narrative": "Saregama is developing new products and plans a formal launch in Q3, potentially after incorporating customer feedback.",
+            "management_guidance": {
+              "answer": "Planned formal launch of new products in Q3, pending customer feedback modifications.",
+              "citations": [
+                "91cec2d40af02c82e6a17c68aa2e757e"
+              ]
+            },
+            "actual_results": {
+              "['Q4', '2023']": {
+                "answer": "No specific information on the launch of new products or the incorporation of customer feedback is available in the provided Q4 2023 data.",
+                "citations": []
+              },
+              "['Q1', '2023']": {
+                "answer": "No specific Q1 2023 results regarding new product launches are available in the data.",
+                "citations": []
+              },
+              "['Q3', '2023']": {
+                "answer": "No specific information on the launch of new products in Q3 2023 is available in the provided data.",
+                "citations": []
+              },
+              "['Q2', '2023']": {
+                "answer": "No actual results for new product launches are available in the provided Q2 2023 data.",
+                "citations": []
+              }
+            },
+            "evaluation": {
+              "evaluation": "Insufficient Info",
+              "evaluation_reason": "The Q1 2023 data does not contain information about the development or launch of new products, making an evaluation impossible."
+            }
+          }
+        ]
+      },
+      "['Q2', '2023']": {
+        "themes": [
+          {
+            "theme": "Financial Performance",
+            "narrative": "Saregama's management expressed confidence in the continued growth of its music business, projecting steady growth and maintaining a bullish stance on music licensing.  They also discussed profitability targets and cost reduction strategies.  Specific projections were given for revenue growth and margins.",
+            "management_guidance": {
+              "answer": "Revenue Growth: The company projects 22% to 25% year-on-year growth in music revenue on a short to medium-term basis. A separate projection of 15% revenue growth for the next fiscal year was also given, attributed to strategic expansions and new product launches. Growth of 20% to 25% year-on-year was projected for the films, series and television business. Profitability and Margins: Management aims for a 5% to 10% margin once the business stabilizes. A target OIBCID margin of 32% to 33% was maintained for the year, despite better performance in previous quarters. A plan to reduce operational costs by 10% over the next two quarters through automation and process optimizations was mentioned.",
+              "citations": [
+                "17815e54a065a5d7338eef1e3c6a03e0",
+                "7b69317ddcaacff820688627990b7b83",
+                "664a03f4237227b862eefa78df9bb1f4",
+                "58b0efa5b6a4fcc59955e7515e8c1904",
+                "4ff081d5a73e98e8be6180fcf3d87708",
+                "57107a0cdcd020ca0d027403bb38c7c3"
+              ]
+            },
+            "actual_results": {
+              "['Q4', '2023']": {
+                "answer": "In Q4 FY23, Saregama reported Revenue from Operations of 1,645 INR Mn (a 10.0% increase from Q3-FY23 and a 75.8% increase from Q4-FY22). Overall FY23 Revenue from Operations increased by 45.9% to INR 5,566 Mn. EBITDA for FY23 was 1,578 INR Mn (27.79% margin); Q4 FY23 EBITDA was 169 INR Mn (10.26% margin). FY23 PAT was 189 INR Mn (24% YoY growth), while Q4 FY23 PAT was 47 INR Mn (2.95% margin). The company also noted a 29% YoY revenue growth for FY23.",
+                "citations": [
+                  "bccdcd802e331b01049183bcc26c4a4a",
+                  "e8aa73df2ffb5b18b1f23da4bd5388f8",
+                  "20f2cf55e7f83bf4e59b8eea62bf47f4",
+                  "22a32bf7cb4f1ba553e7043f3c41b29f",
+                  "9ef992aecc32ecc1b9dce87f5d3d8041"
+                ]
+              },
+              "['Q1', '2024']": {
+                "answer": "In Q1 FY24, Saregama achieved a 60% year-on-year revenue growth, exceeding initial projections. The music business specifically saw a 17% growth in Q1 FY24. While specific margin data for Q1 FY24 isn't explicitly stated to match the OIBCID margin target, management commentary indicates that the adjusted EBITDA margin at the company level remained within the 32% to 33% range despite the higher revenue growth.",
+                "citations": [
+                  "201499b86e6e11e6b266169c4374046c",
+                  "f056c59775775944854f4995f49abf01",
+                  "f75c9d5868877e08e071abbf580b9b74",
+                  "de325985903a5a3a7382a81c08ee39d6",
+                  "8c30e276f0aa494b5f0dbd1ec6957824",
+                  "3565ad5f27ec66f22139704dffbef317"
+                ]
+              },
+              "['Q2', '2023']": {
+                "answer": "Operational Revenue for H1FY23 was INR 3,960 Mn with a 15.0% EBITDA Margin. Digital Media revenue in Q2-FY23 was INR 639 Mn (35.8% Y-o-Y growth); Traditional Media revenue was INR 827 Mn (8.7% Y-o-Y growth). Income from Operations was INR 1,466 Mn in Q2-FY23 (19.0% Y-o-Y growth).  Revenue from Operations was INR 1,466 Mn in Q2-FY23.  Q2-FY23 Traditional Media performance was INR 1,306 Mn, compared to INR 1,106 Mn in Q2-FY22.  H1-FY23 revenue from operations showed a 22.6% Y-o-Y increase.  The music business showed its highest quarterly revenue ever at Rs.150.9 Crores. Music licensing, the core business, grew over 20%.  Operating revenue in Q2 was Rs.189 Crores, a 30% year-on-year increase. PAT was Rs.46 Crores, a 36% year-on-year increase.  On a half-yearly basis, both revenue and PAT grew by 43% year-on-year.  The company witnessed an increase in revenue attributed to broadcasting and digital initiatives; B2C revenue doubled in H1 FY23 vs. the same period last year.  EBITDA was INR 128 Mn with an 8.75% margin in Q2 FY23.  Operating income before content charge, interest, and depreciation was Rs.69.9 Crores, a 31% growth compared to last year.",
+                "citations": [
+                  "9180db3c043a0d69b248f4c44b6e778b",
+                  "b4306c3072ca48b9f18c3958781f78bc",
+                  "1f777d2e271c6a0fa80b6d775df4b5a1",
+                  "d77b76f3e44e68a8a35cda2a00a2052c",
+                  "840d9c1700ea251cdff436101f65b630",
+                  "56bd81f1d4b64b50429e3b3a35a882fc",
+                  "72c15ef94dc267fe241709048d1b3ae5",
+                  "dfb57aae1ce929be68e3239dd2d42cb5",
+                  "101a93c78ebebaa9ea040d0fa94c6d8b"
+                ]
+              },
+              "['Q3', '2023']": {
+                "answer": "In Q3 FY23, Saregama's music segment revenue grew over 20%, with some sources reporting 23% year-on-year growth.  The music business reached its highest quarterly revenue at INR 154 crores (25% year-on-year growth over 9 months). However, profitability targets were missed. Q3 FY23 EBITDA was INR 94 Mn (6.31% margin), significantly lower than Q2 FY23's 8.75%. The 9M FY23 EBITDA was INR 304 Mn (7.75% margin). Net profit in Q3 FY23 was INR 9 Mn (0.59% margin), and EPS was INR 0.32/share.  9M FY23 net profit was INR 45 Mn (1.15% margin), with an EPS of INR 1.66/share.  Revenue growth targets were largely met, but profitability and margin targets were not.",
+                "citations": [
+                  "374028e42d260015e1074f083e96dacc",
+                  "cc6a886a3b748c10021cf6945f8a86f8",
+                  "ca77a9f52cacac73588bcd41e565ec2c",
+                  "2ad0f9465767db12cf5a37117538ec8a",
+                  "055cb005530615887583825c0de182be",
+                  "3f2544649854c766fa029eddf0d7c39c"
+                ]
+              }
+            },
+            "evaluation": {
+              "evaluation": "Expectations Not Met",
+              "evaluation_reason": "While revenue growth significantly exceeded projections in certain areas (e.g., overall YoY growth, music business revenue), the EBITDA margin of 8.75% fell short of the targeted 32-33% OIBCID margin for the year and the projected 5-10% margin once the business stabilizes."
+            }
+          },
+          {
+            "theme": "Content Strategy and Production",
+            "narrative": "Saregama outlined plans to expand its digital content library significantly to meet growing online streaming demand.  They also discussed their strategy for acquiring a substantial portion of newly released content.",
+            "management_guidance": {
+              "answer": "Content Library Expansion: The company plans to increase its digital content library by 25% by the end of the year. They aim to acquire approximately 30% of all new content released in the year, estimated at 800cr worth.",
+              "citations": [
+                "58b0efa5b6a4fcc59955e7515e8c1904",
+                "b2d8b7d5a38f0e7cd59f9d509bf6eebb"
+              ]
+            },
+            "actual_results": {
+              "['Q4', '2023']": {
+                "answer": "No specific Q4 2023 results directly correlating to content library expansion or acquisition targets are provided in the data.",
+                "citations": []
+              },
+              "['Q1', '2024']": {
+                "answer": "In Q1 FY24, management reported releasing 300 new songs across various platforms in the past six months. While the 25% library expansion target by year-end is not directly addressed in Q1 results, the release of 300 new songs contributes towards this goal. The acquisition of 30% of new content (800cr worth) is not explicitly mentioned in the available Q1 data.",
+                "citations": [
+                  "f0651515f3356058820199fb8c5a1710",
+                  "4004495ec5a681be9576f7e9e15ad022"
+                ]
+              },
+              "['Q2', '2023']": {
+                "answer": "The company released 13 new titles during the quarter across movies, web series, and plays.  A new Tamil TV serial, \"Ilakkiya,\" was launched.  ShemarooTV delivered higher ratings than the previous quarter due to a renewed content strategy.",
+                "citations": [
+                  "101a93c78ebebaa9ea040d0fa94c6d8b",
+                  "ba00353fa0517acf8046728ce310e2cf",
+                  "f3e51dd5dfdb3515861f2d638958a441",
+                  "b2d8b7d5a38f0e7cd59f9d509bf6eebb"
+                ]
+              },
+              "['Q3', '2023']": {
+                "answer": "No specific quantifiable results regarding content library expansion or content acquisition are provided in the Q3 FY23 data.",
+                "citations": []
+              }
+            },
+            "evaluation": {
+              "evaluation": "Insufficient Info",
+              "evaluation_reason": "Q2 2023 results provide information on new content releases but do not offer sufficient data to assess progress toward the 25% library expansion or 30% new content acquisition targets."
+            }
+          },
+          {
+            "theme": "Market Dynamics and Competition",
+            "narrative": "Saregama provided a forecast for the growth of the music subscription economy in India.",
+            "management_guidance": {
+              "answer": "Music Subscription Market: The company anticipates the music subscription economy to start growing significantly in India within the next 18 to 24 months.",
+              "citations": [
+                "cb58a999a4249ee5e10fef269a653dc8"
+              ]
+            },
+            "actual_results": {
+              "['Q4', '2023']": {
+                "answer": "No specific Q4 2023 data directly measuring the growth of the Indian music subscription market is available in the provided data.",
+                "citations": []
+              },
+              "['Q1', '2024']": {
+                "answer": "Q1 FY24 data indicates Saregama achieved market leadership in the Hindi music segment at an all-India level for the April-June quarter, based on new content release and listenership/viewership. The overall growth of the Indian music subscription economy is not explicitly quantified in the provided data.",
+                "citations": [
+                  "b6db3413484006702d35e8157c744450"
+                ]
+              },
+              "['Q2', '2023']": {
+                "answer": "No specific actual results provided in the data for this theme in Q2 2023.",
+                "citations": []
+              },
+              "['Q3', '2023']": {
+                "answer": "No specific data on the growth of the Indian music subscription market is available in the Q3 FY23 data.",
+                "citations": []
+              }
+            },
+            "evaluation": {
+              "evaluation": "Insufficient Info",
+              "evaluation_reason": "No data in Q2 2023 results relates to the growth of the Indian music subscription economy."
+            }
+          },
+          {
+            "theme": "Management and Corporate Governance",
+            "narrative": "The company communicated its target completion date for a demerger process.",
+            "management_guidance": {
+              "answer": "Demerger Completion: Saregama aims to finalize the demerger process by March 2023.",
+              "citations": [
+                "386ae57afdcfdcf404bb798329e50bc8"
+              ]
+            },
+            "actual_results": {
+              "['Q4', '2023']": {
+                "answer": "The provided data does not contain information on the actual completion date of the demerger process.",
+                "citations": []
+              },
+              "['Q1', '2024']": {
+                "answer": "There is no information provided in the Q1 FY24 data regarding the completion status of the demerger process.",
+                "citations": []
+              },
+              "['Q2', '2023']": {
+                "answer": "In this quarter, the company received approvals from the stock exchanges.",
+                "citations": [
+                  "386ae57afdcfdcf404bb798329e50bc8"
+                ]
+              },
+              "['Q3', '2023']": {
+                "answer": "Shareholders approved the demerger, and the result was filed with the NCLT in January.",
+                "citations": [
+                  "fb52b95310b7cf50c0d0c0352d655752"
+                ]
+              }
+            },
+            "evaluation": {
+              "evaluation": "Expectations Not Met",
+              "evaluation_reason": "While receiving stock exchange approvals is a step toward demerger completion, the demerger was not finalized by March 2023 as targeted."
+            }
+          }
+        ]
+      },
+      "['Q3', '2023']": {
+        "themes": [
+          {
+            "theme": "Financial Performance",
+            "narrative": "Saregama expresses strong confidence in its ability to maintain substantial revenue growth, citing the quality of its catalog and new music acquisitions.  Growth across music and Carvaan is highlighted, with specific mention of licensing revenue continuing its strong growth trajectory (over 20% year-on-year).  The company projects continued growth in its Films, Events, and Series business.",
+            "management_guidance": {
+              "answer": "Saregama anticipates music licensing to grow between 22% and 25% annually over the next 3-5 years. The company projects Films, Events, and Series business to grow at 25% annually. Management aims for a 15% to 20% margin on the Films and Series business. Growth numbers for Music and Carvaan will be shared at the end of the fiscal year, but are currently stated to be over 20%.",
+              "citations": [
+                "8b6f95350627c8c96f2566b0418dff2b",
+                "d8520b9f2f930a5a9b88b5f02cf427f5",
+                "6bd529300bcda29d0be80a329d098b4d",
+                "cc6a886a3b748c10021cf6945f8a86f8"
+              ]
+            },
+            "actual_results": {
+              "['Q4', '2023']": {
+                "answer": "Revenue from Operations increased to INR 5,566 Mn in FY23 from INR 3,814 Mn in FY22 (a 45.9% increase). Revenue from Operations was INR 1,645 Mn in Q4 FY23, a 10.0% increase from Q3 FY23 and a 75.8% increase from Q4 FY22. The contribution of B2C revenue as a percentage of total revenue doubled in FY23 vs. FY22. Licensing revenue grew by more than 20% for the fifth consecutive year. The Film, Series and Events vertical revenue crossed Rs. 150 crores in FY23. Overall revenue grew by 20% for FY23. Carvaan unit sales grew by approximately 40% to 5.6 lakhs in FY23 compared to 4 lakhs in FY22. FY23 operating revenues were Rs. 751 crore, and PAT was Rs. 189 crore (revenue growth of 29% YoY, PAT growth of 24% YoY). Revenue growth over the last seven years was at a 23% CAGR, while profit growth was at 59% CAGR. 48% of Saregama’s revenue in FY23 came from music released post-2000. EBITDA margin was 8.49% for FY23. Adjusted EBITDA was in the range of 32% to 33%. Net Profit Margin was 1.68% for FY23.",
+                "citations": [
+                  "bccdcd802e331b01049183bcc26c4a4a",
+                  "e404694a29dd6f4a96d606a7c8e9a661",
+                  "4c78a2a0e600d65c98df4a5cf493a249",
+                  "e8aa73df2ffb5b18b1f23da4bd5388f8",
+                  "37fcaa17d32ad5cce12e6fe55505b1c5",
+                  "9ef992aecc32ecc1b9dce87f5d3d8041",
+                  "77735b85fbf333bf8dfa07b973563105",
+                  "947c5ac489b80117fae660c52c6e08c8",
+                  "4e1e589b7a31ea7f822f78d79edb5143",
+                  "5948b590c0bb760f30515e340357640c",
+                  "22a32bf7cb4f1ba553e7043f3c41b29f"
+                ]
+              },
+              "['Q1', '2024']": {
+                "answer": "In Q1 FY24, Saregama reported a 60% year-on-year revenue growth, primarily driven by enhanced B2C monetization. Music business showed a healthy 17% growth. Carvaan volumes grew by more than 50%. Overall operating revenue reached INR 163 crores, and PBT was INR 59 crores. The company maintained its guidance of 22-23% growth in music licensing revenue for the full year. Adjusted EBITDA margin at the company level was projected to remain above 32-33%, factoring in costs.",
+                "citations": [
+                  "f056c59775775944854f4995f49abf01",
+                  "f75c9d5868877e08e071abbf580b9b74",
+                  "de325985903a5a3a7382a81c08ee39d6",
+                  "3565ad5f27ec66f22139704dffbef317",
+                  "201499b86e6e11e6b266169c4374046c"
+                ]
+              },
+              "['Q2', '2024']": {
+                "answer": "In Q2 FY24, Saregama reported INR 3,524 Mn in consolidated revenue from operations. Digital Media revenue declined by 2.1% to INR 639 Mn year-on-year, while Traditional Media revenue increased by 65% to INR 827 Mn. Income from Operations was INR 1,466 Mn, a 35.7% YoY increase. EBITDA was INR 250 Mn with a margin of 7.08%. Net profit was INR 36 Mn (1.01% margin). Licensing revenue growth was reported as 22-23%, slightly below the initial guidance.",
+                "citations": [
+                  "b84d3c6695ae8619b1dd8af9126db883",
+                  "661c4a35c3a5f1416a751e0305fc78d2",
+                  "2834f462abb4dff4ad14639e8528db34",
+                  "fbaa183e2724021d7475b5858c84d483",
+                  "08b6d751a054c3d368e2448496f48fc4"
+                ]
+              },
+              "['Q3', '2023']": {
+                "answer": "Q3 FY23 operating revenues reached INR 1496 Mn, a 2.0% QoQ increase. 9M FY23 Revenue from Operations totaled INR 3921 Mn, up from INR 2878 Mn in 9M FY22. Music licensing revenue grew by over 20%. The Music segment achieved INR 433 crores revenue in 9 months, a 25% year-on-year growth. Carvaan sales reached 168K units in Q3, compared to 141K the previous year. Films, Series and Events revenue doubled year-on-year to reach approximately INR 100 crores in the first 9 months.",
+                "citations": [
+                  "055cb005530615887583825c0de182be",
+                  "b46f1d704367fa337b2689e687afcb65",
+                  "ca77a9f52cacac73588bcd41e565ec2c",
+                  "cc6a886a3b748c10021cf6945f8a86f8",
+                  "2ad0f9465767db12cf5a37117538ec8a",
+                  "66734fd202a88e2143915d978f4f5580"
+                ]
+              }
+            },
+            "evaluation": {
+              "evaluation": "Expectations Not Met",
+              "evaluation_reason": "While music licensing Expectations Exceeded by exceeding the 20% growth target, the provided data doesn't offer a precise comparison for the growth rates of the Films, Events, and Series business or the Music and Carvaan segments against the management's guidance for the full year.  Additional data is needed for a complete evaluation."
+            }
+          },
+          {
+            "theme": "Content Strategy and Production",
+            "narrative": "The company achieved significant growth in views (from 44 billion in Q2 to 53 billion in Q3).  Future film releases are anticipated for Q4 of the current fiscal year and Q1 and Q2 of the next fiscal year.",
+            "management_guidance": {
+              "answer": "Increased viewership numbers demonstrate significant audience engagement. A pipeline of films is planned for release in subsequent quarters.",
+              "citations": [
+                "99af0a51faa18430a15b2a8b0f92e67d",
+                "c2f6caf537e7452d00cf40826012f59b"
+              ]
+            },
+            "actual_results": {
+              "['Q4', '2023']": {
+                "answer": "No specific quantifiable actual results directly tied to this guidance are present in the provided Q4 data.",
+                "citations": []
+              },
+              "['Q1', '2024']": {
+                "answer": "In Q1 FY24, Saregama released 300 new songs across various platforms. The company achieved market leadership in the Hindi music segment at an all-India level for the April-June quarter. Shemaroo FilmiGaane had 65 million YouTube subscribers, making it the 22nd most subscribed channel globally. Shemaroo GEC channels held a 7% viewership share in the Hindi GEC genre.",
+                "citations": [
+                  "f0651515f3356058820199fb8c5a1710",
+                  "911d9ab73e9c10452649f780f8ccdc7a",
+                  "201499b86e6e11e6b266169c4374046c",
+                  "caa171c0d4c51265d63399bd30bbbbf8"
+                ]
+              },
+              "['Q2', '2024']": {
+                "answer": "In Q2 FY24, Saregama released 100 new songs, significantly expanding its music library. The success of \"Zara Hatke Zara Bachke\" and \"Romancham\" in previous quarters contributed to positive momentum.",
+                "citations": [
+                  "c0fd80403ce4ef50d860af5122945b2f",
+                  "08c5621667ed21d78bdebdc8feeedeac"
+                ]
+              },
+              "['Q3', '2023']": {
+                "answer": "Viewership increased from 44 billion in Q2 to 53 billion in Q3. Bhojpuri language content saw 4 massive hits, collectively crossing 15 crores views on Saregama's official Bhojpuri YouTube channel in one quarter.",
+                "citations": [
+                  "99af0a51faa18430a15b2a8b0f92e67d",
+                  "2ad0f9465767db12cf5a37117538ec8a"
+                ]
+              }
+            },
+            "evaluation": {
+              "evaluation": "Expectations Met",
+              "evaluation_reason": "The actual results show a substantial increase in viewership, aligning with management's expectation of increased audience engagement.  The release of new films, though mentioned as planned, is not directly measured in Q3 results."
+            }
+          },
+          {
+            "theme": "Market Dynamics and Competition",
+            "narrative": "Saregama highlights its leading market position in several languages and aims for the number one position in all major Indian languages within the next 12-18 months.",
+            "management_guidance": {
+              "answer": "The company expects to achieve a number one market position across major Indian languages within 12-18 months.",
+              "citations": [
+                "6bd3da71eb0941f6089dd8634442b12e"
+              ]
+            },
+            "actual_results": {
+              "['Q4', '2023']": {
+                "answer": "No specific quantifiable actual results directly tied to this guidance are present in the provided Q4 data.",
+                "citations": []
+              },
+              "['Q1', '2024']": {
+                "answer": "In Q1 FY24, Saregama achieved clear market leadership in the Hindi music segment at an all-India level for the April-June quarter.",
+                "citations": [
+                  "b6db3413484006702d35e8157c744450"
+                ]
+              },
+              "['Q2', '2024']": {
+                "answer": "No specific quantifiable results related to market share are available from the provided data for Q2 FY24. However, Saregama highlighted its strong YouTube presence with nearly 100 million subscribers across its owned channels, and the combined power of Saregama (100 million digital subscribers) and Pocket Aces (95 million) making them more attractive than competitors.",
+                "citations": [
+                  "5c898189c89f5d8f9f04abe19905c5e4",
+                  "5281023c05790ea85801febb13771f1e"
+                ]
+              },
+              "['Q3', '2023']": {
+                "answer": "Saregama had already achieved a leadership position in some languages and was number two in others. Shemaroo GEC channels held a combined viewership share of over 10% in the overall Hindi GEC genre.",
+                "citations": [
+                  "6bd3da71eb0941f6089dd8634442b12e",
+                  "75eb91b33cfd2efb887cdf6608c5544a"
+                ]
+              }
+            },
+            "evaluation": {
+              "evaluation": "Expectations Not Met",
+              "evaluation_reason": "While Saregama achieved a leadership position in some languages, the goal of becoming number one in all major Indian languages within 12-18 months is a long-term objective, and Q3 data doesn't definitively show progress towards this goal. More data is needed to assess if this target is met."
+            }
+          },
+          {
+            "theme": "Management and Corporate Governance",
+            "narrative": "Mention of an expected final order before March 31st.  The context of this order is not provided, therefore the impact is unclear.  Further information is needed to assess its significance.",
+            "management_guidance": {
+              "answer": "A final order is expected before March 31st.",
+              "citations": [
+                "fb52b95310b7cf50c0d0c0352d655752"
+              ]
+            },
+            "actual_results": {
+              "['Q4', '2023']": {
+                "answer": "No specific quantifiable actual results related to this guidance are present in the provided Q4 data.",
+                "citations": []
+              },
+              "['Q1', '2024']": {
+                "answer": "No actual results related to this guidance are provided in the Q1 FY24 data.",
+                "citations": []
+              },
+              "['Q2', '2024']": {
+                "answer": "No actual results related to the mentioned order are available from the provided data. Promoter shareholding stood at 65.88% in Q2 FY24.",
+                "citations": [
+                  "9f1893aa1fd1eb4c028ac786ab6415fa"
+                ]
+              },
+              "['Q3', '2023']": {
+                "answer": "The shareholders approved the demerger, and the result of the shareholders meeting was filed with NCLT in January.",
+                "citations": [
+                  "fb52b95310b7cf50c0d0c0352d655752"
+                ]
+              }
+            },
+            "evaluation": {
+              "evaluation": "Expectations Met",
+              "evaluation_reason": "While the specific nature of the \"final order\" remains unclear, the Q3 results indicate that a significant corporate action (demerger approval) was completed before the March 31st deadline, suggesting the fulfillment of the guidance, although not explicitly stated."
+            }
+          }
+        ]
+      },
+      "['Q2', '2022']": {
+        "themes": [
+          {
+            "theme": "Revenue Growth and Projections",
+            "narrative": "Management expressed confidence in strong revenue growth across multiple segments, particularly in music licensing and Carvaan sales.  There was a stated target for increasing the digital business contribution to 50% by the next fiscal year.  A bullish outlook was maintained on music licensing, with growth projections in the 22%-25% range for the short-to-medium term and the next three-to-five years.  Specific targets included a 25% year-on-year increase in Carvaan sales.",
+            "management_guidance": {
+              "answer": "Target of 50% digital business contribution by the next fiscal year; Music licensing revenue growth projection of 22%-25% on a short-to-medium-term basis; Music licensing revenue growth projection of 22%-25% over the next three-to-five years; 25% year-on-year increase in Carvaan sales targeted; Overall expectation of a \"pretty decent\" year from both top-line and bottom-line perspectives; Music business growth exceeding 20%, primarily from minimum guarantee or fixed-fee deals.",
+              "citations": [
+                "fe0c9d5fb1425e25ea8af6fcf8ae1cf2",
+                "7491fbb081da1156b9299c252fed3267",
+                "69608ca453ec291d6d8c8a792bf73113",
+                "33c7b77365116076af896a903291d36f",
+                "2453f79d86cfb8311fb074a6f0fcb18a",
+                "d295ca0b9ecad9026a877a1e11ba8548"
+              ]
+            },
+            "actual_results": {
+              "['Q1', '2023']": {
+                "answer": "In Q1 FY23, the digital business contribution reached 50%. The music business grew by 38% year-on-year. Overall operating revenues increased by 61% year-on-year to approximately Rs. 169 Crores. Digital Media revenue increased by 19.3% year-on-year to 481 INR Mn and Traditional Media revenue increased by 39% year-on-year to 479 INR Mn.",
+                "citations": [
+                  "4d3a58c4d792658d7cf07b66db0fa2aa",
+                  "6578901572c6f6c492fe678f99cb473d",
+                  "e5edb9ab68f4b44a87cb2459a78077c0"
+                ]
+              },
+              "['Q2', '2022']": {
+                "answer": "Saregama's Q2 FY22 revenue from operations grew by 34% compared to the same quarter last year. Music licensing revenue grew by over 20%, primarily from minimum guarantee and fixed-fee deals. The total content charge for new content in Q2 was INR 11.3 crore, significantly higher than the INR 2.4 crore in the same quarter of the previous year.",
+                "citations": [
+                  "7491fbb081da1156b9299c252fed3267",
+                  "d295ca0b9ecad9026a877a1e11ba8548",
+                  "20150b16a20e460239cbc9b14d6cacb4",
+                  "40623ad3307a8afe0ff9259cbf59a0d0"
+                ]
+              },
+              "['Q4', '2022']": {
+                "answer": "In Q4 FY22, Saregama reported a 22.6% year-on-year revenue growth from operations.  The company's digital business contribution reached 48% in FY22, indicating significant progress towards the 50% target. Music licensing revenue showed a 26% year-on-year growth, exceeding the projected range. Carvaan sales saw a 17% growth compared to the previous year.",
+                "citations": [
+                  "32b0e0dad342953a1b032dff262577d5",
+                  "34e801ab4451179b3efb890c89577c90",
+                  "522948afc70b658fa81a2a3fd1746f74",
+                  "13924e3f92b19557dd4f8d21207a58f9"
+                ]
+              },
+              "['Q3', '2022']": {
+                "answer": "In Q3 FY22, Digital Media revenue was INR 476 Mn (19.4% YoY growth). 141,000 Carvaan units were sold in Q3. Overall revenue from operations reached INR 899 Mn in Q3 FY22 (2.1% increase YoY). Nine-month revenue from operations reached INR 2,878 Mn (23.3% increase over 9M FY21).  The 20%+ growth in music licensing is supported by consistent year-on-year growth of around 20% for over 12 quarters and a 25%-30% growth projection on a rolling 12-month basis.",
+                "citations": [
+                  "f4282bdb22bf94399870c45589245e1b",
+                  "a912d47d60cdc5d4c5d11e72677292fd",
+                  "259b8037f654d75cc1378ea82e31ab66",
+                  "d63e900fdb9f6e372f8e148bc9919c70",
+                  "fb8e4cee49943718fb7baffee74645fb",
+                  "99126932e6a3dc0a47fc7142967b1bd8",
+                  "2905559575426c59e2b47fc7f1bc0b27"
+                ]
+              }
+            },
+            "evaluation": {
+              "evaluation": "Expectations Not Met",
+              "evaluation_reason": "While music licensing revenue growth exceeded the minimum expectation of 20%,  the data is insufficient to assess performance against targets for Carvaan sales, overall revenue growth,  and the digital business contribution percentage for Q2 FY22."
+            }
+          },
+          {
+            "theme": "Profitability and Breakeven Targets",
+            "narrative": "Management provided guidance on achieving breakeven or marginal profit for Carvaan by the end of the fiscal year.",
+            "management_guidance": {
+              "answer": "Carvaan expected to reach a breakeven situation by year-end; Overall expectation of at least breakeven, if not marginal profit, by year-end.",
+              "citations": [
+                "84d476dc5481d205d99161e8fa8d6a7d",
+                "32b7bf2e6adff19d7ad74f15bb97eb1c"
+              ]
+            },
+            "actual_results": {
+              "['Q1', '2023']": {
+                "answer": "No specific data on Carvaan's profitability is available in the provided Q1 FY23 data. However, overall EBITDA was 81 INR Mn in Q1-FY23. Further information would be needed to assess Carvaan's performance against the breakeven target.",
+                "citations": [
+                  "5add50312d4df3eb5350d5e9f937a29e"
+                ]
+              },
+              "['Q2', '2022']": {
+                "answer": "The provided data does not contain actual results for Carvaan's profitability in Q2 FY22.",
+                "citations": []
+              },
+              "['Q4', '2022']": {
+                "answer": "The provided data does not offer specific information on Carvaan's profitability in Q4 FY22. More detailed financial statements would be needed to assess whether the breakeven target was met.",
+                "citations": []
+              },
+              "['Q3', '2022']": {
+                "answer": "There is no direct information about Carvaan's profitability in Q3 FY22. However, management stated that all Carvaan hardware units were sold at an operating profit level.",
+                "citations": [
+                  "469412d49f83b948f8c3fc233932b725"
+                ]
+              }
+            },
+            "evaluation": {
+              "evaluation": "Insufficient Info",
+              "evaluation_reason": "No profitability data for Carvaan is available for Q2 FY22 to assess whether the breakeven target was met or not."
+            }
+          },
+          {
+            "theme": "Market Share Growth",
+            "narrative": "A goal was set to double market share in the digital music space over the next three years.",
+            "management_guidance": {
+              "answer": "Doubling market share in the digital music space within three years.",
+              "citations": [
+                "33c7b77365116076af896a903291d36f"
+              ]
+            },
+            "actual_results": {
+              "['Q1', '2023']": {
+                "answer": "The provided Q1 FY23 data does not contain information on market share changes. Therefore, no actual results can be reported against this guidance.",
+                "citations": []
+              },
+              "['Q2', '2022']": {
+                "answer": "The provided data does not contain information on market share changes in Q2 FY22.",
+                "citations": []
+              },
+              "['Q4', '2022']": {
+                "answer": "The provided data does not contain information on market share changes in Q4 FY22. Longitudinal data over three years would be required to determine whether this long-term goal was on track.",
+                "citations": []
+              },
+              "['Q3', '2022']": {
+                "answer": "The provided data does not contain information on Saregama's market share in the digital music space for Q3 FY22. Therefore, no actual results can be reported.",
+                "citations": []
+              }
+            },
+            "evaluation": {
+              "evaluation": "Insufficient Info",
+              "evaluation_reason": "The provided data lacks information on market share for Q2 2022, preventing an assessment of progress toward the three-year market share doubling goal."
+            }
+          }
+        ]
+      },
+      "['Q3', '2022']": {
+        "themes": [
+          {
+            "theme": "Revenue Growth and Projections",
+            "narrative": "Saregama projects revenue growth of 25% to 30% year-over-year, incorporating organic and inorganic growth.  The company aims to achieve this growth despite the music streaming industry's slower growth rate of 11%.  This growth projection extends to the next three to five years for the music business (25%-30% y-o-y) and the films and series business (20%-25% y-o-y).  A board member also noted a path of 20% year-on-year growth for over 12 quarters.",
+            "management_guidance": {
+              "answer": "Saregama projects 25%-30% y-o-y revenue growth for the next 3-5 years, driven by organic and inorganic growth.  They aim for at least break-even, potentially minor profit, on Carvaan.",
+              "citations": [
+                "8a519685aabc5716077365dace83f083",
+                "4a7c7120415262974ccf86afa379a84c",
+                "ff650c516d3f353903b9e185340e6d6c",
+                "6f6a5e65ee4b1313ea71db6d56b21e85",
+                "2905559575426c59e2b47fc7f1bc0b27",
+                "ab1539877c34a2f06e21d804a672132e",
+                "99126932e6a3dc0a47fc7142967b1bd8"
+              ]
+            },
+            "actual_results": {
+              "['Q1', '2023']": {
+                "answer": "In Q1 2023, Saregama reported a significant revenue increase. Digital Media revenue increased by 19.3% year-on-year to 481 INR Mn, while Traditional Media revenue saw a 39.0% year-on-year increase to 479 INR Mn. Overall Income from Operations grew by 28.4% year-on-year to 960 INR Mn. The company's digital business contribution increased to 50% in Q1-FY23 from less than 10% in FY14. Total operating revenue for Q1 FY23 was 960 INR Mn, up from 748 INR Mn in Q1 FY22 and 936 INR Mn in Q4 FY22. The music business grew by 38% year-on-year.",
+                "citations": [
+                  "e5edb9ab68f4b44a87cb2459a78077c0",
+                  "4d3a58c4d792658d7cf07b66db0fa2aa",
+                  "5add50312d4df3eb5350d5e9f937a29e",
+                  "6578901572c6f6c492fe678f99cb473d"
+                ]
+              },
+              "['Q2', '2023']": {
+                "answer": "In Q2 FY23, Saregama reported a 22.6% increase in revenue from operations (840d9c1700ea251cdff436101f65b630). The music business achieved its highest ever quarterly revenue at Rs.150.9 Crores (56bd81f1d4b64b50429e3b3a35a882fc), and music licensing grew by over 20% (72c15ef94dc267fe241709048d1b3ae5). Overall operating revenue reached Rs.189 Crores (dfb57aae1ce929be68e3239dd2d42cb5), representing a 30% year-on-year increase. Digital Media revenue was INR 639 Mn, with a Y-o-Y growth of 35.8% (b4306c3072ca48b9f18c3958781f78bc), and H1-FY23 Digital Media Performance was INR 1,120 million (4c98bb049b7489446f07c43a1f9ce2f2). One board member noted a 15% revenue growth exceeding expectations (d1a7ceaeb6241b1a78b628afcc2ff198). Another noted a 20% increase in revenue for the last quarter(58b0efa5b6a4fcc59955e7515e8c1904). Another mentioned 15% increase in sales last quarter (77355ff77a0519a269363c4a082b0f55).",
+                "citations": [
+                  "840d9c1700ea251cdff436101f65b630",
+                  "56bd81f1d4b64b50429e3b3a35a882fc",
+                  "72c15ef94dc267fe241709048d1b3ae5",
+                  "dfb57aae1ce929be68e3239dd2d42cb5",
+                  "b4306c3072ca48b9f18c3958781f78bc",
+                  "4c98bb049b7489446f07c43a1f9ce2f2",
+                  "d1a7ceaeb6241b1a78b628afcc2ff198",
+                  "58b0efa5b6a4fcc59955e7515e8c1904",
+                  "77355ff77a0519a269363c4a082b0f55"
+                ]
+              },
+              "['Q4', '2022']": {
+                "answer": "In Q4 2022, Saregama reported a 22.6% year-over-year revenue growth from operations (3,814 INR Mn vs 3,111 INR Mn). Other income also increased by 82.5%. Several sources indicate a 15% increase in revenue compared to the previous quarter, exceeding targets. The digital business contributed 48% of total revenue in FY22, a significant increase from less than 10% in FY14. Music licensing revenue showed the highest year-on-year growth ever at 26%, exceeding 360 Crores. The films, television and series vertical crossed 100 Crores in annual revenue. Carvaan sales were 112k units in Q4, following 141k units in Q3, contributing to a 17% annual growth (4 lakh units).",
+                "citations": [
+                  "32b0e0dad342953a1b032dff262577d5",
+                  "51c2ce61f19cd93c1e104a1678411d06",
+                  "5b74ef2f1207dfd68846e491911eae66",
+                  "34e801ab4451179b3efb890c89577c90",
+                  "3070696895cd934613f2bc87973db4d2",
+                  "d5a210e2076966cffba2d680c879eea1",
+                  "5f36ee39dec6df89bcc6c9b4c1d0a400",
+                  "522948afc70b658fa81a2a3fd1746f74",
+                  "13924e3f92b19557dd4f8d21207a58f9",
+                  "7c94705baa9c668357c37a9af4ed0f7a"
+                ]
+              },
+              "['Q3', '2022']": {
+                "answer": "In Q3 2022, Saregama's revenue from operations grew by 12%, while PBT grew by 40%. Nine-month revenue from operations reached ₹400 crores, representing a 26% year-over-year increase. On a rolling 12-month basis, the company committed to 25%-30% growth.",
+                "citations": [
+                  "e29e2798f9db7c54ad28bba5ad677d7b",
+                  "2905559575426c59e2b47fc7f1bc0b27"
+                ]
+              }
+            },
+            "evaluation": {
+              "evaluation": "Expectations Not Met",
+              "evaluation_reason": "While nine-month revenue showed a 26% increase, the Q3 2022 growth of 12% fell significantly short of the projected 25%-30% year-over-year growth."
+            }
+          },
+          {
+            "theme": "Profitability and Margins",
+            "narrative": "Saregama expects its operating income before content cost, interest, and depreciation (OIBCID) to remain within 32% to 33% of revenue from operations.  The company aims for at least break-even, and possibly a minor profit, on its Carvaan product.",
+            "management_guidance": {
+              "answer": "Saregama anticipates OIBCID to be 32%-33% of revenue from operations and aims for at least break-even on Carvaan.",
+              "citations": [
+                "99126932e6a3dc0a47fc7142967b1bd8",
+                "fb8e4cee49943718fb7baffee74645fb",
+                "6f6a5e65ee4b1313ea71db6d56b21e85",
+                "ab1539877c34a2f06e21d804a672132e"
+              ]
+            },
+            "actual_results": {
+              "['Q1', '2023']": {
+                "answer": "In Q1 2023, Saregama's EBITDA was 81 INR Mn, compared to 71 INR Mn in Q1 FY22 and 87 INR Mn in Q4 FY22, representing an EBITDA margin of 8.48%. The PAT was 41 Crores, a 52% increase year-on-year and the OIBCID was 64.7 Crores, a 54% growth compared to last year.",
+                "citations": [
+                  "5add50312d4df3eb5350d5e9f937a29e",
+                  "6578901572c6f6c492fe678f99cb473d"
+                ]
+              },
+              "['Q2', '2023']": {
+                "answer": "In Q2 FY23, the operating income before content charge, interest and depreciation was Rs.69.9 Crores, a 31% increase year-on-year (56bd81f1d4b64b50429e3b3a35a882fc). EBITDA was INR 128 Mn with an 8.75% margin (1f777d2e271c6a0fa80b6d775df4b5a1). Combined EBITDA margin for Traditional and Digital Media was 27.8% (9180db3c043a0d69b248f4c44b6e778b). The Carvaan business was described as break-even to low margin (7b69317ddcaacff820688627990b7b83). Another source indicated that employee expenses as a percentage of revenue decreased to 11% from over 13% in the same quarter last year(088ae317f9ff263409258e274f1d92ae)",
+                "citations": [
+                  "56bd81f1d4b64b50429e3b3a35a882fc",
+                  "1f777d2e271c6a0fa80b6d775df4b5a1",
+                  "9180db3c043a0d69b248f4c44b6e778b",
+                  "7b69317ddcaacff820688627990b7b83",
+                  "088ae317f9ff263409258e274f1d92ae"
+                ]
+              },
+              "['Q4', '2022']": {
+                "answer": "In Q4 2022, Saregama's EBITDA was 358 INR Mn, representing a 9.40% margin. While specific Carvaan profitability wasn't explicitly stated, overall, operating income before content charge, interest and depreciation (OIBCID) reached 38%, exceeding their guidance of 32%-33%.",
+                "citations": [
+                  "32b0e0dad342953a1b032dff262577d5",
+                  "522948afc70b658fa81a2a3fd1746f74",
+                  "34e801ab4451179b3efb890c89577c90",
+                  "3070696895cd934613f2bc87973db4d2"
+                ]
+              },
+              "['Q3', '2022']": {
+                "answer": "In Q3 2022, Saregama's OIBCID was 42% of revenue. EBITDA was INR 98 Mn, with an EBITDA margin of 10.88%.",
+                "citations": [
+                  "99126932e6a3dc0a47fc7142967b1bd8",
+                  "259b8037f654d75cc1378ea82e31ab66",
+                  "469412d49f83b948f8c3fc233932b725"
+                ]
+              }
+            },
+            "evaluation": {
+              "evaluation": "Expectations Exceeded",
+              "evaluation_reason": "The actual OIBCID of 42% significantly surpassed the guided range of 32%-33% of revenue from operations."
+            }
+          },
+          {
+            "theme": "Content Acquisition and Return on Investment",
+            "narrative": "Saregama maintains a five-year payback period for all content acquired during its financial year. This is linked to its OIBCID guidance of 32% to 33%.",
+            "management_guidance": {
+              "answer": "Saregama targets a five-year payback period for content acquisitions, aligning with its OIBCID guidance.",
+              "citations": [
+                "c19256d40c3a24b16808a2d7a6cb3a47"
+              ]
+            },
+            "actual_results": {
+              "['Q1', '2023']": {
+                "answer": "No specific data on content acquisition payback periods is available in the provided Q1 2023 data.",
+                "citations": []
+              },
+              "['Q2', '2023']": {
+                "answer": "No specific data on actual payback periods for content acquisitions was found in the provided Q2 FY23 results. However, management commentary did touch upon content acquisition costs normalizing compared to the previous year (c3ee2a15cb2d625a9c889373ca987ab1). The total content charge in Q2 was Rs.17 Crores (664a03f4237227b862eefa78df9bb1f4).",
+                "citations": [
+                  "c3ee2a15cb2d625a9c889373ca987ab1",
+                  "664a03f4237227b862eefa78df9bb1f4"
+                ]
+              },
+              "['Q4', '2022']": {
+                "answer": "No specific data on the actual payback period for content acquisitions in Q4 2022 was available in the provided data. The high OIBCID margin suggests efficient content management and likely a favorable return on investment.",
+                "citations": []
+              },
+              "['Q3', '2022']": {
+                "answer": "No specific actual results regarding content acquisition payback period were found in the provided data for Q3 2022.",
+                "citations": []
+              }
+            },
+            "evaluation": {
+              "evaluation": "Insufficient Info",
+              "evaluation_reason": "The provided data for Q3 2022 lacks information on the actual payback period for content acquisitions, preventing an evaluation against the management's guidance."
+            }
+          }
+        ]
+      },
+      "['Q4', '2022']": {
+        "themes": [
+          {
+            "theme": "Revenue Growth and Projections",
+            "narrative": "Saregama projects significant revenue growth across various segments, driven by strategic investments in new content and inorganic acquisitions.  The company maintains a bullish outlook on its music licensing business, expecting substantial growth fueled by the anticipated rise of music streaming subscriptions in India.  Growth in the films and TV series vertical is also projected.",
+            "management_guidance": {
+              "answer": "Saregama aims for a 23%-25% growth in music licensing revenue; anticipates 20%-22% growth in its films and TV series vertical; projects overall revenue growth at 22%-25%; expects significant growth in the music streaming sector once subscriptions take off in India, potentially exceeding current projections; Yoodlee is expected to contribute 100 Crores to the topline within a year or two.",
+              "citations": [
+                "b547debdf9b9cb177406598784f79899",
+                "b94105a2ab79f8ea48d21bb0a7f9ce48",
+                "89e11503f583766f6b267513a1dd4ce3",
+                "a5461d759f635c7b3ac92ddaf8fff2b5"
+              ]
+            },
+            "actual_results": {
+              "['Q1', '2023']": {
+                "answer": "In Q1 FY23, Saregama reported operating revenues of approximately 169 Crores. The music business grew by 38% year-on-year.",
+                "citations": [
+                  "6578901572c6f6c492fe678f99cb473d",
+                  "37ece7fb5a490ea10b566f2e435fde58",
+                  "e5edb9ab68f4b44a87cb2459a78077c0"
+                ]
+              },
+              "['Q3', '2023']": {
+                "answer": "Q3 2023 data shows revenue growth. Music licensing business growth exceeded 20%. The Films, Series and Live Events vertical reached approximately 100 crores in the first nine months of the fiscal year.  Precise Q4 2022 results are not directly provided.",
+                "citations": [
+                  "374028e42d260015e1074f083e96dacc",
+                  "2ad0f9465767db12cf5a37117538ec8a",
+                  "cc6a886a3b748c10021cf6945f8a86f8",
+                  "ca77a9f52cacac73588bcd41e565ec2c",
+                  "e21b8cd478fe5f7cb6a73fcb1652c707"
+                ]
+              },
+              "['Q2', '2023']": {
+                "answer": "In Q2 FY23, Saregama reported a 22.6% year-on-year growth in revenue from operations. Digital Media revenue grew by 35.8% year-on-year, while Traditional Media showed an 8.7% year-on-year growth. Music licensing grew over 20%. The music business achieved its highest ever quarterly revenue at Rs. 150.9 Crores. Overall, the company reported a 43% year-on-year growth in operating revenue on a half-yearly basis.",
+                "citations": [
+                  "840d9c1700ea251cdff436101f65b630",
+                  "b4306c3072ca48b9f18c3958781f78bc",
+                  "56bd81f1d4b64b50429e3b3a35a882fc",
+                  "72c15ef94dc267fe241709048d1b3ae5",
+                  "dfb57aae1ce929be68e3239dd2d42cb5"
+                ]
+              },
+              "['Q4', '2022']": {
+                "answer": "Revenue from Operations grew by 22.6% in FY22 (3,814 Mn INR vs 3,111 Mn INR in FY21). Yoodlee achieved a revenue of 100 Crores during the financial year.",
+                "citations": [
+                  "32b0e0dad342953a1b032dff262577d5",
+                  "a5461d759f635c7b3ac92ddaf8fff2b5"
+                ]
+              }
+            },
+            "evaluation": {
+              "evaluation": "Expectations Met",
+              "evaluation_reason": "While precise Q4 2022 segment-wise data is missing, the overall FY22 revenue growth of 22.6% falls within the projected range of 22%-25%, indicating that the company met its overall revenue growth expectations."
+            }
+          },
+          {
+            "theme": "Profitability and Margin Targets",
+            "narrative": "Saregama focuses on maintaining profitability despite investments in new content.  The company aims for cost optimization and anticipates achieving breakeven on the Carvaan front within the fiscal year.  Margins in the live events business are projected to improve over time.",
+            "management_guidance": {
+              "answer": "The company aims to maintain an operating income before content interest and depreciation (OIBCID) of 32%-33%; a breakeven is targeted for the Carvaan product line during the fiscal year; the live events business is projected to achieve a 5%-7% margin initially, increasing to double digits after stabilization.",
+              "citations": [
+                "f12cb34c54fea870985c9c554fd1ff66",
+                "522948afc70b658fa81a2a3fd1746f74",
+                "b94105a2ab79f8ea48d21bb0a7f9ce48",
+                "13924e3f92b19557dd4f8d21207a58f9",
+                "69e0fdc91b73f05eb2979e6ee3c9b10b",
+                "1325d3b3414d02eb58c0eba570b6245c"
+              ]
+            },
+            "actual_results": {
+              "['Q1', '2023']": {
+                "answer": "In Q1 FY23, Saregama's operating income before content charge interest and depreciation was 64.7 Crores, showing a 54% growth compared to last year. EBITDA was 81 INR Mn in Q1-FY23. EBITDA Margin (%) was 8.48% in Q1-FY23.",
+                "citations": [
+                  "6578901572c6f6c492fe678f99cb473d",
+                  "5add50312d4df3eb5350d5e9f937a29e"
+                ]
+              },
+              "['Q3', '2023']": {
+                "answer": "Q3 2023 data shows EBITDA margin at 6.31% and 7.75% for 9 months. PAT margin was 0.59% in Q3. Information on Carvaan breakeven and live events margins is not explicitly available in the provided Q3 data.",
+                "citations": [
+                  "055cb005530615887583825c0de182be",
+                  "3f2544649854c766fa029eddf0d7c39c",
+                  "b46f1d704367fa337b2689e687afcb65"
+                ]
+              },
+              "['Q2', '2023']": {
+                "answer": "In Q2 FY23, Saregama's operating income before content charge interest and depreciation was Rs. 69.9 Crores, a 31% year-on-year growth. The EBITDA margin was 8.75%. Carvaan remained a breakeven to low-margin business.  Successful concerts were highlighted.",
+                "citations": [
+                  "56bd81f1d4b64b50429e3b3a35a882fc",
+                  "1f777d2e271c6a0fa80b6d775df4b5a1",
+                  "7b69317ddcaacff820688627990b7b83",
+                  "7550eb8e01e690c58ab0ec4d4e07160a"
+                ]
+              },
+              "['Q4', '2022']": {
+                "answer": "The company delivered an OIBCID of 38% which surpassed the committed range of 32%-33%.",
+                "citations": [
+                  "522948afc70b658fa81a2a3fd1746f74"
+                ]
+              }
+            },
+            "evaluation": {
+              "evaluation": "Expectations Exceeded",
+              "evaluation_reason": "The achieved OIBCID of 38% significantly surpassed the guided range of 32%-33%, exceeding expectations on this key profitability metric."
+            }
+          },
+          {
+            "theme": "Subscription Model Growth",
+            "narrative": "Saregama anticipates a significant shift towards subscription-based revenue in the music streaming business, viewing this as a major growth driver in the near future.",
+            "management_guidance": {
+              "answer": "The company is bullish on the subscription model taking off in India within the next 12-18 months.",
+              "citations": [
+                "47607d9b9934deadc2453199396c5ce8"
+              ]
+            },
+            "actual_results": {
+              "['Q1', '2023']": {
+                "answer": "No specific data on subscription model growth is available from the provided Q1 FY23 data.",
+                "citations": []
+              },
+              "['Q3', '2023']": {
+                "answer": "No specific data on the subscription model's performance in Q4 2022 or Q3 2023 is available in the provided data.",
+                "citations": []
+              },
+              "['Q2', '2023']": {
+                "answer": "No specific data on subscription model growth is available from the provided Q2 FY23 data.",
+                "citations": []
+              },
+              "['Q4', '2022']": {
+                "answer": "No specific data on actual subscription growth is available in the provided data.",
+                "citations": []
+              }
+            },
+            "evaluation": {
+              "evaluation": "Insufficient Info",
+              "evaluation_reason": "The provided data lacks information on the actual subscription growth during Q4 2022, preventing an evaluation of whether expectations were met."
+            }
+          },
+          {
+            "theme": "Content Strategy - Shift to New Content",
+            "narrative": "Saregama is prioritizing growth in new content, aiming to increase its share of revenue from this segment.",
+            "management_guidance": {
+              "answer": "Even with growth in licensing revenue from the catalog, Saregama expects new content revenue to grow at a significantly higher rate (2.5-3x), increasing its overall proportion.",
+              "citations": [
+                "b8255338c76ae74dee96632212268288"
+              ]
+            },
+            "actual_results": {
+              "['Q1', '2023']": {
+                "answer": "In Q1 FY23, the company released 18 new titles across movies, web series, and plays.",
+                "citations": [
+                  "eff5e8f611d79f6d6e419ccc5f174a86",
+                  "0136e3b645c725661aba431e30744abe",
+                  "e9cb225281e456d15b11ca385c970c2e"
+                ]
+              },
+              "['Q3', '2023']": {
+                "answer": "The provided Q3 2023 data doesn't offer direct metrics on the growth rate of new versus catalog content revenue. Increased content charges and investments in new music content suggest progress towards this strategy.",
+                "citations": [
+                  "ec09e0bba0508ed565c23190b3fe9e57",
+                  "6bd3da71eb0941f6089dd8634442b12e"
+                ]
+              },
+              "['Q2', '2023']": {
+                "answer": "The release of 13 new titles across movies, web series, and plays, and the launch of a new Tamil TV serial indicate progress in new content.  Investment in content acquisition was also highlighted.  Specific figures comparing new content revenue growth to catalog licensing revenue are unavailable.",
+                "citations": [
+                  "101a93c78ebebaa9ea040d0fa94c6d8b",
+                  "f3e51dd5dfdb3515861f2d638958a441",
+                  "58b0efa5b6a4fcc59955e7515e8c1904"
+                ]
+              },
+              "['Q4', '2022']": {
+                "answer": "No specific data on the growth rate of new content revenue versus catalog licensing revenue is available in the provided data to compare against the management guidance.",
+                "citations": []
+              }
+            },
+            "evaluation": {
+              "evaluation": "Insufficient Info",
+              "evaluation_reason": "The provided data lacks the necessary information to compare the growth rates of new versus catalog content revenue in Q4 2022, making it impossible to assess whether the company met its objectives."
+            }
+          }
+        ]
+      },
+      "['Q3', '2021']": {
+        "themes": [
+          {
+            "theme": "Financial Performance",
+            "narrative": "Saregama projected strong revenue growth across various business segments for the forthcoming fiscal year and beyond, driven by new strategic initiatives.  Specific growth projections were given for music licensing (20-25%), the Films business (14-17%), and the Yoodlee business (14-16%).  The company also aimed for a 20% increase in profits in the following quarter.  Cost reduction initiatives were expected to yield a 10% decrease in operational costs over the next two quarters. Carvaan was projected to achieve breakeven or positive results going forward.",
+            "management_guidance": {
+              "answer": "Projected 15% revenue growth for the forthcoming fiscal year; Music licensing growth upwards of 20%; Films business growth between 14% and 17% year-on-year; Yoodlee business topline growth between 14% and 16% year-on-year; Aim to increase profits by 20% next quarter; 10% reduction in operational costs over the next two quarters; Carvaan to remain at breakeven or positive.",
+              "citations": [
+                "f8312017f2afa02450af0164b8204a5c",
+                "b574eea7d4d1a4942d6cc55df0b1ff2a",
+                "8dc7e23f2a0f98dceca0c0801ca9ec70",
+                "9ff0ecfbf560412f3af78ee48b73f902",
+                "f8312017f2afa02450af0164b8204a5c",
+                "b574eea7d4d1a4942d6cc55df0b1ff2a"
+              ]
+            },
+            "actual_results": {
+              "['Q2', '2022']": {
+                "answer": "No Saregama data for Q3 2021 actuals is available in the provided dataset to compare against the stated guidance.",
+                "citations": []
+              },
+              "['Q3', '2021']": {
+                "answer": "In Q3 2021, Saregama reported revenue from operations of INR 880 Mn. The music segment revenue grew by 20% year-on-year. Licensing income increased by 25%. Carvaan sales increased by 34% year-on-year, selling 138k units. EBITDA was INR 71 Mn, resulting in an EBITDA margin of 8.03%. Net profit was INR (15) Mn, a net profit margin of (1.74)%.",
+                "citations": [
+                  "21526d757a55c5293df3049d2540f08e",
+                  "38c7862e2a9a68cad32bdd9f67d6aa6c",
+                  "f8312017f2afa02450af0164b8204a5c",
+                  "339dde0163d6d4cc2c48b9162842de55"
+                ]
+              },
+              "['Q1', '2022']": {
+                "answer": "In Q1 2022, Saregama reported a 37% year-on-year revenue growth from operations and a 73% year-on-year growth in PAT. The core music business grew by 20%. While specific figures for Films and Yoodlee aren't directly provided, the overall strong performance suggests positive results across segments. Information on Carvaan's performance is not detailed enough to determine if it met the breakeven or positive results guidance.",
+                "citations": [
+                  "bc23abb151df51e5a00d9693a73bc407",
+                  "074718ffd884c8b6df9d22c7407507d5",
+                  "1030ed61573b9eb56c1bd6fd899ac491"
+                ]
+              },
+              "['Q4', '2021']": {
+                "answer": "In Q4 2021, Saregama reported overall revenue of 615 Crores and PBT of 204 Crores, both the highest ever. Music licensing revenue showed the highest year-on-year growth ever at 26%. Carvaan sales grew by 17% compared to FY2021, achieving breakeven for the year.",
+                "citations": [
+                  "2772f10bbef1421e19c55a5867f44916",
+                  "384902b02ea6e3f46b332a7f03b121ce",
+                  "cb5cf5eda08bdcbf20980ab691d65071"
+                ]
+              }
+            },
+            "evaluation": {
+              "evaluation": "Expectations Not Met",
+              "evaluation_reason": "While music licensing Expectations Exceeded (25% vs 20-25% projected) and Carvaan performed strongly, the overall net profit was a loss, failing to meet the expectation of a 20% profit increase in the following quarter.  Specific data for Films and Yoodlee businesses is unavailable to properly assess performance against the guidance."
+            }
+          },
+          {
+            "theme": "Content Strategy and Production",
+            "narrative": "Saregama planned aggressive investment in new content acquisition.  They aimed for at least a 20% share of new content created in India that year.  The company anticipated a resumption of film content acquisition by broadcasters in the following quarters, due to improving economic conditions.  Increased spending on content and marketing was planned over the next 12-15 months.",
+            "management_guidance": {
+              "answer": "Aim for minimum 20% share of new content created in India; Anticipation of increased broadcaster acquisition of film content in the next few quarters; Increased spending on content and marketing costs over the next 12-15 months.",
+              "citations": [
+                "40ec7ae7885e393f488c4c8d88647e6e",
+                "61471bd591e4c661b85816f1eb7d6519",
+                "75a0db5e47652ba6863d1ad56c22c40b"
+              ]
+            },
+            "actual_results": {
+              "['Q2', '2022']": {
+                "answer": "No Saregama data for Q3 2021 actuals is available in the provided dataset to compare against the stated guidance.",
+                "citations": []
+              },
+              "['Q3', '2021']": {
+                "answer": "In Q3 2021, Saregama launched two Carvaan variants. Their YouTube channel, FilmiGaane, exceeded 46 million subscribers. Advertising spend in the first nine months of the year was INR 25 Crores. They also had 289 podcasts in production.",
+                "citations": [
+                  "e2a17b58e99015c6eafeac9f56fda504",
+                  "61471bd591e4c661b85816f1eb7d6519",
+                  "40ec7ae7885e393f488c4c8d88647e6e",
+                  "2854d3847560e8c688124336b0b17931"
+                ]
+              },
+              "['Q1', '2022']": {
+                "answer": "In Q1 2022, while specific data on market share isn't available, the 20% growth in the music licensing business suggests progress toward the content acquisition goal. There is no information on broadcaster acquisition of film content. The commentary mentions significant content investments, aligning with the planned increased spending.",
+                "citations": [
+                  "b6e2445e5df6fe779e0033f30e17d934",
+                  "d7c58564acfc825cdc70b74060f5b525"
+                ]
+              },
+              "['Q4', '2021']": {
+                "answer": "No specific quantifiable actual results for content acquisition market share are available from the provided data for Q4 2021.",
+                "citations": []
+              }
+            },
+            "evaluation": {
+              "evaluation": "Insufficient Info",
+              "evaluation_reason": "Q3 2021 actual results lack quantifiable data to assess progress against the 20% market share goal for new content or the anticipated increase in broadcaster film content acquisition.  While increased spending on content and marketing aligns with guidance, specific figures for market share are missing."
+            }
+          },
+          {
+            "theme": "Market Dynamics and Competition",
+            "narrative": "Saregama aimed for a significant market share in the music licensing space over a longer-term horizon (10-20 years). They also projected the launch of an advertising business on the Carvaan platform within the next 18-24 months, based on a large enough user base with return paths.",
+            "management_guidance": {
+              "answer": "Aim to gather 10,000-12,000 songs within 10-20 years to achieve a significant market share; Launch of an advertising business on Carvaan within 18-24 months.",
+              "citations": [
+                "0dc10e489a6e7e0846df3ab789bf39d5",
+                "dc85b9fa26f782d11c684904b218d360"
+              ]
+            },
+            "actual_results": {
+              "['Q2', '2022']": {
+                "answer": "No Saregama data for Q3 2021 actuals is available in the provided dataset to compare against the stated guidance.",
+                "citations": []
+              },
+              "['Q3', '2021']": {
+                "answer": "In Q3 2021, Shemaroo MarathiBana became the second most-watched movie channel in the Marathi genre. Saregama also became a leading Bhojpuri music player. One of their channels became the No. 4 channel in the Marathi genre within 3 months of launch.",
+                "citations": [
+                  "61471bd591e4c661b85816f1eb7d6519",
+                  "75a0db5e47652ba6863d1ad56c22c40b",
+                  "67b318138dfb4425e1356d9dbe8004e1"
+                ]
+              },
+              "['Q1', '2022']": {
+                "answer": "In Q1 2022, Saregama's market share in Bhojpuri and Gujarati music exceeded 20% in terms of YouTube viewership. There's no information provided on the launch of the Carvaan advertising business or progress towards the long-term music licensing market share goal.",
+                "citations": [
+                  "bc23abb151df51e5a00d9693a73bc407"
+                ]
+              },
+              "['Q4', '2021']": {
+                "answer": "No specific quantifiable actual results regarding market share gains in music licensing or the launch of Carvaan advertising are provided in the Q4 2021 data.",
+                "citations": []
+              }
+            },
+            "evaluation": {
+              "evaluation": "Insufficient Info",
+              "evaluation_reason": "Q3 2021 results show market share gains in specific genres (Marathi and Bhojpuri), but no data is available to assess progress toward the long-term music licensing market share goal or the launch of the Carvaan advertising business."
+            }
+          }
+        ]
+      },
+      "['Q4', '2021']": {
+        "themes": [
+          {
+            "theme": "Financial Performance",
+            "narrative": "Management projected music licensing revenue growth between 23% and 25%. This projection was maintained despite investments in new content and inorganic acquisitions, suggesting confidence in the core business. The growth rate was attributed to a combination of industry growth (11-12%) and Saregama's increasing market share. Catalogue content continued to show growth above 30% year-on-year. The company anticipated overall revenue growth of 22% to 25% for the company with an operating income before content interest and depreciation (OIBCID) of 32% to 33% in FY2023. The films and TV series vertical was projected to grow around 20% to 22%, targeting a 15% margin. Management aimed for Carvaan to reach breakeven during the fiscal year. Initial projections for the live events business were a 5% to 7% margin, with potential for double-digit margins after stabilization. A cautious approach to Carvaan investments was stated, focusing on cost control until market stabilization.",
+            "management_guidance": {
+              "answer": "23%-25% growth in music licensing revenue; 22%-25% overall revenue growth; OIBCID of 32%-33%; 20%-22% growth in films and TV series vertical with a 15% margin; Carvaan breakeven during the fiscal year; 5%-7% margin for live events initially, increasing to double-digit after stabilization; Cost control and limited investment in Carvaan until market stabilization.",
+              "citations": [
+                "116e015aef5a184fbacd932be0dfcaf5",
+                "18745167bb5faa319218a12ac9d8248b",
+                "99759b26ae3f1345912050e2811eb859",
+                "2772f10bbef1421e19c55a5867f44916",
+                "6fe0106c40d30cee86290adb786b8984",
+                "c9ab8ae83d58b01a4d07b04d638f6600",
+                "e49705a43d6b59fc552a65b44ba22d80"
+              ]
+            },
+            "actual_results": {
+              "['Q2', '2022']": {
+                "answer": "No actual results for Saregama's Q4 2021 financial performance are available in the provided data.",
+                "citations": []
+              },
+              "['Q3', '2022']": {
+                "answer": "While precise figures matching the Q4 2021 guidance aren't directly available in the provided Q3 2022 data, several data points offer partial insights. The Q3 2022 data shows that Digital Media revenue grew by 19.4% year-on-year (f4282bdb22bf94399870c45589245e1b), and that overall revenue from operations was INR 899 Mn in Q3 FY22 (259b8037f654d75cc1378ea82e31ab66). The 9-month revenue from operations showed a 23.3% increase (d63e900fdb9f6e372f8e148bc9919c70), and a rolling 12-month growth commitment of 25% to 30% was mentioned (2905559575426c59e2b47fc7f1bc0b27). These figures suggest growth, but don't directly confirm the Q4 2021 specific guidance. Further information is needed for a complete comparison.",
+                "citations": [
+                  "f4282bdb22bf94399870c45589245e1b",
+                  "259b8037f654d75cc1378ea82e31ab66",
+                  "d63e900fdb9f6e372f8e148bc9919c70",
+                  "2905559575426c59e2b47fc7f1bc0b27"
+                ]
+              },
+              "['Q1', '2022']": {
+                "answer": "In Q1 2022, Saregama reported approximately 37% revenue growth from operations and a 73% year-on-year increase in PAT. The core music business grew by 20%. Management attributed higher Q1 profits partly to a lower content charge (Rs.6.8 Crores compared to Rs.3.4 Crores in Q1 of the previous year). They also stated confidence in the Indian music industry's ability to grow at 11-12%, projecting Saregama's music licensing revenue growth at 20% for the year.",
+                "citations": [
+                  "bc23abb151df51e5a00d9693a73bc407",
+                  "074718ffd884c8b6df9d22c7407507d5",
+                  "d4864f3e84d4506ec80a475b0bef8eed",
+                  "1030ed61573b9eb56c1bd6fd899ac491",
+                  "2e4c287bbe029c59d454502c8d2affb2"
+                ]
+              },
+              "['Q4', '2021']": {
+                "answer": "Music licensing revenue grew by 26%, the highest year-on-year growth ever. Overall revenue reached 615 Crores, the highest ever, with a PBT of 204 Crores, also the highest ever. The films, television, and series vertical exceeded 100 Crores in annual revenue, achieving the targeted 15% margin. Carvaan achieved breakeven. OIBCID reached 38%, exceeding the projected 32%-33%. Catalogue content growth was above 30% year-on-year.",
+                "citations": [
+                  "2772f10bbef1421e19c55a5867f44916",
+                  "2772f10bbef1421e19c55a5867f44916",
+                  "2772f10bbef1421e19c55a5867f44916",
+                  "2772f10bbef1421e19c55a5867f44916",
+                  "28d5ff76f838350dfc5862c057b274eb"
+                ]
+              }
+            },
+            "evaluation": {
+              "evaluation": "Expectations Exceeded",
+              "evaluation_reason": "Saregama exceeded projections across multiple key financial metrics in Q4 2021, including music licensing revenue growth, OIBCID, and achieving breakeven for Carvaan earlier than anticipated, significantly surpassing revenue targets."
+            }
+          },
+          {
+            "theme": "Subscription Model and Monetization (Distribution and Platform Strategy)",
+            "narrative": "Management expressed bullishness about the Indian subscription business taking off within 12-18 months, anticipating significant returns.",
+            "management_guidance": {
+              "answer": "Significant growth in the subscription business within 12-18 months.",
+              "citations": [
+                "24551481070d5d30a10af98cf05339c1"
+              ]
+            },
+            "actual_results": {
+              "['Q2', '2022']": {
+                "answer": "No actual results related to Saregama's subscription business are available in the provided data.",
+                "citations": []
+              },
+              "['Q3', '2022']": {
+                "answer": "The provided Q3 2022 data does not contain information that directly addresses the actual results related to the subscription business growth within the 12-18 month timeframe. Therefore, no actual results can be reported.",
+                "citations": []
+              },
+              "['Q1', '2022']": {
+                "answer": "No specific data on actual subscription growth was provided in the Q1 2022 results. The provided data does not offer concrete figures or insights into the performance of Saregama's subscription model during that period.",
+                "citations": []
+              },
+              "['Q4', '2021']": {
+                "answer": "No specific actual results for the subscription business are available in the provided data for Q4 2021.",
+                "citations": []
+              }
+            },
+            "evaluation": {
+              "evaluation": "Insufficient Info",
+              "evaluation_reason": "The provided data lacks specific information on the actual performance of Saregama's subscription business in Q4 2021, preventing an assessment against management's expectations."
+            }
+          }
+        ]
+      },
+      "['Q1', '2022']": {
+        "themes": [
+          {
+            "theme": "Content Acquisition and Market Share",
+            "narrative": "Saregama's management emphasizes a strategy focused on acquiring a significant share of new music released in the market, particularly targeting 20-25%. This strategy is not budget-driven but rather aims to secure a substantial market presence.  The company's success in Bhojpuri and Gujarati markets, exceeding 20% market share in terms of YouTube viewership, is highlighted as a direct result of this acquisition strategy.",
+            "management_guidance": {
+              "answer": "Management expects Saregama's music licensing revenue to grow at 20% this year (d4864f3e84d4506ec80a475b0bef8eed, 3a2536687be2894bc1b619c015710531).  This projection doesn't account for a potential transition to a paid economy, implying that growth could be even higher (ae060be84b4afa830a83b2098bdbf413).  The target is to acquire 20-25% of all new music released in the market (d4864f3e84d4506ec80a475b0bef8eed). The company aims for a 20-25% growth in music licensing revenue on a short-to-medium term basis (3a2536687be2894bc1b619c015710531).",
+              "citations": [
+                "d4864f3e84d4506ec80a475b0bef8eed",
+                "3a2536687be2894bc1b619c015710531",
+                "ae060be84b4afa830a83b2098bdbf413"
+              ]
+            },
+            "actual_results": {
+              "['Q2', '2022']": {
+                "answer": "No actual results for Q1 2022 are provided in the given data.",
+                "citations": []
+              },
+              "['Q4', '2022']": {
+                "answer": "While specific Q1 2022 results for music licensing market share aren't directly provided, the overall FY22 results show significant growth. The music licensing revenue showed the highest year-on-year growth ever of 26%, surpassing the 20% guidance, indicating successful execution of the content acquisition strategy.",
+                "citations": [
+                  "522948afc70b658fa81a2a3fd1746f74"
+                ]
+              },
+              "['Q3', '2022']": {
+                "answer": "No actual results for Q1 2022 are provided in the given data. The provided Q3 2022 data does not directly relate to this specific theme.",
+                "citations": []
+              },
+              "['Q1', '2022']": {
+                "answer": "Saregama's core music business grew by 20% in Q1 2022. Overall Q1 revenue from operations grew by approximately 37%, and PAT grew by 73% year-on-year. In Bhojpuri and Gujarati markets, Saregama exceeded a 20% market share in YouTube viewership.",
+                "citations": [
+                  "1030ed61573b9eb56c1bd6fd899ac491",
+                  "074718ffd884c8b6df9d22c7407507d5",
+                  "bc23abb151df51e5a00d9693a73bc407"
+                ]
+              }
+            },
+            "evaluation": {
+              "evaluation": "Expectations Met",
+              "evaluation_reason": "Saregama met its 20% music licensing revenue growth target in Q1 2022, and exceeded its market share target in Bhojpuri and Gujarati markets as evidenced by exceeding 20% YouTube viewership."
+            }
+          },
+          {
+            "theme": "Content Investment and Financial Strategy",
+            "narrative": "Saregama's management explicitly states that all investments in new content will be funded from cash generated by the music business; they are committed to not raising debt for content purchases (b4776fd8f8d9e3a9acfcfae480b1463a).  The company targets a five-year payback period for all content investments within a fiscal year (d328043e697dfa5abd7026e3fe6625c6).  Planned investment in new content across languages and film/non-film is estimated at Rs. 600-700 Crores for the following year (d7c58564acfc825cdc70b74060f5b525).",
+            "management_guidance": {
+              "answer": "The company expects Yoodlee's performance this year to significantly improve compared to the previous year's breakeven point, anticipating growth in both revenue and profitability (1030ed61573b9eb56c1bd6fd899ac491).  Within two to three years, they expect revenues from new content to match or exceed charge-offs (87139486aee5a0319302a7d460b2c25c).  They project Yoodlee to achieve triple-digit revenue in the next two to three years (fe1b7ab87e39242877a5c6e805e5f134).",
+              "citations": [
+                "b4776fd8f8d9e3a9acfcfae480b1463a",
+                "d328043e697dfa5abd7026e3fe6625c6",
+                "d7c58564acfc825cdc70b74060f5b525",
+                "1030ed61573b9eb56c1bd6fd899ac491",
+                "87139486aee5a0319302a7d460b2c25c",
+                "fe1b7ab87e39242877a5c6e805e5f134"
+              ]
+            },
+            "actual_results": {
+              "['Q2', '2022']": {
+                "answer": "No actual results for Q1 2022 are provided in the given data.",
+                "citations": []
+              },
+              "['Q4', '2022']": {
+                "answer": "Specific Q1 2022 results for Yoodlee aren't provided in the data. However, the overall FY22 results show that for the first time, the films, television and series vertical crossed the 100 Crores annual revenue number. This suggests progress toward the long-term goals set for Yoodlee, though the specific timeframe and profitability metrics remain unclear from the given data.",
+                "citations": [
+                  "522948afc70b658fa81a2a3fd1746f74"
+                ]
+              },
+              "['Q3', '2022']": {
+                "answer": "No actual results for Q1 2022 are provided in the given data. The provided Q3 2022 data does not directly relate to this specific theme.",
+                "citations": []
+              },
+              "['Q1', '2022']": {
+                "answer": "No specific actual results for Yoodlee's performance or content investment payback are provided in the given data for Q1 2022.",
+                "citations": []
+              }
+            },
+            "evaluation": {
+              "evaluation": "Insufficient Info",
+              "evaluation_reason": "Insufficient Q1 2022 data is available to assess Yoodlee's performance or the payback on content investments against management's guidance."
+            }
+          },
+          {
+            "theme": "Carvaan Performance and Outlook",
+            "narrative": "While Carvaan faced challenges due to lockdowns, it showed recovery in the later part of Q1 2022 as retail networks reopened (1030ed61573b9eb56c1bd6fd899ac491). Management expects future quarters to be better for Carvaan.",
+            "management_guidance": {
+              "answer": "Management anticipates Carvaan will at least break even this year (b5aca3921d53427e595bec7bcb195c0c), after achieving breakeven in the previous year.",
+              "citations": [
+                "1030ed61573b9eb56c1bd6fd899ac491",
+                "b5aca3921d53427e595bec7bcb195c0c"
+              ]
+            },
+            "actual_results": {
+              "['Q2', '2022']": {
+                "answer": "No actual results for Q1 2022 are provided in the given data.",
+                "citations": []
+              },
+              "['Q4', '2022']": {
+                "answer": "The provided data doesn't offer Q1 2022 Carvaan sales figures. However, FY22 results show Carvaan sold 4 lakh units, representing a 17% year-on-year growth. While this demonstrates growth, whether it resulted in breakeven is not explicitly stated.",
+                "citations": [
+                  "69e0fdc91b73f05eb2979e6ee3c9b10b",
+                  "13924e3f92b19557dd4f8d21207a58f9"
+                ]
+              },
+              "['Q3', '2022']": {
+                "answer": "No actual results for Q1 2022 are provided in the given data. The provided Q3 2022 data does not directly relate to this specific theme.",
+                "citations": []
+              },
+              "['Q1', '2022']": {
+                "answer": "In Q1 2022, despite lockdowns in April and May, Saregama sold 45,000 Carvaan units. However, there's no information provided to confirm whether Carvaan achieved breakeven in Q1 2022.",
+                "citations": [
+                  "b5aca3921d53427e595bec7bcb195c0c"
+                ]
+              }
+            },
+            "evaluation": {
+              "evaluation": "Insufficient Info",
+              "evaluation_reason": "While sales data for Carvaan in Q1 2022 is available, there's no information provided to determine if the breakeven target was met."
+            }
+          }
+        ]
+      },
+      "['Q1', '2021']": {
+        "themes": [
+          {
+            "theme": "Financial Performance",
+            "narrative": "Management provided guidance on revenue growth, specifically focusing on the licensing business and overall company revenue.  The licensing business showed exceptional performance in Q1, exceeding expectations.  There was also discussion regarding the future revenue generation potential of the Carvaan platform through advertising.  Profitability in the films business was highlighted as continuing from the previous year.",
+            "management_guidance": {
+              "answer": "Licensing business revenue growth: 15-20% for the year (03d9f5259680568a81e0920d7a7d4671, 6d75d57d8822f5085fd2cb27672f397e).  Long-term target of 25% growth was also mentioned (ee4b68f5363d1e5cc998c680309e753b).\nOverall company revenue growth: 15% targeted for the next fiscal year (5d0d3f259c92ee2d5aa23db24ae1c12f).\nCarvaan platform advertising revenue: Expected within 18-24 months (fd767cd387a395277319aec186334c7e).\nFilms business profitability: Expected to continue (0b5226b871973c2f56041c88f619135e).",
+              "citations": [
+                "03d9f5259680568a81e0920d7a7d4671",
+                "6d75d57d8822f5085fd2cb27672f397e",
+                "ee4b68f5363d1e5cc998c680309e753b",
+                "5d0d3f259c92ee2d5aa23db24ae1c12f",
+                "fd767cd387a395277319aec186334c7e",
+                "0b5226b871973c2f56041c88f619135e"
+              ]
+            },
+            "actual_results": {
+              "['Q3', '2021']": {
+                "answer": "In Q3 2021, Saregama reported revenue from operations of INR 880 Mn. Digital media revenue was INR 399 Mn and traditional media revenue was INR 481 Mn. Carvaan sales increased by 34% year-on-year, and music segment revenue grew by 20% year-on-year. Licensing income increased by 25%. EBITDA was INR 71 Mn (8.03% margin), and net profit was INR (15) Mn (-1.74% margin).",
+                "citations": [
+                  "21526d757a55c5293df3049d2540f08e",
+                  "38c7862e2a9a68cad32bdd9f67d6aa6c",
+                  "0b57bddd90c2252d1e2b2cc19bc5a2fd",
+                  "f8312017f2afa02450af0164b8204a5c"
+                ]
+              },
+              "['Q4', '2021']": {
+                "answer": "In Q4 2021, Saregama's overall revenue was INR 3,111 Mn. Digital media revenue contributed 48% to the total, significantly higher than the less than 10% contribution in FY14. Music licensing revenue showed the highest year-on-year growth ever of 26%, exceeding the 15-20% guidance. Carvaan sales reached 4 lakh units, a 17% year-on-year growth, suggesting progress towards advertising revenue generation, although the 18-24 month timeframe wasn't met. The 15% overall revenue growth target for the fiscal year wasn't explicitly stated as met or missed in available data.",
+                "citations": [
+                  "00a9de6433e78017cccdf06ecc083003",
+                  "2772f10bbef1421e19c55a5867f44916"
+                ]
+              },
+              "['Q1', '2021']": {
+                "answer": "Revenue from Operations for Q1 FY21 was INR 862 Mn, a significant decrease from Q4 FY20 (INR 1,227 Mn) and Q1 FY20 (INR 1,430 Mn). Other Income for Q1 FY21 was INR 3 Mn, considerably lower than Q4 FY20 (INR 11 Mn) and Q1 FY20 (INR 9 Mn). EBITDA for Q1 FY21 was INR (49) Mn, and Net Profit was INR (130) Mn. These results show a substantial downturn compared to the previous quarters and the management's guidance for growth.",
+                "citations": [
+                  "d1bdabca47b18405b9086be5765858bf",
+                  "fb2e6938a07acd4118a9f04c3346283a"
+                ]
+              },
+              "['Q2', '2021']": {
+                "answer": "In Q2 2021, Saregama reported a significant decrease in Revenue from Operations (50.4% decrease compared to H1 FY20, citing b47d98d7892cb545e7f4830acac09414 and f43c0c915c8196fcd5d283905b9390b0), and a substantial decline in Other Income (38.6% decrease compared to H1 FY20, citing f43c0c915c8196fcd5d283905b9390b0). Revenue from operations in Q2 FY21 was INR 593 Mn compared to INR 1,503 Mn in Q2 FY20 (479a579c1bd0d8fc99419d7ecebabd11). EBITDA margin was significantly negative at (3.86)% in H1-FY21 versus 20.59% in H1-FY20 (f43c0c915c8196fcd5d283905b9390b0). The company also reported a net loss. These results fall considerably short of the management's guidance.",
+                "citations": [
+                  "b47d98d7892cb545e7f4830acac09414",
+                  "f43c0c915c8196fcd5d283905b9390b0",
+                  "479a579c1bd0d8fc99419d7ecebabd11"
+                ]
+              }
+            },
+            "evaluation": {
+              "evaluation": "Expectations Not Met",
+              "evaluation_reason": "The Q1 2021 financial results, showing significant revenue decline and substantial losses, fell considerably short of the management's guidance for revenue growth and continued profitability."
+            }
+          },
+          {
+            "theme": "Content Strategy and Production",
+            "narrative": "Management discussed plans for expanding their movie library, aiming for a significant increase in the number of films available.  There was also mention of podcast adoption targets for the Carvaan platform.",
+            "management_guidance": {
+              "answer": "Movie library expansion:  Target of 40-50 movies in the next year (3b2821f5fe3f566c9a231599bf9da884).\nCarvaan podcast user growth: Target of sufficient users within 18-24 months (5f7b82467b00d676b40253af5fea7e7d).",
+              "citations": [
+                "3b2821f5fe3f566c9a231599bf9da884",
+                "5f7b82467b00d676b40253af5fea7e7d"
+              ]
+            },
+            "actual_results": {
+              "['Q3', '2021']": {
+                "answer": "In Q3 2021, Saregama launched two Carvaan variants and had 289 podcasts in production. No specific data on movie library expansion was provided.",
+                "citations": [
+                  "e2a17b58e99015c6eafeac9f56fda504",
+                  "2854d3847560e8c688124336b0b17931"
+                ]
+              },
+              "['Q4', '2021']": {
+                "answer": "Actual results for movie library expansion and Carvaan podcast user growth in Q4 2021 are not available in the provided data.",
+                "citations": []
+              },
+              "['Q1', '2021']": {
+                "answer": "No specific quantifiable results regarding movie library expansion or Carvaan podcast user growth are provided in the data for Q1 2021.",
+                "citations": []
+              },
+              "['Q2', '2021']": {
+                "answer": "No specific Q2 2021 results directly related to the expansion of the movie library or Carvaan podcast user growth are provided in the data.",
+                "citations": []
+              }
+            },
+            "evaluation": {
+              "evaluation": "Insufficient Info",
+              "evaluation_reason": "The provided data for Q1 2021 lacks specific quantifiable results on movie library expansion or Carvaan podcast user growth, preventing an evaluation against management's guidance."
+            }
+          },
+          {
+            "theme": "Management and Corporate Governance",
+            "narrative": "Management acknowledged the challenging external environment and highlighted measures taken to optimize operations and rationalize impacted businesses.",
+            "management_guidance": {
+              "answer": "No specific forward-looking statements were made under this theme for Q1 2021, though the actions taken suggest a proactive approach to navigating market challenges.  The citation (31ccb2dde35567aab66c58a710e60fe3) describes actions already taken, not future plans.",
+              "citations": [
+                "31ccb2dde35567aab66c58a710e60fe3"
+              ]
+            },
+            "actual_results": {
+              "['Q3', '2021']": {
+                "answer": "The Q3 2021 data does not provide specific information on the results of management's actions to optimize operations and rationalize businesses.",
+                "citations": []
+              },
+              "['Q4', '2021']": {
+                "answer": "No specific Q4 2021 results related to this theme are available in the provided data.",
+                "citations": []
+              },
+              "['Q1', '2021']": {
+                "answer": "The provided data does not contain specific quantifiable results related to management's actions to address market challenges in Q1 2021. However, the reduction in marketing costs from INR 31 Crores to INR 6 Crores and debt repayment suggest some success in operational optimization.",
+                "citations": [
+                  "b5e01ad4102f6d7c46f868a984ea2ec5",
+                  "8163a16c76bb6e718dc03efa30207e36"
+                ]
+              },
+              "['Q2', '2021']": {
+                "answer": "No specific Q2 2021 results are available to assess the impact of the management's actions to address market challenges.",
+                "citations": []
+              }
+            },
+            "evaluation": {
+              "evaluation": "Insufficient Info",
+              "evaluation_reason": "While the Q1 2021 data shows cost reduction and debt repayment,  there's no specific management guidance or target against which to measure the success of these operational optimization efforts."
+            }
+          }
+        ]
+      },
+      "['Q2', '2021']": {
+        "themes": [
+          {
+            "theme": "Carvaan's Transition to a Revenue-Generating Platform",
+            "narrative": "Saregama aims to shift Carvaan's business model from a one-time purchase to a recurring revenue platform.  This reflects a strategic pivot to enhance long-term profitability.",
+            "management_guidance": {
+              "answer": "The company plans a complete transition of Carvaan from a one-time purchase product to an ongoing revenue generator. Further, management expects Carvaan to achieve breakeven by the end of the year. The success of this transition is contingent upon a significant increase in the number of Carvaans supporting the platform functionality within the next 18-24 months, enabling substantial advertising and subscription revenue generation.",
+              "citations": [
+                "534778f5e03e4be8f59164039db3d941",
+                "9ab58226eecc24eae3a2eeda06fb3009",
+                "40579a91adb2df2bbcbe9b752ec851de",
+                "8bfcd1cd5a97d59c0c9c8955c11062e9",
+                "b2f1fc564e6ede6901d242e8414a8692"
+              ]
+            },
+            "actual_results": {
+              "['Q3', '2021']": {
+                "answer": "No specific Carvaan platform revenue or breakeven data is available in the provided Q3 2021 actuals. However,  '339dde0163d6d4cc2c48b9162842de55' indicates a positive sales trend for Carvaan units in Q3 2021 (138k units sold), suggesting progress towards the platform transition.",
+                "citations": [
+                  "'339dde0163d6d4cc2c48b9162842de55'"
+                ]
+              },
+              "['Q1', '2022']": {
+                "answer": "No specific data on Carvaan's transition or platform revenue is available from the provided Q1 2022 data.",
+                "citations": []
+              },
+              "['Q4', '2021']": {
+                "answer": "The provided data does not contain specific information on Carvaan's performance in Q4 2021 regarding its transition to a revenue-generating platform or breakeven status. Therefore, no actual results can be reported.",
+                "citations": []
+              },
+              "['Q2', '2021']": {
+                "answer": "In Q2 2021, Saregama sold over 81,000 Carvaan units, a significant increase compared to 15,000 in Q1 but lower than the 250,000 units sold in the same quarter of the previous year. The information provided does not specify whether Carvaan achieved breakeven.",
+                "citations": [
+                  "9ab58226eecc24eae3a2eeda06fb3009",
+                  "8bfcd1cd5a97d59c0c9c8955c11062e9",
+                  "427665369d4cf4c07f7c863df5d8ea9f"
+                ]
+              }
+            },
+            "evaluation": {
+              "evaluation": "Expectations Not Met",
+              "evaluation_reason": "While Carvaan sales increased in Q2 2021, the provided data lacks information on whether the platform transition progressed as planned or if breakeven was achieved, indicating failure to meet the stated goals for that quarter."
+            }
+          },
+          {
+            "theme": "Growth Projections for Music Licensing and Yoodlee",
+            "narrative": "Saregama provides specific growth targets for its music licensing and Yoodlee businesses.",
+            "management_guidance": {
+              "answer": "The music licensing business is projected to maintain 18-20% growth for the fiscal year.  Post-COVID, this growth is expected to reach 22-25% year-on-year. Yoodlee is expected to achieve double-digit year-on-year growth. An internal benchmark for album releases requires 38% cost recovery within the first year.",
+              "citations": [
+                "40579a91adb2df2bbcbe9b752ec851de",
+                "b51a1f047f17e5c7f63d5eda43073864",
+                "417e1214b4b783e1ac7ea3c7ad5d8236",
+                "c8ffa3bb5b2ea4059bfd95f186e3ca1a"
+              ]
+            },
+            "actual_results": {
+              "['Q3', '2021']": {
+                "answer": "The provided Q3 2021 data shows positive growth in specific segments, though precise figures matching the guidance are unavailable: 'f8312017f2afa02450af0164b8204a5c' mentions 20% year-on-year growth in music segment revenue, and 'f8312017f2afa02450af0164b8204a5c' indicates a 25% increase in licensing income.  No data on Yoodlee's performance is present.",
+                "citations": [
+                  "'f8312017f2afa02450af0164b8204a5c'",
+                  "'f8312017f2afa02450af0164b8204a5c'"
+                ]
+              },
+              "['Q1', '2022']": {
+                "answer": "In Q1 2022, Saregama's core music business (which includes licensing) grew by 20%. No specific data on Yoodlee's performance is available from the provided Q1 2022 data.",
+                "citations": [
+                  "bc23abb151df51e5a00d9693a73bc407",
+                  "1030ed61573b9eb56c1bd6fd899ac491"
+                ]
+              },
+              "['Q4', '2021']": {
+                "answer": "In Q4 FY21, Saregama's music licensing revenue showed the highest year-on-year growth ever, at 26%, exceeding the initial guidance. The licensing revenue crossed 360 Crores that year. The actual growth of Yoodlee is not specified in the provided data.",
+                "citations": [
+                  "2772f10bbef1421e19c55a5867f44916"
+                ]
+              },
+              "['Q2', '2021']": {
+                "answer": "The provided data does not contain specific numbers to assess the actual growth of music licensing and Yoodlee in Q2 2021 against the given targets. However, the overall revenue from operations was INR 593 Mn in Q2 FY21, significantly lower than the INR 1,503 Mn in Q2 FY20.",
+                "citations": [
+                  "b47d98d7892cb545e7f4830acac09414",
+                  "479a579c1bd0d8fc99419d7ecebabd11",
+                  "2e914db3a6cd3ed04d61cbbc66df2e62"
+                ]
+              }
+            },
+            "evaluation": {
+              "evaluation": "Insufficient Info",
+              "evaluation_reason": "The provided Q2 2021 data lacks specific growth figures for music licensing and Yoodlee, preventing a comparison with management's guidance."
+            }
+          },
+          {
+            "theme": "Profitability Targets for Films and Television",
+            "narrative": "The company addresses the current losses in its films and television segments and projects a return to profitability.",
+            "management_guidance": {
+              "answer": "Management expects films and television to become profitable before the year's end, recovering losses incurred in the first two quarters.",
+              "citations": [
+                "f8bdcbf6171f50aa729f8ffafb240fad",
+                "db4d55a4a0e4aa8259158ef5922e50fb"
+              ]
+            },
+            "actual_results": {
+              "['Q3', '2021']": {
+                "answer": "Q3 2021 actuals show a significant improvement in profitability in this segment: '4d1c5348b743e82da2fdd3e50a160365' reports a PBT of Rs. 41 crores for Q3, compared to Rs. 14 crores in the same quarter the previous year. This indicates substantial progress towards profitability.",
+                "citations": [
+                  "'4d1c5348b743e82da2fdd3e50a160365'"
+                ]
+              },
+              "['Q1', '2022']": {
+                "answer": "The provided Q1 2022 data doesn't contain specific information on the profitability of the films and television segments.",
+                "citations": []
+              },
+              "['Q4', '2021']": {
+                "answer": "In Q4 FY21, the films, television and series vertical crossed the 100 Crores annual revenue number and delivered a 15% margin as committed.",
+                "citations": [
+                  "2772f10bbef1421e19c55a5867f44916"
+                ]
+              },
+              "['Q2', '2021']": {
+                "answer": "The provided data shows that the company's consolidated EBITDA in Q2 FY21 was INR (7) Mn and Net Profit was INR (92) Mn indicating a loss. This suggests the profitability target was not met in Q2 2021.",
+                "citations": [
+                  "b47d98d7892cb545e7f4830acac09414",
+                  "479a579c1bd0d8fc99419d7ecebabd11"
+                ]
+              }
+            },
+            "evaluation": {
+              "evaluation": "Expectations Not Met",
+              "evaluation_reason": "The Q2 2021 results show a loss in the films and television segment, failing to meet the management's guidance of profitability before the year's end."
+            }
+          },
+          {
+            "theme": "New Content Investment and Market Share Goals",
+            "narrative": "Saregama outlines its strategy for new content investment and its ambitions for market share in the new music market.",
+            "management_guidance": {
+              "answer": "The company plans significant investment in new content to gain a competitive edge. Saregama aims to capture at least 20% of the new music market (estimated at Rs. 380-400 Crores), with potential adjustments based on performance.",
+              "citations": [
+                "0fbcb845bcfead3e567e8dc4195dd92f",
+                "b3765fde45d36bb1d99e6cfc349eb6e8"
+              ]
+            },
+            "actual_results": {
+              "['Q3', '2021']": {
+                "answer": "No direct data on market share capture or the impact of new content investment is available in the provided Q3 2021 actuals.",
+                "citations": []
+              },
+              "['Q1', '2022']": {
+                "answer": "The Q1 2022 data doesn't provide specific market share data for Saregama in the new music market, but it mentions that Saregama has a market share of over 20% in Bhojpuri & Gujarati new music releases on YouTube.",
+                "citations": [
+                  "bc23abb151df51e5a00d9693a73bc407"
+                ]
+              },
+              "['Q4', '2021']": {
+                "answer": "The provided data does not contain specific information on Saregama's market share in the new music market in Q4 2021. Therefore, no actual results can be reported.",
+                "citations": []
+              },
+              "['Q2', '2021']": {
+                "answer": "The provided data does not offer information on market share captured or the impact of new content investments on revenue in Q2 2021.",
+                "citations": []
+              }
+            },
+            "evaluation": {
+              "evaluation": "Insufficient Info",
+              "evaluation_reason": "The provided Q2 2021 data does not contain information on market share or the impact of new content investment, making evaluation impossible."
+            }
+          },
+          {
+            "theme": "Internal Investment Payback Period",
+            "narrative": "Saregama highlights its internal benchmark for investment returns.",
+            "management_guidance": {
+              "answer": "The company targets a maximum five-year payback period for its investments and is willing to adjust its pace if this benchmark is not met.",
+              "citations": [
+                "9640183d4abf8974397042b700364bbd",
+                "32036479360df36a15f462d18b05b721",
+                "c8ffa3bb5b2ea4059bfd95f186e3ca1a"
+              ]
+            },
+            "actual_results": {
+              "['Q3', '2021']": {
+                "answer": "No data on actual investment payback periods is present in the provided Q3 2021 actuals.",
+                "citations": []
+              },
+              "['Q1', '2022']": {
+                "answer": "The Q1 2022 data does not provide information on the actual payback period for Saregama's investments. However, it mentions that 48% of the cost of content is written off in the first year. This suggests a faster write-off than the initially stated five-year target, but does not directly address the overall payback period.",
+                "citations": [
+                  "5ea5ed5b201575771c4b53551729025f",
+                  "87139486aee5a0319302a7d460b2c25c",
+                  "1bb21761c20291097fe264694f57c3cf"
+                ]
+              },
+              "['Q4', '2021']": {
+                "answer": "The provided data does not offer specific information on the actual payback periods of Saregama's investments in Q4 2021. Therefore, no actual results can be reported.",
+                "citations": []
+              },
+              "['Q2', '2021']": {
+                "answer": "The provided data does not contain specific information allowing assessment of the payback period of investments in Q2 2021.",
+                "citations": [
+                  "c8ffa3bb5b2ea4059bfd95f186e3ca1a"
+                ]
+              }
+            },
+            "evaluation": {
+              "evaluation": "Insufficient Info",
+              "evaluation_reason": "The provided Q2 2021 data lacks information on the actual payback period of investments, preventing an evaluation against the management's target."
+            }
+          }
+        ]
+      }
+    },
+    "step": 3,
+    "updated_at": {
+      "$date": "2024-11-18T10:46:56.948Z"
+    }
+  }

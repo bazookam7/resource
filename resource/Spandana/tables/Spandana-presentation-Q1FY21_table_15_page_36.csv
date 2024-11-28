@@ -1,0 +1,15 @@
+0,1,2
+e,e,Formula
+1,Networth,Shareholders Fund + Other Equity excluding Non controlling interest
+2,Capital Adequacy,Tier | ratio + Tier Il ratio
+3,Leverage,Closing On Balance sheet Borrowings / Closing Net worth
+4,Marginal Cost of Borrowing,(Borrowings availed during the period * interest rate + processing fees and other charges) / Borrowings availed during the period
+5,Cost to Income Ratio,(Employee benefit expenses + Depreciation and amortization expense + Other Expenses) / (Total Income - Finance Cost)
+6,Assets Under Management (AUM),Loan Portfolio including portfolio assigned and excluding Old AP Portfolio
+7,RoA (%),Profit After Tax / Quarterly Average AUM (Annualised)
+8,RoE (%),Profit After Tax / Quarterly Average Net worth (Annualised)
+9,Yield (%),(Interest income on the loan portfolio + interest income on derecognised loan portfolio passed on to assignees + retained interest income on derecognised loan portfolio) / Quarterly Average AUM (Annualised)
+10,Cost of Borrowings (%),(Finance Cost - Interest on Lease Liability) / Quarterly Average Borrowings (Annualised)
+11,Net Interest Income (NII),(Interest income on the loan portfolio + retained interest income on derecognised loan portfolio) - (Finance Cost - Interest on Lease Liability)
+12,NIM (%),NIl / Quarterly Average AUM (Annualised)
+13,Opex to AUM Ratio,(Employee benefit expenses + Depreciation and amortization expense + Other Expenses) / Quarterly Average AUM (Annualised)

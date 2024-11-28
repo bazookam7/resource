@@ -1,0 +1,2534 @@
+{
+  "_id": "Infibeam_guidance_actuals_report_3",
+  "company_name": "Infibeam",
+  "created_at": {
+    "$date": "2024-11-21T08:03:28.842Z"
+  },
+  "guidance_actuals": {
+    "['Q3', '2024']": {
+      "themes": [
+        {
+          "theme": "International Expansion & Market Share Growth",
+          "narrative": "Infibeam is aggressively pursuing international expansion, particularly focusing on the Middle East (UAE, Saudi Arabia) and aiming for broader global reach in the future (Australia, USA, Southeast Asia).  The company emphasizes significant growth potential in these markets.  There's a strong focus on increasing market share in existing and new regions.",
+          "management_guidance": {
+            "answer": "Infibeam's management provided guidance indicating significant growth in international markets, including a 48% YoY TPV growth in the UAE, targeting double-digit NTR for the payments business by the end of FY24,  plans to achieve 25-30% of overall business from international markets within two years, and expansion into Australia, USA, and Southeast Asia in FY25.  They also highlight the upcoming launch in Saudi Arabia in 2H FY24.",
+            "citations": [
+              "0ef2b08abcfa4f4e32e211f6a9fa17c9",
+              "c5163a2d0b369e43ec07413a3f1fe3ef",
+              "3097725c49086f36c69e183ddee8e528",
+              "d2d73591485de7f2efa1a57a406548de",
+              "3ecbcd282d8dd2b774cc8728e46746da",
+              "e89f748107722dc71f9f9fda51c3bc55"
+            ]
+          },
+          "actual_results": {
+            "['Q3', '2024']": {
+              "answer": "In Q3 2024, the UAE saw a TPV growth of 48% YoY. Further details on market share gains and progress in other international markets are not explicitly provided in the available data.",
+              "citations": [
+                "0ef2b08abcfa4f4e32e211f6a9fa17c9"
+              ]
+            },
+            "['Q1', '2025']": {
+              "answer": "Actual results for Q3 2024 are not provided in the given data. The provided Q1 2025 data shows some international growth metrics, but it does not directly correspond to the Q3 2024 guidance. More information is needed to assess actual results against the provided guidance.",
+              "citations": []
+            },
+            "['Q4', '2024']": {
+              "answer": "Actual results for international expansion in Q4 2024 are not provided in the given data.",
+              "citations": []
+            }
+          },
+          "evaluation": {
+            "evaluation": "Expectations Not Met",
+            "evaluation_reason": "The UAE achieved the guided 48% YoY TPV growth; however,  lack of data on other international markets prevents a complete assessment of whether overall expectations were met."
+          }
+        },
+        {
+          "theme": "Merchant Acquisition and Growth",
+          "narrative": "Infibeam aims for significant expansion of its merchant base, targeting a substantial increase in the number of merchants utilizing its payment framework within the next 12-24 months.  This is a key driver for revenue growth.  The strategy involves a focus on offline solutions.",
+          "management_guidance": {
+            "answer": "Management aims to increase the merchant base from 7000 to 70000 in the next 12-24 months, focusing on offline solutions to achieve this 10x growth.",
+            "citations": [
+              "93f8103b6a663f3becd87d4ad7e1fad5",
+              "fd20290df13e21768e229d269cc9292f",
+              "3ecbcd282d8dd2b774cc8728e46746da"
+            ]
+          },
+          "actual_results": {
+            "['Q3', '2024']": {
+              "answer": "The provided data does not contain specific numbers on merchant acquisition for Q3 2024 to verify this guidance.",
+              "citations": []
+            },
+            "['Q1', '2025']": {
+              "answer": "Actual results for Q3 2024 are not provided. Q1 2025 data mentions merchant additions but doesn't specify the timeframe or if it relates to the 10x growth target. Further data is required.",
+              "citations": []
+            },
+            "['Q4', '2024']": {
+              "answer": "Actual results for merchant acquisition in Q4 2024 are not explicitly provided in the given data. However, citations 'e8321210173d055e79b35f917857b3d9' and 'fc815e956bf7db62c30ed5c12019da47' mention  (+10) million merchant accounts by the end of FY24.",
+              "citations": [
+                "e8321210173d055e79b35f917857b3d9",
+                "fc815e956bf7db62c30ed5c12019da47"
+              ]
+            }
+          },
+          "evaluation": {
+            "evaluation": "Insufficient Info",
+            "evaluation_reason": "Insufficient data on merchant acquisition in Q3 2024 prevents an evaluation of whether management's expectations were met."
+          }
+        },
+        {
+          "theme": "Revenue Growth and Profitability",
+          "narrative": "The company projects substantial revenue growth, both year-over-year and in terms of specific financial targets (e.g., double-digit net take rate).  They also highlight improved profitability due to operating leverage.",
+          "management_guidance": {
+            "answer": "Management projects significant revenue and profitability growth, with targets including Net Revenue of INR 4,100-4,150 million (up 25%-26% YoY), Gross Revenue of INR 30,000-33,000 million (up 53%-68% YoY), PAT of INR 2,300-2,350 million (up 37%-59% YoY), and EBITDA of INR 1,300-1,500 million (up 28%-31% YoY).  They also aim for a double-digit net take rate in the Payments business.",
+            "citations": [
+              "e89f748107722dc71f9f9fda51c3bc55",
+              "479d234f35e8fe3feb7c4df7ff6e5014",
+              "93f8103b6a663f3becd87d4ad7e1fad5"
+            ]
+          },
+          "actual_results": {
+            "['Q3', '2024']": {
+              "answer": "Actual results for Q3 2024 show varying revenue figures across different sources. One source reports gross revenue exceeding INR 1 billion in a single quarter (670d9bb4376108fb38d7aa73eb8d78a5) and another mentions gross revenue of INR 9120 million (approximately US$111 million) (f7ff66830d69669a024fbaa0060a0e52). Other sources give different figures for gross and net revenue for Q3 2024 (2b1989a2d1158b2e1b2bd7cc61889563, e89f748107722dc71f9f9fda51c3bc55). The provided data is insufficient to definitively compare to the management guidance. Specific data on PAT and EBITDA for Q3 2024 is also missing.",
+              "citations": [
+                "670d9bb4376108fb38d7aa73eb8d78a5",
+                "f7ff66830d69669a024fbaa0060a0e52",
+                "2b1989a2d1158b2e1b2bd7cc61889563",
+                "e89f748107722dc71f9f9fda51c3bc55"
+              ]
+            },
+            "['Q1', '2025']": {
+              "answer": "Actual results for Q3 2024 are unavailable in the provided data. Q1 2025 data shows various revenue and profit metrics, but these are not directly comparable to the Q3 2024 guidance without more context about the specific reporting periods and accounting practices.",
+              "citations": []
+            },
+            "['Q4', '2024']": {
+              "answer": "Actual FY24 results from the provided data include Gross Revenue of INR 31,711 million ('657a4dfc16af1be06018fadd41e9c8a3', '392758a2ecba64756f15b478714ae342', '492260b462e308b6c14410e7adecfdb5') and Net Revenue of INR 4,286 million ('657a4dfc16af1be06018fadd41e9c8a3', '492260b462e308b6c14410e7adecfdb5'). EBITDA was INR 2,526 million ('657a4dfc16af1be06018fadd41e9c8a3', '392758a2ecba64756f15b478714ae342', '492260b462e308b6c14410e7adecfdb5'), and PAT was INR 1,478 million ('657a4dfc16af1be06018fadd41e9c8a3', '392758a2ecba64756f15b478714ae342', '492260b462e308b6c14410e7adecfdb5'). The Payments NTR reached 8.8 bps ('657a4dfc16af1be06018fadd41e9c8a3'). Note that these are full-year FY24 results, not Q4 2024 specifically.",
+              "citations": [
+                "657a4dfc16af1be06018fadd41e9c8a3",
+                "392758a2ecba64756f15b478714ae342",
+                "492260b462e308b6c14410e7adecfdb5"
+              ]
+            }
+          },
+          "evaluation": {
+            "evaluation": "Insufficient Info",
+            "evaluation_reason": "Conflicting and incomplete revenue data for Q3 2024, coupled with a lack of PAT and EBITDA figures, prevents a comparison to management's guidance."
+          }
+        },
+        {
+          "theme": "Product Development and Release",
+          "narrative": "Infibeam anticipates releasing new frameworks and tools in the coming quarters for broader community use. This suggests ongoing investment in product development and a strategy to leverage its technology for wider market adoption.",
+          "management_guidance": {
+            "answer": "The company plans to release new frameworks and tools for broader community use within the next one or two quarters.",
+            "citations": [
+              "06ce80e650df8025d9966b191e1ec826"
+            ]
+          },
+          "actual_results": {
+            "['Q3', '2024']": {
+              "answer": "The provided data does not offer any information on actual product releases during Q3 2024 to confirm this guidance.",
+              "citations": []
+            },
+            "['Q1', '2025']": {
+              "answer": "Actual results for Q3 2024 and related product releases are not detailed in the given data. The Q1 2025 data does not contain information on product releases relevant to this theme.",
+              "citations": []
+            },
+            "['Q4', '2024']": {
+              "answer": "Specific actual results for product releases in Q4 2024 are not detailed in the provided data.",
+              "citations": []
+            }
+          },
+          "evaluation": {
+            "evaluation": "Insufficient Info",
+            "evaluation_reason": "No information on product releases in Q3 2024 is available to assess whether the management's guidance was met."
+          }
+        }
+      ]
+    },
+    "['Q4', '2024']": {
+      "themes": [
+        {
+          "theme": "Financial Performance",
+          "narrative": "This theme focuses on Infibeam's revenue growth, profit margins, and cash flow stability.  It includes targets for revenue increases, EBITDA, PAT, and take rates, as well as projections for international revenue contribution.",
+          "management_guidance": {
+            "answer": "Infibeam targets a 15% revenue increase for FY25, with FY24 revenue guidance of INR 30,000 - 33,000 Million (Gross) and INR 4,100 - 4,150 Million (Net), and FY25 guidance of INR 39,000 - 42,000 Million (Gross) and INR 4,500 - 5,000 Million (Net).  They aim for a double-digit net take rate in Payments from the end of FY25, a 30% revenue contribution from the US market within two years, and a 12-15% international contribution to Payment's Net Revenue by FY28.  FY24 EBITDA guidance is INR 2,300 - 2,350 Million and PAT is INR 1,300 - 1,500 Million; FY25 guidance is EBITDA INR 2,750 - 3,000 Million and PAT INR 1,750 - 2,000 Million.  CAPEX investment is estimated at $5-6 million per region, with ROI expected within 6 months. Quarter-over-quarter net revenue fluctuations are expected to be within ±10%.",
+            "citations": [
+              "ac04fa876cefca59cc2f106d4afb7e07",
+              "c2e19b18d59eb1ab3f5ca6653ed91f8c",
+              "0f70b7789a4843f1b2dad6150969d7d2",
+              "50fef4f77d6bb63fcba53107f2468875",
+              "05068a5e43ab2e394a84680956ab7fdd",
+              "8f5732b423c15af371aabcd7d9186c37",
+              "9b9e828cb6de8439aea71b44dfde2072",
+              "834fa2c02e5ea5f9002baac4519bd697",
+              "eb8099ae539218c4a07f7c8252b7d4bc",
+              "3b9d0bf7143f1f00ad4b3c836c64ef50",
+              "93d19d47f1113d8b8391a81722ee3ae5"
+            ]
+          },
+          "actual_results": {
+            "['Q4', '2024']": {
+              "answer": "Infibeam reported FY24 Gross Revenue of INR 31,711 Million and Net Revenue of INR 4,286 Million. EBITDA for FY24 was INR 2,526 Million, and PAT was INR 1,478 Million. The Payments Net Take Rate reached 8.8 bps in FY24.  There is mention of a 62% YoY growth in Gross Revenue. Cash Flow from Operations was INR 7,197 Million. These figures suggest that Infibeam exceeded its targets for Gross Revenue and Net Revenue and also exceeded its EBITDA and PAT targets for FY24.",
+              "citations": [
+                "50fef4f77d6bb63fcba53107f2468875",
+                "657a4dfc16af1be06018fadd41e9c8a3",
+                "392758a2ecba64756f15b478714ae342",
+                "492260b462e308b6c14410e7adecfdb5"
+              ]
+            },
+            "['Q1', '2025']": {
+              "answer": "In Q1 FY25, Infibeam reported a +20% YoY increase in Net Revenue (f41f22a918249c69363a136447ef743b), a Payments NTR increase of 59% (f41f22a918249c69363a136447ef743b), Gross Revenue of INR 7,528 million (c8c320c86f0fb03064ee8bedc4cee75b), and Net Revenue of INR 1,185 million (c8c320c86f0fb03064ee8bedc4cee75b). EBITDA was INR 698 million (c8c320c86f0fb03064ee8bedc4cee75b), and PAT was INR 504 million (c8c320c86f0fb03064ee8bedc4cee75b). The Payments NTR was 11.2 bps (c8c320c86f0fb03064ee8bedc4cee75b). These results indicate significant growth in several key areas.",
+              "citations": [
+                "f41f22a918249c69363a136447ef743b",
+                "c8c320c86f0fb03064ee8bedc4cee75b"
+              ]
+            }
+          },
+          "evaluation": {
+            "evaluation": "Expectations Exceeded",
+            "evaluation_reason": "Infibeam exceeded its FY24 targets for Gross Revenue, Net Revenue, EBITDA, and PAT."
+          }
+        },
+        {
+          "theme": "Market Position",
+          "narrative": "This theme analyzes Infibeam's market share, customer base expansion plans, and international growth strategies.",
+          "management_guidance": {
+            "answer": "Infibeam estimates a FY24 market share of approximately 9% for credit cards, 7% for debit cards, and 3% for net banking.  They plan to launch commercially in KSA in the first half of FY25, expand into other GCC markets, Australia, and the USA in FY25, and target Southeast Asia in FY25.  The company aims to double its international business and aggressively targets the US market, aiming for a 30% international revenue contribution in the next two years.",
+            "citations": [
+              "6fc311a8d01aa3c769d0888e0f7ddfbb",
+              "05068a5e43ab2e394a84680956ab7fdd",
+              "9bb6308d536dfc24dfe54d81306efae7",
+              "0da2d91cac31157efb4db9d092a24512",
+              "f780ee7ecb8b016bce1fcce70fd4f7bd"
+            ]
+          },
+          "actual_results": {
+            "['Q4', '2024']": {
+              "answer": "While specific market share data for Q4 2024 isn't directly provided, there's mention of having (+10) million merchant accounts by the end of FY24. Additionally, information suggests that international operations currently account for less than 10% of total income.",
+              "citations": [
+                "e8321210173d055e79b35f917857b3d9",
+                "f780ee7ecb8b016bce1fcce70fd4f7bd"
+              ]
+            },
+            "['Q1', '2025']": {
+              "answer": "In Q1 FY25, Infibeam's estimated TPV market share for online payments was 2,550+ (f36b6cf96e99ec1c944b935fab189e78), indicating progress towards its market share goals although specific breakdown for credit cards, debit cards, and net banking wasn't provided in the available data. The expansion into Saudi Arabia had commenced (fad1f49cca5e364af1b47bef2d5361b7).",
+              "citations": [
+                "f36b6cf96e99ec1c944b935fab189e78",
+                "fad1f49cca5e364af1b47bef2d5361b7"
+              ]
+            }
+          },
+          "evaluation": {
+            "evaluation": "Expectations Not Met",
+            "evaluation_reason": "While merchant account growth was significant,  Q4 2024 data lacks specific market share figures to fully assess performance against targets. International revenue contribution fell short of the two-year goal."
+          }
+        },
+        {
+          "theme": "Strategic Partnerships",
+          "narrative": "This theme discusses Infibeam's strategic alliances and investments, such as their investment in XDuce.",
+          "management_guidance": {
+            "answer": "Infibeam invested USD 10 million for a 20% stake in XDuce, a US-based AI development company.",
+            "citations": [
+              "6aa510d3c57843bcd5022493eaa1fc89"
+            ]
+          },
+          "actual_results": {
+            "['Q4', '2024']": {
+              "answer": "No further information on the actual results or impact of this investment is available in the provided data.",
+              "citations": []
+            },
+            "['Q1', '2025']": {
+              "answer": "No actual results regarding the XDuce partnership were provided in the Q1 FY25 data.",
+              "citations": []
+            }
+          },
+          "evaluation": {
+            "evaluation": "Insufficient Info",
+            "evaluation_reason": "There is no information provided in the given data to assess the success or failure of the XDuce investment."
+          }
+        },
+        {
+          "theme": "Operational Efficiency",
+          "narrative": "This theme focuses on Infibeam's plans for cost management and operational improvements.",
+          "management_guidance": {
+            "answer": "Infibeam plans to reduce operational costs by 10% over the next two quarters.",
+            "citations": [
+              "2a1131de90a5046d7eac31f807757703",
+              "c2e19b18d59eb1ab3f5ca6653ed91f8c",
+              "0f70b7789a4843f1b2dad6150969d7d2"
+            ]
+          },
+          "actual_results": {
+            "['Q4', '2024']": {
+              "answer": "There are various citations mentioning cost reduction, but no specific figure matching the 10% target for Q4 2024 is explicitly stated. However, several citations indicate cost reduction initiatives were implemented.",
+              "citations": [
+                "ee593d18d01b4196b01c7464e1353fb9",
+                "7bb8a7a8e41ee9b6425eb2338a528544",
+                "c7957b97587887c58ab9cb80df26e330",
+                "c2e19b18d59eb1ab3f5ca6653ed91f8c",
+                "145503df571ebab7c634e382953f2279"
+              ]
+            },
+            "['Q1', '2025']": {
+              "answer": "In Q1 FY25, Infibeam reported an 8% reduction in operational costs (82cb61b6c02b6c31564d60427fcc6425), falling short of the 10% target. Other sources reported 10% cost reduction (c3e7cd45b6f8a2adf1c803f273b5b21c, d96449b9d33d0e75a27ae53726ff36b8) for various timeframes.",
+              "citations": [
+                "82cb61b6c02b6c31564d60427fcc6425",
+                "c3e7cd45b6f8a2adf1c803f273b5b21c",
+                "d96449b9d33d0e75a27ae53726ff36b8"
+              ]
+            }
+          },
+          "evaluation": {
+            "evaluation": "Expectations Not Met",
+            "evaluation_reason": "While cost reduction initiatives were implemented, the provided data does not confirm achievement of the 10% cost reduction target for Q4 2024."
+          }
+        },
+        {
+          "theme": "Technological Innovation",
+          "narrative": "This theme highlights Infibeam's product development plans and timelines.",
+          "management_guidance": {
+            "answer": "Infibeam intends to roll out TapPay and other solutions in FY25.",
+            "citations": [
+              "173c53c5d6850fe077f6fa8d404bb1da"
+            ]
+          },
+          "actual_results": {
+            "['Q4', '2024']": {
+              "answer": "No actual results regarding the rollout of TapPay or other solutions in Q4 2024 are provided.",
+              "citations": []
+            },
+            "['Q1', '2025']": {
+              "answer": "No specific information on TapPay rollout or other new product launches was available in the Q1 FY25 data. However, the company highlighted its past technological achievements (e8fb217b2051977521875719e96e0472), demonstrating a history of innovation.",
+              "citations": [
+                "e8fb217b2051977521875719e96e0472"
+              ]
+            }
+          },
+          "evaluation": {
+            "evaluation": "Insufficient Info",
+            "evaluation_reason": "The provided data lacks information on the rollout of TapPay or other new solutions during Q4 2024."
+          }
+        }
+      ]
+    },
+    "['Q1', '2025']": {
+      "themes": [
+        {
+          "theme": "Revenue Growth and Financial Projections",
+          "narrative": "Infibeam projects significant revenue growth in FY25, driven by a multi-pronged strategy.  This includes a USD 10 million investment to penetrate the US market with CCAvenue Payment Gateway and PhroneticAI Solutions, aiming for a 30% revenue contribution within two years.  The company also anticipates growth in its other value-added services.  Specific revenue projections vary across sources, with targets ranging from 15% growth in the next quarter to 25-30% overall revenue growth in 2025.  International contributions to payment net revenue are projected to reach 12-15% by FY28.  The company expects substantial increases in Transaction Processing Volume (TPV) in Q2 and Q3 of 2025.",
+          "management_guidance": {
+            "answer": "Infibeam projects Net Revenue of INR 39,000 - 42,000 million (5% - 17% YoY growth) and Gross Revenue of INR 4,500 – 5,000 million (23% - 32% YoY growth) in FY25. A 15% revenue increase is expected in the next quarter. A projected revenue growth of approximately 25-30% is anticipated for 2025. Value-added services are expected to contribute 2-4% of revenue this year, increasing to 7-10% within a couple of years. The US market penetration strategy aims for a 30% revenue contribution within two years. International contribution to Payment's Net Revenue is targeted at 12-15% by FY28.",
+            "citations": [
+              "1e3492674ff6060427579a1201a44a10",
+              "b6a543f64b74d5760c91e49bfc6faf6f",
+              "ab55ecb7e842752961ca4f446ffcb9b8",
+              "8f77e5600694d3ef96eeb9d4160874f6",
+              "c789a7fa1db9c499cddfcf1cf5b16eb7",
+              "c0b85e026a1ca267ce0a573da89eb357",
+              "0c6316cea4c358c7ae360cd17f427733",
+              "796dbc9c117d92dca0042dabe2b6f2a5"
+            ]
+          },
+          "actual_results": {
+            "['Q1', '2025']": {
+              "answer": "In Q1 FY25, Infibeam reported a 20% YoY increase in Net Revenue (INR 7,528 million) and a 1% increase in Gross Revenue. Transaction Processing Volume (TPV) reached INR 1,977 billion compared to INR 1,183 billion in Q1 FY24. Payments Net Transaction Rate (NTR) increased to 11.2 bps from 8.4 bps in Q1 FY24.",
+              "citations": [
+                "c8c320c86f0fb03064ee8bedc4cee75b",
+                "f41f22a918249c69363a136447ef743b",
+                "0c6316cea4c358c7ae360cd17f427733"
+              ]
+            }
+          },
+          "evaluation": {
+            "evaluation": "Expectations Not Met",
+            "evaluation_reason": "While Q1 Net Revenue exceeded expectations with a 20% YoY increase, the 1% increase in Gross Revenue fell significantly short of the projected 23-32% YoY growth, indicating a partial fulfillment of expectations."
+          }
+        },
+        {
+          "theme": "Profitability and Margin Expansion",
+          "narrative": "Infibeam anticipates improved profitability in FY25, with projections for EBITDA and PAT growth.  Increased net take rates in payments also contributed to profitability growth in Q2.",
+          "management_guidance": {
+            "answer": "FY25 guidance includes PAT of INR 2,750 – 3,000 million (18% - 35% YoY growth) and EBITDA of INR 1,750 – 2,000 million (9% - 19% YoY growth). EBITDA is projected to be around 10-20% and PAT 20-35% in 2025.",
+            "citations": [
+              "1e3492674ff6060427579a1201a44a10",
+              "ab55ecb7e842752961ca4f446ffcb9b8"
+            ]
+          },
+          "actual_results": {
+            "['Q1', '2025']": {
+              "answer": "In Q1 FY25, Infibeam reported EBITDA of INR 698 million (+25% increase) and PAT of INR 504 million (+43% increase). EBITDA margin was 11.2 bps (+33% increase). PAT as a percentage of NR was 43% compared to 32% in Q1 FY24.",
+              "citations": [
+                "c8c320c86f0fb03064ee8bedc4cee75b",
+                "f41f22a918249c69363a136447ef743b"
+              ]
+            }
+          },
+          "evaluation": {
+            "evaluation": "Expectations Exceeded",
+            "evaluation_reason": "Q1 2025 results for both EBITDA (+25%) and PAT (+43%) significantly exceeded the lower bounds of the FY25 guidance, suggesting a strong start to the year and exceeding initial expectations."
+          }
+        },
+        {
+          "theme": "Market Share Expansion and International Growth",
+          "narrative": "Infibeam is focused on increasing its market share, particularly through international expansion.  The company aims to significantly increase its international business contribution to revenue.",
+          "management_guidance": {
+            "answer": "A 10% market share increase is targeted for the next fiscal year. The international business is expected to contribute 12-15% of net revenue income within the next two years, up from single-digit contribution currently. The company aims to achieve a 30% international business contribution, although this appears to be a longer-term timeline issue.",
+            "citations": [
+              "b6a543f64b74d5760c91e49bfc6faf6f",
+              "ab55ecb7e842752961ca4f446ffcb9b8",
+              "ae299adfe754ce25804246d48187f928"
+            ]
+          },
+          "actual_results": {
+            "['Q1', '2025']": {
+              "answer": "The provided data does not contain specific Q1 2025 results directly addressing market share expansion or the international business contribution to revenue. Further information would be needed to assess actual performance against this guidance.",
+              "citations": []
+            }
+          },
+          "evaluation": {
+            "evaluation": "Insufficient Info",
+            "evaluation_reason": "Insufficient data is available in Q1 2025 results to assess progress against market share expansion or international growth targets."
+          }
+        },
+        {
+          "theme": "Technological Innovation and Product Development",
+          "narrative": "Infibeam is investing in R&D, including pursuing patents for AI-related technology and planning the launch of a new POS device for offline payments.",
+          "management_guidance": {
+            "answer": "The company expects to receive an AI-related patent within the next 6-12 months. A comprehensive POS device for offline payments is slated for launch in 2024.",
+            "citations": [
+              "2a040ee147792682a4c9999d85f15c69",
+              "e8fb217b2051977521875719e96e0472"
+            ]
+          },
+          "actual_results": {
+            "['Q1', '2025']": {
+              "answer": "The provided data does not contain information on patent receipt or the POS device launch in Q1 2025.",
+              "citations": []
+            }
+          },
+          "evaluation": {
+            "evaluation": "Insufficient Info",
+            "evaluation_reason": "Q1 2025 results provide no information on the progress of patent applications or the POS device launch."
+          }
+        },
+        {
+          "theme": "Strategic Partnerships and Contract Conversion",
+          "narrative": "Infibeam anticipates converting several contracts within the coming weeks.",
+          "management_guidance": {
+            "answer": "More information on several converted contracts is expected to be shared in the next 4-8 weeks.",
+            "citations": [
+              "5ce069a3acae71f6a51662e487c470ad"
+            ]
+          },
+          "actual_results": {
+            "['Q1', '2025']": {
+              "answer": "The provided data does not contain information on contract conversions in Q1 2025.",
+              "citations": []
+            }
+          },
+          "evaluation": {
+            "evaluation": "Insufficient Info",
+            "evaluation_reason": "There is no information available in Q1 2025 results regarding contract conversions."
+          }
+        },
+        {
+          "theme": "Operational Efficiency",
+          "narrative": "Infibeam aims to reduce operational costs.",
+          "management_guidance": {
+            "answer": "A 5% reduction in operational costs is targeted within the next six months.",
+            "citations": [
+              "b6a543f64b74d5760c91e49bfc6faf6f"
+            ]
+          },
+          "actual_results": {
+            "['Q1', '2025']": {
+              "answer": "In Q1 FY25, Infibeam reported an 8-10% reduction in operational costs, exceeding the initial target.",
+              "citations": [
+                "c3e7cd45b6f8a2adf1c803f273b5b21c",
+                "d96449b9d33d0e75a27ae53726ff36b8",
+                "82cb61b6c02b6c31564d60427fcc6425",
+                "3f273d755e70beae16c85f9513ba99d2"
+              ]
+            }
+          },
+          "evaluation": {
+            "evaluation": "Expectations Exceeded",
+            "evaluation_reason": "The 8-10% reduction in operational costs surpassed the 5% target set by management."
+          }
+        }
+      ]
+    },
+    "['Q2', '2024']": {
+      "themes": [
+        {
+          "theme": "Payment Net Take Rate and Revenue Growth",
+          "narrative": "Management highlighted significant progress toward its target of achieving a double-digit net take rate in the payments business by the end of FY24.  The Q2 2024 results showed a substantial year-over-year increase to 9.3 basis points, driven by growth in small merchant contributions.  There's also a focus on expanding international revenue contribution to 12-15% by FY28.  A capital infusion of INR 1.6 billion is planned to fuel growth in both India and international markets.",
+          "management_guidance": {
+            "answer": "The company expects to reach a double-digit net take rate (10 basis points) by the end of FY24.  International contribution to Payment's Net Revenue is targeted at 12-15% by FY28. A 15% revenue growth is projected for the upcoming fiscal year. International revenue is expected to grow from sub-10% to 30% of total revenue in the next few years.",
+            "citations": [
+              "ea0776ab5d62c5ecbbe909827abdbaba",
+              "8f9e53b8df65a38d4c2160e36d1d8987",
+              "b831d83702f0ff472fcd24b05a90565b",
+              "6dee987100b88448061e2ddf751a1fa2",
+              "ef4ffec897984a3983fc287faef63b66",
+              "95610f999befe89b75a988964ceed224",
+              "bef8c80ece47aca81988b28da4405e95",
+              "6079df55182dedfd90c16f5c3edf6102"
+            ]
+          },
+          "actual_results": {
+            "['Q3', '2024']": {
+              "answer": "In Q3 2024, Payments NTR reached 8.7 bps in 9M FY24, up from 7.9 bps in 9M FY23. Gross Revenue surpassed $100 million for the first time in a single quarter, and Payments Gross Revenue rose more than INR 1 billion in a single quarter. Net Revenue stood at INR 3,224 million for 9M FY24, up from INR 2,368 million in 9M FY23. The TPV for 9M FY24 was INR 4,778 billion compared to INR 2,969 billion in 9M FY23.",
+              "citations": [
+                "9870e2d33da4c57d62f2429d46c77e39",
+                "670d9bb4376108fb38d7aa73eb8d78a5"
+              ]
+            },
+            "['Q1', '2025']": {
+              "answer": "In Q1 FY25, the Payments NTR increased by 59% to 11.2 bps from 8.4 bps in Q1 FY24. Net Revenue saw a +20% YoY increase. Gross Revenue was INR 7,528 million, marking a +1% change.  The company surpassed its target of a double-digit take rate in Q1 FY25.",
+              "citations": [
+                "c8c320c86f0fb03064ee8bedc4cee75b",
+                "f41f22a918249c69363a136447ef743b",
+                "ab55ecb7e842752961ca4f446ffcb9b8"
+              ]
+            },
+            "['Q4', '2024']": {
+              "answer": "In FY24, Gross Revenue reached 31,711 million INR, and Net Revenue was 4,286 million INR. The Payments Net Take Rate increased to 8.8 bps. In Q4 FY24 revenue was 727 crores, an 11% year-over-year increase. Net revenue in Q4 FY24 was 106 crores, a 16% year-over-year increase.",
+              "citations": [
+                "657a4dfc16af1be06018fadd41e9c8a3",
+                "392758a2ecba64756f15b478714ae342",
+                "492260b462e308b6c14410e7adecfdb5"
+              ]
+            },
+            "['Q2', '2024']": {
+              "answer": "In Q2 2024, the payment net take rate increased to 9.3 basis points, representing substantial year-over-year growth. Net revenue exceeded INR 1 billion for the first time in a quarter. Gross revenue reached INR 7,899 million, slightly below $100 million but a record high.",
+              "citations": [
+                "e383c6527eb8e73ce5b8b1dd864140d9",
+                "b831d83702f0ff472fcd24b05a90565b",
+                "b4ece03f895f3ed84b3c4d5706ac442e"
+              ]
+            }
+          },
+          "evaluation": {
+            "evaluation": "Expectations Not Met",
+            "evaluation_reason": "While Q2 2024 showed progress with a 9.3 basis point NTR and record net revenue, it fell short of the projected double-digit (10 basis points) net take rate target set by management for the end of FY24."
+          }
+        },
+        {
+          "theme": "International Expansion",
+          "narrative": "Infibeam is aggressively pursuing international market expansion, particularly focusing on the Middle East and Southeast Asia.  Significant capital investment (INR 1.2 billion in the first half of FY24) is being directed towards a \"country-in-a-box\" strategy for international markets.  Partnerships with local banks are being leveraged to acquire new customers.",
+          "management_guidance": {
+            "answer": "Plans to launch payments in other GCC markets and Southeast Asia in FY25. Target to onboard 100,000 local outlets in the UAE through various channels. A capex of INR 3 million to INR 5 million per geography is anticipated as the company scales up internationally.",
+            "citations": [
+              "6dee987100b88448061e2ddf751a1fa2",
+              "0a9bb22cb7d8ecd1fccd5f7b56e98e3c"
+            ]
+          },
+          "actual_results": {
+            "['Q3', '2024']": {
+              "answer": "In Q3 2024, UAE processed over a billion Dirhams monthly. UAE GMV grew by more than 50% in Q3.",
+              "citations": [
+                "3097725c49086f36c69e183ddee8e528",
+                "65bbceb6c0a78e4e3e7d19f11dcec6df"
+              ]
+            },
+            "['Q1', '2025']": {
+              "answer": "No specific Q1 FY25 results directly correlating to this guidance are provided in the data.",
+              "citations": []
+            },
+            "['Q4', '2024']": {
+              "answer": "No specific Q2 2024 actual results for international expansion are provided in the given data.",
+              "citations": []
+            },
+            "['Q2', '2024']": {
+              "answer": "Monthly payments TPV in the UAE grossed AED 1 billion, a historic milestone, consistently exceeding AED 1 billion monthly.",
+              "citations": [
+                "86f530e03bc1e506f92c32e0c0bfd643",
+                "f5d5c44a969bd8a89da99591db13ddfe",
+                "0a9bb22cb7d8ecd1fccd5f7b56e98e3c",
+                "76fd61137903fb31eb4bc9b0062166fc"
+              ]
+            }
+          },
+          "evaluation": {
+            "evaluation": "Expectations Met",
+            "evaluation_reason": "The achievement of AED 1 billion monthly TPV in the UAE in Q2 2024 demonstrates significant progress in line with the company's international expansion strategy, representing a key milestone in their UAE market penetration."
+          }
+        },
+        {
+          "theme": "Product Launches and Technological Innovation",
+          "narrative": "Infibeam plans to launch new products, focusing on enhancing its payment solutions.  Specifically, the TapPay (mobile SoftPoS) is slated for launch in the UAE before the end of FY24.  Further product announcements are expected in Q4.",
+          "management_guidance": {
+            "answer": "Launch of TapPay (mobile SoftPoS) in the UAE before the end of FY24. Additional product announcements are expected in Q4 FY24.",
+            "citations": [
+              "86f530e03bc1e506f92c32e0c0bfd643",
+              "f5d5c44a969bd8a89da99591db13ddfe",
+              "7dd6f737ada027cfe9438c5b527137e8"
+            ]
+          },
+          "actual_results": {
+            "['Q3', '2024']": {
+              "answer": "No specific actual results for product launches are mentioned in the provided Q3 2024 data.",
+              "citations": []
+            },
+            "['Q1', '2025']": {
+              "answer": "No specific Q1 FY25 results directly correlating to this guidance are provided in the data.",
+              "citations": []
+            },
+            "['Q4', '2024']": {
+              "answer": "No specific Q2 2024 actual results for product launches are provided in the given data.",
+              "citations": []
+            },
+            "['Q2', '2024']": {
+              "answer": "No specific actual results for product launches are mentioned in the provided data for Q2 2024.",
+              "citations": []
+            }
+          },
+          "evaluation": {
+            "evaluation": "Insufficient Info",
+            "evaluation_reason": "The provided Q2 2024 data lacks information on the launch of TapPay or other product announcements, preventing an evaluation of whether management's guidance was met."
+          }
+        },
+        {
+          "theme": "Operational Efficiency and Cost Reduction",
+          "narrative": "Management aims to reduce operational costs by optimizing the supply chain and leveraging new technologies.",
+          "management_guidance": {
+            "answer": "A 10% reduction in operational costs is targeted over the next two quarters.",
+            "citations": [
+              "95610f999befe89b75a988964ceed224"
+            ]
+          },
+          "actual_results": {
+            "['Q3', '2024']": {
+              "answer": "In Q3 2024, operational costs were reduced by 10% year-over-year through efficiency improvements.",
+              "citations": [
+                "d59379bba20f3fb5933c6f15e873741f",
+                "8a7e0e839d8f3300fc81aedb3f0352ef"
+              ]
+            },
+            "['Q1', '2025']": {
+              "answer": "In Q1 FY25, operational costs were reduced by 10%.",
+              "citations": [
+                "c3e7cd45b6f8a2adf1c803f273b5b21c",
+                "d96449b9d33d0e75a27ae53726ff36b8",
+                "82cb61b6c02b6c31564d60427fcc6425",
+                "3f273d755e70beae16c85f9513ba99d2"
+              ]
+            },
+            "['Q4', '2024']": {
+              "answer": "In FY24, there was a reported reduction in operational costs, with various sources citing decreases ranging from 5% to 10%.",
+              "citations": [
+                "ee593d18d01b4196b01c7464e1353fb9",
+                "7bb8a7a8e41ee9b6425eb2338a528544",
+                "c7957b97587887c58ab9cb80df26e330",
+                "c2e19b18d59eb1ab3f5ca6653ed91f8c",
+                "145503df571ebab7c634e382953f2279"
+              ]
+            },
+            "['Q2', '2024']": {
+              "answer": "Operational costs were reduced by 10% in the last quarter (which may or may not be Q2 2024, more information is needed for clarity).",
+              "citations": [
+                "d35889a9aadc14a2aa5c5f6237785ac8"
+              ]
+            }
+          },
+          "evaluation": {
+            "evaluation": "Expectations Not Met",
+            "evaluation_reason": "While a 10% reduction in operational costs is mentioned, the provided data doesn't definitively confirm if this reduction occurred specifically in Q2 2024, hindering a conclusive evaluation."
+          }
+        }
+      ]
+    },
+    "['Q4', '2023']": {
+      "themes": [
+        {
+          "theme": "Financial Performance",
+          "narrative": "This theme focuses on Infibeam's financial performance, including revenue growth, profit margins, and cash flow stability.",
+          "management_guidance": {
+            "answer": "Infibeam anticipates significant revenue growth, targeting double-digit Net Take Rate (NTR) for Payments by FY24/FY25, a 12-15% international contribution to Payment's Net Revenue by FY28, 40-50% YoY growth in April and May, and 40% YoY revenue growth for the entire year.  A 30% YoY increase in credit card spending is also expected.  The TPV guidance of INR 7.5 lakh crores by FY25 remains unchanged.  Improvement in unit economics is expected to reach double digits in FY24 and beyond. A full-year dividend of 5% was recommended, suggesting a positive cash flow position.",
+            "citations": [
+              "af170f74a9ed5d82dc6334c3880691ff",
+              "c39988ab351329a4e97f25c3ccb99830",
+              "150eea2539a79f13092dfd1314b3481e",
+              "af0fa1ce2c14a8b931d6df67e591d285",
+              "04c40c279623cc02e379d1babec4a7b4",
+              "a0fc4666c5ef83d21484a27d2330a8e2",
+              "06fb14dfb754a89f392fb098fbf5ab97",
+              "0a8c774cb80f75eb7ee36184c6685344",
+              "e938ca97d4b0c327589568a2dc0db106",
+              "4afb169e14dc11ff7fa0f05c6254de1f",
+              "2d5927921f5f02715aa9208ef008bab6",
+              "d88b96598763f00290f09deceb09fbb7",
+              "d5a1200a894dae0f2311e4a49f3994d2"
+            ]
+          },
+          "actual_results": {
+            "['Q3', '2024']": {
+              "answer": "In Q3 FY24, Infibeam's Gross Revenue surpassed $100 million for the first time in a single quarter, with Payments Gross Revenue exceeding INR 1 billion. The 9M FY24 TPV was INR 4,778 billion (compared to INR 2,969 billion in 9M FY23), and Payments NTR reached 8.7 bps (up from 7.9 bps in 9M FY23). Gross Revenue increased to INR 24,442 million in 9M FY24 (from INR 13,097 million in 9M FY23), and Net Revenue reached INR 3,224 million (up from INR 2,368 million). CCAvenue Payments TPV (India + Intl.) was INR 2,160 billion in FY23 and showed a strong Q3 2024 annualized TPV run-rate. Standalone business represented 91% of consolidated revenue in FY23. The company reported a 15% increase in revenue over the last fiscal year. Further, Q3'24 showed a 75% YoY increase in TPV and a 120% YoY increase in gross revenue, reaching approximately US$111 million. Net revenue increased by 33% to Rs.113 Crores. Growth in gross revenues was upwards of 60% year-over-year. The company also added Rs. 1.2 billion in gross revenue quarter-over-quarter. India payments transaction processing volume rose to Rs.663 billion, growing at 34% year-over-year. The overall TPV (including India, international, and Go Payments) was Rs.709 billion for the quarter, growing at 32% year-over-year. India payments business net revenue grew 34% year-over-year, crossing Rs.500 million. Standalone business had operating and profit margin of 67.0% and 42.4%, respectively. Consolidated EBITDA margins were at 61.2% and profit margins at 37.3%. Cash Flow from Operations stood at 1,130 million INR.",
+              "citations": [
+                "670d9bb4376108fb38d7aa73eb8d78a5",
+                "9870e2d33da4c57d62f2429d46c77e39",
+                "0ef2b08abcfa4f4e32e211f6a9fa17c9",
+                "2b1989a2d1158b2e1b2bd7cc61889563",
+                "e89f748107722dc71f9f9fda51c3bc55",
+                "8186261c48737c301ff70bc09663bbfa",
+                "b7f19be3a7a093045e6220fd802ea212",
+                "1ee2f034b87e609f19e4398233e10f1e",
+                "f7ff66830d69669a024fbaa0060a0e52",
+                "2f5d6225f90dfc7f9c08f406dc7932ef",
+                "8afb02a19bfcb2de45c6b73745193f6f",
+                "d59379bba20f3fb5933c6f15e873741f",
+                "006f35d108c8262bb402a6bbb46001bb"
+              ]
+            },
+            "['Q2', '2024']": {
+              "answer": "In Q2 2024, Infibeam reported a 15% increase in revenue (e469a75692dd94e6fea619f04c5699fd). TPV reached INR 1,785 billion (332fe145be1e04261326f9eb7a806d13), with Payments TPV at INR 769 billion (332fe145be1e04261326f9eb7a806d13) and Platforms TPV at INR 1,016 billion (332fe145be1e04261326f9eb7a806d13). Payments Gross Revenue was INR 7,384 million (332fe145be1e04261326f9eb7a806d13), and Payments Net Revenue increased to INR 611 million (332fe145be1e04261326f9eb7a806d13). Monthly payments TPV in the UAE grossed AED 1 billion (86f530e03bc1e506f92c32e0c0bfd643). The highest ever quarterly Gross Revenue was INR 7,899 million (b831d83702f0ff472fcd24b05a90565b), and Net Revenue exceeded INR 1 billion for the first time in a quarter (b831d83702f0ff472fcd24b05a90565b). The company achieved 54% year-over-year TPV growth (5379831d921d0e44e51ee561f461206f). Net take rates increased to 9.3 basis points (e383c6527eb8e73ce5b8b1dd864140d9). EBITDA and PAT grew by 70% and 191%, respectively (e383c6527eb8e73ce5b8b1dd864140d9). Cash and cash equivalents reached INR 4.2 billion (e383c6527eb8e73ce5b8b1dd864140d9).",
+              "citations": [
+                "e469a75692dd94e6fea619f04c5699fd",
+                "332fe145be1e04261326f9eb7a806d13",
+                "86f530e03bc1e506f92c32e0c0bfd643",
+                "b831d83702f0ff472fcd24b05a90565b",
+                "5379831d921d0e44e51ee561f461206f",
+                "e383c6527eb8e73ce5b8b1dd864140d9"
+              ]
+            },
+            "['Q1', '2024']": {
+              "answer": "In Q1 FY24, Infibeam reported a 77% YoY increase in gross revenue (INR 742 crore), a 16% YoY increase in Payments NTR (8.4 bps), and a 27% YoY increase in TPV (INR 1.2 lac crore). Credit card transactions grew by 9%. Adjusted EBITDA was INR 56 crore (up 31% YoY) and adjusted PAT was INR 32 crore (up 40% YoY). Payments TPV was INR 65,024 crore. The company also achieved a 43% YoY TPV growth in Q1 FY24. CCAvenue International reported an annualized TPV run-rate of INR 24,600 crore for Q1’24.",
+              "citations": [
+                "e6e19787df7b6dd68df238694e4ea20f",
+                "5aced67857f596b3c2976ce17843b615",
+                "2d5b2336c323a03137b1d08e116a552a",
+                "ca4a5b35bafbabe233df0fd1f08270fb",
+                "0a7fa382fdbe000bb5404d065c9dbca7",
+                "c689fba167e3ada8380e678d3c48460c",
+                "390605f5732c7923b12261c9725a242d"
+              ]
+            },
+            "['Q4', '2023']": {
+              "answer": "In Q4 FY23, Infibeam reported a 52% increase in Gross Revenue and TPV. Net Revenue increased by 27%. Profit After Tax increased by 41%. For FY23, Gross Revenue increased by 53%, TPV by 55%, and Net Revenue by 28%. Profit After Tax for FY23 increased by 94%. Payments NTR achieved 9.0 bps in Q4 FY23, a 43% YoY increase. Consolidated Gross Revenue in FY23 was INR 1,962 crore, a 52% YoY growth. Payments Gross Revenue for FY23 was INR 1,793 crore, a 61% YoY growth. Other sources report 15% revenue growth in Q4 FY23 and total income exceeding INR 2,000 crore for FY23, a 56% YoY increase. Transaction processing volume reached INR 4.5 lakh crores in FY23, a 52% YoY increase. Credit card spends increased by 26% YoY in April 2023. In May and June, revenue and transaction growth reached 40% YoY.",
+              "citations": [
+                "5ad2490b551577b8a0d0bf239b8102db",
+                "b2daa848b44ecac74e5576116da84cc2",
+                "a8c74f4e5faa866ec32b352e5df79ab9",
+                "c728f7ae16caa38151190cee4efb9e52",
+                "24021d68c23d729e9fe6f1783b9c38e2",
+                "0a8c774cb80f75eb7ee36184c6685344",
+                "4a4f38d82f6eeb43400bd4d3979d677e",
+                "c39988ab351329a4e97f25c3ccb99830",
+                "8562362e001be81a881eebf97f2dc177"
+              ]
+            }
+          },
+          "evaluation": {
+            "evaluation": "Expectations Exceeded",
+            "evaluation_reason": "Actual revenue and TPV growth in Q4 2023 and FY23 significantly surpassed the 40% YoY guidance provided, and other key metrics like Profit After Tax and Payments NTR also showed substantial increases beyond expectations."
+          }
+        },
+        {
+          "theme": "Market Position",
+          "narrative": "This theme analyzes Infibeam's market share and customer base expansion strategies.",
+          "management_guidance": {
+            "answer": "While no specific market share targets are stated, external data projects significant growth opportunity in the Indian digital payments market. Internal data suggests a FY23 estimated TPV market share of 153% of 'Online Payments' growth (requires clarification). Infibeam aims to increase its offline presence to 1 million merchants by the end of FY24 and expand internationally to Australia (2H FY24) and the USA (late FY24/early FY25).  Further international expansion is planned over the next 3-5 years.  Approximately 9500 merchants were added daily in FY23. International transactions are projected to contribute 25-30% of overall transaction processing volumes. CCAvenue TAPpay had 150,000 downloads in 6 months, aiming for 1 million by the end of FY24.",
+            "citations": [
+              "bb806c41c8971b7b7752b257c8b5185d",
+              "e6593c4584aa4fb065731be0ad8d0022",
+              "a59013faad9689e7918528868262ad43",
+              "8f103f2cddbf410a2a59e28e8c3ce395",
+              "b4a08583ea43e5b9ab24296621f7d348",
+              "af0fa1ce2c14a8b931d6df67e591d285",
+              "8fc2f3d58638488dd1c7dae958107f0a",
+              "e36d038b2f90eec1af25892aa81d0600",
+              "0dd82f2ea6d1ae07b38e23495da2ae85"
+            ]
+          },
+          "actual_results": {
+            "['Q3', '2024']": {
+              "answer": "In Q3 FY24, Infibeam added more than 200,000 merchants to CCAvenue, with an average daily addition of 2,500 merchants. The company also added a quarter of a million merchants in the quarter. They have 7000+ clients in the UAE, processing over a billion Dirhams monthly. Total merchants exceeded 10 million. Go Payments has an active agent network of 110,000+ covering 10,000+ pin codes across India. Market share in online credit card spends increased from 9% in FY2023 to over 10% in 9M FY24.",
+              "citations": [
+                "0ef2b08abcfa4f4e32e211f6a9fa17c9",
+                "4380b5939a6ada25be4874b4f990c6c5",
+                "246a556d99a06901490775c667a9b01a",
+                "1ee2f034b87e609f19e4398233e10f1e",
+                "2f5d6225f90dfc7f9c08f406dc7932ef",
+                "93f8103b6a663f3becd87d4ad7e1fad5",
+                "f7ff66830d69669a024fbaa0060a0e52"
+              ]
+            },
+            "['Q2', '2024']": {
+              "answer": "In Q2 2024, Infibeam's FY23 estimated TPV market share was 117% YoY of 'Online Payments' (a334ab4baad580f8da976d049a13c6f1). International credit card payments contributed approximately 80% of international market revenue (ef4ffec897984a3983fc287faef63b66). In the first half of FY24, close to 1 million merchants were onboarded (76e8bce2ce84a3a94cc4069edc2d0b95), and 0.27 million were added in Q2 (e383c6527eb8e73ce5b8b1dd864140d9). Credit card spend increased, allowing CCAvenue to increase its market share to double digits (76e8bce2ce84a3a94cc4069edc2d0b95). In the UAE, approximately 80% of payments processed were via credit cards (f5d5c44a969bd8a89da99591db13ddfe).",
+              "citations": [
+                "a334ab4baad580f8da976d049a13c6f1",
+                "ef4ffec897984a3983fc287faef63b66",
+                "76e8bce2ce84a3a94cc4069edc2d0b95",
+                "e383c6527eb8e73ce5b8b1dd864140d9",
+                "f5d5c44a969bd8a89da99591db13ddfe"
+              ]
+            },
+            "['Q1', '2024']": {
+              "answer": "In Q1 FY24, Infibeam added an average of 9500 merchants daily, reaching a total of 10 million merchants. CCAvenue TAPpay crossed 300,000 downloads. The company's estimated FY23 TPV market share reached 172% in the 'Online Payments' category. In bill payments through BBPS, the volume-based payment share improved by 80 basis points to 11.1% in Q1 from 10.3% in Q4. The company is among the top three in BBPOU volume.",
+              "citations": [
+                "e6e19787df7b6dd68df238694e4ea20f",
+                "fe8c5de144d54bfa725309a40a41e145",
+                "0ffdae94dd182c8ebf89f47523000bb7",
+                "e3d3d99375777b4c44c376fd7e7553ae",
+                "c689fba167e3ada8380e678d3c48460c",
+                "7023de9f74c1314e5918f824b46d7dc6"
+              ]
+            },
+            "['Q4', '2023']": {
+              "answer": "Infibeam added 3.5 million merchants in FY23 (approximately 9,500 daily), bringing the total to 9.2 million. CCAvenue TAPpay had 150,000+ downloads in 6 months of FY23. The estimated FY23 TPV market share was 153% of 'Online Payments' growth (requires clarification). Infibeam held a 9% market share of online credit spends and a 7% share of online debit card market in India (per RBI data).",
+              "citations": [
+                "24021d68c23d729e9fe6f1783b9c38e2",
+                "888036e9045f4d988298f183dc93af47",
+                "e6593c4584aa4fb065731be0ad8d0022",
+                "0a8c774cb80f75eb7ee36184c6685344",
+                "0efb389e7b37e2881b85ced8cacfab71"
+              ]
+            }
+          },
+          "evaluation": {
+            "evaluation": "Expectations Met",
+            "evaluation_reason": "While specific market share targets weren't given for Q4 2023, the merchant additions closely aligned with the projected daily additions, and the TAPpay downloads, though not reaching 1 million, showed significant progress within the given timeframe."
+          }
+        },
+        {
+          "theme": "Technological Innovation",
+          "narrative": "This theme focuses on Infibeam's product development cycle and technological advancements.",
+          "management_guidance": {
+            "answer": "The CCAvenue Omnichannel Payment Solution targets 1 million users by FY24.",
+            "citations": [
+              "888036e9045f4d988298f183dc93af47"
+            ]
+          },
+          "actual_results": {
+            "['Q3', '2024']": {
+              "answer": "No specific data on actual user acquisition for CCAvenue Omnichannel Payment Solution is provided in the Q3 FY24 data.",
+              "citations": []
+            },
+            "['Q2', '2024']": {
+              "answer": "No specific actual results for this guidance are available from the provided data for Q2 2024.",
+              "citations": []
+            },
+            "['Q1', '2024']": {
+              "answer": "No specific Q1 FY24 results are provided for this theme in the data.",
+              "citations": []
+            },
+            "['Q4', '2023']": {
+              "answer": "No specific data on actual user numbers for CCAvenue Omnichannel Payment Solution is provided in the available data.",
+              "citations": []
+            }
+          },
+          "evaluation": {
+            "evaluation": "Insufficient Info",
+            "evaluation_reason": "There is no data provided in Q4 2023 actual results to assess the progress of the CCAvenue Omnichannel Payment Solution against its target of 1 million users by FY24."
+          }
+        },
+        {
+          "theme": "Operational Efficiency",
+          "narrative": "This theme discusses Infibeam's efforts to optimize its processes.",
+          "management_guidance": {
+            "answer": "The company expects significant work related to GeM until December 2025, due to the 24-month timeframe for establishing a new framework under a new RFP.",
+            "citations": [
+              "39584b18b44d41808e386f83992ed8ff"
+            ]
+          },
+          "actual_results": {
+            "['Q3', '2024']": {
+              "answer": "No specific data related to the completion or progress of the GeM project is available in the provided Q3 FY24 data.",
+              "citations": []
+            },
+            "['Q2', '2024']": {
+              "answer": "No specific actual results for this guidance are available from the provided data for Q2 2024.",
+              "citations": []
+            },
+            "['Q1', '2024']": {
+              "answer": "No specific Q1 FY24 results are provided for this theme in the data.",
+              "citations": []
+            },
+            "['Q4', '2023']": {
+              "answer": "No specific data on actual progress related to GeM is provided in the available data for Q4 2023.",
+              "citations": []
+            }
+          },
+          "evaluation": {
+            "evaluation": "Insufficient Info",
+            "evaluation_reason": "There's no information in the Q4 2023 results to assess the progress of the GeM project."
+          }
+        }
+      ]
+    },
+    "['Q1', '2024']": {
+      "themes": [
+        {
+          "theme": "Financial Performance",
+          "narrative": "This theme focuses on Infibeam's financial results, including revenue growth and profit margins.  Key aspects include projections for Net Transaction Revenue (NTR), gross revenue, net revenue, EBITDA, and PAT, along with targets for take rates and international contributions.",
+          "management_guidance": {
+            "answer": "Infibeam targets double-digit NTR for its Payments business by FY24, gross revenue between INR 3,000 and INR 3,300 crore (53-68% YoY increase), and net revenue between INR 410 and INR 415 crore (25-26% YoY increase).  EBITDA is projected between INR 230-235 crore (28-31% YoY increase) and PAT between INR 130-150 crore (37-59% YoY increase).  They expect double-digit take rates by year-end, with improvement from Q2 onwards. International payments are projected to reach 12-15% of Payment's Net Revenue by FY28 and potentially 30% or more of overall payment revenues. Processing volume growth is targeted at $10 billion in the next couple of years, from the current $1 billion.",
+            "citations": [
+              "52bd021dc2b55c750963a94229a6c2fb",
+              "ce92f1f0dca39b580a32923c2b3ef235",
+              "2d5b2336c323a03137b1d08e116a552a",
+              "c689fba167e3ada8380e678d3c48460c",
+              "390605f5732c7923b12261c9725a242d",
+              "c1a35591c87ad10cbb2bbc8287e6a964",
+              "eab1022fe7ea8578888b5e80f1b2ddf6",
+              "ab251550a907597633297011724ad144",
+              "dc4fd77fc32523f0b5b5ae87f61baf55",
+              "0ffdae94dd182c8ebf89f47523000bb7"
+            ]
+          },
+          "actual_results": {
+            "['Q3', '2024']": {
+              "answer": "Actual Q3 2024 results show significant growth. Gross revenue surpassed $100 million for the first time in a single quarter, and Payments Gross Revenue exceeded INR 1 billion in a single quarter. The 9-month FY24 TPV was INR 4,778 billion compared to INR 2,969 billion in 9M FY23, indicating substantial growth. 9M FY24 Gross Revenue increased to INR 24,442 million from INR 13,097 million in 9M FY23, and Net Revenue reached INR 3,224 million, up from INR 2,368 million.  However, specific Q3 2024 figures for net revenue, EBITDA, and PAT are not directly available in the provided data for a precise comparison to the Q1 2024 guidance.",
+              "citations": [
+                "670d9bb4376108fb38d7aa73eb8d78a5",
+                "9870e2d33da4c57d62f2429d46c77e39"
+              ]
+            },
+            "['Q4', '2024']": {
+              "answer": "In FY24, Infibeam achieved a Gross Revenue of 31,711 million INR, Net Revenue of 4,286 million INR, EBITDA of 2,526 million INR, and PAT of 1,478 million INR.  These figures significantly exceed the management's guidance. The TPV for FY24 was 7,043 billion INR. Note that there is some discrepancy between the provided numbers and the citations provided. Further investigation is needed to reconcile these differences.",
+              "citations": [
+                "657a4dfc16af1be06018fadd41e9c8a3",
+                "392758a2ecba64756f15b478714ae342"
+              ]
+            },
+            "['Q2', '2024']": {
+              "answer": "In Q2 FY24, Infibeam reported significant growth. Revenue increased by 15%, exceeding the lower end of the full-year guidance. Payments TPV reached INR 769 billion (up from INR 602 billion). Payments Gross Revenue increased to INR 7,384 million (from INR 4,343 million), and Payments Net Revenue rose to INR 611 million (from INR 393 million). Gross revenue reached INR 7,899 mn, exceeding $100 million for the first time in a single quarter, while net revenue crossed INR 1 billion for the first time in a quarter. EBITDA and PAT also experienced sharp growth, increasing by 70% and 191%, respectively. The net take rate increased to 9.3 basis points, exceeding the earlier domestic target of 10 basis points. Cash and cash equivalents reached INR 4.2 billion.",
+              "citations": [
+                "e469a75692dd94e6fea619f04c5699fd",
+                "332fe145be1e04261326f9eb7a806d13",
+                "b831d83702f0ff472fcd24b05a90565b",
+                "e383c6527eb8e73ce5b8b1dd864140d9"
+              ]
+            },
+            "['Q1', '2024']": {
+              "answer": "In Q1 2024, Infibeam reported 77% YoY growth in gross revenue, reaching INR 742 crore. Net revenue was INR 99 crore. Adjusted EBITDA was INR 56 crore (a 31% YoY increase) and adjusted PAT was INR 32 crore (a 40% YoY increase). The net take rate was 8.4 basis points, a 16% YoY increase. Payments TPV grew significantly, with CCAvenue International reporting an annualized TPV run-rate of INR 24,600 crore for Q1'24 and overall TPV reaching INR 1,18,260 crore. A 43% YoY TPV growth was also reported.",
+              "citations": [
+                "2d5b2336c323a03137b1d08e116a552a",
+                "c689fba167e3ada8380e678d3c48460c",
+                "fa5b954a453b916374986e9bd2f003eb",
+                "2d5b2336c323a03137b1d08e116a552a",
+                "c689fba167e3ada8380e678d3c48460c",
+                "390605f5732c7923b12261c9725a242d",
+                "0a7fa382fdbe000bb5404d065c9dbca7",
+                "5aced67857f596b3c2976ce17843b615",
+                "ca4a5b35bafbabe233df0fd1f08270fb"
+              ]
+            }
+          },
+          "evaluation": {
+            "evaluation": "Expectations Not Met",
+            "evaluation_reason": "While some metrics like EBITDA and PAT growth exceeded expectations,  the Q1 gross and net revenue significantly fell short of the management's full-year guidance range."
+          }
+        },
+        {
+          "theme": "Customer Base Expansion",
+          "narrative": "This theme focuses on Infibeam's strategies to expand its customer base, both geographically and through new product offerings.  Key aspects include plans for international expansion, new product launches, and target numbers for merchant acquisition and product adoption.",
+          "management_guidance": {
+            "answer": "Infibeam plans to launch payments in Australia by FY24 and South East Asia in FY25. They aim for 1 million downloads of their CCAvenue Omnichannel Payment Solution in FY24, expansion into India's hinterlands with SoftPoS, and reaching 1 million merchants this year.  The launch of TapPay in the UAE is expected to increase market share, with future launches planned for Saudi Arabia and other GCC markets.  They expect 10% of their (presumably 10 million) merchants to utilize TapPay within 12-18 months.",
+            "citations": [
+              "11aeeecf03f6327150e65abcedf2ca86",
+              "eab1022fe7ea8578888b5e80f1b2ddf6",
+              "fe8c5de144d54bfa725309a40a41e145",
+              "41ffbb28a0b451ebb8b8d25b2ff24424",
+              "a6e65457c1fdf8b4da4f2d7d58e22aaf",
+              "390605f5732c7923b12261c9725a242d",
+              "c1a35591c87ad10cbb2bbc8287e6a964"
+            ]
+          },
+          "actual_results": {
+            "['Q3', '2024']": {
+              "answer": "In Q3 2024, Infibeam added over 200,000 merchants to CCAvenue, averaging 2,500 daily additions. Another source mentions adding a quarter of a million merchants during the quarter. The company exceeded one billion Dirhams processed monthly in the UAE, with approximately 7000 clients. Overall, the data suggests significant progress in merchant acquisition, but specific data on TapPay adoption and the overall number of merchants acquired is not directly available to fully assess progress against the stated targets.",
+              "citations": [
+                "1ee2f034b87e609f19e4398233e10f1e",
+                "2f5d6225f90dfc7f9c08f406dc7932ef",
+                "93f8103b6a663f3becd87d4ad7e1fad5"
+              ]
+            },
+            "['Q4', '2024']": {
+              "answer": "Actual results for merchant acquisition and product adoption are not explicitly provided in the data for Q4 2024. However, the data shows that by March 2024, Infibeam had over 10 million merchant accounts. This indicates significant progress towards their targets, but the specifics regarding TapPay adoption and the number of CCAvenue downloads are unavailable.",
+              "citations": [
+                "e8321210173d055e79b35f917857b3d9"
+              ]
+            },
+            "['Q2', '2024']": {
+              "answer": "In Q2 FY24, Infibeam onboarded close to 1 million merchants during the nine months ending September 2023, averaging over 3,500 fully KYC merchants daily. This brought the total number of merchants using the CCAvenue platform to 2.7 million. In the UAE, monthly payment transaction processing volume grossed AED 1 billion.",
+              "citations": [
+                "76e8bce2ce84a3a94cc4069edc2d0b95",
+                "f5d5c44a969bd8a89da99591db13ddfe",
+                "e383c6527eb8e73ce5b8b1dd864140d9"
+              ]
+            },
+            "['Q1', '2024']": {
+              "answer": "By the end of Q1 FY24, downloads of the CCAvenue Omnichannel Payment Solution exceeded 300,000, significantly surpassing the anticipated 150,000 downloads in 7-8 months of FY23. The total number of merchants reached 10 million, with an average addition of 9,500 merchants daily during the quarter. A 61% increase in the number of merchants was also reported.",
+              "citations": [
+                "fe8c5de144d54bfa725309a40a41e145",
+                "41ffbb28a0b451ebb8b8d25b2ff24424",
+                "0ffdae94dd182c8ebf89f47523000bb7",
+                "d719f6d145b387589f9facbc300bbee3"
+              ]
+            }
+          },
+          "evaluation": {
+            "evaluation": "Expectations Exceeded",
+            "evaluation_reason": "The number of CCAvenue Omnichannel Payment Solution downloads significantly surpassed expectations in Q1 2024, and merchant acquisition far exceeded the annual target in just one quarter."
+          }
+        },
+        {
+          "theme": "Strategic Partnerships",
+          "narrative": "This theme focuses on Infibeam's plans for forming and strengthening strategic alliances to enhance its market position and capabilities.  A key aspect is increasing its stake in Fable Fintech Pvt Ltd.",
+          "management_guidance": {
+            "answer": "Infibeam plans to increase its stake in Fable Fintech Pvt Ltd to 41%, adding an additional 25%.",
+            "citations": [
+              "6bdefca04b305f2576ef37b44fdf9d26",
+              "b2b56fdf0fdbadd41b386c8bdf2604ca"
+            ]
+          },
+          "actual_results": {
+            "['Q3', '2024']": {
+              "answer": "There is no information provided in the data about the actual increase in Infibeam's stake in Fable Fintech Pvt Ltd.",
+              "citations": []
+            },
+            "['Q4', '2024']": {
+              "answer": "The provided data does not contain actual results regarding Infibeam's stake increase in Fable Fintech Pvt Ltd.",
+              "citations": []
+            },
+            "['Q2', '2024']": {
+              "answer": "No actual results for this theme are available in the provided Q2 2024 data.",
+              "citations": []
+            },
+            "['Q1', '2024']": {
+              "answer": "No actual results regarding the increase in stake in Fable Fintech Pvt Ltd are provided in the data.",
+              "citations": []
+            }
+          },
+          "evaluation": {
+            "evaluation": "Insufficient Info",
+            "evaluation_reason": "There is no information available in the provided data to assess whether the planned increase in stake in Fable Fintech Pvt Ltd occurred during Q1 2024."
+          }
+        },
+        {
+          "theme": "Regulatory Environment",
+          "narrative": "This theme addresses the regulatory landscape and its impact on Infibeam's operations, including licensing requirements and compliance standards.  Key aspects include pending regulatory approvals and data localization compliance.",
+          "management_guidance": {
+            "answer": "A pending regulatory approval is expected within the current fiscal year. Commercial operations in KSA are planned for the end of Q2, pending data localization compliance certification.",
+            "citations": [
+              "fa5b954a453b916374986e9bd2f003eb",
+              "11aeeecf03f6327150e65abcedf2ca86"
+            ]
+          },
+          "actual_results": {
+            "['Q3', '2024']": {
+              "answer": "The provided data does not contain information on whether the pending regulatory approval was received or on the commencement of commercial operations in KSA.",
+              "citations": []
+            },
+            "['Q4', '2024']": {
+              "answer": "The provided data does not offer specific details on whether the pending regulatory approval was received or if commercial operations in KSA commenced as planned by the end of Q2.",
+              "citations": []
+            },
+            "['Q2', '2024']": {
+              "answer": "No specific mention of actual results regarding regulatory approvals or data localization compliance in the provided Q2 2024 data.",
+              "citations": []
+            },
+            "['Q1', '2024']": {
+              "answer": "No actual results regarding regulatory approvals or KSA operations are provided in the data.",
+              "citations": []
+            }
+          },
+          "evaluation": {
+            "evaluation": "Insufficient Info",
+            "evaluation_reason": "The provided data lacks information on the status of regulatory approvals or the commencement of commercial operations in KSA during Q1 2024."
+          }
+        },
+        {
+          "theme": "Cash Flow Stability",
+          "narrative": "This theme highlights Infibeam's plans to maintain cash flow stability and its implications for future investments. A key aspect is increased investment in express settlement.",
+          "management_guidance": {
+            "answer": "Infibeam plans to increase investment in express settlement due to its perceived opportunity and available cash reserves.",
+            "citations": [
+              "fc05b10b3771fc476b7ad9cb5b357fec"
+            ]
+          },
+          "actual_results": {
+            "['Q3', '2024']": {
+              "answer": "In Q3 2024, Infibeam's Cash Flow from Operations was INR 1,130 million. This provides some indication of cash flow, but it does not directly address the investment in express settlement.",
+              "citations": [
+                "8186261c48737c301ff70bc09663bbfa"
+              ]
+            },
+            "['Q4', '2024']": {
+              "answer": "In FY24, Infibeam's cash flow from operations was 720 crores, a 537% increase year-over-year. This suggests strong cash flow stability. However, the data doesn't directly address investments in express settlement.",
+              "citations": [
+                "492260b462e308b6c14410e7adecfdb5"
+              ]
+            },
+            "['Q2', '2024']": {
+              "answer": "In Q2 FY24, Infibeam's cash and cash equivalents reached INR 4.2 billion after INR 1.2 billion capex in the first half.",
+              "citations": [
+                "e383c6527eb8e73ce5b8b1dd864140d9",
+                "b831d83702f0ff472fcd24b05a90565b"
+              ]
+            },
+            "['Q1', '2024']": {
+              "answer": "In Q1 2024, cash flow from operations was INR 113 crore, and free cash flow was INR 117 crore.",
+              "citations": [
+                "d719f6d145b387589f9facbc300bbee3"
+              ]
+            }
+          },
+          "evaluation": {
+            "evaluation": "Insufficient Info",
+            "evaluation_reason": "While Q1 cash flow data is available, there's no information provided on the actual investment made in express settlement during the quarter."
+          }
+        }
+      ]
+    },
+    "['Q1', '2023']": {
+      "themes": [
+        {
+          "theme": "Financial Performance",
+          "narrative": "Analysis of Infibeam's financial performance in Q1 2023, focusing on revenue growth and profit margins.",
+          "management_guidance": {
+            "answer": "Infibeam targets 15% revenue growth for the next fiscal year, aiming for a run-rate of INR 7.5 lac crore by the end of FY24.  They expect healthy quarters ahead, driven by increased TPV of INR 87,218 crore and project a transaction processing volume of $100 billion by FY24.  A significant improvement in the digital payments business is expected in Q3. Gross margins for the India payments business improved quarter-over-quarter, alongside a 19% increase in the net take rate. The EBITDA margin for the core business reached 64%, increasing to 64% from 60% year-over-year.",
+            "citations": [
+              "f640563ebcdf11ddb7161921ea19aeae",
+              "eb6d1317160d2491c4d29693ead3f57f",
+              "0ec257796349d74ab04cde2a2a44f5aa",
+              "f88dffeda7c1cc7b01bf384328d888a2",
+              "60e65e6f8792f0208c207bff932bb82e",
+              "b2a1b14ac20a839258a64724c99ccdd1",
+              "331721dc678d46a3abff75ee898bfade"
+            ]
+          },
+          "actual_results": {
+            "['Q4', '2023']": {
+              "answer": "In Q4 2023, Infibeam reported varying revenue growth figures depending on the metric used. Gross revenue increased by 84% YoY to INR 608 crore, while net revenue saw a 27% YoY increase to INR 80 crore. TPV reached INR 1,34,422 crore, a 63% increase from the previous year. Other sources reported a 52% increase in gross revenue and TPV, and a 15% increase in revenue. EBITDA and PAT also showed significant increases, with PAT reaching INR 37 crore (a 41% YoY increase) in Q4 and INR 136 crore (a 94% YoY increase) for FY23. The net take rate for the payments business improved to 9 bps, a 43% YoY increase.",
+              "citations": [
+                "b2daa848b44ecac74e5576116da84cc2",
+                "a8c74f4e5faa866ec32b352e5df79ab9",
+                "cdf1458a10436bbfebf9696cb0fbb87b",
+                "f55460f9305ccf4604d00d59ee8fbefd",
+                "c39988ab351329a4e97f25c3ccb99830"
+              ]
+            },
+            "['Q1', '2023']": {
+              "answer": "In Q1 2023, Infibeam achieved a TPV of INR 87,218 crore. The India Payments TPV was INR 43,736 crore (up 51% YoY and 9% QoQ). The net take rate increased by 19% QoQ to 6.9 bps. The EBITDA margin for the core business reached 64%, consistent with guidance. Gross revenue was INR 418 crore, and net revenue was INR 74 crore. The total TPV reached $19 billion in Q1'23. For the GeM platform, the GMV was INR 36,300 crore (100% YoY growth, but -6% QoQ).",
+              "citations": [
+                "0ec257796349d74ab04cde2a2a44f5aa",
+                "83bfb62e4ccf5b9941706493d1d72c6a",
+                "cf2e6e605b902d1f31fb93c72382794f",
+                "a6f7515378487e941d53eb6c0ca6d9f1",
+                "331721dc678d46a3abff75ee898bfade",
+                "b2a1b14ac20a839258a64724c99ccdd1"
+              ]
+            },
+            "['Q2', '2023']": {
+              "answer": "In Q2 2023, Infibeam's TPV crossed INR 1 lac crore for the first time. India Payments TPV grew 18% year-over-year to INR 45,364 crore. The net take rate for India Payments increased 51% year-over-year to 7.2 bps, and the total payments net take rate increased 41% year-over-year to 7.5 bps. GeM GMV grew 83% year-over-year to INR 39,840 crore. Standalone TPV was INR 85,207 crore, with gross revenue of INR 435 crore and net revenue of INR 70 crore. Consolidated TPV was INR 92,612 crore, with gross revenue of INR 477 crore and net revenue of INR 79 crore. Multiple sources indicate revenue growth exceeding 15% in Q2 2023. Consolidated PAT was up 123% for the quarter.",
+              "citations": [
+                "655a8899b76fac3aecb6ac85064bae24",
+                "30d73cf43d73fb7c5de32f1a373202dc",
+                "da6804c58043368bf1989c873ee55cfb",
+                "4ff96924b439faf2745bcc3a3609bd76",
+                "d4c67fda27d9e1cba2d387122c9e0fb6",
+                "791cd73df651d8a9e8487310a99361f6",
+                "760e7b881e61c6f2abc1443ed513a129",
+                "beb79f265e18fe847da06ee6375e28df"
+              ]
+            },
+            "['Q3', '2023']": {
+              "answer": "In Q3 2023, Infibeam reported a Total TPV exceeding INR 1 Lac crore (citations: 794163040289e805ff693d88cf8890e7), a 27% YoY increase. India Payments TPV reached INR 47,452 crore, a 12% YoY increase (citations: d9e3bae8dcf52051703d7696074a83dc). The India Payments Net Take Rate improved to 8.3 bps from 4.9 bps, a 70% YoY increase (citations: d9e3bae8dcf52051703d7696074a83dc). GeM TPV climbed to INR 41,946 crore, showing a 48% YoY growth (citations: d9e3bae8dcf52051703d7696074a83dc). Gross Revenue was 415 INR crore, a 4% YoY increase (citations: b2d3c3dea69c7b22d7f2740037b141bb). Net Revenue was 85 INR crore, a 21% YoY increase (citations: b2d3c3dea69c7b22d7f2740037b141bb). EBITDA was 48 INR crore, a 26% YoY increase (citations: b2d3c3dea69c7b22d7f2740037b141bb). PAT was 35 INR crore, a 47% YoY increase (citations: b2d3c3dea69c7b22d7f2740037b141bb).",
+              "citations": [
+                "794163040289e805ff693d88cf8890e7",
+                "d9e3bae8dcf52051703d7696074a83dc",
+                "b2d3c3dea69c7b22d7f2740037b141bb"
+              ]
+            }
+          },
+          "evaluation": {
+            "evaluation": "Expectations Met",
+            "evaluation_reason": "While specific yearly revenue growth targets aren't directly comparable to Q1 results, the Q1 EBITDA margin met guidance, and the TPV matched expectations, indicating that the quarter's performance aligns with the overall positive outlook."
+          }
+        },
+        {
+          "theme": "Market Position",
+          "narrative": "Examination of Infibeam's market position and plans for customer base expansion.",
+          "management_guidance": {
+            "answer": "Infibeam plans to launch a PG service in top 3-4 markets (Indonesia, Thailand, Philippines, Myanmar) in the next 2-3 years. They expect 25%-30% of transactions to include offline channels (via CCAvenue TapPay) within the next two to three years. International business is projected to reach at least 30% of overall business within the next two to three years.",
+            "citations": [
+              "16b4f1c0ba0eb65ee46d88bfded0d154",
+              "a565730135255b3dee6d52d8550affd9",
+              "c5840799afa11433ed854d97ce804c10",
+              "6e2610d4deeb63cf264284da19be66b8"
+            ]
+          },
+          "actual_results": {
+            "['Q4', '2023']": {
+              "answer": "In Q4 2023, Infibeam added 500 new merchants. For FY23, they added 3.5 million merchants, bringing the total to 9.2 million. The India TPV increased by 25% year-on-year, while international TPV doubled. The company's market share in online credit spends in India was 9%, debit card market share was 7%, and net banking share was 3%.",
+              "citations": [
+                "c728f7ae16caa38151190cee4efb9e52",
+                "24021d68c23d729e9fe6f1783b9c38e2",
+                "2d5927921f5f02715aa9208ef008bab6",
+                "0a8c774cb80f75eb7ee36184c6685344"
+              ]
+            },
+            "['Q1', '2023']": {
+              "answer": "No specific Q1 2023 results directly related to this guidance are provided in the data.",
+              "citations": []
+            },
+            "['Q2', '2023']": {
+              "answer": "In Q2 2023, TapPay had 15,000+ terminals deployed. The number of merchants increased 77% year-over-year to 7.3 million in Q2 FY23. The company's high market share in Oman (90%) and significant presence in the UAE and Saudi Arabia (60% of volume) were highlighted. The company claims to have achieved a double-digit market share (10%+).",
+              "citations": [
+                "655a8899b76fac3aecb6ac85064bae24",
+                "da6804c58043368bf1989c873ee55cfb",
+                "8dc2b92341f89e684271c6270dd696e7",
+                "30d73cf43d73fb7c5de32f1a373202dc",
+                "86d55b8d4d37abb64de3e2b07492aaf3",
+                "6cd19bbdb60a534c91e8dea2bed6a1cf",
+                "b2c3b12e31e3140078b87988121e4499",
+                "0262d0b6616128505f30efa320a1a140"
+              ]
+            },
+            "['Q3', '2023']": {
+              "answer": "In Q3 2023, Infibeam added a record 1.1 million merchants across all offerings, reaching a total of 8.4 million merchants (citations: d2059a7aadc71cfd3c104870ef99b37c). The number of merchants in the payment gateway business grew by 385% year-over-year (citations: 936308ebe20bbbdd71989f8b95be5654).",
+              "citations": [
+                "d2059a7aadc71cfd3c104870ef99b37c",
+                "936308ebe20bbbdd71989f8b95be5654"
+              ]
+            }
+          },
+          "evaluation": {
+            "evaluation": "Insufficient Info",
+            "evaluation_reason": "No Q1 2023 data is available to assess progress against the long-term market expansion plans."
+          }
+        },
+        {
+          "theme": "Operational Efficiency",
+          "narrative": "Discussion of Infibeam's strategies for cost management and process optimization.",
+          "management_guidance": {
+            "answer": "The company aims to decrease operational costs by 10% by year-end. GeM (requires further context) targets 75% procurement by August 15th.",
+            "citations": [
+              "f640563ebcdf11ddb7161921ea19aeae",
+              "015db84e5c1da1547befb7593cf19d0d"
+            ]
+          },
+          "actual_results": {
+            "['Q4', '2023']": {
+              "answer": "In Q4 2023, management reported a 25% reduction in operational costs over the past year.",
+              "citations": [
+                "f55460f9305ccf4604d00d59ee8fbefd"
+              ]
+            },
+            "['Q1', '2023']": {
+              "answer": "In Q1 2023, management reported that operational costs were reduced by 10% in the last quarter.",
+              "citations": [
+                "110d2c96f492f1237ce8519914efbfa2",
+                "015db84e5c1da1547befb7593cf19d0d"
+              ]
+            },
+            "['Q2', '2023']": {
+              "answer": "In Q2 2023, operational cost reduction measures were reported from previous years, with a 15% reduction cited in one source and a 5% reduction in marketing costs cited in another. Capital expenditure decreased significantly from INR 83 crore in FY21 to INR 16 crore in the first half of FY23.",
+              "citations": [
+                "d4c67fda27d9e1cba2d387122c9e0fb6",
+                "760e7b881e61c6f2abc1443ed513a129",
+                "9980066bbac741df59c012e27b2444a8",
+                "8dc2b92341f89e684271c6270dd696e7"
+              ]
+            },
+            "['Q3', '2023']": {
+              "answer": "In Q3 2023, Infibeam reduced operational costs by 8% in the last fiscal year (citations: b3919a3654d8e88c997868ffcefdf4a5, 2a30305a25bdaf3af39725e879e735b8).",
+              "citations": [
+                "b3919a3654d8e88c997868ffcefdf4a5",
+                "2a30305a25bdaf3af39725e879e735b8"
+              ]
+            }
+          },
+          "evaluation": {
+            "evaluation": "Expectations Met",
+            "evaluation_reason": "The 10% reduction in operational costs in Q1 aligns with the management's year-end target."
+          }
+        },
+        {
+          "theme": "Technological Innovation",
+          "narrative": "Analysis of Infibeam's approach to technology adoption and its impact on growth.",
+          "management_guidance": {
+            "answer": "RBI aims to triple digital payments in India (this reflects the external market opportunity, influencing Infibeam's growth potential).",
+            "citations": [
+              "d9816ccae6b43ea6e6471e90b929cfbe"
+            ]
+          },
+          "actual_results": {
+            "['Q4', '2023']": {
+              "answer": "No specific actual results related to this theme are available from the provided data.",
+              "citations": []
+            },
+            "['Q1', '2023']": {
+              "answer": "No specific Q1 2023 results directly related to this are provided in the data.",
+              "citations": []
+            },
+            "['Q2', '2023']": {
+              "answer": "In Q2 2023, the deployment of CCAvenue TapPay across more than 15,000 terminals was reported.",
+              "citations": [
+                "92c4ecf45ebc0ae5416a2186d8e10f9d",
+                "4897e37f3adb4fb3c3194fed4486ac03",
+                "4246aed7ef0d0e78056852f8a123800a",
+                "428d221f506906f97ef81fec6ca5222c"
+              ]
+            },
+            "['Q3', '2023']": {
+              "answer": "In Q3 2023, Infibeam became the first to process digital Rupee transactions for online retail payments (citations: 3cd1c3fb37523e0363dea454d4908fc5). They are also the only ones certified with pin-on-glass technology for transactions above 5000 (citations: e6b3be0558b3585fd4587df810cd4eb2).",
+              "citations": [
+                "3cd1c3fb37523e0363dea454d4908fc5",
+                "e6b3be0558b3585fd4587df810cd4eb2"
+              ]
+            }
+          },
+          "evaluation": {
+            "evaluation": "Insufficient Info",
+            "evaluation_reason": "The provided data does not offer any Q1 2023 metrics related to Infibeam's technological innovation or its impact on growth."
+          }
+        }
+      ]
+    },
+    "['Q2', '2023']": {
+      "themes": [
+        {
+          "theme": "Financial Performance",
+          "narrative": "Management provided specific financial guidance for Q2 2023 and beyond, indicating strong revenue growth targets and expectations for improved profitability.  They highlighted the increasing transaction processing value (TPV) and net take rates, particularly emphasizing the contribution of offline expansion initiatives like CCAvenue TapPay and international expansion.  The guidance also included expectations for significant growth in GeM (Government e-Marketplace) GMV.  There was mention of a divestment, the impact of which on the operational guidance was clarified.",
+          "management_guidance": {
+            "answer": "Target of INR 7.5 lac crore TPV by the end of 2024; 15% revenue increase by the end of FY 2023; Double-digit net take rate in the next few years; Doubling of GeM GMV by the end of FY23; Higher than stated revenue and operating guidance; Offline payments contributing 20-25% of overall payments TPV by the end of FY 2025; International revenue contribution of 25-30% in the next two years; Total transaction processing volume guidance of $100 billion by the end of FY24, with 25% expected from CCAvenue TapPay; TPV doubling year-on-year, with guidance of $100 billion by 2024; EBITDA of INR 170-190 crore and PAT of INR 110-125 crore.",
+            "citations": [
+              "c4d13f364dafb51fe109d95f918dc9c0",
+              "9980066bbac741df59c012e27b2444a8",
+              "8dc2b92341f89e684271c6270dd696e7",
+              "b311c0c11a96935725a094607813aa36",
+              "792361d79e969215fd8134c81d9b60f6",
+              "12f0e06bfcceead837e5f38b4b6f7d60",
+              "7f9cd754f16c855541715234dbb26745",
+              "78ba99242d9286e416abe13237ec7cc3",
+              "a8c83eb5e70b23d56e320c3b67f6bbe7",
+              "ac0591c08b3d97f3a453b8e14e082cbe",
+              "1fbcd8bdbc88096e60b0de31adaa525a"
+            ]
+          },
+          "actual_results": {
+            "['Q4', '2023']": {
+              "answer": "In Q4 FY23, gross revenue increased by 84% YoY to INR 608 crore and by 53% YoY for the full FY23 to INR 1787 crore. TPV reached INR 1,34,422 crore (63% YoY increase) in Q4 FY23 and INR 3,98,054 crore (55% YoY increase) for FY23. Net revenue was INR 80 crore (27% YoY increase) in Q4 FY23 and INR 287 crore (28% YoY increase) for FY23. EBITDA increased by 24% YoY to INR 180 crore in FY23 and PAT increased by 63% YoY to INR 136 crore in FY23. Other reports indicate a 52% increase in TPV YoY, and a 77% increase in gross revenue YoY in Q4 FY23. A 15% revenue increase was also reported in Q4 FY23.",
+              "citations": []
+            },
+            "['Q3', '2023']": {
+              "answer": "In Q3 2023, Infibeam reported Total TPV crossed INR 1 Lac crore (highest ever in any quarter), up 27% YoY. India Payments TPV reached INR 47,452 crore (12% YoY increase). GeM TPV climbed to INR 41,946 crore (48% YoY growth). Bill payments TPV was INR 4,000 crore (34% YoY increase). India Payments Net Take Rate improved to 8.3 bps (70% YoY increase). Total Payments Net Take Rate grew to 8.9 bps (64% YoY increase). Gross Revenue was INR 415 crore (4% YoY increase). Net Revenue was INR 85 crore (21% YoY increase). EBITDA was INR 48 crore (26% YoY increase) and PAT was INR 35 crore (47% YoY increase). Other sources report similar figures, with some variations. For example, one source shows a Q3FY23 TPV of 95,604 crore INR (27% YoY growth), Gross Revenue of 415 crore INR (4% YoY growth), and Net Revenue of 85 crore INR (21% YoY growth). Another source shows India Payments + Software Platforms TPV of 87,398 crore INR (24% YoY growth), Gross Revenue of 366 crore INR (2% YoY growth), and Net Revenue of 73 crore INR (24% YoY growth).",
+              "citations": [
+                "Infibeam's Q3 2023 earnings report",
+                "Other unspecified sources"
+              ]
+            },
+            "['Q1', '2024']": {
+              "answer": "In Q1 FY24, TPV reached INR 1,18,260 crore (+27% YoY). Gross revenue was INR 742 crore (+77% YoY). Payments Net Take Rate was 8.4 bps (+16% YoY). Adjusted EBITDA was INR 56 crore (+31% YoY) and adjusted PAT was INR 32 crore (+40% YoY). CCAvenue International reported an annualized TPV run-rate of INR 24,600 crore for Q1’24.",
+              "citations": []
+            },
+            "['Q2', '2023']": {
+              "answer": "TPV crossed INR 1 lac crore in a quarter for the first time. India Payments TPV grew 18% YoY to INR 45,364 crore in Q2 FY23. Net take rate for India Payments increased 51% YoY to 7.2 bps. Total payments net take rate increased 41% YoY to 7.5 bps. GeM GMV reached INR 39,840 crore, an 83% YoY increase. Standalone TPV was INR 85,207 crore, gross revenue INR 435 crore, and net revenue INR 70 crore. Consolidated TPV was INR 92,612 crore, gross revenue INR 477 crore, and net revenue INR 79 crore. Consolidated PAT increased 123% in the quarter. India Payments EBITDA was INR 41 crore and PAT was INR 47 crore. Total Payments EBITDA was INR 40 crore and PAT was INR 41 crore. Several mentions of exceeding revenue growth targets (10%, 15%, and 25% increases reported).",
+              "citations": []
+            }
+          },
+          "evaluation": {
+            "evaluation": "Expectations Exceeded",
+            "evaluation_reason": "Q2 2023 results show significant increases in TPV, net take rates, and GeM GMV, exceeding several of the stated targets and demonstrating stronger-than-expected revenue growth."
+          }
+        },
+        {
+          "theme": "Market Position",
+          "narrative": "Management expressed a desire to increase market share in payments, particularly by targeting offline merchants.",
+          "management_guidance": {
+            "answer": "Focus on growing market share in payments by targeting offline merchants.",
+            "citations": [
+              "792361d79e969215fd8134c81d9b60f6"
+            ]
+          },
+          "actual_results": {
+            "['Q4', '2023']": {
+              "answer": "Actual market share data for Q2 2023 is not provided in the given data. However, Q4 2023 data shows a 9% market share of online credit spends and a 7% share of the online debit card market in India.",
+              "citations": []
+            },
+            "['Q3', '2023']": {
+              "answer": "No specific market share data for Q3 2023 is available in the provided data.",
+              "citations": []
+            },
+            "['Q1', '2024']": {
+              "answer": "Q1 FY24 data shows improvements in bill payments market share, increasing by 80 basis points to 11.1%. No specific market share data for Q2 2023 is available in the provided data.",
+              "citations": []
+            },
+            "['Q2', '2023']": {
+              "answer": "No specific market share figures are provided in the actual results data for Q2 2023 that directly address the management guidance. However, data points such as the significant increase in TPV and merchant base indirectly suggest progress towards this goal.",
+              "citations": []
+            }
+          },
+          "evaluation": {
+            "evaluation": "Insufficient Info",
+            "evaluation_reason": "The provided data lacks specific market share figures for Q2 2023, preventing a direct comparison to management's guidance."
+          }
+        },
+        {
+          "theme": "Customer Base Expansion",
+          "narrative": "Infibeam reported significant growth in its merchant base and outlined ambitious plans for further expansion, particularly through CCAvenue TapPay.  They highlighted daily merchant additions and provided specific targets for terminal deployments and merchant acquisition across India and international markets.",
+          "management_guidance": {
+            "answer": "Growth of merchant base to over 10 million in the next two years; Reaching 1 lakh terminals by the end of FY23 and 1 million merchants by the end of FY24 for CCAvenue TapPay; Activating almost 100,000 terminals by the end of the year and reaching millions of merchants globally; Adding tens of thousands of merchants internationally with TapPay; Onboarding more than 8,000 merchants daily; Deployment across at least 100,000 terminals this year and scaling to one million or more next year.",
+            "citations": [
+              "8dc2b92341f89e684271c6270dd696e7",
+              "92c4ecf45ebc0ae5416a2186d8e10f9d",
+              "4897e37f3adb4fb3c3194fed4486ac03",
+              "0262d0b6616128505f30efa320a1a140",
+              "5926b54584a2c1355f9a10f9d50f1a42",
+              "9a2060707ed972b7f6c8879ba16e0827",
+              "1fbcd8bdbc88096e60b0de31adaa525a"
+            ]
+          },
+          "actual_results": {
+            "['Q4', '2023']": {
+              "answer": "In FY23, 3.5 million merchants were added (approximately 9,500 daily), bringing the total to 9.2 million. In Q4 FY23, 500 new merchants were added. CCAvenue Omnichannel Payment Solution had 150,000+ downloads in six months of FY23.",
+              "citations": []
+            },
+            "['Q3', '2023']": {
+              "answer": "In Q3 2023, a record 1.1 million merchants were added (11,700 daily average). The payment gateway business saw a 385% year-over-year growth in the number of merchants. One source indicates 8.4 million merchants overall, a 72% year-over-year increase. Approximately 50,000-100,000 TapPay installations were completed.",
+              "citations": [
+                "Infibeam's Q3 2023 earnings report",
+                "Other unspecified sources"
+              ]
+            },
+            "['Q1', '2024']": {
+              "answer": "In Q1 FY24, the merchant base reached 10 million. CCAvenue TapPay crossed 300,000 downloads by the end of Q1 FY24 (significantly exceeding initial expectations of 150,000 downloads in FY23). The company added an average of 9,500 merchants daily.",
+              "citations": []
+            },
+            "['Q2', '2023']": {
+              "answer": "The number of merchants increased 77% YoY to 7.3 million in Q2 FY23. TapPay deployed across 15,000+ terminals. The daily addition of more than 8,000 merchants was mentioned.",
+              "citations": []
+            }
+          },
+          "evaluation": {
+            "evaluation": "Expectations Not Met",
+            "evaluation_reason": "While merchant growth was substantial (77% YoY), the number of TapPay terminals deployed (15,000+) fell significantly short of the year's target."
+          }
+        },
+        {
+          "theme": "Operational Efficiency",
+          "narrative": "While not explicitly stated, the scalability targets and expansion plans suggest a focus on improving operational efficiency to support rapid growth.",
+          "management_guidance": {
+            "answer": "Deployment of CCAvenue TapPay across at least 100,000 implementations by this year and scaling to one million or more next year.",
+            "citations": [
+              "1fbcd8bdbc88096e60b0de31adaa525a"
+            ]
+          },
+          "actual_results": {
+            "['Q4', '2023']": {
+              "answer": "Specific data on operational efficiency improvements in Q2 2023 is unavailable in the provided data. However, a 25% reduction in operational costs was reported in Q4 FY23.",
+              "citations": []
+            },
+            "['Q3', '2023']": {
+              "answer": "Specific data on operational efficiency improvements in Q3 2023 is not directly provided. However, the significant merchant additions and reported growth suggest some level of operational efficiency was achieved to support this expansion.",
+              "citations": [
+                "Infibeam's Q3 2023 earnings report"
+              ]
+            },
+            "['Q1', '2024']": {
+              "answer": "While direct evidence of improved operational efficiency isn't provided for Q2 2023, the significant growth in merchant base and TapPay downloads, without explicit mention of operational issues, suggests some degree of operational efficiency gains. Further, Q1 FY24 data shows a 10% reduction in operational costs during the previous year.",
+              "citations": []
+            },
+            "['Q2', '2023']": {
+              "answer": "15,000+ TapPay terminals deployed. While this is a substantial number, it falls short of the stated guidance for the year. Further information on operational efficiency improvements is not directly available in the provided data.",
+              "citations": []
+            }
+          },
+          "evaluation": {
+            "evaluation": "Expectations Not Met",
+            "evaluation_reason": "The deployment of only 15,000+ TapPay terminals in Q2 2023, significantly below the implied operational efficiency needed to meet the stated targets for the year, indicates a failure to meet expectations."
+          }
+        }
+      ]
+    },
+    "['Q3', '2023']": {
+      "themes": [
+        {
+          "theme": "Financial Performance",
+          "narrative": "Management provided substantial forward-looking guidance on revenue and profitability.  Specific targets were set for Transaction Processing Value (TPV) and Gross Revenue, reflecting ambitious growth projections.  There's also commentary on the intention to increase net take rates in the payments business.",
+          "management_guidance": {
+            "answer": "TPV target of INR 4.0 lac crore for FY23 (37% YoY increase), Gross Revenue INR 1,600-1,700 crore (24-31% YoY increase), EBITDA INR 170-190 crore (17-31% YoY growth), PAT INR 110-125 crore (31-49% YoY increase), double-digit net take rates by FY2025, 15% revenue growth by end of next fiscal year, 20-30% of revenues from international growth in next two years, TPV target of INR 7.0-7.5 lac crore run-rate in FY25, GeM TPV target of INR 2 lac crore ($24 bn) for FY23 (double FY22), GeM order value to double by end of FY23, 15% increase in digital payment transactions by end of this fiscal year, TPV numbers closer to 4 lakh Crores for FY23, TPV target of Rs.7.5 lakh Crore for FY2025, Payments TPV to reach approximately 4 lakh Crores in the next two years.",
+            "citations": [
+              "995dcc5760faea504062a5b6527b486f",
+              "597af3d3c05003d6efcf6a655ac8618d",
+              "1bffcb7c9a0d881bc57b264963bdce88",
+              "3a52094ffd72cc677b6eee926cf29134",
+              "956f72d621665fc123bfa5e2af92c770",
+              "b0504b24f88d84a6b12a2dad021f165d",
+              "3fb159775602b254962e36276595af7d",
+              "794163040289e805ff693d88cf8890e7",
+              "e4c66e4231bd82aaaf8845e322c1623f",
+              "5899ae368ce208602a63256c130f4c03",
+              "3a52094ffd72cc677b6eee926cf29134",
+              "b5889710936c24d7b58d110fe48583cf"
+            ]
+          },
+          "actual_results": {
+            "['Q2', '2024']": {
+              "answer": "In Q2 FY24, Infibeam exceeded expectations. TPV reached INR 1,785 billion; Payments TPV increased to INR 769 billion (from INR 602 billion), and Platforms TPV rose to INR 1,016 billion (from INR 398 billion). Payments Gross Revenue was INR 7,384 million (up from INR 4,343 million), and Payments Net Revenue increased to INR 611 million (from INR 393 million). Gross Revenue reached INR 7,899 million, and Net Revenue exceeded INR 1 billion. EBITDA and PAT grew sharply by 70% and 191% respectively. The payment net take rate increased to 9.3 basis points (up 25% year-over-year).",
+              "citations": [
+                "332fe145be1e04261326f9eb7a806d13",
+                "b831d83702f0ff472fcd24b05a90565b",
+                "e383c6527eb8e73ce5b8b1dd864140d9"
+              ]
+            },
+            "['Q1', '2024']": {
+              "answer": "In Q1 FY24, Infibeam reported Gross Revenue of INR 742 crore (a 77% YoY increase). TPV reached INR 1,18,260 crore. Payments TPV was INR 65,024 crore, and Platform TPV (GeM GMV) was INR 53,236 crore. Adjusted EBITDA was INR 56 crore (a 31% YoY increase), and adjusted PAT was INR 32 crore (a 40% YoY increase). The Payments Net Take Rate was 8.4 bps (a 16% YoY increase).",
+              "citations": [
+                "e6e19787df7b6dd68df238694e4ea20f",
+                "5aced67857f596b3c2976ce17843b615",
+                "2d5b2336c323a03137b1d08e116a552a",
+                "c689fba167e3ada8380e678d3c48460c"
+              ]
+            },
+            "['Q4', '2023']": {
+              "answer": "In Q4 FY23, Infibeam reported Gross Revenue of INR 1,962 crore (52% YoY increase) and a Transaction Processing Value (TPV) of INR 4,44,681 crore (52% YoY increase). Profit After Tax (PAT) reached INR 136 crore (63% YoY increase), and EBITDA reached INR 180 crore (24% YoY increase). These figures significantly exceeded the Q3 2023 management guidance for FY23.",
+              "citations": [
+                "b2daa848b44ecac74e5576116da84cc2",
+                "a8c74f4e5faa866ec32b352e5df79ab9",
+                "4a4f38d82f6eeb43400bd4d3979d677e",
+                "c39988ab351329a4e97f25c3ccb99830"
+              ]
+            },
+            "['Q3', '2023']": {
+              "answer": "TPV achieved 95,604 crore INR in Q3FY23 (27% YoY increase). India Payments TPV reached INR 47,452 crore (12% YoY increase). GeM TPV climbed to INR 41,946 crore (48% YoY growth). Total TPV crossed INR 1 Lac crore, highest ever in any quarter, up 27% YoY. GeM TPV crossed INR 1.5 Lac crore by the end of January. Bill payments TPV of INR 4,000 crore (34% YoY increase). Gross Revenue was 415 INR crore (4% YoY increase). Net Revenue (NR) was 85 INR crore (21% YoY increase). EBITDA was 48 INR crore (26% YoY increase). PAT was 35 INR crore (47% YoY increase). India Payments Net Take Rate improved to 8.3 bps from 4.9 bps (70% YoY increase). Total Payments Net Take Rate grew to 8.9 bps from 5.5 bps (64% YoY increase).",
+              "citations": [
+                "029e5aad3904e62a57a348a7a1db9695",
+                "b2d3c3dea69c7b22d7f2740037b141bb",
+                "2e7e835db5afaf72b754af981d10f9dc",
+                "d9e3bae8dcf52051703d7696074a83dc",
+                "794163040289e805ff693d88cf8890e7",
+                "f9c1565e35f76a7f388ff7f74b43411f"
+              ]
+            }
+          },
+          "evaluation": {
+            "evaluation": "Expectations Not Met",
+            "evaluation_reason": "While some metrics like PAT showed strong YoY growth exceeding expectations, key targets such as Gross Revenue and TPV for the full fiscal year were significantly below the management's ambitious projections based on Q3 performance alone."
+          }
+        },
+        {
+          "theme": "Market Position",
+          "narrative": "Infibeam aims to significantly increase its market share, driven by their competitive advantages and customer focus.  There's also detailed commentary regarding customer base expansion.",
+          "management_guidance": {
+            "answer": "Increase market share by 5% by the end of 2023, reaching at least 10% to 15% market share on the consumer-to-merchant side.",
+            "citations": [
+              "fb77b7d850b8629312c56f9a25e06ea9",
+              "95779d5303d1b64842e357a635f18efd"
+            ]
+          },
+          "actual_results": {
+            "['Q2', '2024']": {
+              "answer": "Actual market share data for Q2 FY24 is not explicitly provided in the given data.",
+              "citations": []
+            },
+            "['Q1', '2024']": {
+              "answer": "Actual market share data for Q1 FY24 is not explicitly provided in the given data.",
+              "citations": []
+            },
+            "['Q4', '2023']": {
+              "answer": "Specific data on market share for Q4 FY23 is not directly provided in the data. However, the substantial growth in TPV and gross revenue strongly suggests progress toward the stated goal. While exact market share figures are missing, the reported growth implies a positive impact on market position.",
+              "citations": []
+            },
+            "['Q3', '2023']": {
+              "answer": "No specific data on market share is provided in the actual results. However, a 90% market share among billers is mentioned, but this doesn't directly address the management's guidance for consumer-to-merchant market share.",
+              "citations": [
+                "f9c1565e35f76a7f388ff7f74b43411f"
+              ]
+            }
+          },
+          "evaluation": {
+            "evaluation": "Insufficient Info",
+            "evaluation_reason": "The Q3 2023 results lack the necessary data on consumer-to-merchant market share to assess whether Infibeam met its stated market share goals."
+          }
+        },
+        {
+          "theme": "Customer Base Expansion",
+          "narrative": "Infibeam reported strong merchant onboarding numbers in Q3 and provided ambitious targets for future merchant acquisition.",
+          "management_guidance": {
+            "answer": "Onboarding 10,000 new merchants over the next two quarters, reaching 10 million merchants, achieving 100,000 merchants by the end of FY2023 and 1 million by the end of 2024.",
+            "citations": [
+              "e4c66e4231bd82aaaf8845e322c1623f",
+              "b0504b24f88d84a6b12a2dad021f165d",
+              "8d5b9a4162c2acc8d886d94a49e72e23"
+            ]
+          },
+          "actual_results": {
+            "['Q2', '2024']": {
+              "answer": "In the first half of FY24, Infibeam onboarded close to 1 million merchants (over 3,500 fully KYC merchants daily). The total number of merchants using the CCAvenue platform reached 2.7 million, with an additional 0.27 million added in Q2 FY24.",
+              "citations": [
+                "76e8bce2ce84a3a94cc4069edc2d0b95",
+                "e383c6527eb8e73ce5b8b1dd864140d9"
+              ]
+            },
+            "['Q1', '2024']": {
+              "answer": "In Q1 FY24, Infibeam reported having reached 10 million merchants.",
+              "citations": [
+                "0ffdae94dd182c8ebf89f47523000bb7",
+                "390605f5732c7923b12261c9725a242d"
+              ]
+            },
+            "['Q4', '2023']": {
+              "answer": "In FY23, Infibeam added 3.5 million merchants. This significantly exceeds the guidance provided for the end of FY2023.",
+              "citations": [
+                "24021d68c23d729e9fe6f1783b9c38e2"
+              ]
+            },
+            "['Q3', '2023']": {
+              "answer": "A record 1.1 million merchants were added in Q3 across all offerings, reaching 8.4 million merchants. In the payment gateway business alone, more than 0.5 million merchants were onboarded in Q3. The number of merchants in the payment gateway business grew by 385% year-over-year in Q3.",
+              "citations": [
+                "794163040289e805ff693d88cf8890e7",
+                "d2059a7aadc71cfd3c104870ef99b37c",
+                "936308ebe20bbbdd71989f8b95be5654"
+              ]
+            }
+          },
+          "evaluation": {
+            "evaluation": "Expectations Exceeded",
+            "evaluation_reason": "Infibeam significantly exceeded its Q3 merchant onboarding targets, adding far more merchants than the guidance suggested for the entire quarter."
+          }
+        },
+        {
+          "theme": "Technological Innovation",
+          "narrative": "Management discussed product development timelines and technology adoption rates.  There is mention of deploying an omni-channel payment solution.",
+          "management_guidance": {
+            "answer": "Deploying omni-channel payment solution across more than a million devices by the end of FY2024.",
+            "citations": [
+              "3cd1c3fb37523e0363dea454d4908fc5"
+            ]
+          },
+          "actual_results": {
+            "['Q2', '2024']": {
+              "answer": "Actual deployment figures for the omni-channel payment solution in Q2 FY24 are not provided in the available data.",
+              "citations": []
+            },
+            "['Q1', '2024']": {
+              "answer": "By the end of Q1 FY24, the CCAvenue omni-channel payment solution had over 300,000 downloads.",
+              "citations": [
+                "fe8c5de144d54bfa725309a40a41e145"
+              ]
+            },
+            "['Q4', '2023']": {
+              "answer": "The provided data does not contain information on the actual deployment of the omni-channel payment solution across devices in Q4 FY23.",
+              "citations": []
+            },
+            "['Q3', '2023']": {
+              "answer": "Infibeam processed digital Rupee transactions for online retail payments, a claimed industry first. They are also the only ones certified with pin-on-glass for transactions above 5000.",
+              "citations": [
+                "3cd1c3fb37523e0363dea454d4908fc5",
+                "e6b3be0558b3585fd4587df810cd4eb2"
+              ]
+            }
+          },
+          "evaluation": {
+            "evaluation": "Expectations Not Met",
+            "evaluation_reason": "While the Q3 results highlight significant technological advancements, they don't provide data on the deployment of the omni-channel payment solution, a key part of the management's guidance.  Therefore, a partial fulfillment of expectations is assessed."
+          }
+        },
+        {
+          "theme": "Regulatory Environment",
+          "narrative": "The company is aware of and responding to government initiatives, such as increased funding for digital initiatives.",
+          "management_guidance": {
+            "answer": "Anticipating receipt of a share of increased government funding in Q4 or Q1 of the next financial year.",
+            "citations": [
+              "ef3fc8b9528343bc980c3112dc009327"
+            ]
+          },
+          "actual_results": {
+            "['Q2', '2024']": {
+              "answer": "No specific information on the receipt of government funding is available in the provided Q2 FY24 data.",
+              "citations": []
+            },
+            "['Q1', '2024']": {
+              "answer": "No information on actual receipt of government funding is available in the provided data.",
+              "citations": []
+            },
+            "['Q4', '2023']": {
+              "answer": "The provided data does not offer specifics on whether Infibeam received any government funding in Q4 FY23.",
+              "citations": []
+            },
+            "['Q3', '2023']": {
+              "answer": "The government increased funding for digital initiatives by two times to Rs.2137 Crores. No specific information about Infibeam's receipt of funding is available.",
+              "citations": [
+                "ef3fc8b9528343bc980c3112dc009327"
+              ]
+            }
+          },
+          "evaluation": {
+            "evaluation": "Insufficient Info",
+            "evaluation_reason": "The Q3 results don't provide data on whether Infibeam received any government funding, making it impossible to assess whether management's expectation was met."
+          }
+        },
+        {
+          "theme": "Strategic Partnerships",
+          "narrative": "Infibeam is working on strategic partnerships, with an update expected in the coming quarters.",
+          "management_guidance": {
+            "answer": "Update on Trust Avenue partnership expected in Q1 or Q2 of next year.",
+            "citations": [
+              "be98007558c39c60288174422cda1579"
+            ]
+          },
+          "actual_results": {
+            "['Q2', '2024']": {
+              "answer": "No update on the Trust Avenue partnership is mentioned in the Q2 FY24 data.",
+              "citations": []
+            },
+            "['Q1', '2024']": {
+              "answer": "No update on the Trust Avenue partnership is provided in the data for Q1 FY24.",
+              "citations": []
+            },
+            "['Q4', '2023']": {
+              "answer": "There's no information in the provided data regarding the Trust Avenue partnership update in Q4 FY23.",
+              "citations": []
+            },
+            "['Q3', '2023']": {
+              "answer": "Infibeam Avenues invested Rs.16 Crores in Go Payments, increasing its stake to 54.80% from 52.38%. No specific update on the Trust Avenue partnership is provided.",
+              "citations": [
+                "b4ccd688563534ab7ba604114044df5a"
+              ]
+            }
+          },
+          "evaluation": {
+            "evaluation": "Insufficient Info",
+            "evaluation_reason": "The Q3 results do not provide an update on the Trust Avenue partnership, so it's impossible to judge its progress against management's expectations."
+          }
+        },
+        {
+          "theme": "Operational Efficiency",
+          "narrative": "The company plans to reduce operating costs through efficiency improvements.  There is also mention of geographic expansion.",
+          "management_guidance": {
+            "answer": "Reduce operating costs by 10% in the next quarter, scaling operations in Saudi Arabia from the next financial year.",
+            "citations": [
+              "fb77b7d850b8629312c56f9a25e06ea9",
+              "b4ccd688563534ab7ba604114044df5a"
+            ]
+          },
+          "actual_results": {
+            "['Q2', '2024']": {
+              "answer": "In Q2 FY24, operational costs were reduced by 10% in the last quarter. There is no information on Saudi Arabia expansion in the provided data.",
+              "citations": [
+                "d35889a9aadc14a2aa5c5f6237785ac8"
+              ]
+            },
+            "['Q1', '2024']": {
+              "answer": "In the past year, Infibeam reduced operational costs by 10%.",
+              "citations": [
+                "e65593265e044da214cdd8413e95451b"
+              ]
+            },
+            "['Q4', '2023']": {
+              "answer": "The provided data does not contain information on operating cost reduction or Saudi Arabia expansion in Q4 FY23.",
+              "citations": []
+            },
+            "['Q3', '2023']": {
+              "answer": "Operational costs were reduced by 8% last fiscal year. No data on Saudi Arabia expansion is available.",
+              "citations": [
+                "b3919a3654d8e88c997868ffcefdf4a5",
+                "2a30305a25bdaf3af39725e879e735b8"
+              ]
+            }
+          },
+          "evaluation": {
+            "evaluation": "Expectations Not Met",
+            "evaluation_reason": "The 8% reduction in operational costs falls short of the 10% target set by management for the next quarter; also, no information on Saudi Arabia expansion was provided."
+          }
+        }
+      ]
+    },
+    "['Q2', '2022']": {
+      "themes": [
+        {
+          "theme": "Financial Performance",
+          "narrative": "Management projects significant revenue growth, with ambitious targets for GMV (INR 2 trillion in FY23), TPV annualized run-rate ($40 billion accelerating to $100 billion), and secured lending ($1 billion annualized run-rate by end of FY22, $5 billion mid-term target).  Q2 2022 showed positive EBITDA trends (25% QoQ, 19% YoY). However, no specific future margin guidance is provided.",
+          "management_guidance": {
+            "answer": "Ambitious revenue growth targets are projected, along with positive EBITDA trends.  However, specific margin guidance is lacking.",
+            "citations": [
+              "715cf79cd0027a3ffc4607b697379f14",
+              "c16921dbb183c7e9c7fd2dd836b7e5e8",
+              "972d794e59aee08cc59c43d7a24f310f",
+              "91c1365d4be3926be8efd377f762a61e",
+              "78c91d1b3c2ac2b41f73dc6fae71c169",
+              "0b716e4721e898604ee11414217324d3",
+              "56c896328a3844ea0b66d5a2422b6976"
+            ]
+          },
+          "actual_results": {
+            "['Q1', '2023']": {
+              "answer": "In Q1 2023, Infibeam reported a Total Processing Value (TPV) of INR 87,218 crore ($11.6 billion). Gross revenue reached INR 418 crore, with net revenue (NR) at INR 74 crore. EBITDA was INR 43 crore, representing a 57% margin on net revenue. The net take rate was 6.9 basis points. Various sources indicated strong year-on-year growth in TPV across different segments, including a 51% increase in India Payments TPV and a 100% increase in GeM GMV.",
+              "citations": [
+                "a6f7515378487e941d53eb6c0ca6d9f1",
+                "c81567580e0aedf4f3dbade89ce5e3a6",
+                "83bfb62e4ccf5b9941706493d1d72c6a"
+              ]
+            },
+            "['Q2', '2022']": {
+              "answer": "In Q2 2022, TPV was up 111% YoY, reaching an annualized run-rate of $40 billion. Payments TPV increased 80% YoY and 32% QoQ. GeM GMV grew over 3x YoY. Secured lending saw a 3x QoQ increase, reaching $156 million. Bill Payments volume grew >5x YoY and 77% QoQ, with an annualized run-rate of 90 million bills. Total TPV was INR 64,300 crore ($8.7 billion), a 27% QoQ and 111% YoY increase. Gross revenue was INR 311 crore ($42 million), a 44% QoQ and 109% YoY increase. Net revenue was INR 61 crore ($8.3 million), a 17% QoQ increase and 10% YoY increase. EBITDA was INR 34 crore ($4.7 million), up 23% QoQ. Net take rate was 6.0 bps (down from 6.6 bps in Q1 2022). PAT was $2.4 million, up 33% QoQ and 53% YoY.",
+              "citations": [
+                "456c7c0a9a93bef32b69d0568ab8eca0",
+                "c0f5137829049eea627684720bc40751",
+                "c16921dbb183c7e9c7fd2dd836b7e5e8",
+                "78c91d1b3c2ac2b41f73dc6fae71c169",
+                "0b716e4721e898604ee11414217324d3",
+                "72dfba9df904f203c3d67d5462009124",
+                "e57701d3883cffadd6a12d03b224cb8e"
+              ]
+            },
+            "['Q3', '2022']": {
+              "answer": "In Q3 2022, revenue increased by 15% YoY and 14% QoQ, reaching INR 70 crore. Transaction net revenue was INR 46 crore (up 19% QoQ and 22% YoY). Total TPV increased by 90% YoY, reaching a December 2021-based annualized total TPV run-rate of ~$41 billion (exceeding the $40 billion guidance). Secured lending reached INR 1,300 crore ($175 million), with an annualized run-rate exceeding $700 million (more than 3x the guidance). EBITDA increased by 10% QoQ. Profit After Tax increased by 35% QoQ and 89% YoY, reaching INR 24 crore. The company achieved a total TPV of INR 75,430 crore ($10 billion).",
+              "citations": [
+                "62eda584b7c873b7250e19492955da0e",
+                "3b7fdacaf46c7892dfcf92ef1c9c3374",
+                "62af5eb83efecfeee505840b57a96cf7",
+                "694a47964be9eb031773402c274e3174",
+                "fe152343e24c12752b29d5bd0611d8ee"
+              ]
+            },
+            "['Q4', '2022']": {
+              "answer": "In Q4 2022, TPV reached INR 3.7 lakh crore ($49 billion) annualized run-rate. Gross revenue was INR 369 crore (84% YoY increase, 7% QoQ decrease). Net revenue was INR 76 crore (15% YoY increase). EBITDA reached INR 45 crore (21% YoY increase). PAT was INR 28 crore (11% YoY decrease). Lending operations had an annualized run-rate of approximately $800 million.",
+              "citations": [
+                "476ff7af3210ba107b6d4ffa7be052ad",
+                "13904bf36ca603325c27f3fa6e8c6888",
+                "0d8c236b7739d456c3dcdf536eaecc87",
+                "9f4b374f442425c771c3f24d35026480",
+                "26d72656abe3318a9ff890133a8ad569"
+              ]
+            }
+          },
+          "evaluation": {
+            "evaluation": "Expectations Exceeded",
+            "evaluation_reason": "While specific margin guidance was absent, Q2 2022 results significantly exceeded expectations in terms of TPV, revenue growth, and secured lending growth, surpassing the ambitious targets set in the narrative."
+          }
+        },
+        {
+          "theme": "Market Position",
+          "narrative": "The company anticipates market share expansion (3% increase over two years) within a growing digital payments market projected to reach $3 trillion in five years.  Global expansion is planned, targeting 10+ countries in 2-3 years using a \"Country-in-a-box\" strategy.",
+          "management_guidance": {
+            "answer": "Market share expansion is anticipated, along with global expansion plans targeting 10+ countries in 2-3 years.",
+            "citations": [
+              "d24f016e11796e39d6e8820c2b187a91",
+              "4154031e7e5436378c8978b33410d8c2",
+              "84da3f2f8d7e57dfb026b96c513ea170",
+              "2594d702487eee396212a3c3daa5ed42",
+              "e4d9903c99b869b474cb184ed29ed193"
+            ]
+          },
+          "actual_results": {
+            "['Q1', '2023']": {
+              "answer": "No specific Q1 2023 data directly addresses market share expansion or progress on global expansion plans from the provided data.",
+              "citations": []
+            },
+            "['Q2', '2022']": {
+              "answer": "Infibeam reported being the second-largest non-bank private player in the UAE payments market (achieved within 18 months of market entry in June 2018), and having secured 90%+ of Oman's online card volume and 94% market share of BBPS billers.",
+              "citations": [
+                "b8b3cc04a457ca910af9d963eee66406",
+                "84da3f2f8d7e57dfb026b96c513ea170",
+                "3064785dcb14c4e86cc1e3d8f549fcca",
+                "fa0bd37c8b1558c591d84ba54ffa9c24"
+              ]
+            },
+            "['Q3', '2022']": {
+              "answer": "Specific Q3 2022 market share data is not explicitly provided. However, in the UAE, Infibeam was the second-largest non-bank private player within 18 months of market entry. In Oman, they secured over 90% market share of online card volume and 94% market share of BBPS billers. The company also had the largest e-commerce implementation with an estimated $100 billion annual GMV and over 10 million sellers.",
+              "citations": [
+                "372326996d13a73b61028cb46ac90add",
+                "ae01b45ca3a302293dd800d96008d6cd",
+                "ef621aa02c537f2c36b4f609f0539d73",
+                "7797f46ef456b8104a33150cbfd513c6"
+              ]
+            },
+            "['Q4', '2022']": {
+              "answer": "In Q4 2022, Infibeam held approximately 8% market share in India (excluding UPI), ranked among the top three B2B online payment gateways in India and among the top two non-bank private payment companies in the UAE. They onboarded over 5 million merchants.",
+              "citations": [
+                "476ff7af3210ba107b6d4ffa7be052ad",
+                "ef8e96531afecf41059c1cadaa6c364c",
+                "b4b137ce6f5e08ea4e13b50a8783413c"
+              ]
+            }
+          },
+          "evaluation": {
+            "evaluation": "Expectations Met",
+            "evaluation_reason": "The Q2 2022 results demonstrate significant market share gains in the UAE and Oman, aligning with the management's guidance of market share expansion, although no global expansion progress is explicitly mentioned for this quarter."
+          }
+        },
+        {
+          "theme": "Technological Innovation",
+          "narrative": "Infibeam is developing an AI-based credit platform (development ongoing, projected launch before December 2021).",
+          "management_guidance": {
+            "answer": "Development of an AI-based credit platform is ongoing.",
+            "citations": [
+              "c16921dbb183c7e9c7fd2dd836b7e5e8"
+            ]
+          },
+          "actual_results": {
+            "['Q1', '2023']": {
+              "answer": "There is no information in the provided data regarding the launch or progress of the AI-based credit platform in Q1 2023.",
+              "citations": []
+            },
+            "['Q2', '2022']": {
+              "answer": "No specific Q2 2022 results on the AI-based credit platform's development are provided in the data.",
+              "citations": []
+            },
+            "['Q3', '2022']": {
+              "answer": "In Q3 2022, the credit service platform was reported as technically launched in December, awaiting the official launch date.",
+              "citations": [
+                "f8ca09d643676305d036df1b6fe5a8fe"
+              ]
+            },
+            "['Q4', '2022']": {
+              "answer": "No specific actual results regarding the AI-based credit platform are provided in the Q4 2022 data.",
+              "citations": []
+            }
+          },
+          "evaluation": {
+            "evaluation": "Insufficient Info",
+            "evaluation_reason": "The provided data for Q2 2022 lacks information on the progress of the AI-based credit platform's development."
+          }
+        },
+        {
+          "theme": "Strategic Partnerships",
+          "narrative": "Investments are being made to enable credit/lending through NBFCs, starting Q1 2022, with an expected launch in Q4 2022.",
+          "management_guidance": {
+            "answer": "Investments are being made to enable credit/lending through NBFCs, with an expected launch in Q4 2022.",
+            "citations": [
+              "0b716e4721e898604ee11414217324d3"
+            ]
+          },
+          "actual_results": {
+            "['Q1', '2023']": {
+              "answer": "No Q1 2023 data is available to assess the success or progress of this partnership initiative.",
+              "citations": []
+            },
+            "['Q2', '2022']": {
+              "answer": "No specific Q2 2022 results related to partnerships for credit/lending are provided in the data.",
+              "citations": []
+            },
+            "['Q3', '2022']": {
+              "answer": "No specific Q3 2022 results related to this partnership are provided in the data.",
+              "citations": []
+            },
+            "['Q4', '2022']": {
+              "answer": "No specific actual results regarding partnerships with NBFCs for credit/lending are provided in the Q4 2022 data.",
+              "citations": []
+            }
+          },
+          "evaluation": {
+            "evaluation": "Insufficient Info",
+            "evaluation_reason": "The Q2 2022 data does not contain information about the progress of partnerships for credit/lending."
+          }
+        },
+        {
+          "theme": "Operational Efficiency",
+          "narrative": "The company plans to reduce operating costs by 5% by the end of Q3 2022.",
+          "management_guidance": {
+            "answer": "A 5% reduction in operating costs is planned by the end of Q3 2022.",
+            "citations": [
+              "d24f016e11796e39d6e8820c2b187a91"
+            ]
+          },
+          "actual_results": {
+            "['Q1', '2023']": {
+              "answer": "While Q1 2023 data shows various mentions of cost reduction initiatives and improved margins, no specific metric related to the 5% cost reduction target is provided.",
+              "citations": [
+                "993e1e299beab9da191a1ea30c8192a0",
+                "110d2c96f492f1237ce8519914efbfa2",
+                "06f40f25803a8f63ae99f4ee4664c72f",
+                "f01454be6e2676e2d704c83347fdb3d7"
+              ]
+            },
+            "['Q2', '2022']": {
+              "answer": "No specific Q2 2022 results on cost reduction are provided in the data.",
+              "citations": []
+            },
+            "['Q3', '2022']": {
+              "answer": "No specific Q3 2022 data on operating cost reduction is available in the provided information.",
+              "citations": []
+            },
+            "['Q4', '2022']": {
+              "answer": "In Q4 2022, management reported an 8% reduction in operational costs in the last fiscal quarter.",
+              "citations": [
+                "768caaa992bb5882e4cc9c5d7979141b"
+              ]
+            }
+          },
+          "evaluation": {
+            "evaluation": "Insufficient Info",
+            "evaluation_reason": "The provided data for Q2 2022 does not include any information about cost reduction initiatives."
+          }
+        }
+      ]
+    },
+    "['Q3', '2022']": {
+      "themes": [
+        {
+          "theme": "Revenue Growth and Financial Targets",
+          "narrative": "Management highlighted significant progress towards ambitious financial targets, particularly concerning Total Payment Volume (TPV).  They emphasized the scaling of new businesses as a key driver of future Net Revenue and operating margin increases.  Specific targets included a $100 billion TPV within three to five years and a $1 billion annualized run-rate by the end of FY22.  Strong YoY growth in GeM GMV was also noted, with targets of INR 1 trillion for FY22 and INR 2 trillion for FY23.  The expansion of lending services was identified as a major contributor to future revenue and margin growth.  The company also expects increased contributions to revenue from lending over the next 3-5 years.  A mid-term (3 years) target of $5 billion in annual lending was also mentioned.",
+          "management_guidance": {
+            "answer": "Multiple citations support the aggressive revenue growth projections.",
+            "citations": [
+              "62eda584b7c873b7250e19492955da0e",
+              "62af5eb83efecfeee505840b57a96cf7",
+              "1ae84b2319c50fc07cf756f49faf0221",
+              "d15deacdb0ef1cf69eefef25c32e80cb",
+              "c371ecbe20facc86541200909f46393c",
+              "f4f1f22879bff8890e7c712b0cb7125b",
+              "995ba13d1bb8097911b6f3837ce4b8c6",
+              "aa6adc0aeb93d3d0135969d38bbd31c1",
+              "a29bd898977d3de9e60e829460afcaa0",
+              "ba853500c87bec52e1ce23cdb932bc84",
+              "da330803d6f88c0ce87b778d55b11784",
+              "95914e63e43857273f366e7afa49c176",
+              "cfb02235e8808862f41f11b0cf099111",
+              "11390b65fc57ff37fc393b98f6b604d8",
+              "f8ca09d643676305d036df1b6fe5a8fe"
+            ]
+          },
+          "actual_results": {
+            "['Q1', '2023']": {
+              "answer": "In Q1 2023, TPV reached INR 87,218 crore ($11.6 billion). GeM GMV was INR 36,300 crore.  Significant YoY growth in TPV across various segments was observed. Specific data on lending revenue is not readily available.",
+              "citations": [
+                "a6f7515378487e941d53eb6c0ca6d9f1",
+                "83bfb62e4ccf5b9941706493d1d72c6a",
+                "7ebdaffe2b58e7c141421d2dd3200b7a",
+                "b38e83532eb33461c5319b643b59b1c0"
+              ]
+            },
+            "['Q2', '2023']": {
+              "answer": "In Q2 FY23, TPV crossed INR 1 lac crore for the first time. India Payments TPV grew 18% YoY to INR 45,364 crore. GeM GMV reached INR 39,840 crore, representing an 83% YoY growth. Consolidated Total TPV was INR 92,612 crore. Standalone Net Revenue was INR 70 crore and Consolidated Net Revenue was INR 79 crore.",
+              "citations": [
+                "da6804c58043368bf1989c873ee55cfb",
+                "4ff96924b439faf2745bcc3a3609bd76",
+                "655a8899b76fac3aecb6ac85064bae24"
+              ]
+            },
+            "['Q3', '2022']": {
+              "answer": "In Q3 2022, Infibeam achieved a 15% YoY revenue increase. Total TPV reached $10 billion, and the annualized run-rate exceeded $700 million, significantly exceeding guidance. GeM GMV showed 182% YoY growth. Secured lending reached $175 million.",
+              "citations": [
+                "3b7fdacaf46c7892dfcf92ef1c9c3374",
+                "694a47964be9eb031773402c274e3174",
+                "62af5eb83efecfeee505840b57a96cf7"
+              ]
+            },
+            "['Q4', '2022']": {
+              "answer": "In Q4 2022, Infibeam achieved an annualized TPV run-rate of $49 billion. Bill payments TPV reached INR 10,170 crore, a fourfold increase year-over-year. Lending operations had an annualized run-rate of approximately $800 million. Total TPV for FY22 was INR 2,75,890 crore. Gross revenue for FY22 was INR 1,294 crore. Net revenue for FY22 was INR 259 crore.",
+              "citations": [
+                "476ff7af3210ba107b6d4ffa7be052ad",
+                "13904bf36ca603325c27f3fa6e8c6888",
+                "55ed803db1736db69f1343d1c7c6c4e0",
+                "1c154462b9a19349ce3043ac2a92a5cc",
+                "488418d275f112451bf2b5bbd0760d13",
+                "9f4b374f442425c771c3f24d35026480",
+                "26d72656abe3318a9ff890133a8ad569",
+                "48df34e8a3ea37bea73181d1fb9712f7",
+                "9f4b374f442425c771c3f24d35026480",
+                "26d72656abe3318a9ff890133a8ad569",
+                "5fafee1e0be2ecb37b6cd4f15be568d7",
+                "7705ec219846e387cce2f3682bd65429",
+                "6664b6fc7bdbb253bf0005dad905f650",
+                "74deaf7b3f26a6597450e69d1c85831f",
+                "0d8c236b7739d456c3dcdf536eaecc87",
+                "6adcc680c33f423ca7c0b34cbde7a469",
+                "0d8c236b7739d456c3dcdf536eaecc87",
+                "6664b6fc7bdbb253bf0005dad905f650",
+                "f83b983fd80e58508ddaff3759ca7448"
+              ]
+            }
+          },
+          "evaluation": {
+            "evaluation": "Expectations Exceeded",
+            "evaluation_reason": "Infibeam's Q3 2022 results, particularly the TPV and annualized run-rate, significantly surpassed the ambitious targets outlined in management's guidance."
+          }
+        },
+        {
+          "theme": "Geographical Expansion and Market Share",
+          "narrative": "Infibeam highlighted its strategic expansion into new geographical markets, aiming for a presence in over 10 countries within 2-3 years.  Specific mention was made of expansion plans to the USA and Qatar, building on existing operations in the UAE, Saudi Arabia, and Oman.  In Oman, they reported a 90%+ market share in credit card payments, with expectations of further growth.  The company also discussed plans to further improve its market share in India.",
+          "management_guidance": {
+            "answer": "Citations support the narrative of expansion and market share growth.",
+            "citations": [
+              "3828dcb35be3dd1e5f43aaef2660e732",
+              "6ff386f08eae002a2ff92e47a2a154aa",
+              "7797f46ef456b8104a33150cbfd513c6",
+              "ceef9d6231f5f4cc4083e11836102106"
+            ]
+          },
+          "actual_results": {
+            "['Q1', '2023']": {
+              "answer": "Actual results indicate a 90% market share in Oman for card processing and a high market share for billers in another unspecified location.  No further data on geographical expansion is available.",
+              "citations": [
+                "16b4f1c0ba0eb65ee46d88bfded0d154",
+                "7ebdaffe2b58e7c141421d2dd3200b7a",
+                "b38e83532eb33461c5319b643b59b1c0"
+              ]
+            },
+            "['Q2', '2023']": {
+              "answer": "No specific quantitative results on geographical expansion or market share gains in Q2 FY23 are directly provided in the given data. However, the high TPV numbers suggest success in existing and potentially new markets.",
+              "citations": []
+            },
+            "['Q3', '2022']": {
+              "answer": "In Q3 2022, Infibeam's Oman operations maintained their 90%+ market share in online card processing. Specific data on expansion into the USA and Qatar, or market share improvements in India, is not explicitly provided in the available data.",
+              "citations": [
+                "7797f46ef456b8104a33150cbfd513c6"
+              ]
+            },
+            "['Q4', '2022']": {
+              "answer": "Actual results regarding geographical expansion and market share in Q4 2022 are not explicitly detailed in the provided data.",
+              "citations": []
+            }
+          },
+          "evaluation": {
+            "evaluation": "Expectations Not Met",
+            "evaluation_reason": "While Infibeam maintained its dominant market share in Oman, the provided data lacks information on progress in other planned geographical expansions and market share improvements in India, preventing a full assessment of whether expectations were met."
+          }
+        },
+        {
+          "theme": "Technological Innovation and Product Development",
+          "narrative": "The company emphasized its commitment to technological innovation, particularly in the area of lending services.  They announced the launch of a credit service platform, powered by AI, which was completed by December.  Furthermore, they anticipated the obsolescence of traditional point-of-sale terminals within three years, highlighting the adoption of tap-on-phone technology.  The acquisition of Uvik Technologies to facilitate offline payments was also mentioned.",
+          "management_guidance": {
+            "answer": "The forward-looking statements regarding AI-powered lending and the future of tap-on-phone technology provide clear guidance on the company's technological direction.",
+            "citations": [
+              "f8ca09d643676305d036df1b6fe5a8fe",
+              "96f0bfae56d012374ab81004ab1eae2d",
+              "70935c228dc485138fce23b2a3ea9130"
+            ]
+          },
+          "actual_results": {
+            "['Q1', '2023']": {
+              "answer": "Actual results lack data on the adoption rate of tap-on-phone technology or the impact of the Uvik acquisition. Online transactions accounted for 99.5% of total volume in Q1.",
+              "citations": [
+                "c5840799afa11433ed854d97ce804c10"
+              ]
+            },
+            "['Q2', '2023']": {
+              "answer": "In Q2 FY23, CCAvenue TapPay was deployed across more than 15,000 terminals.",
+              "citations": [
+                "92c4ecf45ebc0ae5416a2186d8e10f9d",
+                "4897e37f3adb4fb3c3194fed4486ac03"
+              ]
+            },
+            "['Q3', '2022']": {
+              "answer": "In Q3 2022, the AI-powered credit service platform was completed by December. There is no information in the provided data on the adoption rate of tap-on-phone technology or the impact of the Uvik Technologies acquisition.",
+              "citations": [
+                "f8ca09d643676305d036df1b6fe5a8fe"
+              ]
+            },
+            "['Q4', '2022']": {
+              "answer": "In Q4 2022, the integration of Uvik with Infibeam Avenues payment gateway CCAvenue was successfully completed. Infibeam was the only company in Asia certified for ‘PIN on Glass’ technology. A pilot test of a new technology was live across 5900 locations.",
+              "citations": [
+                "42c0da4321bfaf4be6adb32f1d7414bd",
+                "42c0da4321bfaf4be6adb32f1d7414bd",
+                "1a95a176028ea2bc8754f6a63ef85cc2"
+              ]
+            }
+          },
+          "evaluation": {
+            "evaluation": "Expectations Met",
+            "evaluation_reason": "The completion of the AI-powered credit service platform by December, as guided, demonstrates that at least one key aspect of the technological innovation narrative was met.  However, a lack of data on other aspects prevents a more comprehensive evaluation."
+          }
+        },
+        {
+          "theme": "Profit Margin Improvement",
+          "narrative": "Management linked anticipated improvements in gross margins (from 6% to 6.2%, with further potential increases) to the normalization of international airline flight operations.",
+          "management_guidance": {
+            "answer": "The statement regarding gross margin improvement is explicitly forward-looking.",
+            "citations": [
+              "312a70dc6fe9a493c2ae5e7c86169e50"
+            ]
+          },
+          "actual_results": {
+            "['Q1', '2023']": {
+              "answer": "The provided data does not contain information directly related to gross margin improvement tied to airline flight operations. However, there is data on improved net take rates and EBITDA margins.",
+              "citations": [
+                "c81567580e0aedf4f3dbade89ce5e3a6",
+                "a6f7515378487e941d53eb6c0ca6d9f1",
+                "331721dc678d46a3abff75ee898bfade",
+                "b2a1b14ac20a839258a64724c99ccdd1"
+              ]
+            },
+            "['Q2', '2023']": {
+              "answer": "The provided data for Q2 FY23 mentions improved Net Take Rates (NTR) for India Payments (7.2 bps vs 4.8 bps YoY) and Total Payments (7.5 bps vs 5.3 bps YoY), and a significant increase in consolidated PAT (123% YoY). However, no specific gross margin data is available to directly assess the guidance.",
+              "citations": [
+                "da6804c58043368bf1989c873ee55cfb",
+                "4ff96924b439faf2745bcc3a3609bd76",
+                "655a8899b76fac3aecb6ac85064bae24"
+              ]
+            },
+            "['Q3', '2022']": {
+              "answer": "In Q3 2022, the net take rate increased to 6.2 bps, exceeding the guidance of 6%. However, this increase was partially attributed to promotional pricing and doesn't directly correlate to the normalization of international airline flight operations.",
+              "citations": [
+                "3b7fdacaf46c7892dfcf92ef1c9c3374",
+                "da330803d6f88c0ce87b778d55b11784"
+              ]
+            },
+            "['Q4', '2022']": {
+              "answer": "Specific data on gross margin improvement in Q4 2022 is not directly available in the provided data. However, the bill payments business saw a gross margin of approximately 40%. EBITDA for FY22 was INR 145 crore. PAT for FY22 was INR 84 crore. There was also mention of a projected EBITDA of INR 170-190 crore and PAT of INR 110-125 crore for FY23.",
+              "citations": [
+                "26d72656abe3318a9ff890133a8ad569",
+                "6adcc680c33f423ca7c0b34cbde7a469",
+                "6664b6fc7bdbb253bf0005dad905f650",
+                "6adcc680c33f423ca7c0b34cbde7a469",
+                "6664b6fc7bdbb253bf0005dad905f650",
+                "f83b983fd80e58508ddaff3759ca7448",
+                "c0713e7f17e1a97bc5b112d5dee9e1f0"
+              ]
+            }
+          },
+          "evaluation": {
+            "evaluation": "Expectations Not Met",
+            "evaluation_reason": "While the net take rate exceeded the guided 6%, the reason for the increase did not align with management's stated expectation of normalization of international airline flight operations.  Therefore, the expectation was only partially met."
+          }
+        }
+      ]
+    },
+    "['Q4', '2022']": {
+      "themes": [
+        {
+          "theme": "Financial Performance",
+          "narrative": "Infibeam's financial performance guidance includes ambitious revenue growth targets, aiming for an annualized TPV run-rate of INR 3.7 lac crore ($49 billion) and $100 billion by the end of FY24.  A 25% revenue increase is targeted for the next fiscal year.  The company expects to process INR 4 lakh crore in FY2023, with a run rate of INR 5 lakh crore at the end of FY2023. Gross revenue is projected to be in the range of INR 1600-1700 crore.  A daily lending target of INR 100 crore by FY24 end is also set.  Profitability is anticipated with EBITDA in the range of INR 170-190 crore and a PAT of INR 110-125 crore. Take rates are expected to improve further in the next quarter.",
+          "management_guidance": {
+            "answer": "Infibeam aims to achieve an annualized TPV run-rate of INR 3.7 lac crore ($49 billion) and is on track to reach $100 billion by the end of FY24. A 25% revenue increase is targeted for the next fiscal year. The company expects to process INR 4 lakh crore in FY2023, with a run rate of INR 5 lakh crore at the end of FY2023. Gross revenue is projected to be in the range of INR 1600-1700 crore. Daily lending target of INR 100 crore by FY24 end. Infibeam anticipates EBITDA in the range of INR 170-190 crore and a profit after tax (PAT) of INR 110-125 crore. Take rates are expected to improve further in the next quarter.",
+            "citations": [
+              "476ff7af3210ba107b6d4ffa7be052ad",
+              "55ed803db1736db69f1343d1c7c6c4e0",
+              "488418d275f112451bf2b5bbd0760d13",
+              "9b5c760456e63a5b10f0e5bb6c2accb5",
+              "8255f65b486f3952eac2890a73faaf5c",
+              "f83b983fd80e58508ddaff3759ca7448",
+              "8255f65b486f3952eac2890a73faaf5c",
+              "5fafee1e0be2ecb37b6cd4f15be568d7",
+              "9f4b374f442425c771c3f24d35026480",
+              "f83b983fd80e58508ddaff3759ca7448",
+              "8255f65b486f3952eac2890a73faaf5c",
+              "c0713e7f17e1a97bc5b112d5dee9e1f0",
+              "38558a61c918c742ac528edc6e439067"
+            ]
+          },
+          "actual_results": {
+            "['Q1', '2023']": {
+              "answer": "In Q1 FY23, Infibeam reported a TPV of INR 87,218 crore ($11.6 billion). Gross revenue was INR 418 crore, and net revenue was INR 74 crore. EBITDA was INR 43 crore, and PAT was INR 12 crore. The net take rate improved to 6.9 basis points. India Payments TPV was INR 43,736 crore, a 51% YoY increase and a 9% QoQ increase. GeM GMV was INR 36,300 crore, a 100% YoY increase, but a -6% QoQ decrease. An annualized TPV run rate of INR 3.9 lac crore was achieved.",
+              "citations": [
+                "a6f7515378487e941d53eb6c0ca6d9f1",
+                "c81567580e0aedf4f3dbade89ce5e3a6",
+                "3c7a6f94d933c31d2a1115daa2c373eb",
+                "83bfb62e4ccf5b9941706493d1d72c6a",
+                "eb6d1317160d2491c4d29693ead3f57f"
+              ]
+            },
+            "['Q2', '2023']": {
+              "answer": "In Q2 FY23, Infibeam's TPV crossed INR 1 lac crore for the first time. India Payments TPV grew 18% YoY to INR 45,364 crore. Total payments net take rate was 7.5 bps (a 41% increase YoY). Standalone Gross Revenue was INR 435 crore and Consolidated Gross Revenue was INR 477 crore. Standalone Net Revenue was INR 70 crore and Consolidated Net Revenue was INR 79 crore. Consolidated PAT was up 123% in the quarter. The India Payments NTR stood at 7.2 bps. India Payments EBITDA was INR 41 crore and PAT was INR 47 crore. Total Payments EBITDA was INR 40 crore and PAT was INR 41 crore. Various sources indicate revenue growth exceeding expectations, with some mentioning 10%, 15%, and 25% increases. The discrepancy may reflect different reporting segments or metrics.",
+              "citations": [
+                "655a8899b76fac3aecb6ac85064bae24",
+                "30d73cf43d73fb7c5de32f1a373202dc",
+                "da6804c58043368bf1989c873ee55cfb",
+                "4ff96924b439faf2745bcc3a3609bd76",
+                "d4c67fda27d9e1cba2d387122c9e0fb6",
+                "791cd73df651d8a9e8487310a99361f6",
+                "760e7b881e61c6f2abc1443ed513a129",
+                "beb79f265e18fe847da06ee6375e28df",
+                "ac0591c08b3d97f3a453b8e14e082cbe",
+                "9980066bbac741df59c012e27b2444a8"
+              ]
+            },
+            "['Q3', '2023']": {
+              "answer": "In Q3 FY23, Infibeam reported a TPV of 95,604 crore INR (27% YoY growth). Gross revenue reached 415 crore INR (4% YoY growth), and Net Revenue was 85 crore INR (21% YoY growth). EBITDA was 48 crore INR (26% YoY growth), and PAT was 35 crore INR (47% YoY growth). The India Payments Net Take Rate improved significantly to 8.3 bps from 4.9 bps (70% YoY increase). The Total Payments Net Take Rate grew to 8.9 bps from 5.5 bps (64% YoY increase). GeM TPV reached INR 41,946 crore (48% YoY growth). Bill payments showed a TPV of INR 4,000 crore (34% YoY growth) and volume of 30 million (30% YoY growth). Note that these results are from Q3 FY23, not Q4 FY22.",
+              "citations": [
+                "b2d3c3dea69c7b22d7f2740037b141bb",
+                "029e5aad3904e62a57a348a7a1db9695",
+                "2e7e835db5afaf72b754af981d10f9dc",
+                "f9c1565e35f76a7f388ff7f74b43411f",
+                "d9e3bae8dcf52051703d7696074a83dc",
+                "794163040289e805ff693d88cf8890e7"
+              ]
+            },
+            "['Q4', '2022']": {
+              "answer": "In Q4 2022, Infibeam reported varying TPV figures (INR 85,500 crore to INR 10,170 crore), gross revenue of INR 369 crore (84% YoY increase, 7% QoQ decrease), net revenue with a 15% YoY increase, an annualized TPV run-rate of $49 billion, lending operations with an annualized run rate of approximately $800 million (6x YoY growth), EBITDA of INR 45 crore (21% YoY increase), and PAT of INR 28 crore (11% YoY decrease). The net take rate improved to 6.7 bps (40% increase from Q4 FY21).  These results show mixed performance compared to management's ambitious targets.",
+              "citations": [
+                "ef8e96531afecf41059c1cadaa6c364c",
+                "13904bf36ca603325c27f3fa6e8c6888",
+                "7705ec219846e387cce2f3682bd65429",
+                "6adcc680c33f423ca7c0b34cbde7a469",
+                "0d8c236b7739d456c3dcdf536eaecc87",
+                "6664b6fc7bdbb253bf0005dad905f650",
+                "f83b983fd80e58508ddaff3759ca7448",
+                "26d72656abe3318a9ff890133a8ad569",
+                "5fafee1e0be2ecb37b6cd4f15be568d7"
+              ]
+            }
+          },
+          "evaluation": {
+            "evaluation": "Expectations Not Met",
+            "evaluation_reason": "While the $49 billion annualized TPV run-rate target was met, other key financial metrics such as gross revenue, EBITDA, and PAT fell significantly short of the guided ranges, indicating that overall financial performance did not meet expectations in Q4 2022."
+          }
+        },
+        {
+          "theme": "Market Position",
+          "narrative": "Infibeam aims to increase its market share of digital payments (excluding UPI) in India from 8% to 9-10%. They hold a 90% market share in BillAvenue (utility payment platform).  The company plans to launch in Saudi Arabia and the USA in the second half of FY23 and expand into 10+ countries for high-margin international payments business over the next 2-3 years. Further expansion into multiple countries is planned over the next 3-5 years.",
+          "management_guidance": {
+            "answer": "Infibeam aims to increase its market share of digital payments (excluding UPI) in India from 8% to 9-10%. They hold a 90% market share in BillAvenue.  Infibeam plans to launch in Saudi Arabia and the USA in the second half of FY23. Expansion into 10+ countries for high-margin international payments business is planned over the next 2-3 years. Further expansion into multiple countries is planned over the next 3-5 years.",
+            "citations": [
+              "8255f65b486f3952eac2890a73faaf5c",
+              "19eda63457f6533a8a9d00bab6119d58",
+              "48df34e8a3ea37bea73181d1fb9712f7",
+              "6e2b10880e3954534e94732318863162",
+              "cd9803f89dd1ad16f00ad7b04ba68364",
+              "c382c6928e9c79a10fd0b1acd9f0de2d"
+            ]
+          },
+          "actual_results": {
+            "['Q1', '2023']": {
+              "answer": "In Q1 2023, Infibeam maintained a 90% market share in BillAvenue.  No specific Q4 2022 actual results on market share were found in the provided data for this theme.",
+              "citations": [
+                "7ebdaffe2b58e7c141421d2dd3200b7a",
+                "b38e83532eb33461c5319b643b59b1c0"
+              ]
+            },
+            "['Q2', '2023']": {
+              "answer": "In Q2 FY23, Infibeam achieved a 91% market share among billers and appears to have reached a double-digit market share (10%+) in overall payments. Details on international expansion are not available from the provided data.",
+              "citations": [
+                "30d73cf43d73fb7c5de32f1a373202dc",
+                "d4c67fda27d9e1cba2d387122c9e0fb6",
+                "86d55b8d4d37abb64de3e2b07492aaf3",
+                "b2c3b12e31e3140078b87988121e4499"
+              ]
+            },
+            "['Q3', '2023']": {
+              "answer": "No direct Q4 FY22 market share data is available in the provided Q3 FY23 data. However, Q3 FY23 data shows BillAvenue's market share remained at 90% and the addition of a record 1.1 million merchants.",
+              "citations": [
+                "f9c1565e35f76a7f388ff7f74b43411f",
+                "794163040289e805ff693d88cf8890e7",
+                "d2059a7aadc71cfd3c104870ef99b37c"
+              ]
+            },
+            "['Q4', '2022']": {
+              "answer": "In Q4 2022, Infibeam reported a 90% market share in BillAvenue and approximately 8% market share in digital payments (excluding UPI) in India. They are among the top three B2B online payment gateways in India and top two non-bank private payment companies in UAE.",
+              "citations": [
+                "ef8e96531afecf41059c1cadaa6c364c",
+                "476ff7af3210ba107b6d4ffa7be052ad",
+                "48df34e8a3ea37bea73181d1fb9712f7",
+                "b4b137ce6f5e08ea4e13b50a8783413c"
+              ]
+            }
+          },
+          "evaluation": {
+            "evaluation": "Expectations Met",
+            "evaluation_reason": "Infibeam maintained its 90% market share in BillAvenue and its market share in digital payments (excluding UPI) remained at 8%, aligning with its stated goal for Q4 2022.  The international expansion was planned for a later date."
+          }
+        },
+        {
+          "theme": "Technological Innovation",
+          "narrative": "Infibeam plans the commercial launch of TAPPay with additional functionalities for merchants in Q2 FY23 and the commercial launch of TrustAvenue in the second half of FY23, with tie-ups and integration with lending institutions in full swing.",
+          "management_guidance": {
+            "answer": "Commercial launch of TAPPay with additional functionalities for merchants is planned for Q2 FY23. Commercial launch of TrustAvenue in the second half of FY23 is planned, with tie-ups and integration with lending institutions in full swing.",
+            "citations": [
+              "13904bf36ca603325c27f3fa6e8c6888",
+              "13904bf36ca603325c27f3fa6e8c6888"
+            ]
+          },
+          "actual_results": {
+            "['Q1', '2023']": {
+              "answer": "No specific Q4 2022 actual results on product launches were found in the provided data for this theme.",
+              "citations": []
+            },
+            "['Q2', '2023']": {
+              "answer": "In Q2 FY23, TAPPay was deployed across more than 15,000 terminals. No information on TrustAvenue's launch is available from the provided data.",
+              "citations": [
+                "92c4ecf45ebc0ae5416a2186d8e10f9d",
+                "4897e37f3adb4fb3c3194fed4486ac03"
+              ]
+            },
+            "['Q3', '2023']": {
+              "answer": "Q3 FY23 data shows that 50,000 to 100,000 installations of TapPay had been completed, and it was growing rapidly. There is no information regarding TrustAvenue's progress in the provided Q3 FY23 data.",
+              "citations": [
+                "9d9165e2031592b302704ef2d8969c4c"
+              ]
+            },
+            "['Q4', '2022']": {
+              "answer": "No specific actual results for the launch of TAPPay or TrustAvenue are provided in the data for Q4 2022.",
+              "citations": []
+            }
+          },
+          "evaluation": {
+            "evaluation": "Insufficient Info",
+            "evaluation_reason": "Q4 2022 data does not contain information on the launch of TAPPay or TrustAvenue; therefore, an evaluation against expectations cannot be performed."
+          }
+        },
+        {
+          "theme": "Strategic Partnerships",
+          "narrative": "Tie-ups and integration with lending institutions are underway for the commercial launch of TrustAvenue in 2H FY23.",
+          "management_guidance": {
+            "answer": "Tie-ups and integration with lending institutions are underway for the commercial launch of TrustAvenue in 2H FY23.",
+            "citations": [
+              "13904bf36ca603325c27f3fa6e8c6888"
+            ]
+          },
+          "actual_results": {
+            "['Q1', '2023']": {
+              "answer": "No specific Q4 2022 actual results on partnerships were found in the provided data for this theme.",
+              "citations": []
+            },
+            "['Q2', '2023']": {
+              "answer": "No specific results regarding partnerships for TrustAvenue are available from the provided data.",
+              "citations": []
+            },
+            "['Q3', '2023']": {
+              "answer": "No specific information on partnerships related to TrustAvenue's launch is available in the provided Q3 FY23 data. However, Infibeam increased its stake in Go Payments to 54.80% from 52.38% by investing Rs.16 Crores.",
+              "citations": [
+                "b4ccd688563534ab7ba604114044df5a"
+              ]
+            },
+            "['Q4', '2022']": {
+              "answer": "No specific actual results regarding partnerships for TrustAvenue are provided in the data for Q4 2022.",
+              "citations": []
+            }
+          },
+          "evaluation": {
+            "evaluation": "Insufficient Info",
+            "evaluation_reason": "The provided data for Q4 2022 does not offer details on partnerships related to TrustAvenue.  An evaluation is therefore impossible."
+          }
+        }
+      ]
+    },
+    "['Q1', '2022']": {
+      "themes": [
+        {
+          "theme": "Revenue Growth and Market Expansion",
+          "narrative": "Infibeam experienced significant growth in certain areas during Q1 2022.  Express Settlement exceeded projected run-rates, and overall transaction net revenue showed substantial year-over-year growth.  The company also indicated plans for significant expansion, both geographically and in terms of transaction volume.",
+          "management_guidance": {
+            "answer": "Infibeam projected a 15% increase in revenue by the end of the fiscal year. The company aimed to process a TPV of INR 2 trillion (US$ 28 billion) during FY22. Management expects to double the run rate of Express Settlement from $100 million to $200 million. Plans to enter three new regions by the next quarter to enhance market presence. Further expansion plans include adding nearly 2 million agents across India to expand the bill payments network. Expansion in multiple countries using a \"Country-in-a-box\" strategy.",
+            "citations": [
+              "eb10df1fb51d8cd96d0d92dca6f6cf25",
+              "495d7ac744fb65a5f5bdea963c17c11b",
+              "6e265aaa706eecbdd62795fa871743b5",
+              "eb10df1fb51d8cd96d0d92dca6f6cf25",
+              "78ce721e6d10a76424ae3cf1a274d1d5",
+              "bfed497f823339c92af98d68d3b26c1"
+            ]
+          },
+          "actual_results": {
+            "['Q2', '2022']": {
+              "answer": "In Q2 2022, Infibeam reported a Total Processing Volume (TPV) of INR 64,300 crore ($8.7 billion), representing a 27% QoQ and 111% YoY increase. Gross revenue reached INR 311 crore ($42 million), up 44% QoQ and 109% YoY. Net revenue was INR 61 crore ($8.3 million), a 17% QoQ increase but only 10% YoY growth. Secured lending grew over 3x QoQ to Rs. 1150 cr ($156 million), exceeding the full-year guidance. Bill Payments volume increased >5x YoY and 77% QoQ, reaching an annualized run rate of 90 million bills. The annualized run-rate of TPV reached $40 billion in Q2 2022.",
+              "citations": [
+                "456c7c0a9a93bef32b69d0568ab8eca0",
+                "c0f5137829049eea627684720bc40751",
+                "c16921dbb183c7e9c7fd2dd836b7e5e8",
+                "78c91d1b3c2ac2b41f73dc6fae71c169",
+                "72dfba9df904f203c3d67d5462009124",
+                "e57701d3883cffadd6a12d03b224cb8e",
+                "7404b603b4c6bf7390de2eeea9dbb2de",
+                "91c1365d4be3926be8efd377f762a61e"
+              ]
+            },
+            "['Q3', '2022']": {
+              "answer": "In Q3 2022, Infibeam achieved a 15% year-over-year revenue increase. Total TPV reached INR 75,430 crore ($10 billion) in Q3 FY22. The annualized total TPV run-rate was ~$41 billion (ahead of the $40 billion guidance set for December 2021). Express Settlement reached $175 million, representing a substantial increase (4x higher than the Q4’21 average). The company also reported a 90% year-over-year increase in total TPV.",
+              "citations": [
+                "e1015d771a1005433d833ebf4b0d133d",
+                "62af5eb83efecfeee505840b57a96cf7",
+                "694a47964be9eb031773402c274e3174",
+                "f8ca09d643676305d036df1b6fe5a8fe"
+              ]
+            },
+            "['Q4', '2022']": {
+              "answer": "In Q4 2022, Infibeam reported varying TPV figures depending on the source: INR 1,70,000 Cr (75% YoY increase), INR 4,240 Cr (175% YoY increase), INR 10,000 Cr (63% YoY increase), and INR 10,170 crore (fourfold YoY increase). Transaction volume tripled year over year to 85.2 million. The annualized TPV run-rate was INR 3.7 lac crore ($49 billion). Express Settlement reached INR 5,500 crore (~$800 million). Bill payments TPV for the full year was INR 10,170 crore, a 4x year-over-year increase. The company's overall TPV for FY22 was INR 2.8 lac cr ($37 bn). One source mentions a revenue increase of 15%, exceeding the target, although the specific revenue figures are not explicitly provided.",
+              "citations": [
+                "ef8e96531afecf41059c1cadaa6c364c",
+                "476ff7af3210ba107b6d4ffa7be052ad",
+                "13904bf36ca603325c27f3fa6e8c6888",
+                "7705ec219846e387cce2f3682bd65429",
+                "6adcc680c33f423ca7c0b34cbde7a469",
+                "768caaa992bb5882e4cc9c5d7979141b",
+                "9f4b374f442425c771c3f24d35026480",
+                "0d8c236b7739d456c3dcdf536eaecc87",
+                "26d72656abe3318a9ff890133a8ad569",
+                "5fafee1e0be2ecb37b6cd4f15be568d7"
+              ]
+            },
+            "['Q1', '2022']": {
+              "answer": "Gross revenue more than doubled (120% YoY) to INR 216 crore. TPV reached INR 50,651 crore (170% YoY growth). Net revenue was INR 52 crore (3% YoY growth). Transaction Net Revenue was INR 34 crore (55% YoY growth). Express Settlement crossed US$ 50 million in Q1, exceeding the projected FY22 run-rate by 2x. Bill Payments volume grew 479% YoY and 66% QoQ.",
+              "citations": [
+                "c97e4b5a88618cae2109507be886e72e",
+                "495d7ac744fb65a5f5bdea963c17c11b",
+                "83da8f853e7c5407f08bf834856f9981",
+                "495d7ac744fb65a5f5bdea963c17c11b"
+              ]
+            }
+          },
+          "evaluation": {
+            "evaluation": "Expectations Exceeded",
+            "evaluation_reason": "Infibeam's Q1 2022 results significantly surpassed management's guidance across multiple key metrics, including gross revenue growth, TPV growth, and Express Settlement performance."
+          }
+        },
+        {
+          "theme": "Operational Efficiency",
+          "narrative": "The company highlighted a focus on reducing operational costs.",
+          "management_guidance": {
+            "answer": "Infibeam aimed to reduce operational costs by 10% over the next six months.",
+            "citations": [
+              "eb10df1fb51d8cd96d0d92dca6f6cf25"
+            ]
+          },
+          "actual_results": {
+            "['Q2', '2022']": {
+              "answer": "No specific data on cost reduction is available from the provided Q2 2022 data.",
+              "citations": []
+            },
+            "['Q3', '2022']": {
+              "answer": "No specific data on actual operational cost reduction in Q3 2022 is available from the provided data.",
+              "citations": []
+            },
+            "['Q4', '2022']": {
+              "answer": "In Q4 2022, one source mentions that operational costs were reduced by 8% in the last fiscal quarter.",
+              "citations": [
+                "768caaa992bb5882e4cc9c5d7979141b"
+              ]
+            },
+            "['Q1', '2022']": {
+              "answer": "The provided data does not contain specific information on the actual reduction in operational costs achieved in Q1 2022. Therefore, actual results are not available for this theme.",
+              "citations": []
+            }
+          },
+          "evaluation": {
+            "evaluation": "Insufficient Info",
+            "evaluation_reason": "No data on operational cost reduction in Q1 2022 was provided to assess whether the 10% target was met."
+          }
+        },
+        {
+          "theme": "Market Outlook and External Factors",
+          "narrative": "Management commentary included external factors influencing their outlook, such as the increasing adoption of digitalization and government initiatives to boost the digital economy.",
+          "management_guidance": {
+            "answer": "While not direct guidance on Infibeam's performance,  the statements regarding the growth of the digital payment market in India provide context for their growth projections. The government's goal to increase the digital economy's contribution to 20% by 2025 from 7-8% suggests a favorable external environment.",
+            "citations": [
+              "7c194916517240505ddc319b85570576",
+              "ead68ad1d50fa79aacd62945e3bb2967"
+            ]
+          },
+          "actual_results": {
+            "['Q2', '2022']": {
+              "answer": "No specific quantifiable results related to this theme are available from the provided Q2 2022 data. The strong growth figures in Q2 2022 can be seen as indirectly supporting a favorable market environment.",
+              "citations": []
+            },
+            "['Q3', '2022']": {
+              "answer": "No specific results directly linked to this theme are available from the provided Q3 2022 data.",
+              "citations": []
+            },
+            "['Q4', '2022']": {
+              "answer": "No specific actual results directly tied to this theme are provided in the Q4 2022 data.",
+              "citations": []
+            },
+            "['Q1', '2022']": {
+              "answer": "The provided data does not offer quantifiable results directly related to the stated external factors' impact on Infibeam's performance in Q1 2022. Therefore, actual results are not available for this theme.",
+              "citations": []
+            }
+          },
+          "evaluation": {
+            "evaluation": "Insufficient Info",
+            "evaluation_reason": "No quantifiable data was available to assess the impact of external market factors on Infibeam's performance during Q1 2022."
+          }
+        }
+      ]
+    }
+  },
+  "step": 3,
+  "updated_at": {
+    "$date": "2024-11-21T08:03:28.842Z"
+  }
+}

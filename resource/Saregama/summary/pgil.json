@@ -1,0 +1,1534 @@
+{
+  "_id": "PGIL_guidance_actuals_report_3",
+  "company_name": "PGIL",
+  "created_at": {
+    "$date": "2024-11-20T04:39:42.974Z"
+  },
+  "guidance_actuals": {
+    "['Q4', '2024']": {
+      "themes": [
+        {
+          "theme": "Financial Performance and Strategy",
+          "narrative": "Management focuses on revenue growth and cost reduction as key strategic initiatives for Q4 2024 and beyond.  Specific targets are set for revenue increase and operational cost reduction.  There's also mention of a dividend policy and a target for Return on Capital Employed (ROCE).  Future ESOP expenses are also projected.",
+          "management_guidance": {
+            "answer": "Revenue Growth: A 15% increase in revenue is targeted by the end of the fiscal year. Cost Reduction: A 10% reduction in operational costs is the goal for the upcoming quarter. Dividend Policy: A minimum dividend payout of 20% of consolidated profit after tax for FY20 and FY21 is planned. ROCE Target: A ROCE of 28.2% is targeted by the end of FY24. ESOP Expenses: ESOP expenses for the next year are projected to be between Rs. 4.5 crs and Rs. 5 crs, assuming the same allotment.",
+            "citations": [
+              "060de1b220f2692af12268d4b37253a5",
+              "060de1b220f2692af12268d4b37253a5",
+              "745fb04d840b4fa57c89d929ac1acc86",
+              "748734256d4907b82406bb9dd175d7a0",
+              "321f6f07ea81efeacb7230b66eba4d62"
+            ]
+          },
+          "actual_results": {
+            "['Q1', '2025']": {
+              "answer": "Multiple sources report varying revenue growth figures for Q1 2025, ranging from 7.3% to 22%, depending on the region and source. One source reports an overall revenue increase of 17.7%, exceeding INR 1,000 crores for the first time. However, there is insufficient data to compare actual results against the Q4 2024 guidance for cost reduction, ROCE, dividend payout, or ESOP expenses.",
+              "citations": [
+                "4fcdc33b8dbfb25196915ab3caacc338",
+                "488c849d4e050a2d30c198d39fc03a5f",
+                "52970a664043b8fa99cfe4efd0de2632",
+                "08444c37ddf6be0d1be49cbc1b372856",
+                "0e4145e970632c29686c1443e60bbbe3",
+                "f3574e2909c83c41637f2d9e2a84bdea"
+              ]
+            },
+            "['Q4', '2024']": {
+              "answer": "Actual results show significant inconsistencies across various sources regarding revenue growth, cost reduction, and ESOP expenses.  Revenue figures vary widely, with some sources reporting YoY increases while others show decreases. Similarly, cost reduction figures and ESOP expenses differ significantly between sources.  While the ROCE target was met and the dividend payout was in line with the minimum target, the overall picture is clouded by these discrepancies. Further investigation is needed to reconcile the conflicting data and accurately assess performance against management guidance.",
+              "citations": [
+                "9782ab87188fabdc1102b7a3993abb5f",
+                "9108749c7a799fb8f6c96f41f96f83b4",
+                "321f6f07ea81efeacb7230b66eba4d62",
+                "f0dce8e42cdfdad42528a9e79544b4d3",
+                "439197df6caceb218f189f1932b1702d",
+                "7cf8a0dcc681d17456d742fbd41afd90"
+              ]
+            }
+          },
+          "evaluation": {
+            "evaluation": "Expectations Not Met",
+            "evaluation_reason": "While the ROCE target and dividend payout met expectations, conflicting data on revenue growth, cost reduction, and ESOP expenses prevents a definitive assessment of overall performance against the management's guidance for Q4 2024."
+          }
+        }
+      ]
+    },
+    "['Q1', '2025']": {
+      "themes": [
+        {
+          "theme": "Financial Performance and Strategy",
+          "narrative": "Management commentary focuses heavily on revenue growth projections and maintaining a specific growth trajectory.  They emphasize that volume growth will be a primary driver, with revenue realization dependent on product mix. There's a stated target for a specific customer base size.  A successful Qualified Institutional Placement (QIP) is also noted.",
+          "management_guidance": {
+            "answer": "A three-year revenue CAGR target of 12-14% is reiterated; Volume growth of 35% is reported; A target for top customers to reach the USD 100 million mark and a second tier of USD 40-60 million is mentioned; Management expresses optimism about exceeding the lower end of revenue guidance; A target of 15% revenue increase for the next fiscal year is mentioned.",
+            "citations": [
+              "6eac4367481d480fca40b8bd9861752e",
+              "948865a43350d20f34fce0654fc5bbab",
+              "26289408bb83c36b85e7daf484ca5cdf",
+              "3a60c23f062b645ef1dc5b022c2e882f",
+              "d1746fdb0b7b7cc198f68a83ec321c7a",
+              "488c849d4e050a2d30c198d39fc03a5f"
+            ]
+          },
+          "actual_results": {
+            "['Q1', '2025']": {
+              "answer": "Revenue increased by 17.7% overall. Overseas revenue increased by almost 22%, while India revenue increased by 7.3%. At least two top customers reached the USD 100 million mark, and a third customer reached the USD 55-60 million mark. A 15% increase in revenue was reported for the quarter.",
+              "citations": [
+                "4fcdc33b8dbfb25196915ab3caacc338",
+                "26289408bb83c36b85e7daf484ca5cdf",
+                "488c849d4e050a2d30c198d39fc03a5f",
+                "f3574e2909c83c41637f2d9e2a84bdea"
+              ]
+            }
+          },
+          "evaluation": {
+            "evaluation": "Expectations Exceeded",
+            "evaluation_reason": "The 17.7% overall revenue increase and the achievement of key customer milestones exceeded the 15% target for the fiscal year and demonstrated stronger-than-expected performance in Q1 2025."
+          }
+        },
+        {
+          "theme": "Operational Efficiency and Expansion",
+          "narrative": "This theme centers on capacity utilization, process optimization, and geographical expansion. Management addresses production losses and plans to mitigate them.  Expansion into new states in India (Bihar, Odisha, and Madhya Pradesh) is highlighted, emphasizing labor cost advantages.",
+          "management_guidance": {
+            "answer": "Management expresses confidence in making up for production losses through overtime and holiday work; Expansion plans to increase capacity in Bihar, Odisha, and Madhya Pradesh are discussed, with some capacity operational in the current year and the rest next year; A target of 80%+ blended utilization is anticipated.",
+            "citations": [
+              "d63c9c3b67e0aedff33ab54566120415",
+              "b5b3ea576e9bd718f935d35b1ccb54d9",
+              "a4e64deacc7271db162951732e072461",
+              "bc0cb5d5e6d6c5ae287fda3d0b5ac15e"
+            ]
+          },
+          "actual_results": {
+            "['Q1', '2025']": {
+              "answer": "Utilization varied between 68% and 75%. The impact of production losses in Bangladesh is mentioned, but specific recovery metrics are not provided. The new capacities in Bihar, Odisha, and Madhya Pradesh are not fully operational yet.",
+              "citations": [
+                "d63c9c3b67e0aedff33ab54566120415",
+                "83a50f5377b10c62b6911a1f9dfa188e",
+                "bc0cb5d5e6d6c5ae287fda3d0b5ac15e"
+              ]
+            }
+          },
+          "evaluation": {
+            "evaluation": "Expectations Not Met",
+            "evaluation_reason": "The actual utilization rate (68-75%) fell significantly short of the 80%+ target, and the expansion into new Indian states had not yet reached full operational capacity as planned."
+          }
+        },
+        {
+          "theme": "Profitability Metrics and Cost Management",
+          "narrative": "Management discusses the outlook for EBITDA, aiming for double-digit figures for the current and next year.  Cost reduction initiatives are mentioned.",
+          "management_guidance": {
+            "answer": "A goal of double-digit EBITDA by the end of the current year and continuing into the next is stated; A 10% reduction in operational costs by year-end is targeted.",
+            "citations": [
+              "e53a74a8343051866a7cbaf8f5b0ea1f",
+              "488c849d4e050a2d30c198d39fc03a5f"
+            ]
+          },
+          "actual_results": {
+            "['Q1', '2025']": {
+              "answer": "Adjusted EBITDA for the quarter showed a decline of 34.3% year-on-year, to INR 13.3 crores, with an adjusted EBITDA margin of 4.8%. However, a significant increase in PAT (Profit After Tax) was reported, reaching INR 61.9 crores (30.8% year-on-year growth) and INR 65.3 crores (36% year-on-year growth) after minority interest. This improvement was partly due to an exceptional gain of INR 5.5 crores from the sale of non-core assets. An 8% reduction in operational costs was achieved in the previous quarter.",
+              "citations": [
+                "7723533bbec9c3148fcc4dd698421c35",
+                "488c849d4e050a2d30c198d39fc03a5f",
+                "f3574e2909c83c41637f2d9e2a84bdea",
+                "ffa78b390bef475cccb6ed2ecdd42935"
+              ]
+            }
+          },
+          "evaluation": {
+            "evaluation": "Expectations Not Met",
+            "evaluation_reason": "The significant year-on-year decline in adjusted EBITDA in Q1 2025, despite an increase in PAT due to exceptional gains, clearly missed the double-digit target and indicates substantial challenges in achieving profitability goals."
+          }
+        }
+      ]
+    },
+    "['Q3', '2024']": {
+      "themes": [
+        {
+          "theme": "Revenue Growth and Projections",
+          "narrative": "Management expects revenue growth in the 15-20% range over the next three to four years. This guidance is driven by a 20% increase in overseas revenue, particularly from Bangladesh and Vietnam. Growth in the US market is expected to be more than 25% year-on-year. The company aims for approximately 35% growth from Bangladesh. A significant portion (10-20%) of the business will utilize an asset-light model, minimizing capital expenditure needs. The company's focus on the asset-light business model will ensure sustainable asset turnover for the next five to six years.",
+          "management_guidance": {
+            "answer": "Management expects revenue growth in the 15-20% range over the next three to four years, driven by strong growth in overseas markets (Bangladesh and Vietnam) and the US.  A significant portion of the business will utilize an asset-light model.",
+            "citations": [
+              "77cefa767a9a47f1fed4753cba2a2f0d",
+              "c8589c082cbc653690512e0e1389d8ea",
+              "7bf47b9bb8c6864b6195ed1e0c37a699",
+              "4eba9d2adc85c385437f1de725d87eb4",
+              "60a25d7c4fad62bc3b99ffb5a03ce767",
+              "af1e15693c3230b5a85cb9a45bd26440"
+            ]
+          },
+          "actual_results": {
+            "['Q3', '2024']": {
+              "answer": "In Q3 2024, revenue decreased by 1.8% year-on-year to Rs. 704 crores. Overseas revenue increased by 20%, primarily from Bangladesh and Vietnam. Conflicting data exists regarding overall revenue growth, with some sources reporting a 15% increase and others showing a significant decrease.",
+              "citations": []
+            },
+            "['Q1', '2025']": {
+              "answer": "In Q1 2025, revenue increased by 17.7% overall. Overseas revenue increased by 22%, exceeding expectations.  Multiple citations indicate 15% growth was mentioned by various speakers.",
+              "citations": [
+                "4fcdc33b8dbfb25196915ab3caacc338",
+                "488c849d4e050a2d30c198d39fc03a5f",
+                "52970a664043b8fa99cfe4efd0de2632",
+                "08444c37ddf6be0d1be49cbc1b372856",
+                "0e4145e970632c29686c1443e60bbbe3"
+              ]
+            },
+            "['Q4', '2024']": {
+              "answer": "In Q4 2024, revenue was Rs. 877.4 cr, representing a 20.2% year-on-year increase. Overseas revenue increased by 21% YoY, while India revenue grew by 17% YoY.",
+              "citations": [
+                "9782ab87188fabdc1102b7a3993abb5f"
+              ]
+            }
+          },
+          "evaluation": {
+            "evaluation": "Expectations Not Met",
+            "evaluation_reason": "The overall revenue in Q3 2024 showed a decrease, significantly deviating from the projected 15-20% growth, despite meeting expectations for overseas revenue growth."
+          }
+        },
+        {
+          "theme": "Profitability Metrics and Cost Management",
+          "narrative": "The company expects continued improvement in EBITDA in the next financial year. The tax rate is projected to be between 16% and 18% on a steady-state basis. A 1-1.5% impact on EBITDA from wage hikes in Bangladesh is anticipated, but the company plans to offset this through automation and securing more premium clients. If the company achieves 15-20% top-line growth, a 3-4% improvement in EBITDA margins from the current level is expected.",
+          "management_guidance": {
+            "answer": "Continued EBITDA improvement is expected next year, with a projected tax rate of 16-18%.  Wage hikes in Bangladesh will impact EBITDA by 1-1.5%, but this will be offset by automation and premium clients.  15-20% top-line growth should lead to a 3-4% EBITDA margin improvement.",
+            "citations": [
+              "e0b277e226543ce18b963c7c7d2dd8b3",
+              "49c9b9baa794462c42f75f2db8f6048e",
+              "ed7f64f447641fff9a50a1dbe7143979",
+              "cfcf867b7ab3a26ee5ee96ae5277f7af"
+            ]
+          },
+          "actual_results": {
+            "['Q3', '2024']": {
+              "answer": "In Q3 2024, the adjusted EBITDA margin stood at 9.7%, a decrease of 0.5% compared to the previous year's 10.2%. The adjusted EBITDA was Rs. 68.6 crores, compared to Rs. 73.2 crores in Q3 FY23, showing a decrease of 6.3%. There are conflicting reports on the overall profitability, some indicating a 120 bps YoY improvement in EBITDA margin (excluding ESOP expenses), while others show a significant decrease.",
+              "citations": []
+            },
+            "['Q1', '2025']": {
+              "answer": "Q1 2025 results show a mixed picture. While PAT (Profit After Tax) increased significantly (by 30.8% to 37.1% depending on the metric used), Adjusted EBITDA declined by 34.3% to INR 13.3 crores, with a margin of 4.8%. This significant EBITDA decrease was not anticipated in the guidance and requires further investigation beyond the provided data.",
+              "citations": [
+                "7723533bbec9c3148fcc4dd698421c35",
+                "f3574e2909c83c41637f2d9e2a84bdea"
+              ]
+            },
+            "['Q4', '2024']": {
+              "answer": "Q4 2024 Adj. EBITDA stood at Rs. 83.9 crores, a 30.8% YoY increase. The FY24 Adj. EBITDA Margin reached 9.2%, a 100 bps YoY improvement, while the Q4FY24 Adj. EBITDA Margin was 9.6%, up 80 bps YoY.",
+              "citations": [
+                "9782ab87188fabdc1102b7a3993abb5f"
+              ]
+            }
+          },
+          "evaluation": {
+            "evaluation": "Expectations Not Met",
+            "evaluation_reason": "The adjusted EBITDA margin and EBITDA decreased in Q3 2024, contradicting the guidance of continued improvement and failing to meet the projected margin improvement."
+          }
+        },
+        {
+          "theme": "Capital Expenditure",
+          "narrative": "The company anticipates capital expenditure (CAPEX) in the range of INR 80-100 crores across all geographies.",
+          "management_guidance": {
+            "answer": "CAPEX is anticipated to be in the range of INR 80-100 crores across all geographies.",
+            "citations": [
+              "ef6db5566a89767d386521924ebe2e21"
+            ]
+          },
+          "actual_results": {
+            "['Q3', '2024']": {
+              "answer": "In Q3 2024, INR 120 crores of CAPEX was committed, with INR 90 crores incurred. Of this, INR 50 crores went towards capacity enhancement and INR 10 crores towards machinery replacement. INR 30 crores was spent on automation and modern laundry equipment in Bangladesh.",
+              "citations": []
+            },
+            "['Q1', '2025']": {
+              "answer": "No actual CAPEX results are provided in the Q1 2025 data.",
+              "citations": []
+            },
+            "['Q4', '2024']": {
+              "answer": "In FY24, PPE Capex amounted to Rs. 115 crores.",
+              "citations": [
+                "9782ab87188fabdc1102b7a3993abb5f"
+              ]
+            }
+          },
+          "evaluation": {
+            "evaluation": "Expectations Exceeded",
+            "evaluation_reason": "Actual CAPEX of INR 90 crores in Q3 2024 surpassed the projected range of INR 80-100 crores."
+          }
+        }
+      ]
+    },
+    "['Q1', '2024']": {
+      "themes": [
+        {
+          "theme": "Financial Performance and Strategy",
+          "narrative": "Management expressed confidence in achieving long-term revenue growth despite a sluggish macroeconomic environment.  Specific short-term projections for Q1 2024 are absent; however,  long-term targets are mentioned, potentially influencing Q1 actions and resource allocation.  There is also discussion of maintaining EBITDA margins from the previous year.",
+          "management_guidance": {
+            "answer": "Long-term revenue target of 15-20% CAGR over the next 3-4 years. Maintaining EBITDA margins at the previous year's level. Discussion of PAT growth expectations (10-15%) for the year, although the specific impact on Q1 isn't explicitly stated.",
+            "citations": [
+              "f0018dc3a00ee88d696addbfcb640303",
+              "0a270803d12cdc6192ab6f146a552a57",
+              "6442e5a9831b064a58ad416606d9233f",
+              "15f6513a6aa0074552f5b54860de8c6f"
+            ]
+          },
+          "actual_results": {
+            "['Q4', '2024']": {
+              "answer": "In Q4 2024, revenue was Rs. 877.4 cr (20.2% YoY increase). Overseas revenue increased by 21% YoY, while India revenue grew by 17% YoY. FY24 revenue was Rs. 3,436.2 Crs (48.8% YoY increase). FY24 Adj. EBITDA was Rs. 316.4 crores (22.5% YoY increase), with a margin of 9.2% (100 bps YoY improvement). Q4FY24 Adj. EBITDA was Rs. 83.9 crores (30.8% YoY increase), with a margin of 9.6% (80 bps YoY improvement).  There are conflicting reports on FY24 revenue growth, with some sources indicating an 8.8% YoY increase and others showing a 13.6% YoY decrease. Further investigation is needed to reconcile these discrepancies.",
+              "citations": [
+                "9782ab87188fabdc1102b7a3993abb5f",
+                "321f6f07ea81efeacb7230b66eba4d62",
+                "9108749c7a799fb8f6c96f41f96f83b4"
+              ]
+            },
+            "['Q1', '2024']": {
+              "answer": "Q1 FY24 revenue increased by 5% year-on-year to INR 894 crores. EBITDA margin expanded by 140 bps year-on-year to 9.3%. PAT for the quarter was INR 47.4 crores.",
+              "citations": [
+                "f0018dc3a00ee88d696addbfcb640303",
+                "0a270803d12cdc6192ab6f146a552a57",
+                "5119c993123e73a82f9649804d483f9a",
+                "83b3a391bd0218eb07312f98f541ea44",
+                "0ec811a3bdc2c83455ea16e34e037ece"
+              ]
+            },
+            "['Q3', '2024']": {
+              "answer": "In Q3 2024, revenue showed conflicting results. Some sources reported a 1.8% decrease YoY, while others indicated a 20% increase in overseas revenue due to sales growth in Bangladesh and Vietnam. There were also reports of a 5.4% YoY increase in 9M FY24 revenue. The Adjusted EBITDA margin for Q3 FY24 was 9.7%, compared to 10.2% in Q3 FY23. For 9M FY24, the adjusted EBITDA margin was 9.1%, representing a 120 bps YoY improvement. PAT margin for Q3 was 4.8%.",
+              "citations": [
+                "51c89676aa1d85f6a75bf6dc7c0aa919",
+                "0dc013801d7f537925241359c37502ff",
+                "4fc60bda9e2f51c92fa181c782a6c527",
+                "c8589c082cbc653690512e0e1389d8ea",
+                "f98bb9d7014f8d9ce0d353714d399ce1",
+                "aec6700ace189c865da261365c9176e8",
+                "d4c9fe9d05221e3d4c810d388d061583",
+                "9662fd992a8835449d133c7b507d3558"
+              ]
+            },
+            "['Q2', '2024']": {
+              "answer": "H1 FY24 revenue grew 8% year-on-year to Rs. 1,854.8 crores. Q2 FY24 revenue increased by 12% year-on-year to Rs. 960.6 crores. However, standalone revenue for H1 FY24 was down 24% year-on-year, and Q2 FY24 standalone revenue dropped 23% year-on-year. These results reflect a mixed performance, with consolidated revenue exceeding expectations but standalone performance falling short.",
+              "citations": [
+                "adb1c5560fe6e852a81cfd30d4b83a26",
+                "f78b1940e329dad78626989d44502200",
+                "c0a10522b1c4fb6697ff74625bb8a25c"
+              ]
+            }
+          },
+          "evaluation": {
+            "evaluation": "Insufficient Info",
+            "evaluation_reason": "While Q1 revenue growth was positive, it's impossible to definitively assess whether it met or exceeded expectations due to the lack of specific short-term revenue guidance for Q1 and the absence of a comparable Q1 PAT target against which to measure actual results."
+          }
+        },
+        {
+          "theme": "Operational Efficiency and Expansion",
+          "narrative": "PGIL highlights a significant capital expenditure plan related to a Guatemalan subsidiary acquisition. The expansion aims to increase production capacity significantly, boosting future revenue.  The timeline for capex spending and capacity increase is detailed, directly impacting Q1 2024 and beyond.",
+          "management_guidance": {
+            "answer": "25% of capex on the Guatemalan facility to be incurred by the end of March 2024. Significant capacity expansion (from 3 to 12 lines) in the Guatemalan subsidiary, projecting a substantial increase in annual revenue ($3.8 million to $20 million). Facility scaling up and completion expected within Q2 or Q3 of the next financial year.",
+            "citations": [
+              "ea7a5d26a2e43a50b3e3cdabe537fb0c",
+              "57732035150accf5f40333003ad0b904"
+            ]
+          },
+          "actual_results": {
+            "['Q4', '2024']": {
+              "answer": "No Q4 2024 actual results related to this theme are provided in the data.",
+              "citations": []
+            },
+            "['Q1', '2024']": {
+              "answer": "No specific Q1 2024 actual results related to capex spending or capacity expansion in Guatemala are provided in the data.",
+              "citations": []
+            },
+            "['Q3', '2024']": {
+              "answer": "In Q3 2024, INR 50 crores of the total INR 90 crores committed capex was spent on capacity enhancement in Bangladesh. An additional INR 10 crores was used for machinery replacement. INR 30 crores was allocated towards automation and modern laundry equipment in Bangladesh. Capacity in Central America remained limited compared to Asia. Bangladesh factory capacity utilization was 44%.",
+              "citations": [
+                "77cefa767a9a47f1fed4753cba2a2f0d",
+                "0bbd1e08cb70498e78de6fc4c5b6fe26",
+                "7bf47b9bb8c6864b6195ed1e0c37a699"
+              ]
+            },
+            "['Q2', '2024']": {
+              "answer": "No specific Q2 2024 actual results related to capex spending or capacity increase in Guatemala are provided in the data.",
+              "citations": []
+            }
+          },
+          "evaluation": {
+            "evaluation": "Insufficient Info",
+            "evaluation_reason": "The provided data lacks information on Q1 2024 capex spending or capacity expansion in Guatemala, preventing an evaluation of whether the company met or exceeded expectations."
+          }
+        },
+        {
+          "theme": "Customer Relationships and Market Presence",
+          "narrative": "Management comments on the expectation of normalization of the overseas market, implying potential impact on future revenue streams, although not specifically for Q1.  There's mention of a stable policy regime benefitting exporters until March 2024.",
+          "management_guidance": {
+            "answer": "Expectation of overseas market normalization during the spring/summer season (impacting future quarters).",
+            "citations": [
+              "d59f00c9abaa74203331312de12bd5f4"
+            ]
+          },
+          "actual_results": {
+            "['Q4', '2024']": {
+              "answer": "No Q4 2024 actual results related to this theme are provided in the data.",
+              "citations": []
+            },
+            "['Q1', '2024']": {
+              "answer": "The provided data does not contain actual results for Q1 2024 related to overseas market normalization. However, there's mention of revenue contributions from long-term clients (c92b2fef8ac4f4dd8754e7f3846c6c8c) and the geographical revenue split (6db66b570232054afbaf073388150b7b). Further details on market performance are found in citations (d59f00c9abaa74203331312de12bd5f4, 9620459c3bb155abb25f3aeb4d0e81cf) but these are broader market trends rather than specific company results.",
+              "citations": [
+                "c92b2fef8ac4f4dd8754e7f3846c6c8c",
+                "6db66b570232054afbaf073388150b7b",
+                "d59f00c9abaa74203331312de12bd5f4",
+                "9620459c3bb155abb25f3aeb4d0e81cf"
+              ]
+            },
+            "['Q3', '2024']": {
+              "answer": "In Q3 2024, overseas revenue increased by 20% due to growth in sales in Bangladesh and Vietnam. However, there's mention of clients buying 30-40% less when facing inventory issues.",
+              "citations": [
+                "f98bb9d7014f8d9ce0d353714d399ce1",
+                "0dc013801d7f537925241359c37502ff",
+                "4eba9d2adc85c385437f1de725d87eb4"
+              ]
+            },
+            "['Q2', '2024']": {
+              "answer": "No specific Q2 2024 actual results related to overseas market normalization are provided in the data.",
+              "citations": []
+            }
+          },
+          "evaluation": {
+            "evaluation": "Insufficient Info",
+            "evaluation_reason": "The Q1 2024 data does not provide information on overseas market normalization, making it impossible to assess performance against management's expectations."
+          }
+        },
+        {
+          "theme": "External Factors and Market Outlook",
+          "narrative": "The impact of macroeconomic conditions and the expectation of export growth are mentioned, but not directly tied to specific Q1 impacts.  The long-term outlook of the Indian textile export market is included.",
+          "management_guidance": {
+            "answer": "Indian textile exports are expected to grow at ~11% CAGR to reach $65 billion by 2026.",
+            "citations": [
+              "6a56f34e47769c0c62c90608225b1d5a"
+            ]
+          },
+          "actual_results": {
+            "['Q4', '2024']": {
+              "answer": "No Q4 2024 actual results related to this theme are provided in the data.",
+              "citations": []
+            },
+            "['Q1', '2024']": {
+              "answer": "No Q1 2024 actual results are provided that directly address this long-term outlook. However, the data includes information on broader market trends that may be relevant (9620459c3bb155abb25f3aeb4d0e81cf).",
+              "citations": [
+                "9620459c3bb155abb25f3aeb4d0e81cf"
+              ]
+            },
+            "['Q3', '2024']": {
+              "answer": "No specific Q3 2024 results directly related to this theme are available in the provided data.",
+              "citations": []
+            },
+            "['Q2', '2024']": {
+              "answer": "No specific Q2 2024 actual results related to Indian textile export growth are provided in the data.",
+              "citations": []
+            }
+          },
+          "evaluation": {
+            "evaluation": "Insufficient Info",
+            "evaluation_reason": "The provided data lacks Q1 2024 results related to the long-term outlook for Indian textile exports, preventing an assessment of performance against expectations."
+          }
+        }
+      ]
+    },
+    "['Q4', '2023']": {
+      "themes": [
+        {
+          "theme": "Financial Performance and Strategy",
+          "narrative": "Management expresses confidence in sustaining a high revenue growth rate despite challenging macroeconomic conditions (higher interest rates and inflation).  This confidence is rooted in long-term strategic plans, but the short-term impact is emphasized through the discussion of quarterly volatility within the context of the long-term CAGR target.",
+          "management_guidance": {
+            "answer": "Management aims for a 15-20% compounded annual growth rate (CAGR) in revenue over the next 3-4 years. While acknowledging potential quarterly volatility, the long-term target is consistently reiterated.  The long-term projections are discussed in the context of the current quarter's performance, making them relevant.",
+            "citations": [
+              "e3d809f064ac12349202515432ea440c",
+              "05453f5557188599c2bc7e35964a3064",
+              "54253af36c2e8b5c67743edb0d21aaeb",
+              "664abeb2645fa3cbb487a5126d92bece",
+              "0ec39305ddbc3ee705a5c3605302e914",
+              "a81ae3588f5e8ca5bc4cd517a29d7bad",
+              "3151cac05da4e6882d2bd45448a146ec"
+            ]
+          },
+          "actual_results": {
+            "['Q2', '2024']": {
+              "answer": "In Q2 2024, consolidated revenue grew by 12% year-on-year to Rs. 960.6 crores, while standalone revenue declined by 23% year-on-year to Rs. 218.5 crores.  H1 FY24 consolidated revenue showed an 8% YoY increase to Rs. 1,854.8 crores.  Management noted that H1 FY24 revenue included Rs. 72 crores from the Alpha integration, not present in H1 FY23.  For the full H1, growth of approximately 7-8% was maintained, a target management aimed to sustain in the second half of the year.",
+              "citations": [
+                "adb1c5560fe6e852a81cfd30d4b83a26",
+                "f78b1940e329dad78626989d44502200",
+                "29e0d7a6cc518cd8931f6f06233ecb75",
+                "2ddb12ca5360cd2935b9d50f80425ead",
+                "6661d70320e84cdef2c526ab0e22f703",
+                "0f4413b11da2ca5e2599d4183a8251c5",
+                "c0a10522b1c4fb6697ff74625bb8a25c"
+              ]
+            },
+            "['Q1', '2024']": {
+              "answer": "In Q1 FY24, revenue growth figures varied. Some sources reported a 5% year-on-year increase to INR 894 crores, while others reported a 15% increase.  Conversely, a 21.5% year-on-year decrease in revenue from operations was also mentioned.  These discrepancies require further investigation.",
+              "citations": [
+                "f0018dc3a00ee88d696addbfcb640303",
+                "5119c993123e73a82f9649804d483f9a",
+                "83b3a391bd0218eb07312f98f541ea44",
+                "0a270803d12cdc6192ab6f146a552a57",
+                "0ec811a3bdc2c83455ea16e34e037ece",
+                "1e754ac0d20054e189a36fce3a5428d2",
+                "e2117861e418a32d7593cc5c68d68164",
+                "9a08802e49df321601fb65788dd7843d",
+                "eef2b61ac54942a0f7df870757091653",
+                "77def0b90582008ff23b10732f9a857b",
+                "9d2f7ff04adcf14b115815f14d967f8b"
+              ]
+            },
+            "['Q4', '2023']": {
+              "answer": "In Q4 FY23, revenue declined by 18.5% to INR 730 crores compared to INR 896 crores in Q4 FY22. However, FY23 revenue increased by 16.4% YoY to INR 3,158 crores, driven by increased orders from existing customers and improved realisations from acquired customers. Revenue growth for FY23 was also 16% YoY despite a 6% drop in the number of pieces shipped. Revenue contribution from customers added in the last five years doubled in FY23.",
+              "citations": [
+                "c4fd6c99b01c97bf15848b0515e77279",
+                "f44169c27e35437ce56fb5a98ea07254",
+                "4b66be26f95e82b9d49c7daf0a97e66b",
+                "20d19c306c30f571a0c34ca464250cff"
+              ]
+            }
+          },
+          "evaluation": {
+            "evaluation": "Expectations Not Met",
+            "evaluation_reason": "While full-year FY23 revenue growth (16.4%) was positive, Q4 2023 showed a significant 18.5% decline, falling short of the projected 15-20% CAGR."
+          }
+        },
+        {
+          "theme": "Operational Efficiency and Expansion",
+          "narrative": "PGIL is focused on increasing capacity and optimizing manufacturing processes to meet future demand.  Specific examples of capacity expansion projects are mentioned, highlighting both the financial investment and the expected increase in output.",
+          "management_guidance": {
+            "answer": "Capacity is expected to increase from 54 million pieces to 74 million pieces. A new facility in Indonesia, representing a 35% capacity increase, is projected to drive increased revenue in FY2024-25. This is a direct link between Q4 actions and future performance.",
+            "citations": [
+              "d712b047f068f3da058f63ef4228148b",
+              "fab80c3818f9ccef4848c130946f98d1"
+            ]
+          },
+          "actual_results": {
+            "['Q2', '2024']": {
+              "answer": "In Q2 2024, management noted lower inventory in India, aligning with the 25% revenue reduction.  The Indonesia facility had 100% of its CAPEX incurred. Guatemala had 40% of its CAPEX incurred. Bangladesh had 70% of its CAPEX incurred.  India's Chennai factory expansion was only 15-20% complete.",
+              "citations": [
+                "584e1e69bf370a7260a1ca6dff7c82ac",
+                "91e2ccfb39bd4f35a14786831cae4c49",
+                "508e24c3171023a1a4b04be56b9c684f"
+              ]
+            },
+            "['Q1', '2024']": {
+              "answer": "In Q1 FY24, the company shipped 3,158 million pieces.  Further data on capacity utilization is available, but a direct comparison with guidance on the Indonesian facility's impact is unavailable.",
+              "citations": [
+                "6db66b570232054afbaf073388150b7b",
+                "5e654a8d702d540c2b43523d770dc1bf"
+              ]
+            },
+            "['Q4', '2023']": {
+              "answer": "The provided data does not contain actual results for the capacity expansion. However, a total capex of INR 48 crores was incurred in FY23, with INR 29 crores allocated to the 35% capacity expansion at the Indonesian facility.",
+              "citations": [
+                "05453f5557188599c2bc7e35964a3064"
+              ]
+            }
+          },
+          "evaluation": {
+            "evaluation": "Insufficient Info",
+            "evaluation_reason": "The provided data for Q4 2023 lacks information on the actual capacity increase achieved, preventing an evaluation against the stated guidance."
+          }
+        },
+        {
+          "theme": "Profitability Metrics and Cost Management",
+          "narrative": "Management emphasizes maintaining profitability despite industry margin pressures.  The discussion includes specific targets for return on capital employed (ROCE) and EBITDA margins, demonstrating a proactive approach to cost management and financial performance.",
+          "management_guidance": {
+            "answer": "PGIL aims to maintain margins between 7% and 8% on a full-year basis. The company targets a return on capital employed (ROCE) of 18-20% for new projects within two to three years. A double-digit EBITDA margin is targeted, contingent on macroeconomic factors and product mix.",
+            "citations": [
+              "54253af36c2e8b5c67743edb0d21aaeb",
+              "664abeb2645fa3cbb487a5126d92bece",
+              "020e524036b70d39a6bf82ccad340f7a",
+              "3151cac05da4e6882d2bd45448a146ec",
+              "7a57f6556a93c6edeefd5c8c9a623777"
+            ]
+          },
+          "actual_results": {
+            "['Q2', '2024']": {
+              "answer": "In Q2 2024, the adjusted EBITDA margin reached 8.3% (220 bps higher YoY).  H1 FY24 adjusted EBITDA margin was 6.2% (versus 6.1% in H1 FY23), and 8.8% excluding ESOP expenses (180 bps higher YoY).  ROCE (TTM) stood at 30.8%.",
+              "citations": [
+                "adb1c5560fe6e852a81cfd30d4b83a26",
+                "f78b1940e329dad78626989d44502200",
+                "2ddb12ca5360cd2935b9d50f80425ead",
+                "300515f8306954e9c74a444c266ba1e3",
+                "6661d70320e84cdef2c526ab0e22f703",
+                "0f4413b11da2ca5e2599d4183a8251c5",
+                "c0a10522b1c4fb6697ff74625bb8a25c"
+              ]
+            },
+            "['Q1', '2024']": {
+              "answer": "Q1 FY24 saw EBITDA margin expansion of 140 basis points year-on-year to 9.3%.  Other sources mention varying EBITDA and PAT figures requiring further clarification.",
+              "citations": [
+                "f0018dc3a00ee88d696addbfcb640303",
+                "0a270803d12cdc6192ab6f146a552a57",
+                "83b3a391bd0218eb07312f98f541ea44",
+                "0ec811a3bdc2c83455ea16e34e037ece",
+                "5119c993123e73a82f9649804d483f9a",
+                "9d2f7ff04adcf14b115815f14d967f8b",
+                "3778ca2d2060b5625daf82d242968c1c",
+                "31607c15323c29478c47cbeabe12fe68",
+                "8062bef280674afd99616648ddea608b"
+              ]
+            },
+            "['Q4', '2023']": {
+              "answer": "In Q4 FY23, EBITDA margin was 8.6%, while the FY23 EBITDA margin improved by 290 bps to 8.1% from 5.2% in FY22. FY23 ROCE improved from 12.2% to 24.2%. Q4 FY23 EBITDA was INR 62.8 crores, a 55.9% increase compared to INR 39.7 crores in Q4 FY22.",
+              "citations": [
+                "c4fd6c99b01c97bf15848b0515e77279",
+                "05453f5557188599c2bc7e35964a3064",
+                "f44169c27e35437ce56fb5a98ea07254"
+              ]
+            }
+          },
+          "evaluation": {
+            "evaluation": "Expectations Exceeded",
+            "evaluation_reason": "Q4 2023 EBITDA margin (8.6%) and FY23 ROCE (24.2%) significantly exceeded the stated targets, demonstrating strong profitability performance."
+          }
+        },
+        {
+          "theme": "Cash Flow and Working Capital Management",
+          "narrative": "The company provides guidance on capital expenditure (CAPEX) plans for the upcoming fiscal year, demonstrating a clear understanding of its financial resource allocation.",
+          "management_guidance": {
+            "answer": "Planned CAPEX for FY24 is estimated to be between INR 50 and 60 crores.",
+            "citations": [
+              "42682b1ef341b7910c69ced13452c762"
+            ]
+          },
+          "actual_results": {
+            "['Q2', '2024']": {
+              "answer": "In Q2 2024, consolidated net worth was Rs. 753 crores, gross debt fell to Rs. 374 crores (from Rs. 448 crores in March 2023).  A special dividend of Rs. 12.50 per share (125% of face value), totaling approximately Rs. 27 crores, was declared.  Receivables days were 30 days (historically around 49-50 days).  Approximately 55-60% of planned CAPEX was already incurred in H1 FY24.",
+              "citations": [
+                "f78b1940e329dad78626989d44502200",
+                "2ddb12ca5360cd2935b9d50f80425ead",
+                "4569af88d2bd278716af65042b54a597",
+                "508e24c3171023a1a4b04be56b9c684f"
+              ]
+            },
+            "['Q1', '2024']": {
+              "answer": "No actual results for Q1 FY24 CAPEX are provided in the data.",
+              "citations": []
+            },
+            "['Q4', '2023']": {
+              "answer": "Actual CAPEX for FY23 was INR 48 crores.",
+              "citations": [
+                "42682b1ef341b7910c69ced13452c762"
+              ]
+            }
+          },
+          "evaluation": {
+            "evaluation": "Expectations Met",
+            "evaluation_reason": "While FY23 CAPEX (INR 48 crores) is slightly below the lower end of the FY24 guidance range, it's sufficiently close to consider expectations met, given the focus on FY24 guidance."
+          }
+        }
+      ]
+    },
+    "['Q2', '2024']": {
+      "themes": [
+        {
+          "theme": "Financial Performance and Growth",
+          "narrative": "Management expressed cautious optimism regarding revenue growth for FY24, projecting a range of 5% to 10% increase compared to the previous year.  This projection considers potential benefits from favorable trade agreements (UK, EU FTA) and the extension of the ROCTL scheme.  However, the growth is moderated compared to previous years' higher growth rates (70-80%).  There's also discussion about maintaining similar H2 performance to the previous year's H2.  The Guatemala joint venture is expected to reach $20-25 million in revenue within 2-3 years.",
+          "management_guidance": {
+            "answer": "A revenue increase of 5% to 10% for FY24 is projected. Maintenance of similar revenue growth in the second half of FY24 compared to the previous year’s second half is anticipated. The Guatemala joint venture is expected to reach $20-25 million in revenue within a 2-3 year timeframe. The Indian textile export industry is expected to benefit from positive long-term prospects, including potential FTAs and the extension of the ROCTL scheme.",
+            "citations": [
+              "300515f8306954e9c74a444c266ba1e3",
+              "72f127e11c5fa8044b218bd09eab43c8",
+              "29e0d7a6cc518cd8931f6f06233ecb75",
+              "963011c87f011c1fbbe5ed984d928efb",
+              "929ce671a1e781026e59c0a09276803d"
+            ]
+          },
+          "actual_results": {
+            "['Q4', '2024']": {
+              "answer": "FY24 Revenue was Rs. 3,436.2 Crs, a 48.8% YoY increase. Q4FY24 Revenue was Rs. 877.4 cr, a 20.2% YoY increase. Overseas revenue increased by 21% YoY. India revenue saw a growth of 17% YoY in Q4FY24.",
+              "citations": [
+                "9782ab87188fabdc1102b7a3993abb5f"
+              ]
+            },
+            "['Q1', '2025']": {
+              "answer": "Q1 2025 saw a 17.7% overall revenue increase, with overseas revenue up 22% and Indian revenue up 7.3%. Other reports mention 15% revenue increases and consolidated revenue reaching INR 1052.8 crores, significantly exceeding the projected range.  While Q2 2024 results aren't provided, the Q1 2025 results significantly exceeded the projected 5-10% growth for FY24.",
+              "citations": [
+                "4fcdc33b8dbfb25196915ab3caacc338",
+                "488c849d4e050a2d30c198d39fc03a5f",
+                "52970a664043b8fa99cfe4efd0de2632",
+                "08444c37ddf6be0d1be49cbc1b372856",
+                "0e4145e970632c29686c1443e60bbbe3",
+                "f3574e2909c83c41637f2d9e2a84bdea"
+              ]
+            },
+            "['Q3', '2024']": {
+              "answer": "Multiple sources report conflicting revenue figures for Q3 FY24. Some indicate a decrease of 1.8% YoY, while others show a decrease of 21.5% YoY. A 9-month figure shows a 5.4% YoY increase. There's also mention of a 20% increase in overseas revenue driven by Bangladesh and Vietnam. The discrepancies require further investigation to reconcile the reported figures.",
+              "citations": [
+                "51c89676aa1d85f6a75bf6dc7c0aa919",
+                "0dc013801d7f537925241359c37502ff",
+                "d96e2cc0db752597fc8de10507e7912b",
+                "f98bb9d7014f8d9ce0d353714d399ce1",
+                "4fc60bda9e2f51c92fa181c782a6c527",
+                "c8589c082cbc653690512e0e1389d8ea"
+              ]
+            },
+            "['Q2', '2024']": {
+              "answer": "Consolidated revenue for Q2 FY24 grew by 12% year-on-year to Rs. 960.6 crores; however, standalone revenue dropped 23% year-on-year to Rs. 218.5 crores.  H1 FY24 saw consolidated revenue growth of 8% year-on-year to Rs. 1,854.8 crores,  with H1 standalone revenue declining 24% year-on-year.  Management aims to maintain 7-8% growth in the second half of FY24.",
+              "citations": [
+                "adb1c5560fe6e852a81cfd30d4b83a26",
+                "29e0d7a6cc518cd8931f6f06233ecb75",
+                "adb1c5560fe6e852a81cfd30d4b83a26",
+                "f78b1940e329dad78626989d44502200",
+                "c0a10522b1c4fb6697ff74625bb8a25c"
+              ]
+            }
+          },
+          "evaluation": {
+            "evaluation": "Expectations Not Met",
+            "evaluation_reason": "While consolidated revenue growth in Q2 exceeded the lower end of the projected range, the significant drop in standalone revenue and overall H1 performance suggests that the full-year target is uncertain, thus partially meeting expectations."
+          }
+        },
+        {
+          "theme": "Profitability and Cost Management",
+          "narrative": "Management highlighted a focus on maintaining profitability despite anticipated wage bill increases (15-20%). Strategies to mitigate this include leveraging dollar advantages, efficiency improvements, and automation.  A dividend policy of at least 20% of consolidated profit after tax has been finalized.  A target of double-digit EBITDA is set for FY24-25.",
+          "management_guidance": {
+            "answer": "Wage bill increase of 15-20% is anticipated, but the impact on turnover is expected to be mitigated (1-1.25%). Reaching double-digit EBITDA in FY24-25 is targeted. A dividend of at least 20% of consolidated profit after tax will be declared annually.",
+            "citations": [
+              "1b0a7b367c961c116a1d9f407332722a",
+              "e38d698dec732bc6521f6c134718820a",
+              "c81c5c256cb11ab05c6169ea2b580ae0",
+              "99a93cee3a82f1f185b2157b335a5ea6",
+              "adb1c5560fe6e852a81cfd30d4b83a26",
+              "d707dff4956975e899dea3fe1211d695"
+            ]
+          },
+          "actual_results": {
+            "['Q4', '2024']": {
+              "answer": "FY24 Adj. EBITDA stood at Rs. 316.4 crores, a 22.5% YoY increase. Q4FY24 Adj. EBITDA stood at Rs. 83.9 crores, a 30.8% YoY increase. FY24 Adj. EBITDA Margin stood at 9.2%, a 100 bps YoY increase. Q4FY24 Adj. EBITDA Margin stood at 9.6%, an 80 bps YoY increase.",
+              "citations": [
+                "9782ab87188fabdc1102b7a3993abb5f"
+              ]
+            },
+            "['Q1', '2025']": {
+              "answer": "In Q1 2025, adjusted EBITDA surpassed INR 100 crores, reaching INR 100.4 crores, exceeding the double-digit target early. However, other reports show conflicting data, with a 34.3% year-on-year decline in adjusted EBITDA to INR 13.3 crores. Further investigation is needed to reconcile these discrepancies.",
+              "citations": [
+                "f3574e2909c83c41637f2d9e2a84bdea",
+                "7723533bbec9c3148fcc4dd698421c35"
+              ]
+            },
+            "['Q3', '2024']": {
+              "answer": "Q3 FY24 saw a significant decrease in Adjusted EBITDA (-0.8 Crs compared to 10.1 Crs in Q3 FY23). However, a 120 bps YoY improvement in EBITDA margin (excluding ESOP expenses) is also reported. The 9-month Adjusted EBITDA margin is reported at 9.1% (a 120 bps YoY improvement), and the Q3 FY24 Adjusted EBITDA margin is at 9.7%. PAT margin for Q3 FY24 is reported as 4.8%.",
+              "citations": [
+                "d96e2cc0db752597fc8de10507e7912b",
+                "4fc60bda9e2f51c92fa181c782a6c527",
+                "aec6700ace189c865da261365c9176e8",
+                "0dc013801d7f537925241359c37502ff",
+                "51c89676aa1d85f6a75bf6dc7c0aa919",
+                "d4c9fe9d05221e3d4c810d388d061583",
+                "9662fd992a8835449d133c7b507d3558"
+              ]
+            },
+            "['Q2', '2024']": {
+              "answer": "Q2 FY24 adjusted EBITDA margin was 8.3%, a 220 bps year-on-year increase. H1 FY24 adjusted EBITDA margin (excluding ESOP expenses) stood at 8.8%, 180 bps higher year-on-year.  Q2 FY24 PAT grew 51% year-on-year to Rs. 39 crores. H1 FY24 PAT was Rs. 86.3 crores versus Rs. 62.3 crores in H1 FY23.",
+              "citations": [
+                "adb1c5560fe6e852a81cfd30d4b83a26",
+                "adb1c5560fe6e852a81cfd30d4b83a26",
+                "f78b1940e329dad78626989d44502200",
+                "d827860a969684fe3f561e0822c772b7"
+              ]
+            }
+          },
+          "evaluation": {
+            "evaluation": "Expectations Exceeded",
+            "evaluation_reason": "The significant increase in EBITDA margin in Q2 and H1 FY24 exceeded expectations, indicating successful mitigation of the anticipated wage bill increase and strong profitability."
+          }
+        },
+        {
+          "theme": "Capital Expenditure and Capacity Utilization",
+          "narrative": "Significant CAPEX (over 120 crores) is planned for FY24 across geographies. A substantial portion (55-60%) has already been incurred in H1.  Capacity expansion is ongoing, with 20% already completed and the remaining 80% to be executed in the remaining year.",
+          "management_guidance": {
+            "answer": "40-45% of the planned CAPEX will be incurred in the remaining part of FY24. 80% of capacity expansion will be completed in the remainder of the year.",
+            "citations": [
+              "508e24c3171023a1a4b04be56b9c684f"
+            ]
+          },
+          "actual_results": {
+            "['Q4', '2024']": {
+              "answer": "Incurred PPE Capex of Rs. 115 crs in FY24.",
+              "citations": [
+                "9782ab87188fabdc1102b7a3993abb5f"
+              ]
+            },
+            "['Q1', '2025']": {
+              "answer": "No direct Q2 2024 or Q1 2025 data on CAPEX spending or capacity utilization completion is available. However, Q1 2025 data suggests capacity utilization varying between 68% and 75%, and in some locations reaching 80-82%.",
+              "citations": [
+                "83a50f5377b10c62b6911a1f9dfa188e",
+                "bc0cb5d5e6d6c5ae287fda3d0b5ac15e"
+              ]
+            },
+            "['Q3', '2024']": {
+              "answer": "Management reported that INR 90 crores of the planned INR 120 crores capex has been incurred. Of this, INR 50 crores went towards capacity enhancement and INR 10 crores towards machinery replacement. No information is provided on the completion percentage of capacity expansion.",
+              "citations": [
+                "77cefa767a9a47f1fed4753cba2a2f0d"
+              ]
+            },
+            "['Q2', '2024']": {
+              "answer": "The provided data does not contain actual results for CAPEX spending or capacity expansion completion in Q2 FY24.",
+              "citations": []
+            }
+          },
+          "evaluation": {
+            "evaluation": "Insufficient Info",
+            "evaluation_reason": "The provided data lacks actual results for Q2 2024 regarding CAPEX spending and capacity expansion completion, preventing a proper evaluation."
+          }
+        },
+        {
+          "theme": "Government Initiatives and Regulatory Environment",
+          "narrative": "Management highlighted the positive impact of potential trade agreements and the extension of the ROCTL scheme on the Indian textile export industry. The extension of the RoSCTL scheme until March 2024 is noted as beneficial for exporters. The PM MITRA scheme is mentioned as a significant government initiative for the creation of textile mega parks.",
+          "management_guidance": {
+            "answer": "While no direct forward-looking statements are made by management regarding these schemes' impact on PGIL specifically for Q3 or Q4 2024, the potential positive impact on the overall industry is noted. ",
+            "citations": [
+              "89996346b2ddf0820c7136e25604eac3"
+            ]
+          },
+          "actual_results": {
+            "['Q4', '2024']": {
+              "answer": "No specific actual results related to government initiatives are provided in the data.",
+              "citations": []
+            },
+            "['Q1', '2025']": {
+              "answer": "No specific data on the impact of these schemes on PGIL's performance in Q2 2024 or Q1 2025 is available.",
+              "citations": []
+            },
+            "['Q3', '2024']": {
+              "answer": "No specific actual results related to the impact of these government initiatives on PGIL are provided in the data.",
+              "citations": []
+            },
+            "['Q2', '2024']": {
+              "answer": "The provided data does not contain actual results related to the impact of government initiatives on PGIL's performance in Q2 FY24.",
+              "citations": []
+            }
+          },
+          "evaluation": {
+            "evaluation": "Insufficient Info",
+            "evaluation_reason": "The provided data does not contain information on the impact of government initiatives on PGIL's Q2 2024 performance."
+          }
+        },
+        {
+          "theme": "Working Capital Management",
+          "narrative": "Receivable days are expected to remain in the 25-35 day range, significantly improved from historical levels (49-50 days).",
+          "management_guidance": {
+            "answer": "Receivable days will remain in the range of 25-35 days.",
+            "citations": [
+              "4569af88d2bd278716af65042b54a597"
+            ]
+          },
+          "actual_results": {
+            "['Q4', '2024']": {
+              "answer": "No specific data on receivable days is available in the provided actual results data.",
+              "citations": []
+            },
+            "['Q1', '2025']": {
+              "answer": "No data on receivable days for Q2 2024 or Q1 2025 is provided.",
+              "citations": []
+            },
+            "['Q3', '2024']": {
+              "answer": "No specific data on receivable days for Q3 FY24 is available in the provided data.",
+              "citations": []
+            },
+            "['Q2', '2024']": {
+              "answer": "Receivable days were 30 days in H1 FY24, significantly improved from historical levels of 49-50 days.",
+              "citations": [
+                "4569af88d2bd278716af65042b54a597"
+              ]
+            }
+          },
+          "evaluation": {
+            "evaluation": "Expectations Met",
+            "evaluation_reason": "The actual receivable days of 30 in H1 FY24 fell within the guided range of 25-35 days."
+          }
+        }
+      ]
+    },
+    "['Q2', '2023']": {
+      "themes": [
+        {
+          "theme": "Financial Performance and Strategy",
+          "narrative": "Management discussed revenue projections for the coming fall, anticipating a potential decrease compared to pre-pandemic levels or the surge seen in 2021-22.  They suggested a possible reduction of 5-15%, but lacked precise figures.  Discussion also included maintaining a revenue run rate of roughly 800 Crores in H2.  There was also commentary on the contribution of partnership factories to overall revenue, indicating a significant increase (from 9% to 20%) year-over-year.  Finally, management addressed the potential revision of FY23 guidance, originally set at 3200 Crores in sales and approximately 7.5% margin in Q1 FY23.  Q3 projections suggest a similar run rate to the previous year (750-800 Crores).",
+          "management_guidance": {
+            "answer": "A potential 5-10% decrease in revenue compared to pre-pandemic levels or the 2021-22 surge is anticipated for the coming fall. A revenue run rate of roughly 800 Crores is expected to be maintained into H2. Q3 is projected to show a similar revenue number as achieved last year (roughly 750-800 Crores). The company aims to achieve double-digit EBITDA margin in coming quarters, possibly by mid-FY25. This is contingent upon product mix and macroeconomic stabilization. Overall EBITDA margin improvement is expected on a full-year basis compared to the previous year.",
+            "citations": [
+              "4a864a015b60a276b480ef6b2a8e8167",
+              "dba9b6a88bd1b047f72071ed90f8021d",
+              "c40041ae070a976b5dc44a547ba549f5",
+              "6667874edf366984431cf9d152ff0cb8",
+              "c33b0fd5a9fa139e977e97c13754f932"
+            ]
+          },
+          "actual_results": {
+            "['Q1', '2024']": {
+              "answer": "In Q1 FY24, revenue increased by 5% year-on-year to INR 894 crores.  Multiple sources report varying revenue growth figures for Q1 FY24, ranging from a 5% increase to a 15% increase, with some sources even indicating a 21.5% year-on-year decrease. The discrepancies highlight the complexity of interpreting data from various sources.",
+              "citations": [
+                "f0018dc3a00ee88d696addbfcb640303",
+                "9a08802e49df321601fb65788dd7843d",
+                "77def0b90582008ff23b10732f9a857b",
+                "5119c993123e73a82f9649804d483f9a",
+                "83b3a391bd0218eb07312f98f541ea44",
+                "0a270803d12cdc6192ab6f146a552a57",
+                "1e754ac0d20054e189a36fce3a5428d2",
+                "e2117861e418a32d7593cc5c68d68164"
+              ]
+            },
+            "['Q4', '2023']": {
+              "answer": "FY23 revenue increased by 16.4% YoY to INR 3,158.4 Crores, exceeding the initially projected 5-15% decrease.  Q4 FY23 revenue was INR 730 Crores, a decrease of 18.5% compared to Q4 FY22. EBITDA margins improved by 290 bps to 8.1% in FY23. EBITDA for FY23 was INR 255.5 Crores, an 81.8% YoY increase. FY23 PBT was INR 175.8 Crores, and FY23 PAT was INR 153 Crores.",
+              "citations": [
+                "05453f5557188599c2bc7e35964a3064",
+                "c4fd6c99b01c97bf15848b0515e77279",
+                "f44169c27e35437ce56fb5a98ea07254",
+                "20d19c306c30f571a0c34ca464250cff",
+                "4b66be26f95e82b9d49c7daf0a97e66b",
+                "03f9c77d3b321f51e2803c1b5d740373"
+              ]
+            },
+            "['Q3', '2023']": {
+              "answer": "In Q3 FY23, revenue grew by 2% to INR 717 crores. Nine-month FY23 revenue increased by 34% year-on-year to INR 2,428 crores. The Q3 margin was 10% versus 6% in Q3 FY22. EBITDA for Q3 FY23 was INR 42.7 Crores, with a margin of 6.1%. Nine-month FY23 EBITDA stood at INR 193 crores, a 91% year-on-year growth, with margins improving by 2.39% year-on-year from 5.5% to 7.9%.",
+              "citations": [
+                "e4f14561ad5de629ec9dcbd93e5b32b8",
+                "b1bdd481087b30004d5b965e893062c1",
+                "1885e2051a99d03cf6cc3b401d81ed04",
+                "0302017fc0cf93c59ccf53d4da3c749a",
+                "394c452d4b77ea3da470e43d0d8a1b10"
+              ]
+            },
+            "['Q2', '2023']": {
+              "answer": "On a consolidated basis, Q2 FY23 revenue increased by 26% year-on-year to Rs. 860.3 Crores. Standalone revenue for Q2 FY23 grew 39% from 216.3 Crores to 300.5 Crores. The partnership factory contribution to overall revenue on a standalone basis was approximately 21% in H1FY23. H1 FY23 revenue increased by 53% Y-o-Y to Rs. 1711.4 Crores (Overseas revenue increased by 30%, India by 60%). Standalone revenue for H1 FY23 was Rs. 628.4 Crores, a growth of 62.7% over H1 FY22. EBITDA margin for Q2 FY23 improved from 5.9% in Q2 FY22 to 6.1%. For H1 FY23, EBITDA margin improved 180 basis points from 5.2% in H1 FY22 to 7%. Adjusted PBT (excluding exceptional items) for Q2 FY23 grew by 38.4% to 32.4 Crores versus 23.4 Crores in Q2 FY22. PAT for Q2 FY23 was 25.9 Crores versus 25.5 Crores in Q2 FY2022.",
+              "citations": [
+                "d00ba7917174347a2ab8c1ddf289d053",
+                "d00ba7917174347a2ab8c1ddf289d053",
+                "5d125b1b4bb8eaf57840341f397c7784",
+                "5d125b1b4bb8eaf57840341f397c7784",
+                "3425f6f16a11bca54a19a6681ee3f8de",
+                "3425f6f16a11bca54a19a6681ee3f8de",
+                "d00ba7917174347a2ab8c1ddf289d053",
+                "d00ba7917174347a2ab8c1ddf289d053",
+                "d00ba7917174347a2ab8c1ddf289d053",
+                "d00ba7917174347a2ab8c1ddf289d053",
+                "d00ba7917174347a2ab8c1ddf289d053",
+                "d00ba7917174347a2ab8c1ddf289d053",
+                "dfa1f2f79b333b0dff965b910c4c0773",
+                "dfa1f2f79b333b0dff965b910c4c0773",
+                "dfa1f2f79b333b0dff965b910c4c0773",
+                "dfa1f2f79b333b0dff965b910c4c0773",
+                "dfa1f2f79b333b0dff965b910c4c0773",
+                "dfa1f2f79b333b0dff965b910c4c0773",
+                "f4630bc736bd4e4703f9a61b3ec29a1b",
+                "f4630bc736bd4e4703f9a61b3ec29a1b",
+                "f4630bc736bd4e4703f9a61b3ec29a1b",
+                "f4630bc736bd4e4703f9a61b3ec29a1b",
+                "f4630bc736bd4e4703f9a61b3ec29a1b",
+                "f4630bc736bd4e4703f9a61b3ec29a1b",
+                "f4630bc736bd4e4703f9a61b3ec29a1b",
+                "f4630bc736bd4e4703f9a61b3ec29a1b",
+                "f4630bc736bd4e4703f9a61b3ec29a1b",
+                "f4630bc736bd4e4703f9a61b3ec29a1b",
+                "f4630bc736bd4e4703f9a61b3ec29a1b",
+                "f4630bc736bd4e4703f9a61b3ec29a1b",
+                "f4630bc736bd4e4703f9a61b3ec29a1b",
+                "f4630bc736bd4e4703f9a61b3ec29a1b",
+                "f4630bc736bd4e4703f9a61b3ec29a1b",
+                "f4630bc736bd4e4703f9a61b3ec29a1b",
+                "f4630bc736bd4e4703f9a61b3ec29a1b",
+                "69ac0e543934e70716284734f11e0469",
+                "69ac0e543934e70716284734f11e0469",
+                "69ac0e543934e70716284734f11e0469",
+                "d75acb4c8fc082c4b5bc27ad6394eb3a",
+                "d75acb4c8fc082c4b5bc27ad6394eb3a",
+                "d75acb4c8fc082c4b5bc27ad6394eb3a"
+              ]
+            }
+          },
+          "evaluation": {
+            "evaluation": "Expectations Exceeded",
+            "evaluation_reason": "Q2 2023 results showed significant revenue growth (26% consolidated, 39% standalone) exceeding the anticipated 5-10% decrease, and a positive EBITDA margin improvement, surpassing the projected revenue decrease and exceeding expectations."
+          }
+        },
+        {
+          "theme": "Operational Efficiency and Expansion",
+          "narrative": "Management indicated a focus on providing complete supply chain solutions to customers.  Plans involve expanding into additional geographies and supply chains beyond the current two major ones.",
+          "management_guidance": {
+            "answer": "Expansion into third and fourth supply chains is planned for the future.",
+            "citations": [
+              "829412629727c48c3c59c58fa63de671"
+            ]
+          },
+          "actual_results": {
+            "['Q1', '2024']": {
+              "answer": "In Q1 FY24, partnership factory contribution to overall revenue stood at 16%.  The company is present in 2 out of 4 supply chain areas.",
+              "citations": [
+                "f0018dc3a00ee88d696addbfcb640303",
+                "9a2fbb3f6983efe39fff81d724349b53"
+              ]
+            },
+            "['Q4', '2023']": {
+              "answer": "Capex of INR 29 Crores was invested in expanding the Indonesia facility, resulting in a 35% capacity increase.  No other specific results related to expansion into new supply chains are available from the provided data.",
+              "citations": [
+                "05453f5557188599c2bc7e35964a3064",
+                "fab80c3818f9ccef4848c130946f98d1"
+              ]
+            },
+            "['Q3', '2023']": {
+              "answer": "No specific quantifiable results related to supply chain expansion are available in the provided data.",
+              "citations": []
+            },
+            "['Q2', '2023']": {
+              "answer": "In-house manufacturing increased by 25% and partnership factory output increased by 163%.",
+              "citations": [
+                "d75acb4c8fc082c4b5bc27ad6394eb3a"
+              ]
+            }
+          },
+          "evaluation": {
+            "evaluation": "Expectations Met",
+            "evaluation_reason": "While specific details on expansion into new supply chains are lacking, the significant increases in both in-house and partnership factory output demonstrate progress towards improving operational efficiency and capacity, aligning with the overall expansion strategy."
+          }
+        },
+        {
+          "theme": "Risk Management and Compliance",
+          "narrative": "The impact of extended RoSCTL scheme (till March 31st, 2024) on exporters of apparel/garment and home textile products was mentioned, highlighting a stable and predictable policy regime for three years.",
+          "management_guidance": {
+            "answer": "No specific forward-looking statements directly from management, but the external factor of the RoSCTL extension is identified as beneficial.",
+            "citations": [
+              "59671d7ff1beeeb933e30e261999567e"
+            ]
+          },
+          "actual_results": {
+            "['Q1', '2024']": {
+              "answer": "No specific actual results related to the RoSCTL scheme are provided in the given data.",
+              "citations": []
+            },
+            "['Q4', '2023']": {
+              "answer": "The extended RoSCTL scheme (until March 31st, 2024) positively impacted apparel/garment and home textile exporters, creating a stable policy regime for three years.  This is corroborated by the provided data.",
+              "citations": [
+                "fc285b1fb31562da7f9982460636c1ba"
+              ]
+            },
+            "['Q3', '2023']": {
+              "answer": "No specific quantifiable results directly related to the RoSCTL scheme are available in the provided data for Q3 2023.",
+              "citations": []
+            },
+            "['Q2', '2023']": {
+              "answer": "No specific results related to the RoSCTL scheme were reported in the provided data.",
+              "citations": []
+            }
+          },
+          "evaluation": {
+            "evaluation": "Insufficient Info",
+            "evaluation_reason": "The provided data for Q2 2023 does not contain any information on the impact of the RoSCTL scheme, preventing an evaluation of its effect on the company's performance."
+          }
+        }
+      ]
+    },
+    "['Q1', '2023']": {
+      "themes": [
+        {
+          "theme": "Revenue Growth and Projections",
+          "narrative": "Management attributes the 95% year-over-year revenue growth to increased contribution from in-house and partnership factories, improved capacity utilization in Vietnam and Bangladesh, and a better product mix.  The company aims to cross Rs. 3,000 crore in revenue for the fiscal year.  External factors such as the IndAUS ECTA are expected to positively impact India's textile exports.  However, major US customers are projecting a 10-30% drop in numbers.",
+          "management_guidance": {
+            "answer": "A 15% revenue growth projection for the next fiscal year; India's textile exports are expected to grow at ~11% CAGR to reach $65 billion by 2026; The company aims to achieve more than Rs. 3,000 crore in revenue for the current fiscal year.",
+            "citations": [
+              "dbbca728c188b0f6be90513eb719e9ef",
+              "f467645f1f15163685cc14576d1166c7",
+              "a5c8b423acdef74dd76b2740e3127d52",
+              "1fd3e34a3395dbd23699800951d502b6"
+            ]
+          },
+          "actual_results": {
+            "['Q3', '2023']": {
+              "answer": "In Q3 FY23, revenue grew by 2% to INR 717 crores. Nine-month FY23 revenue increased by 34% year-on-year to INR 2,428 crores. Some sources indicate a 15% revenue increase in the last quarter. There are conflicting reports regarding revenue growth in Q3, with some sources stating a 2% increase while others show a 15% increase. Retailer demand was down 10-20%.",
+              "citations": [
+                "e4f14561ad5de629ec9dcbd93e5b32b8",
+                "0302017fc0cf93c59ccf53d4da3c749a",
+                "8740431b66afa67483f1929f7bed9bf6",
+                "ad03e23d788ded3d0246ec0471361b2a",
+                "b1bdd481087b30004d5b965e893062c1",
+                "1885e2051a99d03cf6cc3b401d81ed04"
+              ]
+            },
+            "['Q4', '2023']": {
+              "answer": "FY23 revenue increased by 16.4% YoY (05453f5557188599c2bc7e35964a3064, c2c5ab345bf2e82d21cf8590825e7692); Q4 FY23 revenue was Rs. 730 crore (c4fd6c99b01c97bf15848b0515e77279). FY23 revenue also reported as Rs. 3,158.4 crore (05453f5557188599c2bc7e35964a3064, c2c5ab345bf2e82d21cf8590825e7692). Another report shows a 18.2% YoY increase in revenue (03f9c77d3b321f51e2803c1b5d740373, 1980332860f3047bd290000e80e5800e).",
+              "citations": [
+                "05453f5557188599c2bc7e35964a3064",
+                "c2c5ab345bf2e82d21cf8590825e7692",
+                "c4fd6c99b01c97bf15848b0515e77279",
+                "03f9c77d3b321f51e2803c1b5d740373",
+                "1980332860f3047bd290000e80e5800e"
+              ]
+            },
+            "['Q2', '2023']": {
+              "answer": "In Q2 FY23, consolidated revenue increased by 26% year-on-year to Rs. 860.3 Crores. Standalone revenue grew by 39%, from Rs. 216.3 Crores to Rs. 300.5 Crores. H1 FY23 consolidated revenue increased by 53% year-on-year to Rs. 1711.4 Crores. Standalone H1 FY23 revenue was Rs. 628.4 Crores, a 62.7% growth over H1 FY22.",
+              "citations": [
+                "d00ba7917174347a2ab8c1ddf289d053",
+                "d00ba7917174347a2ab8c1ddf289d053",
+                "5d125b1b4bb8eaf57840341f397c7784",
+                "f4630bc736bd4e4703f9a61b3ec29a1b"
+              ]
+            },
+            "['Q1', '2023']": {
+              "answer": "Revenue from Operations increased from Rs. 169.9 crore in Q1 FY22 to Rs. 327.9 crore in Q1 FY23 (a 93% year-over-year increase). Standalone revenue increased due to increased contribution from in-house and partnership factories. Partnership factory contribution to overall revenue increased from 2.8% in Q1 FY22 to 21.3% in Q1 FY23, translating to Rs. 1.9 million on a standalone basis. The company achieved its highest ever first-quarter revenue since inception. Consolidated revenue for Q1 FY23 was Rs. 851 crore, a 95% year-on-year increase. The exceptionally strong Q1 performance meant that even without growth in subsequent quarters, the company could comfortably achieve Rs. 3,000 crore in revenue for the fiscal year.",
+              "citations": [
+                "f3acdb3ced6ae0ae08c2fb0f8e518309",
+                "f3acdb3ced6ae0ae08c2fb0f8e518309",
+                "00eab4f88727372869e3afb17e56c0dd",
+                "00eab4f88727372869e3afb17e56c0dd",
+                "389abf43e6bc9908e1f8917c4ffa1055",
+                "389abf43e6bc9908e1f8917c4ffa1055",
+                "a5c8b423acdef74dd76b2740e3127d52",
+                "1fd3e34a3395dbd23699800951d502b6",
+                "eda72c5e86d09d8b0fda0b52876047dc",
+                "eda72c5e86d09d8b0fda0b52876047dc"
+              ]
+            }
+          },
+          "evaluation": {
+            "evaluation": "Expectations Exceeded",
+            "evaluation_reason": "The 95% YoY revenue growth in Q1 FY23 significantly surpassed the 15% projection for the entire next fiscal year, putting the company well ahead of its Rs. 3,000 crore revenue target for FY23."
+          }
+        },
+        {
+          "theme": "Profitability Metrics and Cost Management",
+          "narrative": "EBITDA improved by 370 basis points to 7.9% in Q1 FY23 from 4.2% in Q1 FY22 due to improved operating efficiency in Vietnam and Bangladesh.  Management acknowledges potential market risks and macro factors that could impact profitability, but states that the company is on track to improve margins.  The company is actively pursuing cost reduction strategies.",
+          "management_guidance": {
+            "answer": "A goal to reduce operational costs by 10% by the end of Q4; A target return on capital employed for incremental partnership arrangements of close to 20%.",
+            "citations": [
+              "dbbca728c188b0f6be90513eb719e9ef",
+              "c73fc8755eec1b04d8c22f0662aafe49"
+            ]
+          },
+          "actual_results": {
+            "['Q3', '2023']": {
+              "answer": "In Q3 FY23, EBITDA margin stood at 10% (vs 6% in Q3 FY22), and EBITDA grew 71% year-on-year for nine months of FY23. The Return on Capital Employed (ROCE) improved from 12.4% at the end of FY22 to 22% in nine months of FY23.",
+              "citations": [
+                "e4f14561ad5de629ec9dcbd93e5b32b8",
+                "0302017fc0cf93c59ccf53d4da3c749a",
+                "bb2a38f1b37d7ffc83986838195ba34a",
+                "b1bdd481087b30004d5b965e893062c1",
+                "394c452d4b77ea3da470e43d0d8a1b10",
+                "1885e2051a99d03cf6cc3b401d81ed04"
+              ]
+            },
+            "['Q4', '2023']": {
+              "answer": "FY23 EBITDA improved by 290bps YoY to 8.1% (05453f5557188599c2bc7e35964a3064, f44169c27e35437ce56fb5a98ea07254); Q4 FY23 EBITDA was Rs. 62.8 crore (c4fd6c99b01c97bf15848b0515e77279), with an 8.6% margin (c4fd6c99b01c97bf15848b0515e77279). FY23 EBITDA also reported as Rs. 255.5 crore (c2c5ab345bf2e82d21cf8590825e7692, f44169c27e35437ce56fb5a98ea07254). Another report shows an EBITDA margin improvement to 6.3% in FY23 (f1011525f351f269b83e33dcce3170b9). Operational costs reduced by 8% in the prior year (1ef1e846301c4dafcfa9f9daf3facdf6, f722172652560dedbbf09bf31511d80b, d97cf2fdeb98e7d64f1ee3a3c83a98c7, 17d29ac940a57c2ddc546ad0e40127c0, 3e23548fe09a4fb7f6aac48787df7718).",
+              "citations": [
+                "05453f5557188599c2bc7e35964a3064",
+                "f44169c27e35437ce56fb5a98ea07254",
+                "c4fd6c99b01c97bf15848b0515e77279",
+                "c2c5ab345bf2e82d21cf8590825e7692",
+                "f1011525f351f269b83e33dcce3170b9",
+                "1ef1e846301c4dafcfa9f9daf3facdf6",
+                "f722172652560dedbbf09bf31511d80b",
+                "d97cf2fdeb98e7d64f1ee3a3c83a98c7",
+                "17d29ac940a57c2ddc546ad0e40127c0",
+                "3e23548fe09a4fb7f6aac48787df7718"
+              ]
+            },
+            "['Q2', '2023']": {
+              "answer": "In Q2 FY23, the EBITDA margin improved from 5.9% in Q2 FY22 to 6.1%.  H1 FY23 EBITDA margin improved by 180 basis points from 5.2% to 7%. ROCE improved significantly from 12.4% in FY22 to 20.4% on a TTM basis.",
+              "citations": [
+                "d00ba7917174347a2ab8c1ddf289d053",
+                "d00ba7917174347a2ab8c1ddf289d053",
+                "5d125b1b4bb8eaf57840341f397c7784",
+                "1228eb89e7285a418911d6b044c9b77a"
+              ]
+            },
+            "['Q1', '2023']": {
+              "answer": "EBITDA increased from Rs. 8.8 crore in Q1 FY22 to Rs. 21.7 crore in Q1 FY23 (a 147% increase). EBITDA margin improved by 140 basis points. PAT margin improved by 290 basis points. PAT increased by 309.1% from Q1 FY22 to Q1 FY23. EBITDA was Rs. 18.2 crore in Q1 FY23, showing a growth of +268.7%. PAT was Rs. 12.5 crore in Q1 FY23. EBITDA margin was 7.9% in Q1 FY23. PAT margin was 4.3% in Q1 FY23.",
+              "citations": [
+                "f3acdb3ced6ae0ae08c2fb0f8e518309",
+                "f3acdb3ced6ae0ae08c2fb0f8e518309",
+                "00eab4f88727372869e3afb17e56c0dd",
+                "389abf43e6bc9908e1f8917c4ffa1055",
+                "389abf43e6bc9908e1f8917c4ffa1055",
+                "389abf43e6bc9908e1f8917c4ffa1055",
+                "389abf43e6bc9908e1f8917c4ffa1055",
+                "558e28f7f09582cdc57301cc0b4df3ba",
+                "558e28f7f09582cdc57301cc0b4df3ba",
+                "558e28f7f09582cdc57301cc0b4df3ba",
+                "558e28f7f09582cdc57301cc0b4df3ba",
+                "558e28f7f09582cdc57301cc0b4df3ba",
+                "7215f465c49f3ca7fec33678737cf427",
+                "7215f465c49f3ca7fec33678737cf427",
+                "7215f465c49f3ca7fec33678737cf427",
+                "e8b78490357a427af53e323e78dc24c5",
+                "e8b78490357a427af53e323e78dc24c5"
+              ]
+            }
+          },
+          "evaluation": {
+            "evaluation": "Expectations Exceeded",
+            "evaluation_reason": "The significant YoY increases in EBITDA and PAT, along with substantial margin improvements in Q1 FY23, exceeded expectations set for cost reduction and margin improvement throughout the fiscal year."
+          }
+        },
+        {
+          "theme": "Operational Efficiency and Expansion",
+          "narrative": "In-house manufacturing increased by 30% in Q1 FY23. The company plans to increase capacity utilization from 65% to 75% during the year.  Existing inventory is expected to be shipped within 90-120 days.",
+          "management_guidance": {
+            "answer": "A plan to increase capacity utilization from 65% to 75%; Existing inventory is expected to be shipped within 90-120 days.",
+            "citations": [
+              "499578b117848bcb92ecd20947d1c824",
+              "d46daa480f31838352fb75e60993ae58"
+            ]
+          },
+          "actual_results": {
+            "['Q3', '2023']": {
+              "answer": "In Q3 FY23, the company shipped approximately 40 million pieces. Annual capacity is over 80 million pieces.",
+              "citations": [
+                "e23b449309535e1caa601983abe228eb",
+                "95dd31f61cf19ad0e65a2bd50ba7df16"
+              ]
+            },
+            "['Q4', '2023']": {
+              "answer": "Blended capacity utilization at 65%+ (3a89ce82527c31cf2ad03690b1ac8761, 5276df78c071247e6ad3a752bffd4664). Capacity increased from 54 million pieces to 74 million (d712b047f068f3da058f63ef4228148b). Indonesia facility expansion increased capacity by 35% (fab80c3818f9ccef4848c130946f98d1).",
+              "citations": [
+                "3a89ce82527c31cf2ad03690b1ac8761",
+                "5276df78c071247e6ad3a752bffd4664",
+                "d712b047f068f3da058f63ef4228148b",
+                "fab80c3818f9ccef4848c130946f98d1"
+              ]
+            },
+            "['Q2', '2023']": {
+              "answer": "In Q2 FY23, in-house manufacturing increased by 25% and partnership factory output increased by 163%.",
+              "citations": [
+                "d75acb4c8fc082c4b5bc27ad6394eb3a"
+              ]
+            },
+            "['Q1', '2023']": {
+              "answer": "In-house manufacturing increased by 30%. The number of pieces shipped increased from 3.2 million in Q1 FY22 to 4.2 million in Q1 FY23. Capacity utilization was in the range of 65%.",
+              "citations": [
+                "00eab4f88727372869e3afb17e56c0dd",
+                "f3acdb3ced6ae0ae08c2fb0f8e518309",
+                "389abf43e6bc9908e1f8917c4ffa1055",
+                "499578b117848bcb92ecd20947d1c824",
+                "2b64da4c35e94f748cf45cf0b0b03e36"
+              ]
+            }
+          },
+          "evaluation": {
+            "evaluation": "Expectations Met",
+            "evaluation_reason": "Q1 results showed that the planned 30% increase in in-house manufacturing was achieved, and capacity utilization remained at the guided 65%.  The information provided does not allow for an evaluation of inventory shipping timelines."
+          }
+        },
+        {
+          "theme": "Geographical Diversification and Global Operations",
+          "narrative": "Currently, 80-85% of the company's presence is in the US market. Management indicates that this will change in the future.",
+          "management_guidance": {
+            "answer": "A shift in geographical market presence away from the current high concentration in the US market.",
+            "citations": [
+              "8d9bee07e5adae0389c25eae623411a8"
+            ]
+          },
+          "actual_results": {
+            "['Q3', '2023']": {
+              "answer": "India's contribution to total revenue is approximately 35%. The company has 22 manufacturing units across 8 countries.",
+              "citations": [
+                "0f79bbe4d3f8b05f38c9fd5ccad9ab26",
+                "3a39d67823da2e7ac183ae3b0e6c5852"
+              ]
+            },
+            "['Q4', '2023']": {
+              "answer": "No specific quantitative results on geographical diversification are provided in the data. However, the company had established offices in US/UK/Spain (c81ae5875f33be4f04f4acf9cd53ae0d), and added 2-3 new customers in India (fab80c3818f9ccef4848c130946f98d1). Less than 10% of business was conducted through agencies (e32575366d55f817bdba473d4e33d6a1).",
+              "citations": [
+                "c81ae5875f33be4f04f4acf9cd53ae0d",
+                "fab80c3818f9ccef4848c130946f98d1",
+                "e32575366d55f817bdba473d4e33d6a1"
+              ]
+            },
+            "['Q2', '2023']": {
+              "answer": "No specific Q2 FY23 data provided on geographical diversification in the provided data.  However, management commentary indicates a continued high concentration in the US market.",
+              "citations": [
+                "dd6145f63d195ab0106249d01d243d69"
+              ]
+            },
+            "['Q1', '2023']": {
+              "answer": "In the last four or five quarters, the company's presence in the US market was 80-85%. Approximately 70% of the company's capacity and turnover came from India and Bangladesh.",
+              "citations": [
+                "8d9bee07e5adae0389c25eae623411a8",
+                "df144b8805f1cc96340bccbf34b40fa0"
+              ]
+            }
+          },
+          "evaluation": {
+            "evaluation": "Expectations Not Met",
+            "evaluation_reason": "Despite management's guidance, the Q1 2023 data indicates no significant change in the high concentration of business in the US market, failing to meet expectations for geographical diversification."
+          }
+        }
+      ]
+    },
+    "['Q3', '2023']": {
+      "themes": [
+        {
+          "theme": "Revenue Growth and Acquisition Integration",
+          "narrative": "Management expressed optimism regarding revenue growth, targeting 15-20% cumulative growth.  The Alpha acquisition is expected to be immediately accretive to both revenue and EBITDA, with a targeted return on capital employed (ROCE) of 18-20% in the first year.  Longer-term,  management projects 20% annual revenue growth for the next three years, even within existing capacity.  However, they acknowledge that the growth trajectory of the previous year might not be fully replicable.  The potential of Alpha to generate $20-$25 million annually was also highlighted.",
+          "management_guidance": {
+            "answer": "Target of 15-20% cumulative revenue growth; Alpha acquisition to be revenue and EBITDA accretive from year one, with ROCE of 18-20%; Potential for 20% annual revenue growth for the next three years; Alpha's potential to generate $20-$25 million annually.",
+            "citations": [
+              "c519d5584a714dd7fc2e5db4d81c03bc",
+              "c4b027cfc7b19229820080575b5f543c",
+              "95dd31f61cf19ad0e65a2bd50ba7df16",
+              "6d0cc95a849858d10aeaf8655b727b78"
+            ]
+          },
+          "actual_results": {
+            "['Q1', '2024']": {
+              "answer": "In Q1 FY24, reported revenue growth varied considerably, ranging from a 5% year-on-year increase to a 15% increase, with one source even reporting a 21.5% year-on-year decrease.  These discrepancies highlight a need for clarification on the exact figures and calculation methods. Data on Alpha's contribution to revenue is unavailable.",
+              "citations": [
+                "f0018dc3a00ee88d696addbfcb640303",
+                "83b3a391bd0218eb07312f98f541ea44",
+                "5119c993123e73a82f9649804d483f9a",
+                "0a270803d12cdc6192ab6f146a552a57",
+                "0ec811a3bdc2c83455ea16e34e037ece",
+                "9a08802e49df321601fb65788dd7843d",
+                "e2117861e418a32d7593cc5c68d68164",
+                "eef2b61ac54942a0f7df870757091653",
+                "77def0b90582008ff23b10732f9a857b",
+                "9d2f7ff04adcf14b115815f14d967f8b"
+              ]
+            },
+            "['Q2', '2024']": {
+              "answer": "In Q2 FY24, consolidated revenue grew by 12% year-on-year. However, standalone revenue decreased by 23% year-on-year. H1 FY24 consolidated revenue showed an 8% year-on-year increase, including Rs. 72 crore from Alpha's integration.",
+              "citations": [
+                "adb1c5560fe6e852a81cfd30d4b83a26",
+                "89deefb078d712a8971d8a1b4c1b4d30",
+                "af8dfd09e9d1073b67d9bf8a37842375",
+                "80a7d0d5730501855f1a47c23c503842",
+                "32a97ab41d5cb71baee2b53dfe2ba16b",
+                "5aeb4948d6ec5f7b24f1138f4e529687",
+                "8b8f26a59693e0f7e9312ef3a1af0163",
+                "f78b1940e329dad78626989d44502200",
+                "2ddb12ca5360cd2935b9d50f80425ead",
+                "6661d70320e84cdef2c526ab0e22f703"
+              ]
+            },
+            "['Q4', '2023']": {
+              "answer": "In Q4 FY23, revenue from operations was INR 730.0 crores. Consolidated revenue for FY23 increased by 16.4% YoY to INR 3,158 crores (compared to INR 2,713.5 crores in FY22). Revenue growth was driven by increased orders from existing customers and improved realisations from acquired customers. The revenue contribution from customers added in the last 5 years doubled in FY23.",
+              "citations": [
+                "05453f5557188599c2bc7e35964a3064",
+                "c4fd6c99b01c97bf15848b0515e77279",
+                "20d19c306c30f571a0c34ca464250cff",
+                "4b66be26f95e82b9d49c7daf0a97e66b",
+                "c2c5ab345bf2e82d21cf8590825e7692",
+                "f44169c27e35437ce56fb5a98ea07254"
+              ]
+            },
+            "['Q3', '2023']": {
+              "answer": "Revenue for Q3 FY23 grew by 2% to INR 717 crores. Revenue for nine months FY23 grew by 42% year-on-year to INR 829 crores. The revenue increase is attributed to improved realisations, Alpha unit integration from Q3 FY23, and improved operational efficiency in Bangladesh units.",
+              "citations": [
+                "e4f14561ad5de629ec9dcbd93e5b32b8",
+                "e4f14561ad5de629ec9dcbd93e5b32b8",
+                "a51d3621e692d370881ddaaa8b2eb2ee"
+              ]
+            }
+          },
+          "evaluation": {
+            "evaluation": "Expectations Not Met",
+            "evaluation_reason": "The 2% revenue growth in Q3 2023 significantly fell short of the guided 15-20% cumulative growth, and while Alpha's integration began, its specific financial impact remains unclear, preventing a full assessment of its contribution to revenue."
+          }
+        },
+        {
+          "theme": "Profitability and Margin Improvement",
+          "narrative": "Management anticipates high single-digit margins for the full year due to improved efficiency and capacity utilization.  The long-term goal is to achieve stable double-digit margins, contingent on stable global economic conditions.  The ROCE improvement from 12.4% to 22% in nine months of FY23 was highlighted.",
+          "management_guidance": {
+            "answer": "High single-digit margins for the full year; Transition to double-digit margins in the medium to long term; Alpha acquisition targeting 15-20% ROCE in the first year, stabilizing at 18-20% over two to three years.",
+            "citations": [
+              "0302017fc0cf93c59ccf53d4da3c749a",
+              "e4f14561ad5de629ec9dcbd93e5b32b8",
+              "c4b027cfc7b19229820080575b5f543c",
+              "dcae54c6aa0ccfdb1260c9d265855a5c",
+              "6d0cc95a849858d10aeaf8655b727b78"
+            ]
+          },
+          "actual_results": {
+            "['Q1', '2024']": {
+              "answer": "In Q1 FY24, EBITDA margin expanded by 140 basis points year-on-year to 9.3%.  Other sources provided various PAT margins and EPS data for different quarters, but these don't directly align with management's guidance of high single-digit margins for the full year.  Available data shows varied profitability metrics, making accurate assessment complex. Information on Alpha's impact on profitability is missing.",
+              "citations": [
+                "f0018dc3a00ee88d696addbfcb640303",
+                "0a270803d12cdc6192ab6f146a552a57",
+                "83b3a391bd0218eb07312f98f541ea44",
+                "0ec811a3bdc2c83455ea16e34e037ece",
+                "3778ca2d2060b5625daf82d242968c1c",
+                "8062bef280674afd99616648ddea608b",
+                "31607c15323c29478c47cbeabe12fe68",
+                "5119c993123e73a82f9649804d483f9a",
+                "9d2f7ff04adcf14b115815f14d967f8b",
+                "b698cf1d549a3ca387632911bbf58292"
+              ]
+            },
+            "['Q2', '2024']": {
+              "answer": "In Q2 FY24, the adjusted EBITDA margin reached 8.3%, a 220 bps year-on-year increase. The H1 FY24 adjusted EBITDA margin (excluding ESOP expenses) was 8.8%, representing a 180 bps year-on-year improvement. H1 FY24 ROCE improved by 660 bps to 30.8% from 24.2% in FY23. However, the standalone Q2 FY24 adjusted EBITDA margin was 4.2%.",
+              "citations": [
+                "f78b1940e329dad78626989d44502200",
+                "adb1c5560fe6e852a81cfd30d4b83a26",
+                "300515f8306954e9c74a444c266ba1e3",
+                "2ddb12ca5360cd2935b9d50f80425ead",
+                "074259d633127f58fa51ae23bc895d1f",
+                "6661d70320e84cdef2c526ab0e22f703",
+                "c0a10522b1c4fb6697ff74625bb8a25c"
+              ]
+            },
+            "['Q4', '2023']": {
+              "answer": "FY23 EBITDA margin improved by 290 bps to 8.1% from 5.2% in FY22. ROCE improved from 12.2% in FY22 to 24.2% in FY23. Q4 FY23 EBITDA was INR 62.8 crores, with an EBITDA margin of 8.6%. FY23 PAT was INR 153 crores.",
+              "citations": [
+                "05453f5557188599c2bc7e35964a3064",
+                "c4fd6c99b01c97bf15848b0515e77279",
+                "20d19c306c30f571a0c34ca464250cff",
+                "f44169c27e35437ce56fb5a98ea07254"
+              ]
+            },
+            "['Q3', '2023']": {
+              "answer": "Q3 FY23 margin was 6.1%. EBITDA for Q3 FY23 was 42.7 INR crores. PAT for Q3 FY23 was 37.4 INR crores. Adjusted PBT for Q3 FY23 increased by 115.8% compared to Q3 FY22. EBITDA grew 71% year-on-year for nine months FY23.",
+              "citations": [
+                "b1bdd481087b30004d5b965e893062c1",
+                "b1bdd481087b30004d5b965e893062c1",
+                "b1bdd481087b30004d5b965e893062c1",
+                "b1bdd481087b30004d5b965e893062c1",
+                "e4f14561ad5de629ec9dcbd93e5b32b8"
+              ]
+            }
+          },
+          "evaluation": {
+            "evaluation": "Expectations Met",
+            "evaluation_reason": "The Q3 2023 margin of 6.1% falls within the management's guidance of high single-digit margins for the full year."
+          }
+        },
+        {
+          "theme": "Market Expansion and Government Initiatives",
+          "narrative": "Management is exploring expansion strategies in India, leveraging the PLI scheme or expanding existing units.  The potential for significant growth in the Indian market ($120 million turnover currently) was emphasized.  The company is also aware of and considering the implications of the MITRA scheme for mega textile parks.  The impact of PLI scheme benefits is anticipated in a couple of years.  The extension of the RoSCTL scheme until March 2024 is viewed positively due to its impact on export predictability.",
+          "management_guidance": {
+            "answer": "Potential for significant growth in the Indian market beyond the current $120 million turnover; Positive outlook on the extension of the RoSCTL scheme until March 2024.",
+            "citations": [
+              "aeaac283e4ffa3a388ccf4543097d259",
+              "a691ee1ac28d5d388e5400955080e303"
+            ]
+          },
+          "actual_results": {
+            "['Q1', '2024']": {
+              "answer": "The provided data lacks specific, quantifiable results regarding market expansion in India or the impact of government initiatives in Q1 FY24.  While there is mention of geographical revenue split and export performance, these are broad market trends and not directly linked to the company's specific performance related to the stated guidance.",
+              "citations": [
+                "6db66b570232054afbaf073388150b7b",
+                "9620459c3bb155abb25f3aeb4d0e81cf"
+              ]
+            },
+            "['Q2', '2024']": {
+              "answer": "No specific quantifiable actual results related to market expansion or government initiatives are provided in the Q2 FY24 data.",
+              "citations": []
+            },
+            "['Q4', '2023']": {
+              "answer": "No specific Q4 FY23 results directly related to market expansion or government initiatives are provided in the data.",
+              "citations": []
+            },
+            "['Q3', '2023']": {
+              "answer": "No specific quantifiable results related to market expansion or government initiatives are provided in the data for Q3 2023.",
+              "citations": []
+            }
+          },
+          "evaluation": {
+            "evaluation": "Insufficient Info",
+            "evaluation_reason": "The provided data lacks specific quantifiable results for Q3 2023 regarding market expansion in India or the impact of government initiatives, preventing any evaluation against management's guidance."
+          }
+        },
+        {
+          "theme": "Working Capital Management",
+          "narrative": "The company is adopting a cautious approach to raw material procurement, anticipating purchasing 10-20% less to maintain financial flexibility.",
+          "management_guidance": {
+            "answer": "Plan to purchase 10-15% or 20% less raw materials.",
+            "citations": [
+              "4f3945dc043ce34e6849f5149ea2b81f"
+            ]
+          },
+          "actual_results": {
+            "['Q1', '2024']": {
+              "answer": "No information is available in the provided Q1 FY24 data regarding the actual reduction in raw material purchases.",
+              "citations": []
+            },
+            "['Q2', '2024']": {
+              "answer": "No specific quantifiable actual results related to working capital management are directly provided in the Q2 FY24 data. However, the reduction in inventory in India is mentioned in relation to revenue reduction.",
+              "citations": [
+                "91e2ccfb39bd4f35a14786831cae4c49"
+              ]
+            },
+            "['Q4', '2023']": {
+              "answer": "No specific Q4 FY23 results directly related to working capital management (raw material purchases) are provided in the data. However, data shows improvements in working capital days (from 63 to 40) and other working capital metrics.",
+              "citations": [
+                "9099c7eda28200db2086597d254522aa",
+                "b66508c55035fd085bc9faf294d70ab9",
+                "f1011525f351f269b83e33dcce3170b9"
+              ]
+            },
+            "['Q3', '2023']": {
+              "answer": "No specific quantifiable results related to working capital management are provided in the data for Q3 2023.",
+              "citations": []
+            }
+          },
+          "evaluation": {
+            "evaluation": "Insufficient Info",
+            "evaluation_reason": "The provided data for Q3 2023 does not contain information on the actual reduction in raw material purchases, preventing an evaluation of the working capital management strategy."
+          }
+        }
+      ]
+    },
+    "['Q4', '2022']": {
+      "themes": [
+        {
+          "theme": "Financial Performance and Strategy",
+          "narrative": "Management highlighted the company's focus on improving operational efficiencies to enhance its return on capital employed (ROCE).  They linked this to expected robust growth in both topline (revenue) and bottom-line (profit) performance.  The narrative also included external factors, specifically referencing the positive impact of favorable government policies and the company's asset-light business model.  Additionally, the impact of the India-Australia Economic Cooperation and Trade Agreement (ECTA) on textile and apparel exports was mentioned.",
+          "management_guidance": {
+            "answer": "Management expects continued efforts to improve operational efficiencies will lead to a robust growth in both topline and bottom-line. Due to the India-Australia ECTA, Indian textile and apparel exports are projected to increase to US$1100 million within the next 3 years. Indian textile exports are anticipated to grow at a ~11% CAGR, reaching $65 billion by 2026 from a pre-COVID level of $36 billion in 2019.",
+            "citations": [
+              "0b15fee1379681b352cc39495d3c2b84",
+              "2335f76bc0d8181ae73e7aa9980eb09a",
+              "2335f76bc0d8181ae73e7aa9980eb09a"
+            ]
+          },
+          "actual_results": {
+            "['Q3', '2023']": {
+              "answer": "In Q3 2023, consolidated revenue grew by 2% to INR 717 crores. Nine-month FY23 revenue increased by 34% year-on-year to INR 2,428 crores due to improved product mix, better realization per piece, improved capacity utilization from Bangladesh and Vietnam factories, and improved operational efficiency in Bangladesh. Revenue for nine months FY’23 also grew 42% year-on-year to INR 829 crores. Various sources reported different revenue growth percentages for Q3 2023, ranging from 1% to 15%, reflecting inconsistencies in reporting or different business segments.",
+              "citations": [
+                "e4f14561ad5de629ec9dcbd93e5b32b8",
+                "0302017fc0cf93c59ccf53d4da3c749a",
+                "e4f14561ad5de629ec9dcbd93e5b32b8",
+                "8740431b66afa67483f1929f7bed9bf6",
+                "a2720f8f9f2d6d2486b03c23f478ebac",
+                "b1bdd481087b30004d5b965e893062c1",
+                "1885e2051a99d03cf6cc3b401d81ed04",
+                "394c452d4b77ea3da470e43d0d8a1b10",
+                "88740468d5a958a78255c06af1922f72",
+                "deb0702837199b0b9cd38093d650db90",
+                "92214cfd92092ba9077a2f1647fc946d"
+              ]
+            },
+            "['Q4', '2022']": {
+              "answer": "Revenue from Operations was INR 896.0 CRS in Q4 FY22. Revenue increased by 82% year-over-year. EBITDA increased by 132% to INR 140.6 CRS. PAT increased by 300% to INR 70.1 CRS. ROCE improved by 690 bps to 12.4% from 5.5% in FY21.",
+              "citations": [
+                "abfe6f7445e667763451fcae67f5ae85",
+                "0b15fee1379681b352cc39495d3c2b84",
+                "858a7023b6e7b752fdb94f70b38f35cc"
+              ]
+            },
+            "['Q2', '2023']": {
+              "answer": "In Q2 FY23, consolidated revenue increased by 26% year-on-year to Rs. 860.3 Crores, and standalone revenue grew by 39% to Rs. 300.5 Crores. On a consolidated basis, H1 FY23 revenue increased by 53% year-on-year to Rs. 1711.4 Crores, with overseas revenue up 30% and India revenue up 60%. Standalone H1 FY23 revenue showed a 62.7% growth to Rs. 628.4 Crores. The H1 FY23 results represented the highest ever half-yearly revenue. EBITDA margin for Q2 FY23 improved to 6.1% from 5.9% in Q2 FY22, and H1 FY23 EBITDA margin improved by 180 basis points to 7% from 5.2% in H1 FY22. Consolidated EBITDA for H1 FY23 increased by 106%, and standalone EBITDA increased by 109.6%. Consolidated ROCE on a trailing twelve months (TTM) basis improved significantly to 20.4% from 12.4% in FY22. Standalone ROCE improved to 16.2% from 10.3% in FY22.",
+              "citations": [
+                "d00ba7917174347a2ab8c1ddf289d053",
+                "dfa1f2f79b333b0dff965b910c4c0773",
+                "5d125b1b4bb8eaf57840341f397c7784",
+                "1228eb89e7285a418911d6b044c9b77a",
+                "97aca4f6b5ca577a86a799744099374f",
+                "8a77d6f3dc1ba05e08aedee5c3800352"
+              ]
+            },
+            "['Q1', '2023']": {
+              "answer": "In Q1 2023, revenue from operations increased by 93% year-over-year to 327.9 INR CRS. The partnership factory contributed 21.3% to overall revenue (1.9 million on a standalone basis), up from 2.8% in Q1 FY22. Management described Q1 FY23 revenue as the highest ever first-quarter revenue since inception.",
+              "citations": [
+                "f3acdb3ced6ae0ae08c2fb0f8e518309",
+                "00eab4f88727372869e3afb17e56c0dd",
+                "389abf43e6bc9908e1f8917c4ffa1055",
+                "7215f465c49f3ca7fec33678737cf427"
+              ]
+            }
+          },
+          "evaluation": {
+            "evaluation": "Expectations Exceeded",
+            "evaluation_reason": "The 82% revenue growth, 132% EBITDA growth, and 300% PAT growth significantly exceeded the vaguely defined \"robust growth\" projected by management, demonstrating a substantial outperformance in Q4 2022.  The ROCE improvement also surpassed any explicitly stated targets."
+          }
+        }
+      ]
+    }
+  },
+  "step": 3,
+  "updated_at": {
+    "$date": "2024-11-20T04:39:42.974Z"
+  }
+}

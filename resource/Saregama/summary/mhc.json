@@ -1,0 +1,1836 @@
+{
+    "_id": "MHC_guidance_actuals_report_3",
+    "company_name": "MHC",
+    "created_at": {
+      "$date": "2024-11-21T07:22:53.548Z"
+    },
+    "guidance_actuals": {
+      "['Q3', '2024']": {
+        "themes": [
+          {
+            "theme": "Capacity Expansion and Utilization",
+            "narrative": "Management extensively discussed plans for significant capacity expansion, primarily through the addition of beds across multiple hospitals.  They expressed confidence in the rapid absorption of this increased capacity.  Specific mention was made of adding beds in Lucknow and expanding existing facilities.  Discussions also touched upon the expected case mix for new beds and the timeline for integrating the financials of acquired businesses.",
+            "management_guidance": {
+              "answer": "Management projects adding 800-900 beds within the next three years, with further expansion plans beyond FY28. They anticipate reaching approximately 550 beds within a couple of years. Management believes that newly added capacity (a 40% increase) will be filled almost immediately. They aim to double the bed count over the next four to five years. Integration of acquired business financials is expected by Q1 FY25. A significant increase in capacity (approximately double the bed capacity) is planned over the next 4-5 years. This is described as ROCE accretive.",
+              "citations": [
+                "73768b0cbe4777b90bb6cbe803dc3ac7",
+                "20ba5f3c1a900eed91f24db2ddeac8c3",
+                "3c8f5a71967b5da55b58e2d56df6f03a",
+                "b2f08f1ed1c426f8b81b59a34872f753",
+                "b59a6262ae6dfc4f54f5c3f0428f2b05",
+                "302d8d62f4b9a9ef295f73b6f9038faf",
+                "302d8d62f4b9a9ef295f73b6f9038faf"
+              ]
+            },
+            "actual_results": {
+              "['Q3', '2024']": {
+                "answer": "No specific actual results on bed additions or occupancy rates for Q3 2024 are provided in the given data.",
+                "citations": []
+              },
+              "['Q4', '2024']": {
+                "answer": "No actual results for Q3 2024 are provided in the given data.",
+                "citations": []
+              },
+              "['Q1', '2025']": {
+                "answer": "No actual results for bed additions or financial integration are provided in the Q1 2025 data.",
+                "citations": []
+              }
+            },
+            "evaluation": {
+              "evaluation": "Insufficient Info",
+              "evaluation_reason": "The provided data for Q3 2024 lacks specific information on bed additions or occupancy rates, preventing an evaluation of whether management's guidance on capacity expansion was met."
+            }
+          },
+          {
+            "theme": "Financial Performance (Specific to Growth and EBITDA)",
+            "narrative": "Management provided commentary on revenue growth rate and EBITDA margin, focusing on the trajectory of growth rather than simply stating the numbers.  They expressed confidence in future growth and the achievement of financial targets.  The discussion included the cost of ongoing capacity expansion projects.",
+            "management_guidance": {
+              "answer": "Revenue is growing at a 25% CAGR and this pace is expected to continue. They aim to improve financial parameters to match or exceed peers within a couple of years. They expect to achieve a 9-10% growth in ARPOB, which is considered reasonable. Initial losses related to expansion are not expected to exceed Rs. 30-40 crore. They aim to achieve their financial targets faster than anticipated. INR 265 Cr from cash from operations has been deployed for ongoing capacity expansion projects.",
+              "citations": [
+                "55f76d2c386bbc8633c933b6280efaf7",
+                "66fe3dfe985575a386e6153968a9a0dd",
+                "f89ad1ede529aa7751e0cd3a27728fbb",
+                "e5373cc0da38bd42ac61691bb6065cc3",
+                "476d71ab38c5d5e6f2bdae998df75e92",
+                "95724654dfda3743fdf38c0f11790b29"
+              ]
+            },
+            "actual_results": {
+              "['Q3', '2024']": {
+                "answer": "In Q3 2024, gross revenue was INR 1,779 Cr (14% YoY growth, -3% QoQ).  Operating EBITDA was INR 471 Cr (12% YoY growth, -5% QoQ). Pre-tax ROCE was 33.9% (compared to 34.2% in Q3 FY23 and 38.3% in Q2 FY24). ARPOB was INR 76,800 (15% YoY growth, 3% QoQ growth).  These results are partially below management's guidance, particularly regarding the QoQ performance.",
+                "citations": [
+                  "ef99919d034082e6cd277ec658ed1587",
+                  "ee567d3545c38f83b31909cf03b97ed4",
+                  "45ed886bc222515bd53e570ed344e8c7"
+                ]
+              },
+              "['Q4', '2024']": {
+                "answer": "In Q4 FY24, revenue growth was 15% year-over-year (based on eb635e6849bca3d91e1f199128ff6d5f and 095e8804e4efa9b83452ead83681b52e). Operating EBITDA for the quarter was INR 503 crore (eba07af0b1eedb75a5a340b8ae1fdebd), showing a 15% YoY growth (eb635e6849bca3d91e1f199128ff6d5f). Further details on ARPOB and specific losses related to expansion are not explicitly stated within the Q4 FY24 data but are implied by other data points.",
+                "citations": [
+                  "eb635e6849bca3d91e1f199128ff6d5f",
+                  "095e8804e4efa9b83452ead83681b52e",
+                  "eba07af0b1eedb75a5a340b8ae1fdebd"
+                ]
+              },
+              "['Q1', '2025']": {
+                "answer": "In Q1 FY25, Network gross revenue was Rs. 1,929 crore (various citations support this, including a2214cb177b8f6c8c7fef056823f30ad and daaba014448b5713e646aeaf0ef366ad), showing growth. Specific numbers for ARPOB and EBITDA margin are available in multiple citations (a2214cb177b8f6c8c7fef056823f30ad, ef15c259c601bd01b75b305c1d806315, 5c237dac89570502da32bc4fb0e66dc9,  daaba014448b5713e646aeaf0ef366ad) but require further analysis to determine if they meet the guidance. Information on losses related to expansion is not explicitly present in the Q1 2025 data.",
+                "citations": [
+                  "a2214cb177b8f6c8c7fef056823f30ad",
+                  "daaba014448b5713e646aeaf0ef366ad",
+                  "ef15c259c601bd01b75b305c1d806315",
+                  "5c237dac89570502da32bc4fb0e66dc9"
+                ]
+              }
+            },
+            "evaluation": {
+              "evaluation": "Expectations Not Met",
+              "evaluation_reason": "While YoY growth in revenue and ARPOB was positive and exceeded management's forecast, the QoQ performance fell short of expectations, showing negative growth.  The data does not provide information on EBITDA margin or expansion losses to fully assess the guidance."
+            }
+          },
+          {
+            "theme": "Geographical Expansion",
+            "narrative": "Management highlighted plans for geographical expansion, specifically mentioning Lucknow as a target location for additional healthcare facilities.",
+            "management_guidance": {
+              "answer": "Management is actively pursuing opportunities in Lucknow to establish more healthcare facilities.",
+              "citations": [
+                "606e4c44c1f58eb39ceda5691b2669e3"
+              ]
+            },
+            "actual_results": {
+              "['Q3', '2024']": {
+                "answer": "No specific actual results regarding geographical expansion in Lucknow are provided in the data for Q3 2024.",
+                "citations": []
+              },
+              "['Q4', '2024']": {
+                "answer": "No specific actual results concerning geographical expansion in Lucknow are provided within the Q3 2024 or Q4 2024 data. The acquisitions of hospitals in Nagpur and Lucknow are mentioned, but the impact on geographical expansion is not quantified in the provided data.",
+                "citations": []
+              },
+              "['Q1', '2025']": {
+                "answer": "No specific data on new facilities opened in Lucknow in Q1 FY25 is provided in the given dataset.",
+                "citations": []
+              }
+            },
+            "evaluation": {
+              "evaluation": "Insufficient Info",
+              "evaluation_reason": "The Q3 2024 data lacks specific information on geographical expansion in Lucknow, preventing an assessment of whether management's plans were implemented."
+            }
+          }
+        ]
+      },
+      "['Q4', '2024']": {
+        "themes": [
+          {
+            "theme": "Capacity Expansion and Operational Efficiency",
+            "narrative": "Management highlights significant bed capacity additions across multiple locations (Lucknow, Nagpur, Mohali, Nanavati, Max Saket).  These expansions are presented as key drivers of future EBITDA growth and improved Return on Capital Employed (ROCE). There's also discussion around improving operational efficiencies to achieve targeted margins.  Specific timelines and bed counts are provided for several projects.",
+            "management_guidance": {
+              "answer": "Expectation of breakeven within a year of operation for new hospitals; Adding incremental EBITDA from Lucknow and Nagpur, offsetting initial losses in Dwarka; Targeting improved operating margins to 15% by the end of the fiscal year; Adding 140 beds in one location and another 450 beds elsewhere; Adding 140 beds in Lucknow and refurbishing 250 beds by December 2024; further expansion planned; Three new capacities (Mohali, Nanavati, Max Saket) adding 771 beds, coming online in early FY26; ROCE accretive additions of ~2,600 beds via brownfield expansion; Target ROCE of 20-25% within 4-5 years post-acquisition for new units; Reduction in operational costs by 10% by the end of the fiscal year.",
+              "citations": [
+                "5d2a56627d9a309e86ad830b810767fa",
+                "f00704c9ff2c62762163151ceb6aba2b",
+                "74007cf72ee5b8a48c09e3915e9fe73c",
+                "b72dd71b87e6e70a676fe3fbc2e2653a",
+                "abe1d1ac4db248c1f187104cbde6b53a",
+                "4f6e25709849beb78ba38689437556e0",
+                "8856d18e2876f08a6854d2a1e4895493",
+                "8856d18e2876f08a6854d2a1e4895493",
+                "075973abf1395a5012b3c34a8f311867",
+                "1c52466313e94811d32b8777f6a614c4"
+              ]
+            },
+            "actual_results": {
+              "['Q4', '2024']": {
+                "answer": "The new hospitals added Rs. 42 crore of revenue and Rs. 3 crore of EBITDA in Q4, but incurred a net loss of Rs. 11 crore (including one-time transaction expenses). Overall Network gross revenue was Rs. 1,890 crore, a 15% year-on-year and 6% quarter-on-quarter increase. Network operating EBITDA was Rs. 503 crore, a 15% year-on-year and 7% quarter-on-quarter growth.",
+                "citations": [
+                  "5d562be65b83efbd7e16437d8b79118c"
+                ]
+              },
+              "['Q1', '2025']": {
+                "answer": "No actual results for Q4 2024 are provided in the data.",
+                "citations": []
+              }
+            },
+            "evaluation": {
+              "evaluation": "Expectations Not Met",
+              "evaluation_reason": "While revenue and EBITDA were generated from new hospitals, the net loss of Rs. 11 crore in Q4 2024, including one-time expenses, demonstrates failure to meet the breakeven expectation within a year of operation for new hospitals as guided."
+            }
+          },
+          {
+            "theme": "Revenue Growth and Financial Performance",
+            "narrative": "Management provides projections for revenue growth,  but these are intertwined with the capacity expansion plans and improved operational efficiencies. The focus is less on a single revenue number and more on the drivers of revenue improvement.",
+            "management_guidance": {
+              "answer": "Revenue growth projection of approximately 10% for the next quarter; Targeting a 10% increase in ARPOB for the next fiscal year; Targeting a 15% revenue growth in the next fiscal year.",
+              "citations": [
+                "74007cf72ee5b8a48c09e3915e9fe73c",
+                "612e0f84bc10a5207b6a4e6c789f06ef",
+                "9fb03d897cc09c119d2db55e4710bd4a"
+              ]
+            },
+            "actual_results": {
+              "['Q4', '2024']": {
+                "answer": "In Q4 FY24, gross revenue reached INR 1,890 Cr, marking a 15% year-over-year growth. ARPOB improved to Rs. 78,100, a 10% year-on-year and 2% quarter-on-quarter increase.",
+                "citations": [
+                  "eb635e6849bca3d91e1f199128ff6d5f",
+                  "095e8804e4efa9b83452ead83681b52e",
+                  "5d562be65b83efbd7e16437d8b79118c",
+                  "50eb9f4b22b943f25671f222ca356144"
+                ]
+              },
+              "['Q1', '2025']": {
+                "answer": "In Q1 2025, various reports indicated revenue growth.  However, the specific numbers (ef15c259c601bd01b75b305c1d806315, a2214cb177b8f6c8c7fef056823f30ad, daaba014448b5713e646aeaf0ef366ad, 5c237dac89570502da32bc4fb0e66dc9, dfe3ad0b4c2fbe463e36e738ada912c0) don't precisely match the original guidance of 10% for the next quarter or 15% for the next fiscal year.",
+                "citations": [
+                  "ef15c259c601bd01b75b305c1d806315",
+                  "a2214cb177b8f6c8c7fef056823f30ad",
+                  "daaba014448b5713e646aeaf0ef366ad",
+                  "5c237dac89570502da32bc4fb0e66dc9",
+                  "dfe3ad0b4c2fbe463e36e738ada912c0"
+                ]
+              }
+            },
+            "evaluation": {
+              "evaluation": "Exceeded expectations",
+              "evaluation_reason": "The 15% year-on-year revenue growth in Q4 2024 exceeded the projected 10% growth for the next quarter, exceeding management's guidance."
+            }
+          },
+          {
+            "theme": "Research and Academic Output",
+            "narrative": "Management mentions a significant number of scientific publications in high-impact factor journals, suggesting a continued focus on research and academic contributions.",
+            "management_guidance": {
+              "answer": "100 scientific publications in high impact factor journals during Q4 FY24.",
+              "citations": [
+                "29f7fbcf04a28982ddfca4efdd334199"
+              ]
+            },
+            "actual_results": {
+              "['Q4', '2024']": {
+                "answer": "Management reported 100 scientific publications in high-impact factor journals during Q4 FY24.",
+                "citations": [
+                  "29f7fbcf04a28982ddfca4efdd334199"
+                ]
+              },
+              "['Q1', '2025']": {
+                "answer": "In Q1 2025, reports indicated significant scientific publications (88855bb599c32302167488d41631cd66, 48f2767fedc18cbc60dc52c6fc01a294), but the exact number didn't meet the 100-publication target.",
+                "citations": [
+                  "88855bb599c32302167488d41631cd66",
+                  "48f2767fedc18cbc60dc52c6fc01a294"
+                ]
+              }
+            },
+            "evaluation": {
+              "evaluation": "Expectations Met",
+              "evaluation_reason": "The actual number of publications (100) precisely matched the management's guidance."
+            }
+          },
+          {
+            "theme": "Market Positioning and Competitive Strategy",
+            "narrative": "Management expresses confidence in its ability to outperform competitors in selected markets, highlighting strategic location choices for new hospitals and suggesting a focus on high-value, competitive territories.",
+            "management_guidance": {
+              "answer": "Confidence in outperforming competitors in markets where peers have demonstrated viability.",
+              "citations": [
+                "71a1b072c2ba30005291fd62223a0327"
+              ]
+            },
+            "actual_results": {
+              "['Q4', '2024']": {
+                "answer": "No specific quantifiable actual results were provided regarding market share or competitive performance in the provided data.",
+                "citations": []
+              },
+              "['Q1', '2025']": {
+                "answer": "No direct quantitative results are available to assess market outperformance in Q1 2025. Qualitative statements (e.g., 9d1227ad65171f5f9f217498639bffc5) exist but lack specific metrics for confirmation or refutation of management guidance.",
+                "citations": [
+                  "9d1227ad65171f5f9f217498639bffc5"
+                ]
+              }
+            },
+            "evaluation": {
+              "evaluation": "Insufficient Info",
+              "evaluation_reason": "The lack of quantifiable data on market share or competitive performance in Q4 2024 prevents an assessment of whether management's guidance on outperforming competitors was met."
+            }
+          }
+        ]
+      },
+      "['Q4', '2023']": {
+        "themes": [
+          {
+            "theme": "Expansion of Bed Capacity",
+            "narrative": "Management outlined a plan for significant expansion of bed capacity, aiming to more than double capacity within the next 5-6 years.  This expansion will be achieved through a combination of strategies including brownfield accretive projects, asset-light properties, and greenfield projects.  The potential exists to add 1,000 beds.",
+            "management_guidance": {
+              "answer": "Management expects to significantly increase bed capacity (more than double) over the next 5-6 years.",
+              "citations": [
+                "791a7951b1001c457efe6278c19b2c9c"
+              ]
+            },
+            "actual_results": {
+              "['Q3', '2024']": {
+                "answer": "No actual results for bed capacity expansion are available for Q4 2023 in the provided data.",
+                "citations": []
+              },
+              "['Q4', '2023']": {
+                "answer": "No actual results for bed capacity expansion are provided in the data for Q4 2023.",
+                "citations": []
+              },
+              "['Q1', '2024']": {
+                "answer": "No actual results for bed capacity expansion are available for Q4 2023 or Q1 2024 in the provided data.",
+                "citations": []
+              },
+              "['Q2', '2024']": {
+                "answer": "No actual results for bed capacity expansion are available for Q4 2023 in the provided data.  Information regarding bed capacity additions is available for other quarters, but not Q4 2023.",
+                "citations": []
+              }
+            },
+            "evaluation": {
+              "evaluation": "Insufficient Info",
+              "evaluation_reason": "No data on bed capacity expansion is available for Q4 2023 to assess whether management's long-term guidance was met, exceeded, or not met during that quarter."
+            }
+          }
+        ]
+      },
+      "['Q1', '2024']": {
+        "themes": [
+          {
+            "theme": "Market Position and Competition",
+            "narrative": "Management commentary focuses on a significant expansion of bed capacity through greenfield expansion.  This indicates a strategic initiative to increase market share.",
+            "management_guidance": {
+              "answer": "Management expects a strong increase in bed capacity, approximately doubling the current capacity within the next 5-6 years.",
+              "citations": [
+                "495fb7711e33763d53cfd137df7aae09"
+              ]
+            },
+            "evaluation": {
+              "evaluation": "Insufficient Info",
+              "evaluation_reason": "No Q1 2024 data on actual bed capacity expansion is available to compare against the 5-6 year guidance."
+            }
+          }
+        ]
+      },
+      "['Q4', '2022']": {
+        "themes": [
+          {
+            "theme": "Financial Performance",
+            "narrative": "Management expressed targets for revenue growth and indicated plans for expansion that are expected to be Return on Capital Employed (ROCE) accretive.",
+            "management_guidance": {
+              "answer": "Management is targeting a 15% increase in revenue for the upcoming fiscal year. A brownfield expansion with the addition of 2,300 beds is planned and expected to be ROCE accretive.",
+              "citations": [
+                "5e41eb7711accb128b6acf978cef4cbf",
+                "954428455adcf5787fcd2dda91bc4b0c"
+              ]
+            },
+            "actual_results": {
+              "['Q4', '2023']": {
+                "answer": "In Q4 2023, gross revenue reached INR 1,637 Cr, a 26% YoY and 5% QoQ increase. PAT was INR 320 Cr, representing an 85% YoY and 19% QoQ increase. These figures reflect strong revenue growth exceeding the initial guidance.",
+                "citations": [
+                  "c89879fe2d10e084d415350a86295bae",
+                  "1ada8a8d3a515b83114e3c1a9e636d0d",
+                  "847207a53d47d3cf7fcc5abb49b843c9"
+                ]
+              },
+              "['Q4', '2022']": {
+                "answer": "Gross revenue for Q4 FY22 was reported as INR 1,385 Cr by one source and INR 1,298 Cr by another.  One source mentions a 15% revenue increase last quarter, while another reports a 15% increase in revenue for the last fiscal year. Operating EBITDA was INR 304 Cr. The pre-tax ROCE for Q4 FY22 was 24.0%. INR 179 Cr was generated from operations after interest, tax, and replacement capex.",
+                "citations": [
+                  "9da065d8b2c78047e5364f828a293308",
+                  "7bc89aa07b01bfe017ff1a3dfc804b7d",
+                  "c613b3f9831d502d1170f04654622a91",
+                  "58176bf7ebabc99a1ddf6fdea08d51ce",
+                  "9c366d2244c6c252eb2d319bc5b2c7ff"
+                ]
+              },
+              "['Q2', '2023']": {
+                "answer": "In Q2 FY23, gross revenue was INR 1,567 Cr (excluding Covid-19 vaccination revenue), a 17% YoY and 6% QoQ increase. International patient revenue improved by 16% QoQ and reached ~110% of pre-Covid normal levels. Q2 FY23 PAT was INR 267 Cr, a 29% YoY and 17% QoQ increase. The overall PAT for Q2 FY23 was INR 511 Cr. ARPOB increased by 12% year-on-year to INR 66,000.",
+                "citations": [
+                  "823a06aa9bf6c7f52c5ba9d1d7e73a39",
+                  "37d7c72fabbbf97c3cddafc7ab133a84",
+                  "26c3fca7486c33e1db35e97e53c4693f",
+                  "1f80990c73b81a495b2aca6d06ab12bc"
+                ]
+              },
+              "['Q3', '2023']": {
+                "answer": "In Q3 FY23, gross revenue (excluding Covid-19 vaccination) was INR 1,559 Cr, a 13% YoY increase and flat QoQ. Profit after tax (PAT) was INR 269 Cr, a 7% YoY increase and 1% QoQ increase. ARPOB for Q3 FY23 was INR 66.8k, a 10% YoY increase and 1% QoQ increase.",
+                "citations": [
+                  "678a23c7bc4e180873341879e63d4b86",
+                  "7d0d685f221fcc4b895e662b6b538b81"
+                ]
+              }
+            },
+            "evaluation": {
+              "evaluation": "Expectations Not Met",
+              "evaluation_reason": "While the reported revenue growth varied across sources and didn't clearly exceed the 15% target for the fiscal year, the achieved ROCE of 24% surpasses the expectation of ROCE accretion.  The discrepancy in revenue reporting prevents a definitive assessment."
+            }
+          },
+          {
+            "theme": "Market Position and Competition",
+            "narrative": "Management highlighted plans for significant expansion of bed capacity through both organic and inorganic growth strategies, aiming to more than double capacity within 5-6 years.  Two new network hospitals were added through acquisitions in Delhi NCR.",
+            "management_guidance": {
+              "answer": "Management anticipates a significant increase in bed capacity, aiming for more than a 2x increase in the next 5-6 years. The company is also looking to add 1,000 beds through greenfield hospitals. Additionally, they are actively deploying cash to enhance bed capacity, with a potential to add 600-800 beds annually through internal accruals. Two inorganic growth transactions added two new network hospitals in Delhi NCR.",
+              "citations": [
+                "954428455adcf5787fcd2dda91bc4b0c",
+                "954428455adcf5787fcd2dda91bc4b0c",
+                "b6c770d700411499c264a678a7da612b",
+                "7bc89aa07b01bfe017ff1a3dfc804b7d"
+              ]
+            },
+            "actual_results": {
+              "['Q4', '2023']": {
+                "answer": "No specific market share or competitive data is available in the provided actual results data for Q4 2023 to assess the success of the expansion strategy. However, the significant revenue growth suggests progress towards market share goals.",
+                "citations": []
+              },
+              "['Q4', '2022']": {
+                "answer": "The company's operations spanned 25+ cities. A 20-bed hospital was operational at one site. International patient footfalls normalized to ~90% of pre-Covid levels in March 2022. The occupancy rate for Q4 FY22 was 68%. In Q4 FY22, 7% of occupied beds were for Covid-19 patients.",
+                "citations": [
+                  "a6a24450890256c506af4821975c470f",
+                  "1c48ca477e3216932d72e15938ae00d6",
+                  "d3a7b180b9bcc3b7c7615c191b0cc95b",
+                  "7bc89aa07b01bfe017ff1a3dfc804b7d"
+                ]
+              },
+              "['Q2', '2023']": {
+                "answer": "No specific quantifiable results directly addressing market share or competitive position are available from the provided Q2 FY23 data. However, the reduction in institutional bed share to 28% from 37% in Q2 FY22 is noted as being in line with the company's plan.",
+                "citations": [
+                  "37d7c72fabbbf97c3cddafc7ab133a84",
+                  "1f80990c73b81a495b2aca6d06ab12bc"
+                ]
+              },
+              "['Q3', '2023']": {
+                "answer": "Institutional patient bed share was 29% in Q3 FY23, compared to 31% in Q3 FY22.",
+                "citations": [
+                  "4ee13d0197d65bf95c7169afddd9f1bb"
+                ]
+              }
+            },
+            "evaluation": {
+              "evaluation": "Expectations Met",
+              "evaluation_reason": "The addition of two hospitals through acquisitions in Delhi NCR aligns with management's stated inorganic growth strategy, fulfilling that aspect of their guidance for Q4 2022.  While the overall bed capacity increase over the 5-6 year period is not assessed here, the initial steps in the plan were met."
+            }
+          }
+        ]
+      },
+      "['Q2', '2023']": {
+        "themes": [
+          {
+            "theme": "Capacity Expansion and Operational Efficiency",
+            "narrative": "Management highlights significant investments in capacity expansion, focusing on both brownfield (adding beds to existing facilities) and greenfield (building new facilities) projects.  Specific projects mentioned include the addition of 100 beds at Shalimar Bagh and 300 beds at Dwarka.  These expansions are expected to improve operational efficiency and increase revenue.  There's also commentary about targeting a higher capacity utilization rate post-expansion.",
+            "management_guidance": {
+              "answer": "Construction at Shalimar Bagh (100 beds) is on track for commissioning in the last quarter of FY23. Construction at Dwarka (300 beds) is on track for commissioning in the first half of FY24. Post-expansion, capacity utilization is expected to increase from 85% to 93%. Further bed additions are planned, with approximately 1500 new beds commissioned in FY25 and a higher number in FY26. A reduction in institutional bed share by 13% is anticipated, leading to at least a 50% increase in revenue from that segment, with 85% flowing to EBITDA. The goal is to cut operational costs by 10% in the coming quarter.",
+              "citations": [
+                "5e818219fbfe2d8d86d30747ff1553cb",
+                "5e818219fbfe2d8d86d30747ff1553cb",
+                "149435b99558424762b28cab315e10a5",
+                "446f71013839eae0315aabf016cf91ed",
+                "149435b99558424762b28cab315e10a5",
+                "41e64c7fa4dde555fb83ee59e8636ced"
+              ]
+            },
+            "actual_results": {
+              "['Q4', '2023']": {
+                "answer": "No specific actual results for capacity expansion in Q4 FY23 are provided in the data.",
+                "citations": []
+              },
+              "['Q1', '2024']": {
+                "answer": "No specific actual results for capacity expansion are directly provided in the Q1 FY24 data. However, the Q1 FY24 data mentions a reduction in bed share excluding Max Shalimar Bagh, where 122 beds were added, from 30.1% in Q1 FY23 to 27.4% in Q1 FY24. Further information on the completion status of the Dwarka project or overall capacity utilization is unavailable in the provided Q1 FY24 data.",
+                "citations": [
+                  "18a0dc9d30f05957df46b3044fbc576c"
+                ]
+              },
+              "['Q2', '2023']": {
+                "answer": "The provided data does not contain specific information confirming the completion timelines for Shalimar Bagh and Dwarka expansions or the exact realized capacity utilization rate increase in Q2 FY23. However, the occupancy rate for Q2 FY23 was 78%, showing improvement. A reduction in institutional bed share to 28% from 37% the previous year aligns with the guidance. There's a 17% YoY and 6% QoQ growth in gross revenue, excluding Covid-19 vaccination.  Further, EBITDA per bed grew by 17% YoY and 4% QoQ. Information on the 10% operational cost reduction target is not directly confirmed in the provided data.",
+                "citations": [
+                  "37d7c72fabbbf97c3cddafc7ab133a84",
+                  "1f80990c73b81a495b2aca6d06ab12bc",
+                  "823a06aa9bf6c7f52c5ba9d1d7e73a39"
+                ]
+              },
+              "['Q3', '2023']": {
+                "answer": "No actual results for Q2 2023 are provided in the supplied data.",
+                "citations": []
+              }
+            },
+            "evaluation": {
+              "evaluation": "Expectations Not Met",
+              "evaluation_reason": "While the reduction in institutional bed share and revenue growth align with the guidance, the data lacks specifics on capacity expansion completion, utilization rate increase, and operational cost reduction, preventing a complete assessment."
+            }
+          },
+          {
+            "theme": "Financial Performance and Margin Improvement",
+            "narrative": "Management provides updates on revenue growth (65% YoY and 21% QoQ, excluding Covid-19 related tests), outpatient consult projections, and EBITDA margin improvements.  There's discussion of targets for future margin improvements and the impact of capacity expansion on profitability.",
+            "management_guidance": {
+              "answer": "Revenue growth of 15% is targeted for fiscal year 2023. Operating margin is projected to fall below 15% within four to five quarters. Outpatient consults are projected to reach 1,120,000 in H1 FY23, a 16.1% increase from H1 FY22. Significant investments (Rs. 640 crore) are planned, possibly concentrated in the first quarter of the next fiscal year.",
+              "citations": [
+                "41e64c7fa4dde555fb83ee59e8636ced",
+                "238c5bc7d72fbe102f577b50a7f1bb5d",
+                "bc8606ae3a06afaad9f53625cab048f8",
+                "2f342cddced6cc0ba1fb044db7825caa"
+              ]
+            },
+            "actual_results": {
+              "['Q4', '2023']": {
+                "answer": "In Q4 FY23, gross revenue was INR 1,637 Cr (+26% YoY and +5% QoQ).  PAT was INR 320 Cr (+85% YoY and +19% QoQ).  Operating EBITDA was INR 437 Cr (+44% YoY and +4% QoQ). The 15% revenue growth guidance for FY23 is not directly comparable to the Q4 results alone and requires full-year data for assessment.  Similarly, operating margin data for Q4 FY23 is needed to assess the guidance on operating margin falling below 15% within four to five quarters.",
+                "citations": [
+                  "c89879fe2d10e084d415350a86295bae",
+                  "1ada8a8d3a515b83114e3c1a9e636d0d",
+                  "847207a53d47d3cf7fcc5abb49b843c9"
+                ]
+              },
+              "['Q1', '2024']": {
+                "answer": "Q1 FY24 data shows gross revenue of INR 1,719 Cr, compared to INR 1,473 Cr in Q1 FY23 and INR 1,637 Cr in Q4 FY23. This represents a growth of +17% YoY and +5% QoQ. The operating margin in Q1 FY24 was 26.8%. Information on outpatient consults for H1 FY23 is not available in the provided Q1 FY24 data.",
+                "citations": [
+                  "5c42ed59efa18b878be6b9f4eee7af0a",
+                  "12beaad19b26a299fab377cc471a28db",
+                  "92bc23856c9eb6f224b6b6ffa3430a55"
+                ]
+              },
+              "['Q2', '2023']": {
+                "answer": "Actual revenue growth in Q2 FY23 exceeded the 15% annual target, showing 17% YoY and 6% QoQ growth excluding Covid-19 vaccination. The operating margin information is not explicitly stated for Q2 FY23 in the results, but the EBITDA margin improved to 27.7%. Outpatient consults reached 1,120,000 in H1 FY23, meeting the guidance. There is no specific mention of the Rs. 640 crore investment in Q2 FY23 results.",
+                "citations": [
+                  "823a06aa9bf6c7f52c5ba9d1d7e73a39",
+                  "5e818219fbfe2d8d86d30747ff1553cb",
+                  "bc8606ae3a06afaad9f53625cab048f8"
+                ]
+              },
+              "['Q3', '2023']": {
+                "answer": "In Q3 FY23, gross revenue (excluding Covid-19 vaccination) was INR 1,559 Cr, reflecting a +13% YoY growth and flat QoQ growth. Outpatient consults in Q3 FY23 were 5.74 lakhs, a +7% increase over Q3 FY22 and slightly higher than Q2 FY23. Profit after tax (PAT) for Q3 FY23 was INR 269 Cr, a +7% YoY increase and +1% QoQ increase.  A board member stated revenue growth of 12% in Q3 FY23 and another stated 13% YoY growth. Operating margin in Q3 2023 was 18.2%.",
+                "citations": [
+                  "678a23c7bc4e180873341879e63d4b86",
+                  "7d0d685f221fcc4b895e662b6b538b81",
+                  "678a23c7bc4e180873341879e63d4b86",
+                  "a639ae7d8f234aa88511f69d380457fd",
+                  "6ba9f9e3eeb4c71269f343462cf98070",
+                  "20eaf7d5a1250672d0ab678a89bde51b",
+                  "7ea841a17bc3474cad2848c2c400f44f",
+                  "6c1a8e4d46c8aa5d3df5b45e1cff84cd"
+                ]
+              }
+            },
+            "evaluation": {
+              "evaluation": "Exceeded expectations",
+              "evaluation_reason": "Q2 FY23 revenue growth significantly surpassed the annual target, and the outpatient consult projection was met, exceeding expectations in these areas.  The lack of explicit operating margin data prevents a complete assessment."
+            }
+          },
+          {
+            "theme": "Return on Capital Employed (ROCE)",
+            "narrative": "Management emphasizes the importance of maintaining and improving ROCE,  mentioning that all future initiatives must be accretive to ROCE in the long run.  Bed additions are explicitly described as ROCE-accretive.",
+            "management_guidance": {
+              "answer": "The current ROCE is 33%, and future actions must be accretive to this figure in the long term. Bed additions are expected to be ROCE accretive.",
+              "citations": [
+                "73b1dcdb427157a1fc94807a8e405087",
+                "aed22f3b54897e7569addba1f7f22ae4"
+              ]
+            },
+            "actual_results": {
+              "['Q4', '2023']": {
+                "answer": "In Q4 FY23, pre-tax ROCE stood at 36%. Note that this is pre-tax ROCE and the management's guidance mentions a 33% current ROCE which may be after-tax.  Further clarification is needed to fully assess the performance against the guidance.",
+                "citations": [
+                  "c89879fe2d10e084d415350a86295bae",
+                  "1ada8a8d3a515b83114e3c1a9e636d0d",
+                  "485cb78cb7c82f256c5c58ea8b8d5de4"
+                ]
+              },
+              "['Q1', '2024']": {
+                "answer": "Q1 FY24 data shows pre-tax ROCE at 34.6%, compared to 29.9% in Q1 FY23 and 35.6% in Q4 FY23. This shows an improvement YoY.",
+                "citations": [
+                  "5c42ed59efa18b878be6b9f4eee7af0a",
+                  "12beaad19b26a299fab377cc471a28db"
+                ]
+              },
+              "['Q2', '2023']": {
+                "answer": "The provided data shows a pre-tax ROCE of 33% in Q2 FY23, matching the management's stated current ROCE. There is no information in the provided data to assess whether the bed additions were, in fact, ROCE-accretive during this period.",
+                "citations": [
+                  "823a06aa9bf6c7f52c5ba9d1d7e73a39"
+                ]
+              },
+              "['Q3', '2023']": {
+                "answer": "In Q3 FY23, pre-tax ROCE was 34.2%, compared to 32.2% in Q3 FY22 and 33.4% in Q2 FY23. Another source mentions pre-tax ROCE increased from 31% to 32%, and a board member stated approximately 32% ROCE for the 9 months ended December 2022.",
+                "citations": [
+                  "678a23c7bc4e180873341879e63d4b86",
+                  "87763ebc4b8397d45bd98e8a6aa7feb4",
+                  "a0435ba45c44a9e0d22f2789e45bb747"
+                ]
+              }
+            },
+            "evaluation": {
+              "evaluation": "Expectations Met",
+              "evaluation_reason": "The pre-tax ROCE aligned with the management's stated current ROCE, meeting expectations in this aspect.  However, the impact of bed additions on ROCE remains unclear."
+            }
+          }
+        ]
+      },
+      "['Q4', '2021']": {
+        "themes": [
+          {
+            "theme": "Financial Performance",
+            "narrative": "Management focused on revenue growth strategies, specifically targeting a 10% increase for the fiscal year through strategic partnerships and market expansion.  A significant portion of revenue (30-35%) stemmed from government business (CGHS-ECHS), characterized by lower ARPOB. The company aimed to reduce this to less than 15% of total revenue within 3 years, with progress underway.  The Q1 figures showed expansion, with expectations of exceeding Q4 performance in the future.  Free cash flow was projected to be around Rs. 200 crore per quarter, allowing for debt repayment.",
+            "management_guidance": {
+              "answer": "Management provided guidance on revenue growth, reduction of government business, free cash flow projections, and expectations for future quarter performance.",
+              "citations": [
+                "4c5c98a13aa70d442c8d2b7874f52577",
+                "1f11ac0b26046ab8648ded92fc033be6",
+                "eb63c69b18f6872367cb0e1210dd5202",
+                "399b7932110b4971b8c59d839a5321e3"
+              ]
+            },
+            "actual_results": {
+              "['Q4', '2022']": {
+                "answer": "Gross revenue for Q4 FY22 was INR 1,298 Cr compared to INR 1,161 Cr in Q4 FY21 and INR 1,392 Cr in Q3 FY22. Net revenue for Q4 FY22 was 100.0% of INR 1,226 Cr. Revenue from Covid-19 vaccination & related antibody tests decreased significantly from INR 7 Cr in Q3 FY22 to INR 2 Cr in Q4 FY22. FY22 gross revenue totaled INR 5,509 Cr, a 42% YoY increase from INR 3,881 Cr in FY21. The company invested INR 328 Cr in growth initiatives and capacity expansion projects during Q4 FY22. PAT for Q4 FY22 was INR 172 Cr, compared to INR 109 Cr in Q4 FY21 and INR 252 Cr in Q3 FY22.",
+                "citations": [
+                  "7bc89aa07b01bfe017ff1a3dfc804b7d",
+                  "c613b3f9831d502d1170f04654622a91",
+                  "88bd07ddbb357fab8cc1b93498ea9e1c",
+                  "78dde77fbd4fea24d2b0b90f0e4c12e8",
+                  "3b6b27317d81adf7f366de80d69884d0"
+                ]
+              },
+              "['Q4', '2021']": {
+                "answer": "Gross revenue in Q4 FY21 was INR 1,159 crore, a 5% YoY increase and similar to Q3 FY21. ARPOB increased to INR 56.9k (+5% YoY, +11% QoQ). The operating EBITDA margin was 24.1%, up from 15.5% in Q4 FY20 and 23.2% in Q3 FY21. Net debt reduced by INR 1,323 crore to INR 544 crore by March 31, 2021. Over Rs. 140 crore in operating cash flows were generated post CAPEX and interest costs, used for debt repayment.",
+                "citations": [
+                  "f11a7c5c6a5bab3c1ccd004c6ade2f8c",
+                  "6b8a0b9f743388e61f21efe1fad20ad9",
+                  "51430ce0a0db15c9665841f398c990fc",
+                  "f11a7c5c6a5bab3c1ccd004c6ade2f8c",
+                  "3c0a9dcadc6886c24bcada5429987c2e",
+                  "eb63c69b18f6872367cb0e1210dd5202"
+                ]
+              },
+              "['Q2', '2022']": {
+                "answer": "In Q2 FY22, gross revenue reached INR 1,434 crore, a 52% year-on-year increase and a 4% quarter-on-quarter increase. ARPOB (excluding Covid-19 vaccination, antibody tests, and Max Lab operations) was INR 59,000, a 27% year-on-year increase and a 15% quarter-on-quarter increase. Covid-19 vaccination and related antibody test revenue decreased to INR 91 crore from INR 136 crore in Q1 FY22. The company deployed INR 93 crore to secure three prime locations in NCR.",
+                "citations": [
+                  "4d91249f4c2c15e692003131c97894d0",
+                  "b148f6057bd270af2eee341a6f9cef9d",
+                  "478f36be475768d618132feeb43bf222",
+                  "eab8d92f44242f311c44e10fe3315527"
+                ]
+              },
+              "['Q3', '2022']": {
+                "answer": "In Q3 2022, gross revenue was INR 1,392 Cr (compared to INR 1,158 Cr in Q3 FY21, a 20% YoY increase) and INR 1,434 Cr in Q2 FY22.  Gross IP revenue was INR 1,082 Cr (compared to INR 942 Cr in Q3 FY21).  ARPOB increased to INR 61.0k (versus INR 50.0k in Q3 FY21 and INR 59.0k in Q2 FY22).  Non-Covid revenue grew by 81% YoY and 5% QoQ. Max@Home revenue was INR 28.2 Cr (growth of 41% YoY and 3% QoQ).  Digital revenue was INR 149 Cr (~11% of overall revenue).  Cash generated from operations was INR 212 Cr.",
+                "citations": [
+                  "c52bae160ccc7c1005772bb153c52166",
+                  "263fe3fdeda89e16d5a65173391709d2",
+                  "5ce9f42af3dca679c51a99260852c01b",
+                  "c52bae160ccc7c1005772bb153c52166"
+                ]
+              }
+            },
+            "evaluation": {
+              "evaluation": "Expectations Met",
+              "evaluation_reason": "While specific targets for revenue growth weren't explicitly stated for Q4 2021, the company achieved a 5% YoY revenue increase, improved profitability margins, and generated substantial operating cash flow, aligning with the overall direction of the management's guidance."
+            }
+          },
+          {
+            "theme": "Operational Efficiency",
+            "narrative": "Management highlighted cost reduction strategies, aiming for a 15% decrease in operational costs over the next two quarters. This involved efficiency improvements and technology upgrades.  The company planned to commence Brownfield projects, although there was a slight delay into the second quarter.  Capacity for vaccine administration had been ramped up to 50,000 per day.",
+            "management_guidance": {
+              "answer": "Management guided on cost reduction targets, timelines for Brownfield projects, and the increased capacity for vaccine administration.",
+              "citations": [
+                "4c5c98a13aa70d442c8d2b7874f52577",
+                "c4f43758d3e6ac62c621166f7e0e1d2f",
+                "09b417733b0a57112d5a66cf0e072793"
+              ]
+            },
+            "actual_results": {
+              "['Q4', '2022']": {
+                "answer": "Actual cost reduction figures are not explicitly stated in the provided data for Q4 2022. However, there are mentions of cost reductions: Ms. Johnson reported a 5% reduction in operating costs over the last financial year. Ms. Smith reported an 8% reduction in operational costs over the past year. Direct costs for Q4 FY22 were 40.5% of INR 497 Cr. The occupancy rate for Q4 FY22 was 68%, compared to 70% in Q4 FY21 and 74% in Q3 FY22.",
+                "citations": [
+                  "58176bf7ebabc99a1ddf6fdea08d51ce",
+                  "9c366d2244c6c252eb2d319bc5b2c7ff",
+                  "c613b3f9831d502d1170f04654622a91",
+                  "7bc89aa07b01bfe017ff1a3dfc804b7d"
+                ]
+              },
+              "['Q4', '2021']": {
+                "answer": "Actual cost reduction figures aren't explicitly stated for Q4 2021 in the provided data. However, Rs. 108 crore worth of structural cost savings were implemented during FY21. The average inpatient occupancy decreased to 70% in Q4 FY21 from 76% in Q3 FY21. Vaccine administration capacity of 50,000 per day was achieved.",
+                "citations": [
+                  "3c0a9dcadc6886c24bcada5429987c2e",
+                  "51430ce0a0db15c9665841f398c990fc",
+                  "09b417733b0a57112d5a66cf0e072793"
+                ]
+              },
+              "['Q2', '2022']": {
+                "answer": "Average Length of Stay (ALOS) normalized to the pre-COVID level of 4.3 days in Q2 FY22. 34 operational beds were added during Q2 FY22. Occupancy for Q2 FY22 was 75.2%.  The provided data does not directly address the 15% cost reduction target; however, cost reduction initiatives and their impact are mentioned in various citations.",
+                "citations": [
+                  "e09869be03187dbf0ae840246861fe31",
+                  "7bf99c9668441d3f4a601d1196cb11c9",
+                  "4d91249f4c2c15e692003131c97894d0",
+                  "999d6fc4fd72d7de8d68bf1bb5c4cbcb"
+                ]
+              },
+              "['Q3', '2022']": {
+                "answer": "In Q3 2022, ALOS was 4.3 days (compared to 5.4 days in Q3 FY21). Occupancy was 74.3% (versus 76.2% in Q3 FY21 and 75.2% in Q2 FY22).",
+                "citations": [
+                  "263fe3fdeda89e16d5a65173391709d2",
+                  "c52bae160ccc7c1005772bb153c52166"
+                ]
+              }
+            },
+            "evaluation": {
+              "evaluation": "Expectations Not Met",
+              "evaluation_reason": "While the 15% cost reduction target wasn't explicitly addressed for Q4 2021,  substantial structural cost savings were achieved during FY21, and the vaccine administration capacity goal was met.  The lack of specific Q4 2021 cost reduction data prevents a definitive assessment."
+            }
+          }
+        ]
+      },
+      "['Q1', '2021']": {
+        "themes": [
+          {
+            "theme": "Financial Performance",
+            "narrative": "Management discussed ARPOB (Average Revenue Per Occupied Bed) improvement, cost savings and synergies from business normalization, fundraising plans (QIP and NCD), and Brownfield expansion funding. A 15% revenue increase projection for the following quarter was also mentioned, driven by new product launches.",
+            "management_guidance": {
+              "answer": "ARPOB improvement projected in the 5% to 8% range. Approximately Rs. 100 crore in savings and synergies, with 40% expected in the current year and 60% in the next, contingent on business normalization. Fundraising plans: Rs. 1,200 crore through QIP and Rs. 550 crore through NCD. Brownfield expansion to be funded by an equity raise of approximately Rs. 1,000 crore. Projected 15% revenue increase in the next quarter due to new product launches.",
+              "citations": [
+                "af1027eb6e57ca08f6669c28392e99ca",
+                "fa3928b6d2d81c3e86185f016b799de4",
+                "3e65e2127ecc1d09fd150346cbf35d5c",
+                "d97d2f1d8b8c44b405cdbac2f3c52ec3"
+              ]
+            },
+            "actual_results": {
+              "['Q4', '2021']": {
+                "answer": "In Q4 2021, gross revenue was INR 1,159 Cr (5% YoY growth), with ARPOB at INR 56.9k (+5% YoY, +11% QoQ). The operating EBITDA margin improved to 24.1% (up from 15.5% in Q4 FY20 and 23.2% in Q3 FY21). Net debt reduced significantly. The full year gross revenue decreased by 12% to Rs.3,861 crore, but H2 showed 8% revenue growth.",
+                "citations": [
+                  "f11a7c5c6a5bab3c1ccd004c6ade2f8c",
+                  "5b6aa9bb8092c75999c5a1c8b6ff4556",
+                  "51430ce0a0db15c9665841f398c990fc",
+                  "3c0a9dcadc6886c24bcada5429987c2e"
+                ]
+              },
+              "['Q1', '2021']": {
+                "answer": "Gross revenue was Rs. 610 crore (42% lower than the corresponding quarter last year). ARPOB was Rs. 47,200 (5% lower than Q1 of the previous year). Revenue from international patients decreased to 3% from 11% in the previous year. The reported EBITDA loss was Rs. 22.3 crore (post IND-AS 116), or Rs. 32 crore (pre IND-AS 116).",
+                "citations": [
+                  "39df8f9513d5bc91b02a513594f2bc91",
+                  "56aeb3fc1990d891d3d25960d82dd104",
+                  "e620e6cf8b9e128406ad0ec0399c326d"
+                ]
+              },
+              "['Q2', '2021']": {
+                "answer": "In Q2 2021, gross revenue was Rs. 932 crore, a 52.9% increase over Q1 2021, but a 17% year-on-year decrease compared to Q2 2020. Operating EBITDA was Rs. 143 crore (improved from a loss in Q1 2021), with an operating margin of 16.2%. ARPOB stood at INR 46.4k, a decrease compared to Q2 FY20.",
+                "citations": [
+                  "a2a2fa87a314faf5b35ccfad1155ae91",
+                  "5e41ff1865a1b6794df304b2c2a08837",
+                  "599d2334fdbe633735642b039eb4dbf4",
+                  "9ad521b741832ec520b79af42e5dedb8"
+                ]
+              },
+              "['Q3', '2021']": {
+                "answer": "In Q3 2021, gross revenue was Rs. 1,160 crore, a 6% year-over-year increase and a 24% quarter-over-quarter increase. ARPOB was around Rs. 51,000. EBITDA was Rs. 252 crore, a 58% year-over-year and 75% quarter-over-quarter increase.",
+                "citations": [
+                  "ace22dac185351904d55334180dcb6e5",
+                  "e773cb4b8ef90fe53e2b8687bbb103fa",
+                  "b9984bfd941614c3cb0b71ac3b6263fa"
+                ]
+              }
+            },
+            "evaluation": {
+              "evaluation": "Expectations Not Met",
+              "evaluation_reason": "The Q1 2021 results showed a significant revenue decrease (42%), a decline in ARPOB (5%), and an EBITDA loss, falling considerably short of the projected ARPOB improvement, cost savings, and revenue increase."
+            }
+          },
+          {
+            "theme": "Market Position and Competition",
+            "narrative": "Management discussed market share, specifically a decline from 11% pre-COVID to 3% in Q1, with plans to increase it beyond 11%. Future capacity expansion plans (new beds) were also outlined, with timelines spanning three to four years.",
+            "management_guidance": {
+              "answer": "Market share, currently at 3%, is targeted to increase beyond 11% (pre-COVID level). Brownfield expansion expected to add approximately 1000 beds over four to five years. Capacity expansion plans include 600 beds in Mumbai and 350 beds in South Delhi, with a three-to-four-year timeline for completion.",
+              "citations": [
+                "fa3928b6d2d81c3e86185f016b799de4",
+                "1dfdb056f5fee2bcd9f716557fab70cd",
+                "a9b529754ed7c7e7f15bce3c869fab5e",
+                "0a50017bd18657f63a4de85fd1df5d3f"
+              ]
+            },
+            "actual_results": {
+              "['Q4', '2021']": {
+                "answer": "In Q4 2021, Max Healthcare and Radiant merged, creating the second largest healthcare chain in India by revenue.",
+                "citations": [
+                  "a43b606579c8f898969eef2563dc0654"
+                ]
+              },
+              "['Q1', '2021']": {
+                "answer": "No specific actual results data for market share provided in the given data.",
+                "citations": []
+              },
+              "['Q2', '2021']": {
+                "answer": "In Q2 2021, non-COVID tower specialties recovered to over 70% of pre-COVID levels by the end of September.",
+                "citations": [
+                  "a2a2fa87a314faf5b35ccfad1155ae91",
+                  "2c2956d36313bfbad2b33fe27c627091"
+                ]
+              },
+              "['Q3', '2021']": {
+                "answer": "In Q3 2021, International business grew two to three times over the previous quarter and reached almost 50% of pre-COVID levels. The share of Institutional business decreased from 35% to 31%.",
+                "citations": [
+                  "e773cb4b8ef90fe53e2b8687bbb103fa",
+                  "0376edb8f39d94242b0a5f2270b743d0"
+                ]
+              }
+            },
+            "evaluation": {
+              "evaluation": "Insufficient Info",
+              "evaluation_reason": "The provided data for Q1 2021 lacks specific information on market share to assess whether the company met or exceeded expectations regarding its market position."
+            }
+          },
+          {
+            "theme": "Operational Efficiency",
+            "narrative": "Management discussed cost-saving initiatives and targets.",
+            "management_guidance": {
+              "answer": "Approximately Rs. 300 crore in cost savings and synergies, potentially fully realized in FY22 if it's a normal year. Target of 10% reduction in operational costs for the next fiscal year. Headroom for bed utilization to increase from 73% to 81-82%.",
+              "citations": [
+                "cb75270a339bd8da035f145cf3fcaae7",
+                "d97d2f1d8b8c44b405cdbac2f3c52ec3",
+                "a9b529754ed7c7e7f15bce3c869fab5e"
+              ]
+            },
+            "actual_results": {
+              "['Q4', '2021']": {
+                "answer": "In Q4 2021, Rs. 108 crore worth of structural cost savings were implemented during FY21. Occupancy in Q4 FY21 decreased to 70% from 76% in Q3 FY21.",
+                "citations": [
+                  "3c0a9dcadc6886c24bcada5429987c2e",
+                  "51430ce0a0db15c9665841f398c990fc"
+                ]
+              },
+              "['Q1', '2021']": {
+                "answer": "In Q1 FY21, average inpatient occupancy dropped to 45.1% from 72.4% in Q1 FY20.",
+                "citations": [
+                  "488fc5e102ded9c496611073a2f862d3"
+                ]
+              },
+              "['Q2', '2021']": {
+                "answer": "In Q2 2021, cost saving/synergy initiatives with an annualized impact of over INR 90 Cr were implemented in H1 FY21, resulting in an EBITDA impact of INR 65 Cr in FY21.",
+                "citations": [
+                  "a2a2fa87a314faf5b35ccfad1155ae91"
+                ]
+              },
+              "['Q3', '2021']": {
+                "answer": "In Q3 2021, cost was approximately 15%. Rs. 220 crore in cost savings were implemented from the previous year, and Rs. 80-85 crore of the planned Rs. 100 crore in cost savings for the current year were completed.",
+                "citations": [
+                  "ac9cfcf62c4f7273503c1eeb06a723ba",
+                  "8f11e3b50721768bf8da0eaff9b875b8"
+                ]
+              }
+            },
+            "evaluation": {
+              "evaluation": "Expectations Not Met",
+              "evaluation_reason": "The significant drop in inpatient occupancy to 45.1% in Q1 2021 clearly indicates a failure to meet the expected improvement in bed utilization and implicitly suggests that cost-saving targets were not met, given the lower occupancy rate."
+            }
+          },
+          {
+            "theme": "Patient and Customer Satisfaction",
+            "narrative": "Management expressed commitment to improving customer satisfaction.",
+            "management_guidance": {
+              "answer": "Target of 90% customer satisfaction score by year-end.",
+              "citations": [
+                "d97d2f1d8b8c44b405cdbac2f3c52ec3"
+              ]
+            },
+            "actual_results": {
+              "['Q4', '2021']": {
+                "answer": "In Q4 2021, outpatient consultations increased by 25% QoQ to 4.9L.",
+                "citations": [
+                  "57e4b221a2ebd378ed7d94df4874c8ca"
+                ]
+              },
+              "['Q1', '2021']": {
+                "answer": "No specific actual results data for customer satisfaction score provided in the given data.",
+                "citations": []
+              },
+              "['Q2', '2021']": {
+                "answer": "No specific data on actual customer satisfaction scores is available from the provided Q2 2021 data.",
+                "citations": []
+              },
+              "['Q3', '2021']": {
+                "answer": "In Q3 2021, a 15% increase in patient satisfaction was reported.",
+                "citations": [
+                  "a3937140f186225a5ce916e55b90679b"
+                ]
+              }
+            },
+            "evaluation": {
+              "evaluation": "Insufficient Info",
+              "evaluation_reason": "There is no data on customer satisfaction scores in Q1 2021 to assess progress toward the 90% target."
+            }
+          }
+        ]
+      },
+      "['Q2', '2022']": {
+        "themes": [
+          {
+            "theme": "Capacity Expansion and Greenfield/Brownfield Projects",
+            "narrative": "Management extensively discussed significant capacity expansion plans, primarily through both greenfield and brownfield projects.  These expansions are strategically located in metro areas to maximize impact.  The projects are substantial, involving considerable investment and phased rollouts over several years.",
+            "management_guidance": {
+              "answer": "Significant capacity expansion is planned over the next three to four years, costing over Rs. 3,500 crore, funded internally. The Max Saket Complex expansion, a multi-phased project, will add approximately 600 beds by FY27. Expansion in Mohali will add 190 beds, with work starting in Q4 FY22 and completion expected in Q3 FY24. Another 500 beds are planned by FY26, with an additional 500 beds post FY28. The first phase of Max Saket (350 beds) is expected by FY25, and the second phase (250 beds) by FY27.  Approximately 95% of the increased capacity will be metro-centric. This expansion is expected to be ROCE accretive.",
+              "citations": [
+                "5defa587621f80425b4a08a41a4a86f5",
+                "c0751f30a3fd8bcd1f4165f9bcd6e509",
+                "aa84eb463fbb3dab382d582eb3accbbd",
+                "e26932a66ffef737ad9594a6bea45b7f",
+                "c0751f30a3fd8bcd1f4165f9bcd6e509",
+                "8c58576500183b594a85cf984f13b123",
+                "abc2d308b815fae4ea79b3f8adc65d36"
+              ]
+            },
+            "actual_results": {
+              "['Q4', '2022']": {
+                "answer": "No actual results for Q2 2022 are provided in the given data.",
+                "citations": []
+              },
+              "['Q2', '2023']": {
+                "answer": "No actual results for Q2 2022 capacity expansion are provided in the data.",
+                "citations": []
+              },
+              "['Q2', '2022']": {
+                "answer": "No specific actual results for capacity expansion are provided in the Q2 2022 data. However, citations [4d91249f4c2c15e692003131c97894d0] mentions that INR 93 Cr was deployed to secure three prime locations in NCR with potential to add ~1,500 beds, indicating progress on expansion plans.",
+                "citations": [
+                  "4d91249f4c2c15e692003131c97894d0"
+                ]
+              },
+              "['Q3', '2022']": {
+                "answer": "No actual results for this theme are available in the provided Q3 2022 data.",
+                "citations": []
+              }
+            },
+            "evaluation": {
+              "evaluation": "Expectations Not Met",
+              "evaluation_reason": "While Q2 2022 data lacks specific details on bed additions, the allocation of INR 93 crore towards securing land for future expansion indicates progress towards the planned capacity increase, although the extent of achievement is limited by the lack of concrete data for the quarter."
+            }
+          },
+          {
+            "theme": "Financial Performance and EBITDA Improvement",
+            "narrative": "Management highlighted strong EBITDA performance, driven by pricing improvements resulting from capacity displacement.  They also projected substantial free cash flow generation.",
+            "management_guidance": {
+              "answer": "Significant EBITDA improvement is expected over the next couple of years due to pricing strategies. A 40% better pricing is anticipated leading to an 85% increase in EBITDA. Current EBITDA per bed is Rs. 55 lakhs at 75% occupancy (81% at quarter-end). Free cash flow generation is expected to exceed Rs. 5,000-6,000 crore over the next four to five years. Free cash flow projections from FY22 to FY26 are estimated at approximately Rs. 3800 crore.",
+              "citations": [
+                "dfc0ef63f5d49baf66175a3290d13a71",
+                "a59bfb8277fba5cef595f829b22fe55e",
+                "d5426b82406daa12831e3e511df44046",
+                "becce6e2a9fcf36e555750704aae03f0"
+              ]
+            },
+            "actual_results": {
+              "['Q4', '2022']": {
+                "answer": "In Q4 FY22, gross revenue was INR 1,298 Cr, operating EBITDA was INR 304 Cr, and PAT was INR 172 Cr. FY22 gross revenue was INR 5,509 Cr and operating EBITDA was INR 1,390 Cr. Note that this data is from Q4 FY22, not Q2 FY22.",
+                "citations": [
+                  "7bc89aa07b01bfe017ff1a3dfc804b7d",
+                  "c613b3f9831d502d1170f04654622a91",
+                  "9da065d8b2c78047e5364f828a293308",
+                  "3b6b27317d81adf7f366de80d69884d0",
+                  "693a001f7ca3468d6c13431313edb8c4"
+                ]
+              },
+              "['Q2', '2023']": {
+                "answer": "In Q2 FY23, Network gross revenue reached INR 1,567 Cr (a 6% QoQ and 17% YoY increase).  Operating EBITDA was INR 410 Cr (11% QoQ and 22% YoY growth). EBITDA per bed (annualized) reached INR 64.3 Lakhs (17% YoY and 4% QoQ growth).  The company became net cash positive with INR 42 Cr net cash at the end of Q2 FY23 compared to a net debt of INR 217 Cr at the end of Q1 FY23.",
+                "citations": [
+                  "823a06aa9bf6c7f52c5ba9d1d7e73a39",
+                  "1f80990c73b81a495b2aca6d06ab12bc",
+                  "2e83ac1b055ff010e9eb681d3c157d9b",
+                  "5e818219fbfe2d8d86d30747ff1553cb"
+                ]
+              },
+              "['Q2', '2022']": {
+                "answer": "Q2 FY22 gross revenue was INR 1,434 Cr [4d91249f4c2c15e692003131c97894d0, b148f6057bd270af2eee341a6f9cef9d]. Operating EBITDA for Q2 FY22 was INR 362 Cr [4d91249f4c2c15e692003131c97894d0, 6826891e85a2213d35ea5823744ad6ab]. EBITDA per bed reached Rs. 55 lakhs at 75% occupancy [a59bfb8277fba5cef595f829b22fe55e, eab8d92f44242f311c44e10fe3315527]. Cash from operations during Q2 FY22 was INR 294 Cr [4d91249f4c2c15e692003131c97894d0, eab8d92f44242f311c44e10fe3315527].",
+                "citations": [
+                  "4d91249f4c2c15e692003131c97894d0",
+                  "b148f6057bd270af2eee341a6f9cef9d",
+                  "6826891e85a2213d35ea5823744ad6ab",
+                  "a59bfb8277fba5cef595f829b22fe55e",
+                  "eab8d92f44242f311c44e10fe3315527"
+                ]
+              },
+              "['Q3', '2022']": {
+                "answer": "Q3 FY22 saw Gross revenue of INR 1,392 Cr (c52bae160ccc7c1005772bb153c52166), Operating EBITDA of INR 364 Cr (c52bae160ccc7c1005772bb153c52166), and PAT of INR 252 Cr (c52bae160ccc7c1005772bb153c52166).  Further details on free cash flow are not available in the provided Q3 2022 data.",
+                "citations": [
+                  "c52bae160ccc7c1005772bb153c52166"
+                ]
+              }
+            },
+            "evaluation": {
+              "evaluation": "Expectations Met",
+              "evaluation_reason": "The Q2 2022 actual results for gross revenue, operating EBITDA, and cash from operations align with the general expectation of strong financial performance and EBITDA improvement as projected by management."
+            }
+          },
+          {
+            "theme": "International Patient Revenue and Digital Initiatives",
+            "narrative": "Management addressed the recovery of international patient revenue post-COVID and outlined plans for a new proprietary digital app.",
+            "management_guidance": {
+              "answer": "International patient revenue, currently at 50% of pre-COVID levels, is expected to reach pre-COVID levels by the end of the financial year, driven by increased flight availability and government initiatives. A proprietary digital app is planned for launch by the end of the financial year to increase digital footfall and improve patient experience. A reduction in institutional business from 35% to 15-20% is targeted over the next two to three years.",
+              "citations": [
+                "b9eb17754d9efd601974bc71eb281e66",
+                "467627efe81913a2317e36a7accbb609",
+                "1ea48ff85beb6dc94a1c81054a25d0f6"
+              ]
+            },
+            "actual_results": {
+              "['Q4', '2022']": {
+                "answer": "In Q4 FY22, international patient footfalls normalized to ~90% of pre-Covid levels in March 2022. Note that this relates to March 2022, which falls within Q4 FY22, not Q2 FY22.",
+                "citations": [
+                  "d3a7b180b9bcc3b7c7615c191b0cc95b"
+                ]
+              },
+              "['Q2', '2023']": {
+                "answer": "In Q2 FY23, international patient revenue improved by 16% QoQ and reached ~110% of pre-COVID normal levels. Institutional revenue share dropped to 16% compared to 23% the previous year.",
+                "citations": [
+                  "37d7c72fabbbf97c3cddafc7ab133a84",
+                  "1f80990c73b81a495b2aca6d06ab12bc",
+                  "9dd1fa1f2067037da28dabec2816a205"
+                ]
+              },
+              "['Q2', '2022']": {
+                "answer": "International patient revenue reached 50% of pre-COVID levels by the end of Q2 FY22 [b9eb17754d9efd601974bc71eb281e66]. Digital revenue through online marketing and web-based appointments stood at INR 157 Cr (~11% of overall revenues); video consults were ~20,000 [e09869be03187dbf0ae840246861fe31].",
+                "citations": [
+                  "b9eb17754d9efd601974bc71eb281e66",
+                  "e09869be03187dbf0ae840246861fe31"
+                ]
+              },
+              "['Q3', '2022']": {
+                "answer": "No specific actual results for international patient revenue or digital app performance are available in the provided Q3 2022 data.",
+                "citations": []
+              }
+            },
+            "evaluation": {
+              "evaluation": "Expectations Met",
+              "evaluation_reason": "The actual results for international patient revenue in Q2 2022 precisely matched management's guidance, indicating that the recovery was on track as planned."
+            }
+          },
+          {
+            "theme": "Patient Satisfaction",
+            "narrative": "Management expressed a commitment to improving patient satisfaction scores and reducing wait times.",
+            "management_guidance": {
+              "answer": "A target of 90% patient satisfaction score is set for the end of the year. A 15% reduction in patient wait times is aimed for over the next six months.",
+              "citations": [
+                "7389f81dd5177433711ec1e4cd0a3c7b"
+              ]
+            },
+            "actual_results": {
+              "['Q4', '2022']": {
+                "answer": "No actual results for Q2 2022 are provided in the given data.",
+                "citations": []
+              },
+              "['Q2', '2023']": {
+                "answer": "No specific Q2 2022 patient satisfaction data is provided in the actual results data.  However, in Q2 2023,  patient satisfaction scores increased by 15% compared to the previous quarter.",
+                "citations": [
+                  "9040f387f72c48725afaf9426efbf642"
+                ]
+              },
+              "['Q2', '2022']": {
+                "answer": "No specific Q2 2022 actual results for patient satisfaction scores or wait times are provided in the data. However, occupancy reached 81% by the end of October [aa84eb463fbb3dab382d582eb3accbbd, 999bad2ef9a5d71372c748e61696e29c, c1bcd6af5edd72a3ab3c1a7e457a8e73], which may indirectly reflect on patient satisfaction.",
+                "citations": [
+                  "aa84eb463fbb3dab382d582eb3accbbd",
+                  "999bad2ef9a5d71372c748e61696e29c",
+                  "c1bcd6af5edd72a3ab3c1a7e457a8e73"
+                ]
+              },
+              "['Q3', '2022']": {
+                "answer": "Q3 FY22 data shows a 7% QoQ reduction in OP consults, to 5.4 lakhs, due to seasonal factors and reduced institutional patient footfalls (263fe3fdeda89e16d5a65173391709d2).  No specific data on overall patient satisfaction scores are available.",
+                "citations": [
+                  "263fe3fdeda89e16d5a65173391709d2"
+                ]
+              }
+            },
+            "evaluation": {
+              "evaluation": "Insufficient Info",
+              "evaluation_reason": "The provided data for Q2 2022 lacks specific metrics on patient satisfaction scores and wait times, making it impossible to assess performance against management's expectations."
+            }
+          }
+        ]
+      },
+      "['Q2', '2021']": {
+        "themes": [
+          {
+            "theme": "Financial Performance",
+            "narrative": "Analysis of key financial metrics including revenue growth rate, operating margin, EBITDA margin, Return on Equity (ROE), and Free Cash Flow Yield.",
+            "management_guidance": {
+              "answer": "Management expected improved Q3 2021 performance compared to Q3 2020.  Oncology business growth was significant. Cost-saving programs were underway, targeting Rs. 100 crore, with Rs. 65 crore expected to impact FY21. A Gurgaon hospital, after eliminating Institutional business, achieved a 25% EBITDA margin pre-COVID.  The company aimed for a debt-to-EBITDA ratio of around 3x. With a capital allocation of Rs. 3,600 crore, a ROCE in the mid-to-high 20s was projected under normal circumstances, and 25-30% ROCE on an incremental basis for brownfield projects. Structural cost savings were expected to be sustained.",
+              "citations": [
+                "67003ba84bd7a0af936f92c1f8c986da",
+                "e0978ff358011bc854e5c1893194537d",
+                "ec76ef3a424002601990fc930052fc89",
+                "febce5a15aebcc52839fbfc25ea2b732",
+                "f0669e5f93ae39b3c3487ae19d4b7d07",
+                "589e7898e8f132166ab6a4001af666d8",
+                "fc672956c7abefc34d295b211895fdb0",
+                "53bcca4aad1a36f79a9903f501f637c2",
+                "4b0de6dcae156c81e70c96c2d7c0d7ad"
+              ]
+            },
+            "actual_results": {
+              "['Q4', '2021']": {
+                "answer": "In Q4 2021, gross revenue was INR 1,159 crore (a 5% YoY increase and similar to Q3 FY21). Operating EBITDA margin was 24.1% (up from 15.5% in Q4 FY20 and 23.2% in Q3 FY21). Operating EBITDA for Q4 FY21 was INR 263 crore (a 68% YoY increase and a 4% QoQ increase). Net debt reduced by INR 1,323 crore to INR 544 crore as of March 31, 2021. Over Rs. 140 crore in operating cash flows were generated post CAPEX and interest costs, used to repay debt. The network operating EBITDA grew by 8% to Rs.636 crore despite lower revenues.",
+                "citations": []
+              },
+              "['Q2', '2022']": {
+                "answer": "In Q2 2022, gross revenue reached INR 1,434 crore (a 52% YoY increase). Operating EBITDA was INR 362 crore (+153% YoY). Pre-tax ROCE improved to 32.0%. Cash from operations reached INR 294 crore. ARPOB (excluding Covid-19 revenue and Max Lab operations) reached INR 59,000 (+27% YoY). PAT was INR 207 crore.",
+                "citations": [
+                  "4d91249f4c2c15e692003131c97894d0",
+                  "b148f6057bd270af2eee341a6f9cef9d",
+                  "4d91249f4c2c15e692003131c97894d0",
+                  "6826891e85a2213d35ea5823744ad6ab",
+                  "4d91249f4c2c15e692003131c97894d0",
+                  "eab8d92f44242f311c44e10fe3315527",
+                  "4d91249f4c2c15e692003131c97894d0",
+                  "eab8d92f44242f311c44e10fe3315527",
+                  "478f36be475768d618132feeb43bf222",
+                  "eab8d92f44242f311c44e10fe3315527",
+                  "4d91249f4c2c15e692003131c97894d0",
+                  "6826891e85a2213d35ea5823744ad6ab"
+                ]
+              },
+              "['Q2', '2021']": {
+                "answer": "Q2 FY21 gross revenue was INR 932 Cr (a 53% increase over Q1 FY21, but a 17% decrease year-on-year). The operating EBITDA margin was 16.2% (higher than the same quarter last year). Operating EBITDA was INR 143 Cr. The company's net debt, inclusive of put options, stood at Rs. 1,988 crore. They reduced net debt by Rs. 128 crore during the quarter. Oncology business growth was significant, with a 28% increase in Q2 over Q1. A pre-COVID 25% EBITDA margin was achieved in a Gurgaon hospital after eliminating Institutional business.",
+                "citations": [
+                  "599d2334fdbe633735642b039eb4dbf4",
+                  "a2a2fa87a314faf5b35ccfad1155ae91",
+                  "9ad521b741832ec520b79af42e5dedb8",
+                  "ec76ef3a424002601990fc930052fc89",
+                  "2c2956d36313bfbad2b33fe27c627091",
+                  "fc672956c7abefc34d295b211895fdb0"
+                ]
+              },
+              "['Q3', '2021']": {
+                "answer": "In Q3 2021, gross revenue was Rs. 1,160 crore (a 6% YoY and 24% QoQ growth). Operating EBITDA was Rs. 253 crore (a 76.5% YoY increase).  ROCE was 12.4%. Net debt was reduced by Rs. 121 crore to Rs. 1,867 crore by December 31st, 2021.  The company was generating approximately Rs. 500 crore annually in free cash flow.",
+                "citations": [
+                  "e773cb4b8ef90fe53e2b8687bbb103fa",
+                  "ace22dac185351904d55334180dcb6e5",
+                  "ace22dac185351904d55334180dcb6e5",
+                  "7c8326bf5436b8d455db47c21d0dfbb8",
+                  "06dd9c0de1989d329437b0327df89eb0"
+                ]
+              }
+            },
+            "evaluation": {
+              "evaluation": "Expectations Not Met",
+              "evaluation_reason": "While oncology growth exceeded expectations and the Gurgaon hospital met the pre-COVID EBITDA margin target, overall revenue decreased year-on-year, failing to meet the implied expectation of overall improvement.  Debt reduction was positive but didn't significantly alter the high debt-to-EBITDA ratio."
+            }
+          },
+          {
+            "theme": "Market Position and Competition",
+            "narrative": "Analysis of market share, pricing strategies, and competitive landscape.",
+            "management_guidance": {
+              "answer": "Medical tourism had returned to 20-25% of pre-COVID levels by September 2021 and was expected to increase. A significant portion of the business (36%) was projected to decrease to approximately 15% over the next three years due to payor mix changes. Price revisions had begun in Q2 2021, with a full impact expected in Q4 2021, except for discharge-related pricing.",
+              "citations": [
+                "6429a212aa0da34387dddb8034afe3d6",
+                "4a9e5335365446096ae616864014423d",
+                "b674b1b8ad2841788800f23e4c5f96c1"
+              ]
+            },
+            "actual_results": {
+              "['Q4', '2021']": {
+                "answer": "In Q4 2021, Max Healthcare and Radiant merged, creating India's second-largest healthcare chain by revenue.",
+                "citations": [
+                  "a43b606579c8f898969eef2563dc0654"
+                ]
+              },
+              "['Q2', '2022']": {
+                "answer": "In Q2 2022, medical tourism reached 50% of pre-COVID levels by the end of the quarter. Oncology represented about 14% of total sales. Max Lab added 140 channel partners, increasing the active partner count to 600.",
+                "citations": [
+                  "b9eb17754d9efd601974bc71eb281e66",
+                  "2960548f0898ef385d8f17297129fb65",
+                  "6826891e85a2213d35ea5823744ad6ab",
+                  "2948d143b0ad9f4b38718b8ff5d30788"
+                ]
+              },
+              "['Q2', '2021']": {
+                "answer": "By the end of September 2021, medical tourism had recovered to 20-25% of pre-COVID levels. Non-COVID tower specialties were operating at 80-90% of pre-COVID levels. Price revisions started flowing in during Q2, with further revisions from November 15th.",
+                "citations": [
+                  "6429a212aa0da34387dddb8034afe3d6",
+                  "2c2956d36313bfbad2b33fe27c627091",
+                  "b674b1b8ad2841788800f23e4c5f96c1"
+                ]
+              },
+              "['Q3', '2021']": {
+                "answer": "In Q3 2021, International business reached almost 50% of pre-COVID levels. The share of Institutional patients decreased from 35% to 31%.",
+                "citations": [
+                  "e773cb4b8ef90fe53e2b8687bbb103fa",
+                  "0376edb8f39d94242b0a5f2270b743d0"
+                ]
+              }
+            },
+            "evaluation": {
+              "evaluation": "Expectations Met",
+              "evaluation_reason": "Medical tourism recovery met management's expectations, and price revisions commenced as planned in Q2 2021, aligning with the guidance provided."
+            }
+          },
+          {
+            "theme": "Operational Efficiency",
+            "narrative": "Discussion on operational aspects such as average length of hospital stay, cost per procedure/service, and capacity expansion.",
+            "management_guidance": {
+              "answer": "The limiting factor for increasing patient volume was the number of non-COVID beds available. The construction of new hospitals (at a cost of Rs. 1,300 crore over four years) was expected to take three to four years to complete.",
+              "citations": [
+                "5a348b9707286e88af83ad8bcc94ca63",
+                "cd3756f903c0947cb26019583ef5969f"
+              ]
+            },
+            "actual_results": {
+              "['Q4', '2021']": {
+                "answer": "In Q4 2021, average inpatient occupancy was 69.8%, similar to Q4 FY20 but down from 76.2% in Q3 FY21. ALOS was 4.6 days, better than 5.4 days in Q3 FY21 but slightly higher than 4.5 days in Q4 FY20. Rs. 108 crore worth of structural cost savings were implemented during FY21.",
+                "citations": [
+                  "c16ced6f3fa0b970c9dce01c990ac7be",
+                  "57e4b221a2ebd378ed7d94df4874c8ca",
+                  "3c0a9dcadc6886c24bcada5429987c2e"
+                ]
+              },
+              "['Q2', '2022']": {
+                "answer": "In Q2 2022, ALOS normalized to the pre-COVID level of 4.3 days. Occupancy stood at 75.2%. 34 operational beds were added. Only 2% of occupied beds were used for COVID patients.",
+                "citations": [
+                  "e09869be03187dbf0ae840246861fe31",
+                  "4d91249f4c2c15e692003131c97894d0",
+                  "7bf99c9668441d3f4a601d1196cb11c9",
+                  "612cee722c5af750da2cf00552e85103"
+                ]
+              },
+              "['Q2', '2021']": {
+                "answer": "No specific quantifiable results related to bed capacity or construction timeline are explicitly mentioned in the provided data for Q2 2021. However, the data shows occupancy rates for COVID and non-COVID beds, indicating the impact of limited capacity.",
+                "citations": []
+              },
+              "['Q3', '2021']": {
+                "answer": "In Q3 2021, average inpatient occupancy was 76.2%, and ALOS was 4.3 days.  Covid-19 occupancy declined after peaking in November 2020, while non-Covid-19 occupancy rebounded significantly in August and returned to pre-COVID levels in September, reaching an all-time high in November.",
+                "citations": [
+                  "d7a8be5a737d5b4aa162209ba62bb24d",
+                  "4fb0faa58e7c2df0a9a8f600780062f5"
+                ]
+              }
+            },
+            "evaluation": {
+              "evaluation": "Insufficient Info",
+              "evaluation_reason": "The provided Q2 2021 data lacks specific quantifiable results on bed capacity or construction progress to assess performance against management's guidance on operational efficiency."
+            }
+          },
+          {
+            "theme": "Regulatory Environment",
+            "narrative": "Overview of regulatory compliance and related matters.",
+            "management_guidance": {
+              "answer": "The company had a shareholding dilution obligation to meet minimum shareholding norms before August of the following year.",
+              "citations": [
+                "5cb2c7062da2579c3206babfe4ade7f4"
+              ]
+            },
+            "actual_results": {
+              "['Q4', '2021']": {
+                "answer": "No specific actual results related to this guidance are provided in the Q4 2021 data.",
+                "citations": []
+              },
+              "['Q2', '2022']": {
+                "answer": "No specific actual results related to regulatory compliance are provided in the given data for Q2 2022.",
+                "citations": []
+              },
+              "['Q2', '2021']": {
+                "answer": "No specific results regarding the shareholding dilution obligation are provided in the data for Q2 2021.",
+                "citations": []
+              },
+              "['Q3', '2021']": {
+                "answer": "No specific actual results are provided in the data for this theme in Q3 2021.  There is mention of bed restrictions being reduced in January, but no further details are provided.",
+                "citations": [
+                  "cbf65e4c6a784d8a8a209d9856b77bda"
+                ]
+              }
+            },
+            "evaluation": {
+              "evaluation": "Insufficient Info",
+              "evaluation_reason": "The Q2 2021 data does not contain information on the company's progress in meeting its shareholding dilution obligation."
+            }
+          }
+        ]
+      },
+      "['Q1', '2025']": {
+        "themes": [
+          {
+            "theme": "Financial Performance",
+            "narrative": "This theme focuses on the company's financial projections for Q1 2025, including revenue growth, EBITDA margin, and return on equity.  Key drivers for growth include new units, improved ARPOB, and higher-margin procedures.",
+            "management_guidance": {
+              "answer": "Management expects significant revenue growth (driven by new units and improved ARPOB), EBITDA breakeven within 6-9 months for the Dwarka hospital and a future EBITDA margin around 22%, and ROCE accretive growth through brownfield expansion adding ~2,600 beds, projecting ROCE threshold levels of 20-25% within 4-5 years post-acquisition.  ARPOB in new hospitals is projected to increase to Rs. 60,000-65,000 within a year, contributing to overall revenue exceeding Rs. 700 crore for the beds.",
+              "citations": [
+                "753970cf1f89d06c3777456d536fc553",
+                "436b2d576d80d0cd2a9e405686d0dc2f",
+                "fc7b9b5771614267ab06e7d5d6a928aa",
+                "671f95de30abcf1c995826b5f171420f",
+                "a33ba5b351cd6d500b5f25cdbd3e0324",
+                "64695854e31b9ebace3c397c91b5c4c2",
+                "63f4e75fa5135bce68735487ff57310b",
+                "a3df206cce1741a496f40bfc0b434a33"
+              ]
+            },
+            "actual_results": {
+              "['Q1', '2025']": {
+                "answer": "Net revenue was Rs. 1,935 crore in Q1 FY25. Network gross revenue was Rs. 2,028 crore, a growth of 18% year-on-year and 7% quarter-on-quarter. ARPOB improved to Rs. 80,100, growing by 7% year-on-year and 3% quarter-on-quarter. Network operating EBITDA was Rs. 499 crore (net of a one-time charge of Rs. 6 crore). Profit after tax (PAT) was Rs. 295 crore. Free cash flow from operations was Rs. 258 crore. Existing Units pre-tax ROCE for Q1 FY25 was 33%.",
+                "citations": [
+                  "a2214cb177b8f6c8c7fef056823f30ad",
+                  "daaba014448b5713e646aeaf0ef366ad",
+                  "5c237dac89570502da32bc4fb0e66dc9",
+                  "3d3dbfce46332a3abd0ee44acc52b5d2",
+                  "2616802685267d62111b302d443f5927",
+                  "1c25cea978c6fefe8fea3bb92ee04a28",
+                  "a3df206cce1741a496f40bfc0b434a33"
+                ]
+              }
+            },
+            "evaluation": {
+              "evaluation": "Exceeded expectations",
+              "evaluation_reason": "Actual revenue (Rs. 1,935 crore) significantly exceeded the projected revenue (over Rs. 700 crore) and ARPOB (Rs. 80,100) surpassed the projected range (Rs. 60,000-65,000) within the first year, while also achieving a high ROCE of 33%.  The EBITDA was also significantly positive, exceeding expectations of breakeven within 6-9 months for the Dwarka hospital."
+            }
+          },
+          {
+            "theme": "Operational Efficiency",
+            "narrative": "This theme centers on the company's strategies to improve operational efficiency, focusing on average length of hospital stay, cost per procedure/service, and utilization rate of medical equipment.  Key initiatives include brownfield and greenfield expansions to increase bed capacity and utilization.",
+            "management_guidance": {
+              "answer": "Management expects increased bed utilization following brownfield expansions, citing a 43% bed capacity increase leading to a 34-35% rise in inpatient and outpatient volumes.  They plan to add 140 beds and refurbish existing infrastructure, with a new tower completed within 24 months. Further expansions in Mumbai, Mohali, and Smart are expected by Q4 FY25 and Q1 FY26.  A long-term lease for a 250-bed hospital at Zirakpur is expected by FY28.  They anticipate a significant increase in capacity (approximately double in 4-5 years) through greenfield hospitals and brownfield expansions, aiming to increase utilization rates from the current 77%.",
+              "citations": [
+                "46c4839c4f5f4d88e85225f90b0ec316",
+                "cec20b27794828a5e62a94014d2a5c38",
+                "190fa4bebf22bdf9171e07de4b0db3d0",
+                "c46aacc3d2f162182b522d598c6f38fa",
+                "67796c539a6d9de866a13c80d235776a",
+                "daaba014448b5713e646aeaf0ef366ad",
+                "a3df206cce1741a496f40bfc0b434a33",
+                "27432a0f7467095e89764926573efc00",
+                "a01bf0cea21cad2b4ce519f4a30065f6"
+              ]
+            },
+            "actual_results": {
+              "['Q1', '2025']": {
+                "answer": "Overall occupancy was 75% in Q1 FY25, with occupied bed days growing by around 5% year-on-year and 2% quarter-on-quarter. Max Super Speciality Hospital, Dwarka was operationalized on July 2nd. The addition of 140 beds and refurbishment were underway.",
+                "citations": [
+                  "a2214cb177b8f6c8c7fef056823f30ad",
+                  "8d60b7e1dba70a49a2994c4b84ff22d3",
+                  "cec20b27794828a5e62a94014d2a5c38",
+                  "c46aacc3d2f162182b522d598c6f38fa",
+                  "2616802685267d62111b302d443f5927",
+                  "1c25cea978c6fefe8fea3bb92ee04a28"
+                ]
+              }
+            },
+            "evaluation": {
+              "evaluation": "Expectations Not Met",
+              "evaluation_reason": "While the Dwarka hospital opened and bed additions began, the overall occupancy rate of 75%  fell short of the implied expectation of significantly higher utilization given the planned capacity increase and the relatively modest growth in occupied bed days.  Further, the planned expansions in other locations were not yet completed in Q1 2025."
+            }
+          }
+        ]
+      },
+      "['Q2', '2024']": {
+        "themes": [
+          {
+            "theme": "Capacity Expansion and Operational Efficiency",
+            "narrative": "Management extensively discussed significant capacity expansion plans, focusing on both brownfield and greenfield projects.  These initiatives are expected to substantially increase bed capacity within the next few years.  Alongside this expansion, there's a focus on achieving operational efficiencies, including cost reduction strategies.",
+            "management_guidance": {
+              "answer": "The completion of ground-level structures for a project is expected in Q2 2024, with the project remaining on schedule. Commissioning of a project is expected in Q4 2024. Approximately 300 beds are expected to be added by the end of FY24. Further bed additions are planned, totaling approximately 2600 beds, with around 1000 beds not subject to EWS obligations. Plans to double bed capacity over the next 3-4 years are mentioned. A 15% reduction in operational costs is planned by the end of the year.",
+              "citations": [
+                "0d49d41e0183014eac6cadf001989e5f",
+                "73a62fc3d21fa946feeea1e8469ed87e",
+                "57142b484e603da92b32d96bfdc12d05",
+                "080eca8346c0d93abb5fad18534bffc8",
+                "0ae3f34e1d10ec2472d0062c69173560",
+                "4cf9100003a9ddd39ba6a73fe7ba6a15",
+                "c6aab6d943990f89f98ac30e55a1383a",
+                "f4fd1092dc84b653b2ef854ff5ddb32b"
+              ]
+            },
+            "actual_results": {
+              "['Q3', '2024']": {
+                "answer": "No actual results for Q2 2024 are provided in the given data.",
+                "citations": []
+              },
+              "['Q4', '2024']": {
+                "answer": "No actual results for Q2 2024 are provided in the given data.",
+                "citations": []
+              },
+              "['Q1', '2025']": {
+                "answer": "No actual results for Q2 2024 are provided in the given data.",
+                "citations": []
+              },
+              "['Q2', '2024']": {
+                "answer": "No specific actual results for Q2 2024 regarding capacity expansion or cost reduction are provided in the data.",
+                "citations": []
+              }
+            },
+            "evaluation": {
+              "evaluation": "Insufficient Info",
+              "evaluation_reason": "No Q2 2024 actual results on capacity expansion or cost reduction are available to compare against the provided management guidance."
+            }
+          },
+          {
+            "theme": "Financial Performance and Growth",
+            "narrative": "Management provided forward-looking statements regarding revenue growth and EBITDA breakeven points for new projects.  There's a stated goal of maintaining fiscal discipline while pursuing growth opportunities.",
+            "management_guidance": {
+              "answer": "A 15% revenue growth is projected for the next quarter. EBITDA breakeven is expected within 11-12 months for Greenfield projects, potentially sooner (within a quarter or two). A 10% increase in revenue is targeted for the next fiscal year. The potential to increase EBITDA by 15% through capital deployment (INR 5,000 crore) is mentioned.",
+              "citations": [
+                "514783e17d5932c5d78a5d41540eb361",
+                "65da9b0cffdf0c5e4ba63428e01ff512",
+                "f4fd1092dc84b653b2ef854ff5ddb32b",
+                "0963ea44a10986f856a2bf6134ded9a6"
+              ]
+            },
+            "actual_results": {
+              "['Q3', '2024']": {
+                "answer": "In Q3 2024, gross revenue was INR 1779 Cr, a 14% YoY growth and -3% QoQ decrease. Operating EBITDA was INR 471 Cr, a 12% YoY growth and -5% QoQ decrease. Profit after tax was INR 338 Cr, a 26% YoY increase and flat QoQ.",
+                "citations": [
+                  "ef99919d034082e6cd277ec658ed1587",
+                  "ee567d3545c38f83b31909cf03b97ed4",
+                  "2b60d6f65851b237ddde046f4e45f1f6"
+                ]
+              },
+              "['Q4', '2024']": {
+                "answer": "In Q4 FY24, revenue grew by 15% year-over-year. Further details on EBITDA and capital deployment impact are available across multiple citations.",
+                "citations": [
+                  "eb635e6849bca3d91e1f199128ff6d5f",
+                  "095e8804e4efa9b83452ead83681b52e",
+                  "0f3e5a34c9e33295435e81a1d0ee6106",
+                  "0951bf9555c4d0d523266e704ca524da",
+                  "50c7cbe80f682f3932e7122a19613b04",
+                  "5d562be65b83efbd7e16437d8b79118c",
+                  "dfe8da8c3bb5bd1a8e61bb1302066aaa",
+                  "b803429de29d2da857c00fe6821fa0dd"
+                ]
+              },
+              "['Q1', '2025']": {
+                "answer": "Based on the provided Q1 2025 data, several metrics show growth but don't directly align with the Q2 2024 guidance. For example, Q1 2025 saw a reported EBITDA of INR 479 Cr and a network gross revenue of INR 2,028 Cr. However, these figures represent the results of a longer period and include contributions from various sources, making a direct comparison with the Q2 2024 guidance challenging.",
+                "citations": [
+                  "cbdb88ca03feb0dc6b898c764110ddbe",
+                  "3d3dbfce46332a3abd0ee44acc52b5d2",
+                  "ef15c259c601bd01b75b305c1d806315",
+                  "daaba014448b5713e646aeaf0ef366ad"
+                ]
+              },
+              "['Q2', '2024']": {
+                "answer": "In Q2 2024, gross revenue reached INR 1,827 Cr, a 17% YoY increase and 6% QoQ increase. Operating EBITDA was INR 497 Cr, a 21% YoY increase and 14% QoQ increase. International patient revenue increased by 25% YoY and 11% QoQ, representing ~9% of hospital revenue.",
+                "citations": [
+                  "8db5c1d013ad5db8d60f14772ad35a29",
+                  "4051e3c744e0ac577cd4a285e993be70",
+                  "ea9bf9cd90a3c3050ab9937a470869bc",
+                  "106af9ebc49d6edd109beda5a6a1c4b7",
+                  "61109e42ddb22822aa5d085c0084073e"
+                ]
+              }
+            },
+            "evaluation": {
+              "evaluation": "Exceeded expectations",
+              "evaluation_reason": "Q2 2024 actual results showed higher revenue and EBITDA growth than the management's projected 15% revenue growth for the next quarter."
+            }
+          },
+          {
+            "theme": "Strategic Investments and Acquisitions",
+            "narrative": "Management highlighted ongoing efforts to identify and pursue strategic investment opportunities, including acquisitions and partnerships, across various models (build, partner, asset-light).",
+            "management_guidance": {
+              "answer": "The company intends to deploy capital for acquisitions and other growth opportunities. Specific details about the timing and nature of these opportunities are not fully disclosed, but the intent to pursue them is clear.",
+              "citations": [
+                "e0a38e6b4345d72170eeac1ee6c6f49d"
+              ]
+            },
+            "actual_results": {
+              "['Q3', '2024']": {
+                "answer": "No specific actual results relating to acquisitions are provided for Q2 2024 in the data.",
+                "citations": []
+              },
+              "['Q4', '2024']": {
+                "answer": "No specific Q2 2024 actual results for acquisitions are provided in the available data. However, Q4 FY24 data shows significant capital expenditure on acquisitions.",
+                "citations": [
+                  "dfe8da8c3bb5bd1a8e61bb1302066aaa",
+                  "50c7cbe80f682f3932e7122a19613b04"
+                ]
+              },
+              "['Q1', '2025']": {
+                "answer": "No specific actual results related to acquisitions or strategic investments completed in Q2 2024 are available in the provided data.",
+                "citations": []
+              },
+              "['Q2', '2024']": {
+                "answer": "No specific actual results regarding acquisitions or strategic investments in Q2 2024 are provided in the data.",
+                "citations": []
+              }
+            },
+            "evaluation": {
+              "evaluation": "Insufficient Info",
+              "evaluation_reason": "No Q2 2024 actual results on acquisitions or strategic investments are available to compare against the management's guidance."
+            }
+          }
+        ]
+      },
+      "['Q3', '2023']": {
+        "themes": [
+          {
+            "theme": "Capacity Expansion and Operational Efficiency",
+            "narrative": "Management highlighted significant bed capacity additions through both capital expenditure (CAPEX) and internal reconfigurations.  The expansion plans are detailed, including timelines and specific bed numbers for various locations.  There's also discussion regarding the timeline for new facilities to reach EBITDA breakeven.",
+            "management_guidance": {
+              "answer": "Addition of over 100 beds in the next two quarters through internal reconfigurations; A total of over 500 beds added within the next 6-7 months across multiple locations (Dwarka, Shalimar Bagh, and others); Dwarka greenfield site expected to reach EBITDA breakeven in 12-15 months; Brownfield hospitals expected to reach breakeven within the first one or two quarters; Significant increase in bed capacity (more than 2x) over the next 5-6 years.",
+              "citations": [
+                "08e7e06c9624a568e83ad6b66e8da442",
+                "4d8ec59f5117e2258cd5ef36eb46cace",
+                "92956143dcaed0736eca9c2bb690583f",
+                "3daa37af4b8ac9351152e63632d82ea1",
+                "bfe07d06c35b3b41a4e3e8c604e52915",
+                "a52ef591fe91460503f95bf7af39638a",
+                "20e58d50417bd19172acebe21e30bd56",
+                "25967e2c053685cda0e498a5acacf9cb",
+                "a0435ba45c44a9e0d22f2789e45bb747"
+              ]
+            },
+            "actual_results": {
+              "['Q4', '2023']": {
+                "answer": "No actual results for this theme are available in the provided Q4 2023 data.",
+                "citations": []
+              },
+              "['Q1', '2024']": {
+                "answer": "No specific actual results for Q3 2023 capacity expansion are provided in the Q1 2024 data.",
+                "citations": []
+              },
+              "['Q2', '2024']": {
+                "answer": "No specific actual results for Q3 2023 are provided in the database for this theme.",
+                "citations": []
+              },
+              "['Q3', '2023']": {
+                "answer": "No specific actual results for bed additions or breakeven timelines were provided in the Q3 2023 data. However, the Q3 occupancy rate was cited as 77%, suggesting the existing capacity was well utilized.",
+                "citations": [
+                  "678a23c7bc4e180873341879e63d4b86",
+                  "20eaf7d5a1250672d0ab678a89bde51b",
+                  "92956143dcaed0736eca9c2bb690583f",
+                  "bfe07d06c35b3b41a4e3e8c604e52915",
+                  "a52ef591fe91460503f95bf7af39638a"
+                ]
+              }
+            },
+            "evaluation": {
+              "evaluation": "Insufficient Info",
+              "evaluation_reason": "Insufficient Q3 2023 data on bed additions and breakeven timelines prevents an evaluation of whether management's guidance was met, exceeded, or not met."
+            }
+          },
+          {
+            "theme": "Financial Performance and Growth Strategy",
+            "narrative": "Management provided projections for revenue growth and operating cost reduction.  There's discussion about funding mechanisms for future mergers and acquisitions (M&A) and the potential impact on international revenue contribution.",
+            "management_guidance": {
+              "answer": "Revenue growth of 15% projected for the next fiscal year; Plan to reduce operating costs by 10% by the end of Q4; Board approval to raise up to Rs. 4,200 crore for future M&A activity; International revenue contribution could increase to 10-11%; Targeting 10-12% top-line growth with 77-80% occupancy levels; Debt to EBITDA leverage to remain within 2-2.5x for inorganic growth; Expansion plan of Rs. 4,000-4,500 crore over 4 years funded by 50% free cash flow.",
+              "citations": [
+                "a639ae7d8f234aa88511f69d380457fd",
+                "08e7e06c9624a568e83ad6b66e8da442",
+                "e3f0503e38d2106de4bfe102e893117b",
+                "810e5dd85b9839c104fa4cb33ca23d0a",
+                "92956143dcaed0736eca9c2bb690583f",
+                "4f5ca1747c1fa3f17dd86da5d45a1d4a",
+                "f3eb97d2519becb71a8e46fd6e980f06"
+              ]
+            },
+            "actual_results": {
+              "['Q4', '2023']": {
+                "answer": "In Q4 FY23, gross revenue grew by 26% year-over-year (YoY) and 5% quarter-over-quarter (QoQ), reaching INR 1,637 Cr.  PAT increased by 85% YoY and 19% QoQ, reaching INR 320 Cr. Further, FY23 gross revenue was INR 6,236 Cr (+13.2% YoY excluding Covid-19 vaccination revenue).  FY23 PAT was INR 1,328 Cr (+59% YoY).",
+                "citations": [
+                  "c89879fe2d10e084d415350a86295bae",
+                  "847207a53d47d3cf7fcc5abb49b843c9",
+                  "0f908509870f40b4e75af74c018f790a",
+                  "9456ba0d658973980ccb0826579e329b",
+                  "651b6c392d6fbb467b3a18166895a49f"
+                ]
+              },
+              "['Q1', '2024']": {
+                "answer": "Actual results for Q1 2024 show a gross revenue of INR 1,719 Cr, a +17% YoY and +5% QoQ growth (12beaad19b26a299fab377cc471a28db, 92bc23856c9eb6f224b6b6ffa3430a55). This exceeds the 15% revenue growth guidance for the fiscal year, but it's important to note that this is only Q1 data. Operating EBITDA in Q1 2024 was INR 436 Cr, showing an 18% YoY growth (5c42ed59efa18b878be6b9f4eee7af0a, 12beaad19b26a299fab377cc471a28db, 92bc23856c9eb6f224b6b6ffa3430a55). Further information on operating cost reduction and M&A activity is not available in the provided Q1 2024 data.",
+                "citations": [
+                  "12beaad19b26a299fab377cc471a28db",
+                  "92bc23856c9eb6f224b6b6ffa3430a55",
+                  "5c42ed59efa18b878be6b9f4eee7af0a"
+                ]
+              },
+              "['Q2', '2024']": {
+                "answer": "In Q2 2024, Max Healthcare reported a 17% YoY and 6% QoQ growth in gross revenue. International patient revenue improved by +25% YoY and +11% QoQ, accounting for ~9% of hospital revenue. Operating EBITDA grew by +21% YoY and +14% QoQ. PAT was INR 338 Cr, a growth of +26% YoY and +16% QoQ. These results partially reflect the management guidance.",
+                "citations": [
+                  "8db5c1d013ad5db8d60f14772ad35a29",
+                  "4051e3c744e0ac577cd4a285e993be70",
+                  "ea9bf9cd90a3c3050ab9937a470869bc",
+                  "61109e42ddb22822aa5d085c0084073e"
+                ]
+              },
+              "['Q3', '2023']": {
+                "answer": "In Q3 FY23, the company reported a 13% YoY growth in gross revenue (excluding Covid-19 vaccination), which is slightly below the projected 15% for the fiscal year. International patient revenue improved by +62% YoY and reached ~110% of pre-Covid levels, exceeding the 10-11% target.",
+                "citations": [
+                  "678a23c7bc4e180873341879e63d4b86",
+                  "4ee13d0197d65bf95c7169afddd9f1bb",
+                  "a639ae7d8f234aa88511f69d380457fd",
+                  "20eaf7d5a1250672d0ab678a89bde51b",
+                  "74b121935d2d21bb5591c6d2b99bda5c"
+                ]
+              }
+            },
+            "evaluation": {
+              "evaluation": "Expectations Not Met",
+              "evaluation_reason": "While Q3 revenue growth slightly missed the annual projection, the significant increase in international patient revenue exceeded expectations, resulting in a partial fulfillment of the overall financial guidance."
+            }
+          },
+          {
+            "theme": "Patient Satisfaction",
+            "narrative": "Management explicitly stated a target for patient satisfaction scores.",
+            "management_guidance": {
+              "answer": "Targeting patient satisfaction scores to reach 90% in the upcoming quarter.",
+              "citations": [
+                "a639ae7d8f234aa88511f69d380457fd"
+              ]
+            },
+            "actual_results": {
+              "['Q4', '2023']": {
+                "answer": "No actual results for this theme are available in the provided Q4 2023 data.",
+                "citations": []
+              },
+              "['Q1', '2024']": {
+                "answer": "No specific Q3 2023 patient satisfaction data is available in the provided Q1 2024 data. However, Q1 2024 data mentions a 5% increase in patient satisfaction scores for the year (e3027305799952c861427cf677ca956c).",
+                "citations": [
+                  "e3027305799952c861427cf677ca956c"
+                ]
+              },
+              "['Q2', '2024']": {
+                "answer": "No actual results for patient satisfaction scores are provided in the database for Q3 2023 or Q2 2024.",
+                "citations": []
+              },
+              "['Q3', '2023']": {
+                "answer": "No actual patient satisfaction scores were reported for Q3 2023 in the provided data.",
+                "citations": []
+              }
+            },
+            "evaluation": {
+              "evaluation": "Insufficient Info",
+              "evaluation_reason": "The absence of Q3 2023 patient satisfaction data prevents an assessment of whether the target was met or not."
+            }
+          }
+        ]
+      },
+      "['Q3', '2022']": {
+        "themes": [
+          {
+            "theme": "Capacity Expansion and Return on Capital Employed (ROCE)",
+            "narrative": "Management highlighted significant plans for bed capacity expansion, both through brownfield and greenfield projects. The expansion is explicitly framed as ROCE accretive. Specific details include plans to add 2,300 beds via brownfield expansion and a further 300 beds via greenfield expansion. Existing capacities of 300 beds on 8.6 acres in Dwarka and 400 beds on 2.1 acres in Patparganj were mentioned. The potential for adding 1000 more beds in an existing location was also noted, though constrained to 300 beds in Phase 1.",
+            "management_guidance": {
+              "answer": "Management projects more than a doubling of bed capacity within the next 5-6 years. The expansion is expected to be highly accretive to ROCE.",
+              "citations": [
+                "edf9b35975502643447c38344431cabe",
+                "5c17b5fcfb95159e4d50e2cb5b657f1e"
+              ]
+            },
+            "actual_results": {
+              "['Q4', '2022']": {
+                "answer": "No actual results for Q4 2022 related to this theme are available in the provided data.",
+                "citations": []
+              },
+              "['Q2', '2023']": {
+                "answer": "No actual results for Q3 2022 are provided in the database.",
+                "citations": []
+              },
+              "['Q3', '2023']": {
+                "answer": "No actual results for capacity expansion are available in the provided Q3 2023 data.",
+                "citations": []
+              },
+              "['Q3', '2022']": {
+                "answer": "No actual results for capacity expansion or ROCE are provided in the Q3 2022 data.",
+                "citations": []
+              }
+            },
+            "evaluation": {
+              "evaluation": "Insufficient Info",
+              "evaluation_reason": "No Q3 2022 data on actual capacity expansion or ROCE is available to compare against management's guidance."
+            }
+          },
+          {
+            "theme": "Operational Efficiency and Hospital Commissioning",
+            "narrative": "The narrative focuses on the commissioning timelines of new hospitals.",
+            "management_guidance": {
+              "answer": "Management provided specific timelines for hospital commissioning. One hospital is expected to be commissioned in H1 FY24, and another in H1 FY26.",
+              "citations": [
+                "1c1be2bf67acd4c728b15ef0473ecb64"
+              ]
+            },
+            "actual_results": {
+              "['Q4', '2022']": {
+                "answer": "No actual results for Q4 2022 related to this theme are available in the provided data.",
+                "citations": []
+              },
+              "['Q2', '2023']": {
+                "answer": "No actual results for Q3 2022 are provided in the database.",
+                "citations": []
+              },
+              "['Q3', '2023']": {
+                "answer": "No actual results for hospital commissioning are provided in the Q3 2023 data.",
+                "citations": []
+              },
+              "['Q3', '2022']": {
+                "answer": "No actual results related to hospital commissioning timelines are provided in the Q3 2022 data.",
+                "citations": []
+              }
+            },
+            "evaluation": {
+              "evaluation": "Insufficient Info",
+              "evaluation_reason": "No Q3 2022 data on hospital commissioning is available to assess progress against the provided timelines."
+            }
+          }
+        ]
+      },
+      "['Q3', '2021']": {
+        "themes": [
+          {
+            "theme": "Financial Performance",
+            "narrative": "Management discussed cost-saving initiatives,  future expansion plans involving significant capital expenditure, and expectations for EBITDA margin improvement.  There's also commentary on potential acquisitions and the future direction of the Institutional segment.",
+            "management_guidance": {
+              "answer": "Reduction in the Institutional segment in the coming quarters; Capital expenditure of Rs. 1,300 to Rs. 1,400 crore over the next four years for expansion; Anticipation of acquisitions over the next year or two; Completion of remaining Rs. 10-15 crore in cost savings (part of a Rs. 100 crore target); Expectation of improved EBITDA margin following the successful implementation of a VRS (voluntary retirement scheme); A target of 18% to 19% EBITDA margin; Generation of Rs. 800 crore to Rs. 1,000 crore of cash flow in three to four years.",
+              "citations": [
+                "49bbe2c430d5cef28636dcea1bdb36b1",
+                "9b2a293851f0634728e363ed23348736",
+                "ab6e942114adedda13ff8e296edb7e7d",
+                "8f11e3b50721768bf8da0eaff9b875b8",
+                "15c6330a1d23a12e25faecf436432427",
+                "4d66a19a1634d2b9c8650f14d399dd1f",
+                "06dd9c0de1989d329437b0327df89eb0"
+              ]
+            },
+            "actual_results": {
+              "['Q4', '2021']": {
+                "answer": "In Q4 2021, gross revenue was INR 1,159 crore (a 5% YoY increase and similar to Q3 2021). The operating EBITDA margin was 24.1%, up from 23.2% in Q3 2021 and significantly higher than 15.5% in Q4 2020. The operating EBITDA was INR 263 crore, representing a 68% YoY increase and a 4% QoQ increase. Profit after tax was INR 109 crore, a 141% YoY increase, but down from INR 135 crore in Q3 2021. The company generated over Rs. 140 crore in operating cash flows post CAPEX and interest costs, used to repay debt. Net debt reduced by INR 1,323 crore to INR 544 crore as of March 31, 2021. The full year gross revenue decreased by 12% to Rs. 3,861 crore, while H2 revenues grew by 8%.",
+                "citations": [
+                  "f11a7c5c6a5bab3c1ccd004c6ade2f8c",
+                  "6b8a0b9f743388e61f21efe1fad20ad9",
+                  "5b6aa9bb8092c75999c5a1c8b6ff4556",
+                  "3c0a9dcadc6886c24bcada5429987c2e",
+                  "f11a7c5c6a5bab3c1ccd004c6ade2f8c"
+                ]
+              },
+              "['Q2', '2022']": {
+                "answer": "In Q2 FY22, gross revenue reached INR 1,434 crore (a 52% YoY increase and 4% QoQ increase), with COVID-19 vaccination revenue dropping to INR 91 crore from INR 136 crore in Q1 FY22. PAT was INR 207 crore. ARPOB (excluding COVID-19 revenue and Max Lab operations) stood at INR 59.0k (+27% YoY and +15% QoQ). Operating EBITDA was INR 362 crore (+153% YoY and +1% QoQ). The company deployed INR 93 crore to secure three prime locations in NCR.",
+                "citations": [
+                  "4d91249f4c2c15e692003131c97894d0",
+                  "478f36be475768d618132feeb43bf222",
+                  "eab8d92f44242f311c44e10fe3315527",
+                  "b148f6057bd270af2eee341a6f9cef9d"
+                ]
+              },
+              "['Q3', '2022']": {
+                "answer": "In Q3 2022, gross revenue was INR 1,392 Cr (a 20% YoY increase from INR 1,158 Cr in Q3 FY21). Gross IP revenue was INR 1,082 Cr for Q3 FY22 (compared to INR 942 Cr in Q3 FY21). Non-Covid revenue grew by 81% YoY and 5% QoQ. Max@Home revenue was INR 28.2 Cr, a 41% YoY and 3% QoQ growth. Q3 FY22 PAT was INR 252 Cr versus INR 135 Cr in Q3 FY21 and INR 207 Cr in Q2 FY22. Operating EBITDA for Q3 FY22 was INR 364 Cr compared to INR 253 Cr in Q3 FY21 (+44% YoY) and INR 362 Cr in Q2 FY22. Cash generated from operations was INR 212 Cr.",
+                "citations": [
+                  "c52bae160ccc7c1005772bb153c52166",
+                  "263fe3fdeda89e16d5a65173391709d2",
+                  "5ce9f42af3dca679c51a99260852c01b"
+                ]
+              },
+              "['Q3', '2021']": {
+                "answer": "Gross revenue for Q3 FY21 was Rs. 1,160 crore, a 6% year-over-year and 24% quarter-over-quarter increase. Operating EBITDA was Rs. 253 crore, a 76.5% year-over-year increase. The EBITDA margin for Q3 FY21 was 23.2%. ARPOB (Average Revenue Per Occupied Bed) was around Rs. 51,000. The Institutional patient bed share reduced to 32%.",
+                "citations": [
+                  "ace22dac185351904d55334180dcb6e5",
+                  "e773cb4b8ef90fe53e2b8687bbb103fa",
+                  "b9984bfd941614c3cb0b71ac3b6263fa",
+                  "2c6378775680c46841a78eb0dbd9e709"
+                ]
+              }
+            },
+            "evaluation": {
+              "evaluation": "Expectations Not Met",
+              "evaluation_reason": "While Q3 2021 showed a significant YoY increase in operating EBITDA and a reduction in the Institutional segment's share,  there's insufficient data within Q3 2021 to assess progress on acquisitions, the full cost-saving initiative, or the long-term cash flow and EBITDA margin targets."
+            }
+          },
+          {
+            "theme": "Operational Efficiency",
+            "narrative": "Management discussed occupancy levels,  expansion plans (new bed capacity), and the impact of COVID-19 on occupancy.  There is also mention of brownfield projects.",
+            "management_guidance": {
+              "answer": "A reduction in dependency on Institutional business and repurposing of beds as new capacity comes on stream over the next three to four years; Plans for 350 new beds in Delhi (with potential for 650 more) and 500 beds in Mumbai (with initial launch of 152 beds); Commencement of Brownfield projects and construction in the beginning of Q1FY22.",
+              "citations": [
+                "0376edb8f39d94242b0a5f2270b743d0",
+                "dc72caabd5247053ac4c6e469f4530b4",
+                "7c8326bf5436b8d455db47c21d0dfbb8"
+              ]
+            },
+            "actual_results": {
+              "['Q4', '2021']": {
+                "answer": "In Q4 2021, average inpatient occupancy was 69.8%, similar to Q4 2020 but down from 76.2% in Q3 2021. Outpatient consults increased by 25% QoQ to 486,000. Average length of stay (ALOS) was 4.6 days, better than 5.4 days in Q3 2021 but slightly higher than 4.5 days in Q4 2020.",
+                "citations": [
+                  "c16ced6f3fa0b970c9dce01c990ac7be",
+                  "57e4b221a2ebd378ed7d94df4874c8ca",
+                  "f11a7c5c6a5bab3c1ccd004c6ade2f8c"
+                ]
+              },
+              "['Q2', '2022']": {
+                "answer": "In Q2 FY22, occupancy reached 75.2%, ALOS normalized to 4.3 days (pre-COVID level), compared to 5.4 days in Q2 FY21 and 5.9 days in Q1 FY22. 34 operational beds were added during Q2 FY22.",
+                "citations": [
+                  "999d6fc4fd72d7de8d68bf1bb5c4cbcb",
+                  "e09869be03187dbf0ae840246861fe31",
+                  "7bf99c9668441d3f4a601d1196cb11c9"
+                ]
+              },
+              "['Q3', '2022']": {
+                "answer": "In Q3 2022, occupancy was 74.3% versus 76.2% in Q3 FY21 and 75.2% in Q2 FY22. ALOS continued to be at 4.3 days in Q3 FY22 versus 5.4 days in Q3 FY21. OP consults reduced by 7% QoQ and stood at 5.4 lakhs in Q3 FY22 due to seasonal factors and reduced footfalls of institutional patients.",
+                "citations": [
+                  "c52bae160ccc7c1005772bb153c52166",
+                  "263fe3fdeda89e16d5a65173391709d2"
+                ]
+              },
+              "['Q3', '2021']": {
+                "answer": "In Q3 FY21, average inpatient occupancy was 76.2%, ALOS (Average Length of Stay) was 4.3 days.",
+                "citations": [
+                  "d7a8be5a737d5b4aa162209ba62bb24d"
+                ]
+              }
+            },
+            "evaluation": {
+              "evaluation": "Insufficient Info",
+              "evaluation_reason": "The Q3 2021 results only provide occupancy and ALOS data; there's no information on the progress of expansion plans or brownfield projects within the Q3 2021 timeframe."
+            }
+          },
+          {
+            "theme": "Regulatory Environment",
+            "narrative": "Management mentioned efforts to comply with unspecified regulations to raise additional funds.",
+            "management_guidance": {
+              "answer": "Expectation of raising Rs. 1,100 to Rs. 1,200 crore in the near future to comply with regulations.",
+              "citations": [
+                "77651c44b2147e125a51665d09e1a40b"
+              ]
+            },
+            "actual_results": {
+              "['Q4', '2021']": {
+                "answer": "No specific results related to this guidance are available in the provided data.",
+                "citations": []
+              },
+              "['Q2', '2022']": {
+                "answer": "No specific actual results related to fund raising are provided in the Q2 FY22 data.",
+                "citations": []
+              },
+              "['Q3', '2022']": {
+                "answer": "No specific actual results related to this guidance are provided in the data.",
+                "citations": []
+              },
+              "['Q3', '2021']": {
+                "answer": "No specific actual results related to this guidance are available in the provided data.",
+                "citations": []
+              }
+            },
+            "evaluation": {
+              "evaluation": "Insufficient Info",
+              "evaluation_reason": "The provided data for Q3 2021 contains no information on whether the company raised the targeted funds."
+            }
+          },
+          {
+            "theme": "Patient and Customer Satisfaction",
+            "narrative": "Management commented on OPD footfalls and expectations for normalization.",
+            "management_guidance": {
+              "answer": "Expectation that OPD footfalls will normalize to pre-COVID levels over the next few months.",
+              "citations": [
+                "e773cb4b8ef90fe53e2b8687bbb103fa"
+              ]
+            },
+            "actual_results": {
+              "['Q4', '2021']": {
+                "answer": "In Q4 2021, outpatient (OP) consults stood at 490,000, a 25% increase quarter-over-quarter.",
+                "citations": [
+                  "57e4b221a2ebd378ed7d94df4874c8ca"
+                ]
+              },
+              "['Q2', '2022']": {
+                "answer": "In Q2 FY22, OPD consults increased by 49% QoQ to 5.8 lakhs.",
+                "citations": [
+                  "612cee722c5af750da2cf00552e85103",
+                  "e09869be03187dbf0ae840246861fe31"
+                ]
+              },
+              "['Q3', '2022']": {
+                "answer": "In Q3 2022, ~33,800 OPD and ~1,170 IPD patients from economically weaker sections were treated free of charge. OP consults reduced by 7% QoQ and stood at 5.4 lakhs in Q3 FY22.",
+                "citations": [
+                  "263fe3fdeda89e16d5a65173391709d2",
+                  "ba13bfd240b60674d40173af581c4f33"
+                ]
+              },
+              "['Q3', '2021']": {
+                "answer": "OPD footfalls were at 65% to 70% of pre-COVID levels in Q3 FY21, with expectations of normalization in the following months.",
+                "citations": [
+                  "e773cb4b8ef90fe53e2b8687bbb103fa"
+                ]
+              }
+            },
+            "evaluation": {
+              "evaluation": "Expectations Not Met",
+              "evaluation_reason": "OPD footfalls in Q3 2021 were below the pre-COVID levels, indicating that the normalization expectation was not met within that quarter."
+            }
+          }
+        ]
+      }
+    },
+    "step": 3,
+    "updated_at": {
+      "$date": "2024-11-21T07:22:53.548Z"
+    }
+  }
